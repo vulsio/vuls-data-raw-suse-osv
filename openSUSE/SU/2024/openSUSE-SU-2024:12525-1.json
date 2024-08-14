@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:12525-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-42898"
+	],
+	"summary": "ctdb-4.17.3+git.279.ff9bb8a298-1.1 on GA media",
+	"details": "These are all security issues fixed in the ctdb-4.17.3+git.279.ff9bb8a298-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42898"
+		}
+	]
+}

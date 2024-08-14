@@ -1,0 +1,323 @@
+{
+	"id": "SUSE-SU-2021:2443-1",
+	"modified": "2021-07-21T12:03:18Z",
+	"published": "2021-07-21T12:03:18Z",
+	"related": [
+		"CVE-2021-3570"
+	],
+	"summary": "Security update for linuxptp",
+	"details": "This update for linuxptp fixes the following issues:\n\n- CVE-2021-3570: Validate the messageLength field of incoming messages. (bsc#1187646)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:HPE Helion OpenStack 8",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=HPE%20Helion%20OpenStack%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 8",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20OpenStack%20Cloud%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 9",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20OpenStack%20Cloud%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-15.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.4-15.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2021/suse-su-20212443-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1187646"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3570"
+		}
+	]
+}

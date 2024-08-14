@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:13767-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-52456",
+		"CVE-2023-52457",
+		"CVE-2023-52459",
+		"CVE-2023-52461",
+		"CVE-2024-26605"
+	],
+	"summary": "kernel-devel-6.7.9-1.1 on GA media",
+	"details": "These are all security issues fixed in the kernel-devel-6.7.9-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-52456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-52457"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-52459"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-52461"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-26605"
+		}
+	]
+}

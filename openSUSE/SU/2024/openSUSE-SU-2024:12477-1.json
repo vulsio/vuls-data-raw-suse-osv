@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:12477-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-36354",
+		"CVE-2022-38143",
+		"CVE-2022-41639",
+		"CVE-2022-41684",
+		"CVE-2022-41794",
+		"CVE-2022-41838",
+		"CVE-2022-41977",
+		"CVE-2022-4198",
+		"CVE-2022-41988",
+		"CVE-2022-41999"
+	],
+	"summary": "OpenImageIO-2.4.5.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the OpenImageIO-2.4.5.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-36354"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38143"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41639"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41684"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41794"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41838"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41977"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-4198"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41988"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41999"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:10586-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2008-2942",
+		"CVE-2017-1000115",
+		"CVE-2017-1000116",
+		"CVE-2017-17458",
+		"CVE-2018-1000132",
+		"CVE-2018-13346",
+		"CVE-2018-13348",
+		"CVE-2018-17983",
+		"CVE-2019-3902"
+	],
+	"summary": "mercurial-5.9.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the mercurial-5.9.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-2942"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-1000115"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-1000116"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-17458"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1000132"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-13346"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-13348"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-17983"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3902"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "openSUSE-SU-2024:0146-1",
+	"modified": "2024-05-29T16:22:54Z",
+	"published": "2024-05-29T16:22:54Z",
+	"related": [
+		"CVE-2023-46009"
+	],
+	"summary": "Security update for gifsicle",
+	"details": "This update for gifsicle fixes the following issues:\n\nUpdate to version 1.95:\n\n- CVE-2023-46009: Fixed floating point exception vulnerability via resize_stream at src/xform.c (boo#1216403)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP5",
+				"name": "gifsicle",
+				"purl": "purl:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.95-bp155.3.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gifsicle": "1.95-bp155.3.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "gifsicle",
+				"purl": "purl:rpm/suse/gifsicle&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.95-bp155.3.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gifsicle": "1.95-bp155.3.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/XPBVCIDM6CP4OMGHYXCEAOVLORKQFQP4/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1216403"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-46009"
+		}
+	]
+}

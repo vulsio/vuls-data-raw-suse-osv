@@ -1,0 +1,80 @@
+{
+	"id": "SUSE-SU-2017:0339-1",
+	"modified": "2017-01-31T12:05:52Z",
+	"published": "2017-01-31T12:05:52Z",
+	"related": [
+		"CVE-2016-7545"
+	],
+	"summary": "Security update for policycoreutils",
+	"details": "\nThis update for policycoreutils fixes the following issues:\n\n* CVE-2016-7545: nonpriv session can escape to parent [bsc#1000998]\n\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
+				"name": "policycoreutils",
+				"purl": "purl:rpm/suse/policycoreutils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.79-4.8.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"policycoreutils": "2.0.79-4.8.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
+				"name": "policycoreutils",
+				"purl": "purl:rpm/suse/policycoreutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.79-4.8.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"policycoreutils": "2.0.79-4.8.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2017/suse-su-20170339-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1000998"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-7545"
+		}
+	]
+}

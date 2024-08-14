@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12397-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-0262",
+		"CVE-2013-0263",
+		"CVE-2015-3225",
+		"CVE-2018-16471",
+		"CVE-2019-16782",
+		"CVE-2020-8184",
+		"CVE-2022-30122",
+		"CVE-2022-30123"
+	],
+	"summary": "ruby3.1-rubygem-rack-2.2-2.2.4-1.1 on GA media",
+	"details": "These are all security issues fixed in the ruby3.1-rubygem-rack-2.2-2.2.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0262"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0263"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-3225"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-16471"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-16782"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8184"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-30122"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-30123"
+		}
+	]
+}

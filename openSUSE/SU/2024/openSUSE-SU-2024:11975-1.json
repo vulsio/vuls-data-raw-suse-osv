@@ -1,0 +1,69 @@
+{
+	"id": "openSUSE-SU-2024:11975-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-1097",
+		"CVE-2022-24713",
+		"CVE-2022-28281",
+		"CVE-2022-28282",
+		"CVE-2022-28283",
+		"CVE-2022-28284",
+		"CVE-2022-28285",
+		"CVE-2022-28286",
+		"CVE-2022-28287",
+		"CVE-2022-28288",
+		"CVE-2022-28289"
+	],
+	"summary": "MozillaFirefox-99.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-99.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-1097"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24713"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28281"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28282"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28283"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28284"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28285"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28286"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28287"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28288"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28289"
+		}
+	]
+}

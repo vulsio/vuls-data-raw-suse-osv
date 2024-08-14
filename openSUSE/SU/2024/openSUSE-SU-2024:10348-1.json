@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:10348-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-2905",
+		"CVE-2014-2906",
+		"CVE-2014-2914",
+		"CVE-2014-3219",
+		"CVE-2014-3856"
+	],
+	"summary": "fish-2.4.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the fish-2.4.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2905"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2906"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2914"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3219"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3856"
+		}
+	]
+}

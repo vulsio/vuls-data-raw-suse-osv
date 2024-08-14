@@ -1,0 +1,84 @@
+{
+	"id": "openSUSE-SU-2024:11058-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-0495",
+		"CVE-2018-12384",
+		"CVE-2018-12404",
+		"CVE-2019-11719",
+		"CVE-2019-11727",
+		"CVE-2019-11729",
+		"CVE-2019-11745",
+		"CVE-2019-17006",
+		"CVE-2020-12399",
+		"CVE-2020-12401",
+		"CVE-2020-12402",
+		"CVE-2020-12403",
+		"CVE-2020-25648",
+		"CVE-2020-6829"
+	],
+	"summary": "libfreebl3-3.69.1-1.2 on GA media",
+	"details": "These are all security issues fixed in the libfreebl3-3.69.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-0495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-12384"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-12404"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-11719"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-11727"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-11729"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-11745"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-17006"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12399"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12401"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12402"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12403"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25648"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-6829"
+		}
+	]
+}

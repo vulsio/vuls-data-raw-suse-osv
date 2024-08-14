@@ -1,0 +1,88 @@
+{
+	"id": "SUSE-SU-2022:2347-1",
+	"modified": "2022-07-11T08:31:48Z",
+	"published": "2022-07-11T08:31:48Z",
+	"related": [
+		"CVE-2022-0485"
+	],
+	"summary": "Security update for libnbd",
+	"details": "This update for libnbd fixes the following issues:\n\n- CVE-2022-0485: Fixed nbdcopy failure if NBD read or write fails (bsc#1195636).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "libnbd",
+				"purl": "purl:rpm/suse/libnbd&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.3-150300.8.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libnbd": "1.9.3-150300.8.9.1",
+						"libnbd-bash-completion": "1.9.3-150300.8.9.1",
+						"libnbd-devel": "1.9.3-150300.8.9.1",
+						"libnbd0": "1.9.3-150300.8.9.1",
+						"nbdfuse": "1.9.3-150300.8.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "libnbd",
+				"purl": "purl:rpm/suse/libnbd&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.3-150300.8.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libnbd": "1.9.3-150300.8.9.1",
+						"libnbd-bash-completion": "1.9.3-150300.8.9.1",
+						"libnbd-devel": "1.9.3-150300.8.9.1",
+						"libnbd0": "1.9.3-150300.8.9.1",
+						"nbdfuse": "1.9.3-150300.8.9.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20222347-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1195636"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0485"
+		}
+	]
+}

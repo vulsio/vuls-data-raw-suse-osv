@@ -1,0 +1,58 @@
+{
+	"id": "openSUSE-SU-2021:1371-1",
+	"modified": "2021-10-18T14:06:01Z",
+	"published": "2021-10-18T14:06:01Z",
+	"related": [
+		"CVE-2021-3481"
+	],
+	"summary": "Security update for libqt5-qtsvg",
+	"details": "This update for libqt5-qtsvg fixes the following issues:\n\n- CVE-2021-3481: Fixed an out of bounds read in function QRadialFetchSimd from crafted svg file. (bsc#1184783)\n\nThis update was imported from the SUSE:SLE-15-SP2:Update update project.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.2",
+				"name": "libqt5-qtsvg",
+				"purl": "purl:rpm/suse/libqt5-qtsvg&distro=openSUSE%20Leap%2015.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.12.7-lp152.2.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libQt5Svg5": "5.12.7-lp152.2.3.1",
+						"libQt5Svg5-32bit": "5.12.7-lp152.2.3.1",
+						"libqt5-qtsvg-devel": "5.12.7-lp152.2.3.1",
+						"libqt5-qtsvg-devel-32bit": "5.12.7-lp152.2.3.1",
+						"libqt5-qtsvg-examples": "5.12.7-lp152.2.3.1",
+						"libqt5-qtsvg-private-headers-devel": "5.12.7-lp152.2.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/WUQQL3BSIDANFVPIE65N7IJDJSBTEPHN/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1184783"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3481"
+		}
+	]
+}

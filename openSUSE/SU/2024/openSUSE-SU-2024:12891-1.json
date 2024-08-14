@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:12891-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-21930",
+		"CVE-2023-21937",
+		"CVE-2023-21938",
+		"CVE-2023-21939",
+		"CVE-2023-21954",
+		"CVE-2023-21967",
+		"CVE-2023-21968"
+	],
+	"summary": "java-11-openjdk-11.0.19.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the java-11-openjdk-11.0.19.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21930"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21937"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21938"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21939"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21954"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21967"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21968"
+		}
+	]
+}

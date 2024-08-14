@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:12219-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-21123",
+		"CVE-2022-23816",
+		"CVE-2022-26362",
+		"CVE-2022-26363",
+		"CVE-2022-33745"
+	],
+	"summary": "xen-4.16.1_02-3.1 on GA media",
+	"details": "These are all security issues fixed in the xen-4.16.1_02-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-21123"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23816"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26362"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26363"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-33745"
+		}
+	]
+}

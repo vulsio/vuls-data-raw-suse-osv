@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:12685-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-4144",
+		"CVE-2022-4172"
+	],
+	"summary": "qemu-7.1.0-10.1 on GA media",
+	"details": "These are all security issues fixed in the qemu-7.1.0-10.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-4144"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-4172"
+		}
+	]
+}

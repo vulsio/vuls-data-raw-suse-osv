@@ -1,0 +1,99 @@
+{
+	"id": "openSUSE-SU-2024:10006-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-2935",
+		"CVE-2010-2936",
+		"CVE-2014-0247",
+		"CVE-2014-3524",
+		"CVE-2014-3575",
+		"CVE-2014-3693",
+		"CVE-2014-8146",
+		"CVE-2014-8147",
+		"CVE-2014-9093",
+		"CVE-2015-4551",
+		"CVE-2015-45513",
+		"CVE-2015-5212",
+		"CVE-2015-5213",
+		"CVE-2015-5214",
+		"CVE-2016-0794",
+		"CVE-2016-0795",
+		"CVE-2016-4324"
+	],
+	"summary": "libreoffice-5.2.3.3-2.2 on GA media",
+	"details": "These are all security issues fixed in the libreoffice-5.2.3.3-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-2935"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-2936"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0247"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3524"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3575"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3693"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8146"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8147"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-9093"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-4551"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-45513"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5212"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5213"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5214"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0794"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0795"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-4324"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:11101-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-33285",
+		"CVE-2021-33289",
+		"CVE-2021-35269",
+		"CVE-2021-39255",
+		"CVE-2021-39258",
+		"CVE-2021-39262"
+	],
+	"summary": "libntfs-3g-devel-2021.8.22-1.1 on GA media",
+	"details": "These are all security issues fixed in the libntfs-3g-devel-2021.8.22-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-33285"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-33289"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35269"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39255"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39258"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39262"
+		}
+	]
+}

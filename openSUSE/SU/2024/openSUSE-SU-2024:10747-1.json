@@ -1,0 +1,74 @@
+{
+	"id": "openSUSE-SU-2024:10747-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2007-6353",
+		"CVE-2017-1000128",
+		"CVE-2017-11338",
+		"CVE-2017-11340",
+		"CVE-2017-11591",
+		"CVE-2017-12955",
+		"CVE-2017-12957",
+		"CVE-2017-14859",
+		"CVE-2017-14860",
+		"CVE-2017-14862",
+		"CVE-2017-14864",
+		"CVE-2018-12264"
+	],
+	"summary": "exiv2-0.27.4-1.2 on GA media",
+	"details": "These are all security issues fixed in the exiv2-0.27.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-6353"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-1000128"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-11338"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-11340"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-11591"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-12955"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-12957"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14859"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14860"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14862"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14864"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-12264"
+		}
+	]
+}

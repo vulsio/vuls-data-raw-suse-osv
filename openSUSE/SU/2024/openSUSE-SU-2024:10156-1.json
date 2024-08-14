@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10156-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-2126",
+		"CVE-2013-2127",
+		"CVE-2015-8367"
+	],
+	"summary": "libraw-devel-0.17.2-1.4 on GA media",
+	"details": "These are all security issues fixed in the libraw-devel-0.17.2-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-2126"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-2127"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-8367"
+		}
+	]
+}

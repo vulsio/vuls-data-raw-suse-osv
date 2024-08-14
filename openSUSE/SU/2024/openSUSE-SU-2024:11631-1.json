@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:11631-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-2124",
+		"CVE-2020-17049",
+		"CVE-2020-25717",
+		"CVE-2020-25718",
+		"CVE-2020-25719",
+		"CVE-2020-25721",
+		"CVE-2020-25722",
+		"CVE-2021-23192",
+		"CVE-2021-3738"
+	],
+	"summary": "ctdb-4.15.2+git.193.a4d6307f1fd-1.1 on GA media",
+	"details": "These are all security issues fixed in the ctdb-4.15.2+git.193.a4d6307f1fd-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2124"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-17049"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25717"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25718"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25719"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25721"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25722"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-23192"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3738"
+		}
+	]
+}

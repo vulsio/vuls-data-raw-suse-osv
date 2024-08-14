@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:13962-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-25641",
+		"CVE-2024-27082",
+		"CVE-2024-29894",
+		"CVE-2024-31443",
+		"CVE-2024-31444",
+		"CVE-2024-31445",
+		"CVE-2024-31458",
+		"CVE-2024-31459",
+		"CVE-2024-31460",
+		"CVE-2024-34340"
+	],
+	"summary": "cacti-1.2.27-1.1 on GA media",
+	"details": "These are all security issues fixed in the cacti-1.2.27-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-25641"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-27082"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-29894"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31443"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31444"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31445"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31458"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31459"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-31460"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-34340"
+		}
+	]
+}

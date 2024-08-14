@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:14214-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-22018",
+		"CVE-2024-22020",
+		"CVE-2024-27980",
+		"CVE-2024-36137",
+		"CVE-2024-37372"
+	],
+	"summary": "corepack20-20.15.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the corepack20-20.15.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-22018"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-22020"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-27980"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-36137"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-37372"
+		}
+	]
+}

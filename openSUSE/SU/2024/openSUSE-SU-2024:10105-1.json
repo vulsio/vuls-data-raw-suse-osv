@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:10105-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2008-4989",
+		"CVE-2011-4128",
+		"CVE-2012-0390",
+		"CVE-2012-1569",
+		"CVE-2012-1573",
+		"CVE-2014-0092",
+		"CVE-2014-1959",
+		"CVE-2014-3466",
+		"CVE-2014-8564",
+		"CVE-2015-6251"
+	],
+	"summary": "gnutls-3.4.15-1.1 on GA media",
+	"details": "These are all security issues fixed in the gnutls-3.4.15-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-4989"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4128"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-0390"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1569"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1573"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0092"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-1959"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3466"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8564"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-6251"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10646-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2012-5784",
+		"CVE-2014-3596",
+		"CVE-2018-8032"
+	],
+	"summary": "axis-1.4-302.6 on GA media",
+	"details": "These are all security issues fixed in the axis-1.4-302.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-5784"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3596"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-8032"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10287-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-4549",
+		"CVE-2015-0295",
+		"CVE-2015-1860"
+	],
+	"summary": "qt3-3.3.8c-140.6 on GA media",
+	"details": "These are all security issues fixed in the qt3-3.3.8c-140.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4549"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-0295"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1860"
+		}
+	]
+}

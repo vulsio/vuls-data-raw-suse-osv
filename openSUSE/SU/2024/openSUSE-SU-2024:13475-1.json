@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:13475-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-26345",
+		"CVE-2022-23820",
+		"CVE-2023-20526",
+		"CVE-2023-20592"
+	],
+	"summary": "kernel-firmware-all-20231128-1.1 on GA media",
+	"details": "These are all security issues fixed in the kernel-firmware-all-20231128-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-26345"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23820"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-20526"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-20592"
+		}
+	]
+}

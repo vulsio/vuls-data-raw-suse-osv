@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10376-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-1984",
+		"CVE-2013-1995",
+		"CVE-2013-1998"
+	],
+	"summary": "libXi-devel-1.7.8-1.1 on GA media",
+	"details": "These are all security issues fixed in the libXi-devel-1.7.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1984"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1995"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1998"
+		}
+	]
+}

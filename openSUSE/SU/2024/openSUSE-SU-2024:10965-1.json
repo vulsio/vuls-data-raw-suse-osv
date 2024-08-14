@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10965-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2017-11311",
+		"CVE-2018-10017",
+		"CVE-2018-11710",
+		"CVE-2018-20860",
+		"CVE-2018-20861",
+		"CVE-2019-14382",
+		"CVE-2019-14383",
+		"CVE-2019-17113"
+	],
+	"summary": "libopenmpt-devel-0.5.11-1.2 on GA media",
+	"details": "These are all security issues fixed in the libopenmpt-devel-0.5.11-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-11311"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10017"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-11710"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-20860"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-20861"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14382"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14383"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-17113"
+		}
+	]
+}

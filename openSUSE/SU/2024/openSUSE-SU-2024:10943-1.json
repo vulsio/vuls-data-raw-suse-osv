@@ -1,0 +1,89 @@
+{
+	"id": "openSUSE-SU-2024:10943-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2005-4900",
+		"CVE-2016-10128",
+		"CVE-2016-10130",
+		"CVE-2018-10887",
+		"CVE-2018-11235",
+		"CVE-2018-17456",
+		"CVE-2018-8098",
+		"CVE-2019-1348",
+		"CVE-2019-1349",
+		"CVE-2019-1350",
+		"CVE-2019-1351",
+		"CVE-2019-1352",
+		"CVE-2019-1353",
+		"CVE-2019-1354",
+		"CVE-2019-1387"
+	],
+	"summary": "libgit2-1_1-1.1.1-1.2 on GA media",
+	"details": "These are all security issues fixed in the libgit2-1_1-1.1.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2005-4900"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-10128"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-10130"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10887"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-11235"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-17456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-8098"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1348"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1349"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1350"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1351"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1352"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1353"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1354"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-1387"
+		}
+	]
+}

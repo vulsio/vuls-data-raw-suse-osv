@@ -1,0 +1,58 @@
+{
+	"id": "openSUSE-SU-2020:1208-1",
+	"modified": "2020-08-14T16:20:51Z",
+	"published": "2020-08-14T16:20:51Z",
+	"related": [
+		"CVE-2020-17367",
+		"CVE-2020-17368"
+	],
+	"summary": "Security update for firejail",
+	"details": "This update for firejail fixes the following issues:\n\n- CVE-2020-17367: The end-of-options separator -- was not handled correctly (boo#1174986).\n- CVE-2020-17368: An attacker who has control over the command line arguments could run arbitrary commands (boo#1174986).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.2",
+				"name": "firejail",
+				"purl": "purl:rpm/suse/firejail&distro=openSUSE%20Leap%2015.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.62-lp152.3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"firejail": "0.9.62-lp152.3.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/YEULRVZXS2PJNIYUVNTDJMXJNDTABQDD/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1174986"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-17367"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-17368"
+		}
+	]
+}

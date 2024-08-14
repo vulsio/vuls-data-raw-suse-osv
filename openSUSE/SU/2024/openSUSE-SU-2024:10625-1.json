@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10625-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2007-0774",
+		"CVE-2018-11759",
+		"CVE-2018-1323"
+	],
+	"summary": "apache2-mod_jk-1.2.48-2.9 on GA media",
+	"details": "These are all security issues fixed in the apache2-mod_jk-1.2.48-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-0774"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-11759"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1323"
+		}
+	]
+}

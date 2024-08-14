@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10815-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-0455",
+		"CVE-2006-3746",
+		"CVE-2006-6169",
+		"CVE-2008-1530",
+		"CVE-2018-12020",
+		"CVE-2018-9234",
+		"CVE-2019-14855",
+		"CVE-2020-25125"
+	],
+	"summary": "dirmngr-2.2.27-2.4 on GA media",
+	"details": "These are all security issues fixed in the dirmngr-2.2.27-2.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-0455"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-3746"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-6169"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-1530"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-12020"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-9234"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14855"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25125"
+		}
+	]
+}

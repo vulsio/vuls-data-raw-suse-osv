@@ -1,0 +1,350 @@
+{
+	"id": "SUSE-SU-2023:1867-1",
+	"modified": "2023-04-17T12:14:43Z",
+	"published": "2023-04-17T12:14:43Z",
+	"related": [
+		"CVE-2021-29428"
+	],
+	"summary": "Security update for gradle",
+	"details": "This update for gradle fixes the following issues:\n\n- CVE-2021-29428: Fixed a local privilege escalation through system temporary directory. (bsc#1184807)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 7",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Enterprise%20Storage%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 7.1",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=SUSE%20Enterprise%20Storage%207.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "gradle",
+				"purl": "purl:rpm/suse/gradle&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-150200.3.7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gradle": "4.4.1-150200.3.7.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20231867-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1184807"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-29428"
+		}
+	]
+}

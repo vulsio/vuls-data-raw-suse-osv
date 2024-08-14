@@ -1,0 +1,80 @@
+{
+	"id": "SUSE-SU-2023:2979-1",
+	"modified": "2023-07-26T07:57:49Z",
+	"published": "2023-07-26T07:57:49Z",
+	"related": [
+		"CVE-2023-21971"
+	],
+	"summary": "Security update for mysql-connector-java",
+	"details": "This update for mysql-connector-java fixes the following issues:\n\n- CVE-2023-21971: Fixed a denial-of-service vulnerability in the java.sql.DriverManager.getConnection() method when used with untrusted inputs (bsc#1211247).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "mysql-connector-java",
+				"purl": "purl:rpm/suse/mysql-connector-java&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.0.33-150200.3.18.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mysql-connector-java": "8.0.33-150200.3.18.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "mysql-connector-java",
+				"purl": "purl:rpm/suse/mysql-connector-java&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.0.33-150200.3.18.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mysql-connector-java": "8.0.33-150200.3.18.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20232979-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1211247"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21971"
+		}
+	]
+}

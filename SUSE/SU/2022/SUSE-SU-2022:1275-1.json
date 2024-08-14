@@ -1,0 +1,323 @@
+{
+	"id": "SUSE-SU-2022:1275-1",
+	"modified": "2022-04-20T07:17:05Z",
+	"published": "2022-04-20T07:17:05Z",
+	"related": [
+		"CVE-2022-1271"
+	],
+	"summary": "Security update for gzip",
+	"details": "This update for gzip fixes the following issues:\n\n- CVE-2022-1271: Fixed an incorrect escaping of malicious filenames (ZDI-CAN-16587). (bsc#1198062)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:HPE Helion OpenStack 8",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=HPE%20Helion%20OpenStack%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 8",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20OpenStack%20Cloud%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 9",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20OpenStack%20Cloud%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
+				"name": "gzip",
+				"purl": "purl:rpm/suse/gzip&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6-9.6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gzip": "1.6-9.6.2"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20221275-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1198062"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-1271"
+		}
+	]
+}

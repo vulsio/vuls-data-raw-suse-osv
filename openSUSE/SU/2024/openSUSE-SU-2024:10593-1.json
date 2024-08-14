@@ -1,0 +1,69 @@
+{
+	"id": "openSUSE-SU-2024:10593-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-4992",
+		"CVE-2017-15134",
+		"CVE-2018-1054",
+		"CVE-2018-10850",
+		"CVE-2018-10871",
+		"CVE-2018-1089",
+		"CVE-2018-10935",
+		"CVE-2018-14624",
+		"CVE-2018-14638",
+		"CVE-2018-14648",
+		"CVE-2019-14824"
+	],
+	"summary": "389-ds-2.0.10~git0.21dd2802c-1.1 on GA media",
+	"details": "These are all security issues fixed in the 389-ds-2.0.10~git0.21dd2802c-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-4992"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-15134"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1054"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10850"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10871"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1089"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10935"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-14624"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-14638"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-14648"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14824"
+		}
+	]
+}

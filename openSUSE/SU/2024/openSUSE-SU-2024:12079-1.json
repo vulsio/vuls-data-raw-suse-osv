@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:12079-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-36428"
+	],
+	"summary": "libmatio-devel-1.5.23-1.1 on GA media",
+	"details": "These are all security issues fixed in the libmatio-devel-1.5.23-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-36428"
+		}
+	]
+}

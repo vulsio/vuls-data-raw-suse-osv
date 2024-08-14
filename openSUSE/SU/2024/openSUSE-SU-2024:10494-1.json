@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10494-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2015-1030",
+		"CVE-2015-1031",
+		"CVE-2015-1201",
+		"CVE-2015-1380",
+		"CVE-2015-1381",
+		"CVE-2015-1382",
+		"CVE-2016-1982",
+		"CVE-2016-1983"
+	],
+	"summary": "privoxy-3.0.26-1.1 on GA media",
+	"details": "These are all security issues fixed in the privoxy-3.0.26-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1030"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1031"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1201"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1380"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1381"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-1382"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-1982"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-1983"
+		}
+	]
+}

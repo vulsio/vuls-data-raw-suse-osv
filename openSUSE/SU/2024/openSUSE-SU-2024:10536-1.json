@@ -1,0 +1,84 @@
+{
+	"id": "openSUSE-SU-2024:10536-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2011-1521",
+		"CVE-2011-3389",
+		"CVE-2011-4944",
+		"CVE-2012-0845",
+		"CVE-2012-1150",
+		"CVE-2013-1752",
+		"CVE-2013-1753",
+		"CVE-2013-4238",
+		"CVE-2014-1912",
+		"CVE-2014-4650",
+		"CVE-2014-7185",
+		"CVE-2016-0772",
+		"CVE-2016-5636",
+		"CVE-2016-5699"
+	],
+	"summary": "libpython2_7-1_0-2.7.12-1.4 on GA media",
+	"details": "These are all security issues fixed in the libpython2_7-1_0-2.7.12-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-1521"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-3389"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4944"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-0845"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1150"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1752"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1753"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4238"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-1912"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-4650"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7185"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0772"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5636"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5699"
+		}
+	]
+}

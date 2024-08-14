@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:10477-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2015-5726",
+		"CVE-2015-5727",
+		"CVE-2015-7827",
+		"CVE-2016-2194",
+		"CVE-2016-2195",
+		"CVE-2016-2849",
+		"CVE-2016-2915"
+	],
+	"summary": "libbotan-1_10-1-1.10.13-1.1 on GA media",
+	"details": "These are all security issues fixed in the libbotan-1_10-1-1.10.13-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5726"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5727"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-7827"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2194"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2195"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2849"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2915"
+		}
+	]
+}

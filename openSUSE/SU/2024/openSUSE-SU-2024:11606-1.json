@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:11606-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-37981",
+		"CVE-2021-37984",
+		"CVE-2021-37987",
+		"CVE-2021-37989",
+		"CVE-2021-37992",
+		"CVE-2021-37996"
+	],
+	"summary": "nodejs-electron-13.6.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the nodejs-electron-13.6.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37981"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37984"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37987"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37989"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37992"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37996"
+		}
+	]
+}

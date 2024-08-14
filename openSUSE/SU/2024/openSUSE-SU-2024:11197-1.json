@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11197-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-32917",
+		"CVE-2021-32918",
+		"CVE-2021-32919",
+		"CVE-2021-32920",
+		"CVE-2021-37601"
+	],
+	"summary": "prosody-0.11.10-1.2 on GA media",
+	"details": "These are all security issues fixed in the prosody-0.11.10-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32917"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32918"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32919"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32920"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37601"
+		}
+	]
+}

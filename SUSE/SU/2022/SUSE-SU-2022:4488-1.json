@@ -1,0 +1,325 @@
+{
+	"id": "SUSE-SU-2022:4488-1",
+	"modified": "2022-12-14T12:23:42Z",
+	"published": "2022-12-14T12:23:42Z",
+	"related": [
+		"CVE-2022-2255"
+	],
+	"summary": "Security update for apache2-mod_wsgi",
+	"details": "This update for apache2-mod_wsgi fixes the following issues:\n\n- CVE-2022-2255: Hardened the trusted proxy header filter to avoid bypass. (bsc#1201634)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
+				"name": "apache2-mod_wsgi",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
+				"name": "apache2-mod_wsgi",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
+				"name": "apache2-mod_wsgi",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy Module 4.1",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy Module 4.2",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy Module 4.3",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "apache2-mod_wsgi",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi": "4.5.18-150000.4.6.1",
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi": "4.5.18-150000.4.6.1",
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "apache2-mod_wsgi-python3",
+				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.18-150000.4.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_wsgi-python3": "4.5.18-150000.4.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20224488-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1201634"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-2255"
+		}
+	]
+}

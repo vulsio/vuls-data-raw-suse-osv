@@ -1,0 +1,89 @@
+{
+	"id": "openSUSE-SU-2024:10992-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2007-4974",
+		"CVE-2017-12562",
+		"CVE-2017-14245",
+		"CVE-2017-14246",
+		"CVE-2017-14634",
+		"CVE-2017-17456",
+		"CVE-2017-17457",
+		"CVE-2017-6892",
+		"CVE-2017-7585",
+		"CVE-2017-8361",
+		"CVE-2017-8365",
+		"CVE-2018-13139",
+		"CVE-2018-19432",
+		"CVE-2018-19758",
+		"CVE-2021-3246"
+	],
+	"summary": "libsndfile-devel-1.0.31-2.2 on GA media",
+	"details": "These are all security issues fixed in the libsndfile-devel-1.0.31-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-4974"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-12562"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14245"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14246"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-14634"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-17456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-17457"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-6892"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-7585"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-8361"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-8365"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-13139"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-19432"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-19758"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3246"
+		}
+	]
+}

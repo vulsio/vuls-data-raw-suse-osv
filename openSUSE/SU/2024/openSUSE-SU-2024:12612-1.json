@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:12612-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-38223"
+	],
+	"summary": "w3m-0.5.3+git20180125-2.1 on GA media",
+	"details": "These are all security issues fixed in the w3m-0.5.3+git20180125-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38223"
+		}
+	]
+}

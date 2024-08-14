@@ -1,0 +1,368 @@
+{
+	"id": "SUSE-SU-2023:3472-1",
+	"modified": "2023-08-29T08:56:07Z",
+	"published": "2023-08-29T08:56:07Z",
+	"related": [
+		"CVE-2023-4016"
+	],
+	"summary": "Security update for procps",
+	"details": "This update for procps fixes the following issues:\n\n  - CVE-2023-4016: Fixed ps buffer overflow (bsc#1214290).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy 4.2",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Manager%20Proxy%204.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Server 4.2",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Manager%20Server%204.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap Micro 5.3",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Leap%20Micro%205.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap Micro 5.4",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Leap%20Micro%205.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.15-150000.7.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps7": "3.3.15-150000.7.34.1",
+						"procps": "3.3.15-150000.7.34.1",
+						"procps-devel": "3.3.15-150000.7.34.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20233472-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1214290"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-4016"
+		}
+	]
+}

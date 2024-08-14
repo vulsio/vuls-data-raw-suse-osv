@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:10289-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-3864",
+		"CVE-2011-2940",
+		"CVE-2013-1762",
+		"CVE-2014-0016",
+		"CVE-2014-0160"
+	],
+	"summary": "stunnel-5.38-1.1 on GA media",
+	"details": "These are all security issues fixed in the stunnel-5.38-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-3864"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-2940"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1762"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0016"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0160"
+		}
+	]
+}

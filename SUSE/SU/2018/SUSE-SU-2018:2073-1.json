@@ -1,0 +1,123 @@
+{
+	"id": "SUSE-SU-2018:2073-1",
+	"modified": "2018-07-26T14:23:14Z",
+	"published": "2018-07-26T14:23:14Z",
+	"related": [
+		"CVE-2017-7500"
+	],
+	"summary": "Security update for rpm",
+	"details": "This update for rpm fixes the following issues:\n\nThis security vulnerability was fixed:\n\n- CVE-2017-7500: Fixed symlink attacks during RPM installation (bsc#943457)\n\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
+				"name": "python-rpm",
+				"purl": "purl:rpm/suse/python-rpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.14.1-10.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-rpm": "4.14.1-10.3.1",
+						"python3-rpm": "4.14.1-10.3.1",
+						"rpm": "4.14.1-10.3.1",
+						"rpm-32bit": "4.14.1-10.3.1",
+						"rpm-devel": "4.14.1-10.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
+				"name": "rpm",
+				"purl": "purl:rpm/suse/rpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.14.1-10.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-rpm": "4.14.1-10.3.1",
+						"python3-rpm": "4.14.1-10.3.1",
+						"rpm": "4.14.1-10.3.1",
+						"rpm-32bit": "4.14.1-10.3.1",
+						"rpm-devel": "4.14.1-10.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
+				"name": "rpm",
+				"purl": "purl:rpm/suse/rpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.14.1-10.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rpm-build": "4.14.1-10.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2018/suse-su-20182073-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1094735"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1095148"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/943457"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-7500"
+		}
+	]
+}

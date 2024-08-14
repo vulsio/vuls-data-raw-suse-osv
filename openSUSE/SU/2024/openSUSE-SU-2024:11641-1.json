@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:11641-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-39920",
+		"CVE-2021-39921",
+		"CVE-2021-39922",
+		"CVE-2021-39924",
+		"CVE-2021-39925",
+		"CVE-2021-39926",
+		"CVE-2021-39928",
+		"CVE-2021-39929"
+	],
+	"summary": "libwireshark14-3.4.10-1.1 on GA media",
+	"details": "These are all security issues fixed in the libwireshark14-3.4.10-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39920"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39921"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39922"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39924"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39925"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39926"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39928"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-39929"
+		}
+	]
+}

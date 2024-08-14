@@ -1,0 +1,82 @@
+{
+	"id": "SUSE-SU-2021:4201-1",
+	"modified": "2021-12-30T08:37:06Z",
+	"published": "2021-12-30T08:37:06Z",
+	"related": [
+		"CVE-2019-15126"
+	],
+	"summary": "Security update for kernel-firmware",
+	"details": "This update for kernel-firmware fixes the following issues:\n\n- CVE-2019-15126: Updated Broadcom firmware to fix Kr00k bug (bsc#1167162).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20200107-3.23.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20200107-3.23.1",
+						"ucode-amd": "20200107-3.23.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20200107-3.23.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20200107-3.23.1",
+						"ucode-amd": "20200107-3.23.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2021/suse-su-20214201-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1167162"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15126"
+		}
+	]
+}

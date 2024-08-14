@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:11932-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-0971",
+		"CVE-2022-0972",
+		"CVE-2022-0973",
+		"CVE-2022-0974",
+		"CVE-2022-0975",
+		"CVE-2022-0976",
+		"CVE-2022-0977",
+		"CVE-2022-0978",
+		"CVE-2022-0979",
+		"CVE-2022-0980"
+	],
+	"summary": "chromedriver-99.0.4844.74-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-99.0.4844.74-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0971"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0972"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0973"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0974"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0975"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0976"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0977"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0978"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0979"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0980"
+		}
+	]
+}

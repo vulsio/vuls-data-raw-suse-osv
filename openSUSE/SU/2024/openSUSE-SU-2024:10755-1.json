@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:10755-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2007-1536",
+		"CVE-2007-2799",
+		"CVE-2017-1000249",
+		"CVE-2018-10360",
+		"CVE-2019-18218",
+		"CVE-2019-8904",
+		"CVE-2019-8907"
+	],
+	"summary": "file-5.40-1.14 on GA media",
+	"details": "These are all security issues fixed in the file-5.40-1.14 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-1536"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-2799"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-1000249"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10360"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-18218"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-8904"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-8907"
+		}
+	]
+}

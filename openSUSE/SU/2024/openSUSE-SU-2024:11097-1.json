@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11097-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-22918",
+		"CVE-2021-22930",
+		"CVE-2021-22939",
+		"CVE-2021-22940",
+		"CVE-2021-3672"
+	],
+	"summary": "nodejs16-16.6.2-2.2 on GA media",
+	"details": "These are all security issues fixed in the nodejs16-16.6.2-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-22918"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-22930"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-22939"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-22940"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3672"
+		}
+	]
+}

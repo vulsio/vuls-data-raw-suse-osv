@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:10204-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2012-2141",
+		"CVE-2014-2284",
+		"CVE-2014-2285",
+		"CVE-2014-3565",
+		"CVE-2015-5621"
+	],
+	"summary": "libsnmp30-32bit-5.7.3-8.4 on GA media",
+	"details": "These are all security issues fixed in the libsnmp30-32bit-5.7.3-8.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-2141"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2284"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2285"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3565"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5621"
+		}
+	]
+}

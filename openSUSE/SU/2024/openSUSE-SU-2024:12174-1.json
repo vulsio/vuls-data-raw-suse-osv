@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12174-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-24805",
+		"CVE-2022-24806",
+		"CVE-2022-24807",
+		"CVE-2022-24808",
+		"CVE-2022-24809",
+		"CVE-2022-24810"
+	],
+	"summary": "libsnmp40-32bit-5.9.2-1.1 on GA media",
+	"details": "These are all security issues fixed in the libsnmp40-32bit-5.9.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24805"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24806"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24807"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24808"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24809"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-24810"
+		}
+	]
+}

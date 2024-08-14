@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:12991-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-34414",
+		"CVE-2023-34415",
+		"CVE-2023-34416",
+		"CVE-2023-34417"
+	],
+	"summary": "MozillaFirefox-114.0.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-114.0.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-34414"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-34415"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-34416"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-34417"
+		}
+	]
+}

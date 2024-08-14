@@ -1,0 +1,334 @@
+{
+	"id": "SUSE-SU-2020:3354-1",
+	"modified": "2020-11-17T08:35:57Z",
+	"published": "2020-11-17T08:35:57Z",
+	"related": [
+		"CVE-2020-12321"
+	],
+	"summary": "Security update for kernel-firmware",
+	"details": "This update for kernel-firmware fixes the following issue:\n\n- CVE-2020-12321: Updated the Intel Bluetooth firmware for buffer overflow security bugs (bsc#1178671).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:HPE Helion OpenStack 8",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=HPE%20Helion%20OpenStack%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 7",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20OpenStack%20Cloud%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 8",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20OpenStack%20Cloud%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 5",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Enterprise%20Storage%205"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.31.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.31.1",
+						"ucode-amd": "20170530-21.31.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2020/suse-su-20203354-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1178671"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12321"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12209-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-4206",
+		"CVE-2021-4207",
+		"CVE-2022-0216",
+		"CVE-2022-26353",
+		"CVE-2022-26354",
+		"CVE-2022-35414"
+	],
+	"summary": "qemu-7.0.0-53.1 on GA media",
+	"details": "These are all security issues fixed in the qemu-7.0.0-53.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-4206"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-4207"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0216"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26353"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26354"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-35414"
+		}
+	]
+}

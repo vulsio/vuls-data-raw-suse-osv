@@ -1,0 +1,86 @@
+{
+	"id": "SUSE-SU-2022:3823-1",
+	"modified": "2022-11-01T07:52:26Z",
+	"published": "2022-11-01T07:52:26Z",
+	"related": [
+		"CVE-2022-41853"
+	],
+	"summary": "Security update for hsqldb",
+	"details": "This update for hsqldb fixes the following issues:\n\n  - CVE-2022-41853: Fixed insufficient input sanitization (bsc#1204521).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "hsqldb",
+				"purl": "purl:rpm/suse/hsqldb&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.3-150000.7.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hsqldb": "2.3.3-150000.7.3.1",
+						"hsqldb-demo": "2.3.3-150000.7.3.1",
+						"hsqldb-javadoc": "2.3.3-150000.7.3.1",
+						"hsqldb-manual": "2.3.3-150000.7.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "hsqldb",
+				"purl": "purl:rpm/suse/hsqldb&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.3-150000.7.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hsqldb": "2.3.3-150000.7.3.1",
+						"hsqldb-demo": "2.3.3-150000.7.3.1",
+						"hsqldb-javadoc": "2.3.3-150000.7.3.1",
+						"hsqldb-manual": "2.3.3-150000.7.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20223823-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1204521"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-41853"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12381-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-13108",
+		"CVE-2020-19716",
+		"CVE-2021-29457",
+		"CVE-2021-29470",
+		"CVE-2021-31291",
+		"CVE-2021-32617",
+		"CVE-2021-37620",
+		"CVE-2021-37621"
+	],
+	"summary": "exiv2-0.27.5-3.1 on GA media",
+	"details": "These are all security issues fixed in the exiv2-0.27.5-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-13108"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-19716"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-29457"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-29470"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-31291"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32617"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37620"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37621"
+		}
+	]
+}

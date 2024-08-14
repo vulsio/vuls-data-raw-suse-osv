@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11542-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-14055",
+		"CVE-2018-14056",
+		"CVE-2019-12816",
+		"CVE-2019-9917",
+		"CVE-2020-1377"
+	],
+	"summary": "znc-1.8.2-1.11 on GA media",
+	"details": "These are all security issues fixed in the znc-1.8.2-1.11 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-14055"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-14056"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-12816"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-9917"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-1377"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:11584-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-35556",
+		"CVE-2021-35559",
+		"CVE-2021-35561",
+		"CVE-2021-35564",
+		"CVE-2021-35565",
+		"CVE-2021-35567",
+		"CVE-2021-35578",
+		"CVE-2021-35586",
+		"CVE-2021-35603"
+	],
+	"summary": "java-15-openjdk-15.0.5.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the java-15-openjdk-15.0.5.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35556"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35559"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35561"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35564"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35565"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35567"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35578"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35586"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-35603"
+		}
+	]
+}

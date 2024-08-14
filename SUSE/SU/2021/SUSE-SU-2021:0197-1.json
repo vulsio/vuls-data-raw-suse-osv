@@ -1,0 +1,54 @@
+{
+	"id": "SUSE-SU-2021:0197-1",
+	"modified": "2021-01-22T14:17:45Z",
+	"published": "2021-01-22T14:17:45Z",
+	"related": [
+		"CVE-2020-8025"
+	],
+	"summary": "Security update for permissions",
+	"details": "This update for permissions fixes the following issues:\n\n- Update to version 20181224:\n  * pcp: remove no longer needed / conflicting entries\n         (bsc#1171883, CVE-2020-8025)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
+				"name": "permissions",
+				"purl": "purl:rpm/suse/permissions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20181224-23.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"permissions": "20181224-23.3.1",
+						"permissions-zypp-plugin": "20181224-23.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2021/suse-su-20210197-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1171883"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8025"
+		}
+	]
+}

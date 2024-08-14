@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10936-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-5029",
+		"CVE-2016-5033",
+		"CVE-2016-5037",
+		"CVE-2016-5041",
+		"CVE-2016-9480",
+		"CVE-2019-14249"
+	],
+	"summary": "libdwarf-devel-20210528-1.2 on GA media",
+	"details": "These are all security issues fixed in the libdwarf-devel-20210528-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5029"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5033"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5037"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5041"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-9480"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14249"
+		}
+	]
+}

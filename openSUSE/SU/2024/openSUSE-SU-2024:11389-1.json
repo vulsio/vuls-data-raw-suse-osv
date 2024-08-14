@@ -1,0 +1,74 @@
+{
+	"id": "openSUSE-SU-2024:11389-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-10030",
+		"CVE-2017-15566",
+		"CVE-2018-10995",
+		"CVE-2018-7033",
+		"CVE-2019-12838",
+		"CVE-2019-19727",
+		"CVE-2019-19728",
+		"CVE-2019-6438",
+		"CVE-2020-12693",
+		"CVE-2020-27745",
+		"CVE-2020-27746",
+		"CVE-2021-31215"
+	],
+	"summary": "libnss_slurm2-21.08.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the libnss_slurm2-21.08.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-10030"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-15566"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10995"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-7033"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-12838"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-19727"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-19728"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-6438"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12693"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-27745"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-27746"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-31215"
+		}
+	]
+}

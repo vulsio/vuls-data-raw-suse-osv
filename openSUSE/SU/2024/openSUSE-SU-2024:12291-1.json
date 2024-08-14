@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:12291-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-2610",
+		"CVE-2022-2615",
+		"CVE-2022-2618",
+		"CVE-2022-2624"
+	],
+	"summary": "nodejs-electron-19.0.14-1.1 on GA media",
+	"details": "These are all security issues fixed in the nodejs-electron-19.0.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-2610"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-2615"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-2618"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-2624"
+		}
+	]
+}

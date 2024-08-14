@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:13533-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-49084",
+		"CVE-2023-49085",
+		"CVE-2023-49086",
+		"CVE-2023-49088",
+		"CVE-2023-50250",
+		"CVE-2023-51448"
+	],
+	"summary": "cacti-1.2.26-1.1 on GA media",
+	"details": "These are all security issues fixed in the cacti-1.2.26-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49084"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49085"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49086"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49088"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-50250"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-51448"
+		}
+	]
+}

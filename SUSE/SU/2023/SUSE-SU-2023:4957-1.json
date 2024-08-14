@@ -1,0 +1,54 @@
+{
+	"id": "SUSE-SU-2023:4957-1",
+	"modified": "2023-12-21T19:33:30Z",
+	"published": "2023-12-21T19:33:30Z",
+	"related": [
+		"CVE-2023-50980"
+	],
+	"summary": "Security update for libcryptopp",
+	"details": "This update for libcryptopp fixes the following issues:\n\n- CVE-2023-50980: Fixed DoS via malformed DER public key file (bsc#1218219).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "libcryptopp",
+				"purl": "purl:rpm/suse/libcryptopp&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.6.5-150000.1.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libcryptopp5_6_5": "5.6.5-150000.1.9.1",
+						"libcryptopp5_6_5-32bit": "5.6.5-150000.1.9.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20234957-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1218219"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-50980"
+		}
+	]
+}

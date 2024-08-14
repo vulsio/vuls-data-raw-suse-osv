@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:11849-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-0603",
+		"CVE-2022-0604",
+		"CVE-2022-0605",
+		"CVE-2022-0606",
+		"CVE-2022-0607",
+		"CVE-2022-0608",
+		"CVE-2022-0609",
+		"CVE-2022-0610"
+	],
+	"summary": "chromedriver-98.0.4758.102-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-98.0.4758.102-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0603"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0604"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0605"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0606"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0607"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0608"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0609"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0610"
+		}
+	]
+}

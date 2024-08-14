@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:10602-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-1000135",
+		"CVE-2018-15688",
+		"CVE-2020-10754",
+		"CVE-2020-13529",
+		"CVE-2021-20297"
+	],
+	"summary": "NetworkManager-1.32.10-2.1 on GA media",
+	"details": "These are all security issues fixed in the NetworkManager-1.32.10-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1000135"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-15688"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-10754"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13529"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-20297"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2022:0802-1",
+	"modified": "2022-03-10T16:33:01Z",
+	"published": "2022-03-10T16:33:01Z",
+	"related": [
+		"CVE-2022-23308"
+	],
+	"summary": "Security update for python-libxml2-python",
+	"details": "This update for python-libxml2-python fixes the following issues:\n\n- CVE-2022-23308: Fixed a use-after-free of ID and IDREF attributes (bsc#1196490).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "python-libxml2-python",
+				"purl": "purl:rpm/suse/python-libxml2-python&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.7-3.40.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-libxml2-python": "2.9.7-3.40.1",
+						"python3-libxml2-python": "2.9.7-3.40.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/UGCK33AJ4DGXLWFFRJOHKOZBZ7OBQCE4/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1196490"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23308"
+		}
+	]
+}

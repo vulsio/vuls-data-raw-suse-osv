@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:11510-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-6719",
+		"CVE-2017-13089",
+		"CVE-2017-13090",
+		"CVE-2017-6508",
+		"CVE-2018-0494",
+		"CVE-2018-20483",
+		"CVE-2019-5953"
+	],
+	"summary": "wget-1.21.1-2.2 on GA media",
+	"details": "These are all security issues fixed in the wget-1.21.1-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-6719"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-13089"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-13090"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-6508"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-0494"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-20483"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-5953"
+		}
+	]
+}

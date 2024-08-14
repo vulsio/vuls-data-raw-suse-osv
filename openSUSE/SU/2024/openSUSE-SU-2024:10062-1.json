@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10062-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-2497",
+		"CVE-2016-5116",
+		"CVE-2016-5766",
+		"CVE-2016-6128",
+		"CVE-2016-6132",
+		"CVE-2016-6207",
+		"CVE-2016-6214",
+		"CVE-2016-6905"
+	],
+	"summary": "gd-2.2.3-2.1 on GA media",
+	"details": "These are all security issues fixed in the gd-2.2.3-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2497"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5116"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5766"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-6128"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-6132"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-6207"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-6214"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-6905"
+		}
+	]
+}

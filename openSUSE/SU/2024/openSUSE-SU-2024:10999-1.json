@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:10999-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-17498",
+		"CVE-2019-3855",
+		"CVE-2019-3856",
+		"CVE-2019-3857",
+		"CVE-2019-3858",
+		"CVE-2019-3859",
+		"CVE-2019-3860",
+		"CVE-2019-3861",
+		"CVE-2019-3862",
+		"CVE-2019-3863"
+	],
+	"summary": "libssh2-1-1.9.0-3.6 on GA media",
+	"details": "These are all security issues fixed in the libssh2-1-1.9.0-3.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-17498"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3855"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3856"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3857"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3858"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3859"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3860"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3861"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3862"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3863"
+		}
+	]
+}

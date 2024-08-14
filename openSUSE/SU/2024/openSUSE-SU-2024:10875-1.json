@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:10875-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-14556",
+		"CVE-2020-14579",
+		"CVE-2020-14593",
+		"CVE-2020-14781",
+		"CVE-2020-14796",
+		"CVE-2020-14803",
+		"CVE-2020-2754",
+		"CVE-2020-2757",
+		"CVE-2020-2803"
+	],
+	"summary": "java-1_8_0-openj9-1.8.0.292-3.2 on GA media",
+	"details": "These are all security issues fixed in the java-1_8_0-openj9-1.8.0.292-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14556"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14579"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14593"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14781"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14796"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14803"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-2754"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-2757"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-2803"
+		}
+	]
+}

@@ -1,0 +1,138 @@
+{
+	"id": "SUSE-SU-2023:4544-1",
+	"modified": "2023-11-24T08:11:24Z",
+	"published": "2023-11-24T08:11:24Z",
+	"related": [
+		"CVE-2023-46728"
+	],
+	"summary": "Security update for squid",
+	"details": "This update for squid fixes the following issues:\n\n- CVE-2023-46728: Remove gopher support (bsc#1216926).\n- Fixed overread in HTTP request header parsing (bsc#1217274).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.15.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.15.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.15.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.15.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.15.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.15.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.15.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.15.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20234544-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1216926"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1217274"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-46728"
+		}
+	]
+}

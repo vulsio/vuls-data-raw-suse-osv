@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:12360-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-25032",
+		"CVE-2022-32081",
+		"CVE-2022-32082",
+		"CVE-2022-32084",
+		"CVE-2022-32089",
+		"CVE-2022-32091",
+		"CVE-2022-38791"
+	],
+	"summary": "libmariadbd-devel-10.9.3-1.1 on GA media",
+	"details": "These are all security issues fixed in the libmariadbd-devel-10.9.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-25032"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-32081"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-32082"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-32084"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-32089"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-32091"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38791"
+		}
+	]
+}

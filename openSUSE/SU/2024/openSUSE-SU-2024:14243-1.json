@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:14243-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-42008",
+		"CVE-2024-42009",
+		"CVE-2024-42010"
+	],
+	"summary": "roundcubemail-1.6.8-1.1 on GA media",
+	"details": "These are all security issues fixed in the roundcubemail-1.6.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42008"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42009"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42010"
+		}
+	]
+}

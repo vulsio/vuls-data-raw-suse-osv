@@ -1,0 +1,84 @@
+{
+	"id": "openSUSE-SU-2019:2093-1",
+	"modified": "2019-09-08T14:55:24Z",
+	"published": "2019-09-08T14:55:24Z",
+	"related": [
+		"CVE-2019-15846"
+	],
+	"summary": "Security update for exim",
+	"details": "\nexim was updated to fix a security issue:\n\n- CVE-2019-15846: Fixed a buffer overflow in SMTP Delivery process where a remote attacker could execute code with root privileges by sending crafted SNI data (boo#1149182). \n  ",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.0",
+				"name": "exim",
+				"purl": "purl:rpm/suse/exim&distro=openSUSE%20Leap%2015.0"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.88-lp151.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"exim": "4.88-lp151.4.9.1",
+						"eximon": "4.88-lp151.4.9.1",
+						"eximstats-html": "4.88-lp151.4.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.1",
+				"name": "exim",
+				"purl": "purl:rpm/suse/exim&distro=openSUSE%20Leap%2015.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.88-lp151.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"exim": "4.88-lp151.4.9.1",
+						"eximon": "4.88-lp151.4.9.1",
+						"eximstats-html": "4.88-lp151.4.9.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/XVNKKLYCV6Q3DGRARHNWI7L6EZQDVH2S/#XVNKKLYCV6Q3DGRARHNWI7L6EZQDVH2S"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1149182"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15846"
+		}
+	]
+}

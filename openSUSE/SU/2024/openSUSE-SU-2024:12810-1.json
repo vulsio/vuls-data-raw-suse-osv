@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:12810-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-27664",
+		"CVE-2022-3162",
+		"CVE-2022-3294"
+	],
+	"summary": "kubernetes1.25-apiserver-1.25.7-1.1 on GA media",
+	"details": "These are all security issues fixed in the kubernetes1.25-apiserver-1.25.7-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-27664"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3162"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3294"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"id": "SUSE-SU-2019:2348-1",
+	"modified": "2019-09-10T12:51:46Z",
+	"published": "2019-09-10T12:51:46Z",
+	"related": [
+		"CVE-2019-10216"
+	],
+	"summary": "Security update for ghostscript",
+	"details": "This update for ghostscript fixes the following issues:\n\nSecurity issue fixed:\n\n- CVE-2019-10216: Fix privilege escalation via specially crafted PostScript file (bsc#1144621).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-3.18.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-3.18.2",
+						"ghostscript-devel": "9.26a-3.18.2",
+						"ghostscript-x11": "9.26a-3.18.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-3.18.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-3.18.2",
+						"ghostscript-devel": "9.26a-3.18.2",
+						"ghostscript-x11": "9.26a-3.18.2"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2019/suse-su-20192348-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1144621"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-10216"
+		}
+	]
+}

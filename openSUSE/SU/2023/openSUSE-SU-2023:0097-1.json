@@ -1,0 +1,80 @@
+{
+	"id": "openSUSE-SU-2023:0097-1",
+	"modified": "2023-04-27T14:00:33Z",
+	"published": "2023-04-27T14:00:33Z",
+	"related": [
+		"CVE-2023-28371"
+	],
+	"summary": "Security update for stellarium",
+	"details": "This update for stellarium fixes the following issues:\n\n- CVE-2023-28371: Fixed arbitrary file write issue. (boo#1209285)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP4",
+				"name": "stellarium",
+				"purl": "purl:rpm/suse/stellarium&distro=SUSE%20Package%20Hub%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.21.2-bp154.2.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"stellarium": "0.21.2-bp154.2.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "stellarium",
+				"purl": "purl:rpm/suse/stellarium&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.21.2-bp154.2.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"stellarium": "0.21.2-bp154.2.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/2ME5VNXZUQUFZZSORKCD3PXXIXMS2DUP/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1209285"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-28371"
+		}
+	]
+}

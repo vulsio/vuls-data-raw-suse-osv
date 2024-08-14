@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:10194-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2009-2666",
+		"CVE-2010-1167",
+		"CVE-2011-1947",
+		"CVE-2011-3389",
+		"CVE-2012-3482"
+	],
+	"summary": "fetchmail-6.3.26-13.4 on GA media",
+	"details": "These are all security issues fixed in the fetchmail-6.3.26-13.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2009-2666"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-1167"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-1947"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-3389"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-3482"
+		}
+	]
+}

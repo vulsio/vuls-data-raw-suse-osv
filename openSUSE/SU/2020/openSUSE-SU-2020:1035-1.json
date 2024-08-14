@@ -1,0 +1,107 @@
+{
+	"id": "openSUSE-SU-2020:1035-1",
+	"modified": "2020-07-23T04:21:54Z",
+	"published": "2020-07-23T04:21:54Z",
+	"related": [
+		"CVE-2020-14147"
+	],
+	"summary": "Security update for redis",
+	"details": "This update for redis fixes the following issues:\n\n- CVE-2020-14147: Context dependent attackers with permission to run Lua code in a \n  Redis session could have caused a denial of service (memory corruption and application crash)\n  or possibly bypass sandbox restrictions (boo#1173018)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 12",
+				"name": "redis",
+				"purl": "purl:rpm/suse/redis&distro=SUSE%20Package%20Hub%2012"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.14-bp151.3.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"redis": "4.0.14-bp151.3.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP1",
+				"name": "redis",
+				"purl": "purl:rpm/suse/redis&distro=SUSE%20Package%20Hub%2015%20SP1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.14-bp151.3.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"redis": "4.0.14-bp151.3.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.1",
+				"name": "redis",
+				"purl": "purl:rpm/suse/redis&distro=openSUSE%20Leap%2015.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.14-bp151.3.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"redis": "4.0.14-bp151.3.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/RBFBAAVOV76B3CDCO55WND3VVZTYGO33/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1173018"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14147"
+		}
+	]
+}

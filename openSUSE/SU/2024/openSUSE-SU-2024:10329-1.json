@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:10329-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2008-4690",
+		"CVE-2012-4929"
+	],
+	"summary": "lynx-2.8.8rel.2-4.13 on GA media",
+	"details": "These are all security issues fixed in the lynx-2.8.8rel.2-4.13 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-4690"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-4929"
+		}
+	]
+}

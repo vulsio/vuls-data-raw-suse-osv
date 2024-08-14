@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10711-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-6107",
+		"CVE-2008-0595",
+		"CVE-2008-3834",
+		"CVE-2008-4311",
+		"CVE-2019-12749",
+		"CVE-2020-12049"
+	],
+	"summary": "dbus-1-1.12.20-5.5 on GA media",
+	"details": "These are all security issues fixed in the dbus-1-1.12.20-5.5 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-6107"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-0595"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-3834"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2008-4311"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-12749"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12049"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10427-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-4341",
+		"CVE-2011-1758",
+		"CVE-2013-0219",
+		"CVE-2013-0220",
+		"CVE-2013-0287",
+		"CVE-2014-0249"
+	],
+	"summary": "libipa_hbac-devel-1.14.2-3.1 on GA media",
+	"details": "These are all security issues fixed in the libipa_hbac-devel-1.14.2-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-4341"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-1758"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0219"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0220"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0287"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0249"
+		}
+	]
+}

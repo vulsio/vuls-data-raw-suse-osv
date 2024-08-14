@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10624-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-14857",
+		"CVE-2021-32785",
+		"CVE-2021-32786"
+	],
+	"summary": "apache2-mod_auth_openidc-2.4.9.4-1.2 on GA media",
+	"details": "These are all security issues fixed in the apache2-mod_auth_openidc-2.4.9.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-14857"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32785"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32786"
+		}
+	]
+}

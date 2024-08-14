@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11345-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-0262",
+		"CVE-2013-0263",
+		"CVE-2015-3225"
+	],
+	"summary": "ruby2.7-rubygem-rack-1_6-1.6.13-1.13 on GA media",
+	"details": "These are all security issues fixed in the ruby2.7-rubygem-rack-1_6-1.6.13-1.13 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0262"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0263"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-3225"
+		}
+	]
+}

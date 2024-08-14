@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11757-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-14370",
+		"CVE-2020-15157",
+		"CVE-2021-20199",
+		"CVE-2021-20291",
+		"CVE-2021-3602"
+	],
+	"summary": "libcontainers-common-20210626-7.1 on GA media",
+	"details": "These are all security issues fixed in the libcontainers-common-20210626-7.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14370"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-15157"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-20199"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-20291"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3602"
+		}
+	]
+}

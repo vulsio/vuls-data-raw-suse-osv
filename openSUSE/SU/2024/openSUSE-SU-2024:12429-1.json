@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12429-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-42927",
+		"CVE-2022-42928",
+		"CVE-2022-42929",
+		"CVE-2022-42930",
+		"CVE-2022-42931",
+		"CVE-2022-42932"
+	],
+	"summary": "MozillaFirefox-106.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-106.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42927"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42928"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42929"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42930"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42931"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42932"
+		}
+	]
+}

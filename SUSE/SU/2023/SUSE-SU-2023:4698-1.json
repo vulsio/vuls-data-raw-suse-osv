@@ -1,0 +1,147 @@
+{
+	"id": "SUSE-SU-2023:4698-1",
+	"modified": "2023-12-08T16:54:02Z",
+	"published": "2023-12-08T16:54:02Z",
+	"related": [
+		"CVE-2023-49285",
+		"CVE-2023-49286"
+	],
+	"summary": "Security update for squid",
+	"details": "This update for squid fixes the following issues:\n\n- CVE-2023-49285: Fixed buffer over read bug on HTTP Message processing flow (bsc#1217813)\n- CVE-2023-49286: Fixed Denial of Service vulnerability in helper process management (bsc#1217815)\n- Fix X-Forwarded-For Stack Overflow (bsc#1217654)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.20.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.20.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.20.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.20.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.20.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.20.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.7-150400.3.20.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "5.7-150400.3.20.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20234698-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1217654"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1217813"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1217815"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49285"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49286"
+		}
+	]
+}

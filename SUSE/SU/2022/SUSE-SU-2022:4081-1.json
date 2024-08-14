@@ -1,0 +1,1493 @@
+{
+	"id": "SUSE-SU-2022:4081-1",
+	"modified": "2022-11-18T14:41:19Z",
+	"published": "2022-11-18T14:41:19Z",
+	"related": [
+		"CVE-2022-1664"
+	],
+	"summary": "Security update for dpkg",
+	"details": "This update for dpkg fixes the following issues:\n\n- CVE-2022-1664: Fixed a directory traversal vulnerability in Dpkg::Source::Archive (bsc#1199944).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy 4.1",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Manager%20Proxy%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Proxy 4.1",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Manager%20Proxy%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Server 4.1",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Manager%20Server%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Manager Server 4.1",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Manager%20Server%204.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 6",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Enterprise%20Storage%206"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 6",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Enterprise%20Storage%206"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 7",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=SUSE%20Enterprise%20Storage%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 7",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=SUSE%20Enterprise%20Storage%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap Micro 5.2",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=openSUSE%20Leap%20Micro%205.2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap Micro 5.3",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=openSUSE%20Leap%20Micro%205.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"dpkg-lang": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"dpkg-lang": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "dpkg",
+				"purl": "purl:rpm/suse/dpkg&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"dpkg-lang": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "update-alternatives",
+				"purl": "purl:rpm/suse/update-alternatives&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.0.4-150000.4.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpkg": "1.19.0.4-150000.4.4.1",
+						"dpkg-devel": "1.19.0.4-150000.4.4.1",
+						"dpkg-lang": "1.19.0.4-150000.4.4.1",
+						"update-alternatives": "1.19.0.4-150000.4.4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20224081-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1199944"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-1664"
+		}
+	]
+}

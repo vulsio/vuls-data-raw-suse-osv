@@ -1,0 +1,54 @@
+{
+	"id": "SUSE-SU-2023:2986-1",
+	"modified": "2023-07-26T12:34:47Z",
+	"published": "2023-07-26T12:34:47Z",
+	"related": [
+		"CVE-2023-20593"
+	],
+	"summary": "Security update for kernel-firmware",
+	"details": "This update for kernel-firmware fixes the following issues:\n\n  - CVE-2023-20593: Fixed AMD ucode for ZenBleed vulnerability (bsc#1213286).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20170530-21.37.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20170530-21.37.1",
+						"ucode-amd": "20170530-21.37.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20232986-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1213286"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-20593"
+		}
+	]
+}

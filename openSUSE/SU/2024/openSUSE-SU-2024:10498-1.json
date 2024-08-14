@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10498-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2011-3200",
+		"CVE-2013-4758",
+		"CVE-2013-6370",
+		"CVE-2013-6371",
+		"CVE-2014-3634",
+		"CVE-2014-3683"
+	],
+	"summary": "rsyslog-8.23.0-2.1 on GA media",
+	"details": "These are all security issues fixed in the rsyslog-8.23.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-3200"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4758"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-6370"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-6371"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3634"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3683"
+		}
+	]
+}

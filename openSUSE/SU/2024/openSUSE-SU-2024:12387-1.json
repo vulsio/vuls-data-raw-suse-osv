@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12387-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-25694",
+		"CVE-2020-25695",
+		"CVE-2020-25696",
+		"CVE-2021-20229",
+		"CVE-2021-32027",
+		"CVE-2021-32028",
+		"CVE-2021-32029",
+		"CVE-2021-3393"
+	],
+	"summary": "postgresql14-14.5-2.1 on GA media",
+	"details": "These are all security issues fixed in the postgresql14-14.5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25694"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25695"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25696"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-20229"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32027"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32028"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32029"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3393"
+		}
+	]
+}

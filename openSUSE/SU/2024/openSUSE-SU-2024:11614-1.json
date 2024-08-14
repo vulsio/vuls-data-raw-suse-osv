@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:11614-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-38503",
+		"CVE-2021-38504",
+		"CVE-2021-38505",
+		"CVE-2021-38506",
+		"CVE-2021-38507",
+		"CVE-2021-38508",
+		"CVE-2021-38509",
+		"CVE-2021-38510"
+	],
+	"summary": "MozillaFirefox-94.0.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-94.0.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38503"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38504"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38505"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38506"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38507"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38508"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38509"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38510"
+		}
+	]
+}

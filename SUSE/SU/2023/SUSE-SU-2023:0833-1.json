@@ -1,0 +1,203 @@
+{
+	"id": "SUSE-SU-2023:0833-1",
+	"modified": "2023-03-20T15:48:54Z",
+	"published": "2023-03-20T15:48:54Z",
+	"summary": "Security update for dpdk",
+	"details": "\nThis update of dpdk fixes the following issues:\n\n- rebuild the package with the new secure boot key (bsc#1209188).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk-devel": "18.11.9-3.26.1",
+						"dpdk-thunderx-devel": "18.11.9-3.26.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
+				"name": "dpdk-thunderx",
+				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk-devel": "18.11.9-3.26.1",
+						"dpdk-thunderx-devel": "18.11.9-3.26.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "18.11.9-3.26.1",
+						"dpdk-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-thunderx": "18.11.9-3.26.1",
+						"dpdk-thunderx-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-tools": "18.11.9-3.26.1",
+						"libdpdk-18_11": "18.11.9-3.26.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "dpdk-thunderx",
+				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "18.11.9-3.26.1",
+						"dpdk-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-thunderx": "18.11.9-3.26.1",
+						"dpdk-thunderx-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-tools": "18.11.9-3.26.1",
+						"libdpdk-18_11": "18.11.9-3.26.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "18.11.9-3.26.1",
+						"dpdk-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-thunderx": "18.11.9-3.26.1",
+						"dpdk-thunderx-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-tools": "18.11.9-3.26.1",
+						"libdpdk-18_11": "18.11.9-3.26.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "dpdk-thunderx",
+				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.11.9-3.26.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "18.11.9-3.26.1",
+						"dpdk-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-thunderx": "18.11.9-3.26.1",
+						"dpdk-thunderx-kmp-default": "18.11.9_k4.12.14_122.150-3.26.1",
+						"dpdk-tools": "18.11.9-3.26.1",
+						"libdpdk-18_11": "18.11.9-3.26.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20230833-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1209188"
+		}
+	]
+}

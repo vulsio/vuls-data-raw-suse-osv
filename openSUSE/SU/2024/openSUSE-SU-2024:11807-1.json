@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11807-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-44141",
+		"CVE-2021-44142",
+		"CVE-2022-0336"
+	],
+	"summary": "ctdb-4.15.5+git.328.f1f29505d84-1.1 on GA media",
+	"details": "These are all security issues fixed in the ctdb-4.15.5+git.328.f1f29505d84-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-44141"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-44142"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0336"
+		}
+	]
+}

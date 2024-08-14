@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12404-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-3445",
+		"CVE-2022-3446",
+		"CVE-2022-3447",
+		"CVE-2022-3448",
+		"CVE-2022-3449",
+		"CVE-2022-3450"
+	],
+	"summary": "chromedriver-106.0.5249.119-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-106.0.5249.119-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3445"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3446"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3447"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3448"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3449"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3450"
+		}
+	]
+}

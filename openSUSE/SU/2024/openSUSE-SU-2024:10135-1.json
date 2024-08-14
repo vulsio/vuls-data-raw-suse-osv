@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10135-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-7271",
+		"CVE-2014-7272",
+		"CVE-2015-0856"
+	],
+	"summary": "sddm-0.14.0-2.1 on GA media",
+	"details": "These are all security issues fixed in the sddm-0.14.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7271"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7272"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-0856"
+		}
+	]
+}

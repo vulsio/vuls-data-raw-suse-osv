@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:11299-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2015-8080",
+		"CVE-2016-10517",
+		"CVE-2017-15047",
+		"CVE-2018-11218",
+		"CVE-2021-21309",
+		"CVE-2021-29477",
+		"CVE-2021-29478",
+		"CVE-2021-32625",
+		"CVE-2021-32761"
+	],
+	"summary": "redis-6.2.5-1.2 on GA media",
+	"details": "These are all security issues fixed in the redis-6.2.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-8080"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-10517"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-15047"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-11218"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-21309"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-29477"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-29478"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32625"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32761"
+		}
+	]
+}

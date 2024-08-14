@@ -1,0 +1,84 @@
+{
+	"id": "openSUSE-SU-2022:10104-1",
+	"modified": "2022-08-27T12:33:32Z",
+	"published": "2022-08-27T12:33:32Z",
+	"related": [
+		"CVE-2022-38150"
+	],
+	"summary": "Security update for varnish",
+	"details": "This update for varnish fixes the following issues:\n\nUpdate to release 7.1.1:\n\n- CVE-2022-38150: Resolve a denial of service attack involving reason phrases (boo#1202350).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP4",
+				"name": "varnish",
+				"purl": "purl:rpm/suse/varnish&distro=SUSE%20Package%20Hub%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.1.1-bp154.2.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvarnishapi3": "7.1.1-bp154.2.6.1",
+						"varnish": "7.1.1-bp154.2.6.1",
+						"varnish-devel": "7.1.1-bp154.2.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "varnish",
+				"purl": "purl:rpm/suse/varnish&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.1.1-bp154.2.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvarnishapi3": "7.1.1-bp154.2.6.1",
+						"varnish": "7.1.1-bp154.2.6.1",
+						"varnish-devel": "7.1.1-bp154.2.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/FGTUXRJ4UZ7LV4AXMK3BKM3PS3MYHCPO/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1202350"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38150"
+		}
+	]
+}

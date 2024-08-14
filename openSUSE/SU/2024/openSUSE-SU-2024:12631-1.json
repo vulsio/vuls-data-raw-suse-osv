@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12631-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-3648",
+		"CVE-2021-3826",
+		"CVE-2021-45078",
+		"CVE-2021-46195",
+		"CVE-2022-27943",
+		"CVE-2022-38126",
+		"CVE-2022-38127",
+		"CVE-2022-38533"
+	],
+	"summary": "binutils-2.39-2.1 on GA media",
+	"details": "These are all security issues fixed in the binutils-2.39-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3648"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3826"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-45078"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-46195"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-27943"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38126"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38127"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-38533"
+		}
+	]
+}

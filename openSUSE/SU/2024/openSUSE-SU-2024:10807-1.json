@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:10807-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-14039",
+		"CVE-2020-15586",
+		"CVE-2020-16845",
+		"CVE-2020-24553",
+		"CVE-2020-28362",
+		"CVE-2020-28366",
+		"CVE-2020-28367",
+		"CVE-2021-3114",
+		"CVE-2021-3115"
+	],
+	"summary": "go1.14-1.14.15-1.6 on GA media",
+	"details": "These are all security issues fixed in the go1.14-1.14.15-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14039"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-15586"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-16845"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-24553"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-28362"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-28366"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-28367"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3114"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3115"
+		}
+	]
+}

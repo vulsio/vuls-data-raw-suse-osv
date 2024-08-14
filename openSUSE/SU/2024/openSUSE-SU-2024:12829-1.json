@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12829-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-1214",
+		"CVE-2023-1218",
+		"CVE-2023-1219",
+		"CVE-2023-1529",
+		"CVE-2023-1532",
+		"CVE-2023-1534"
+	],
+	"summary": "nodejs-electron-22.3.4-1.2 on GA media",
+	"details": "These are all security issues fixed in the nodejs-electron-22.3.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1214"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1218"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1219"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1529"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1532"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-1534"
+		}
+	]
+}

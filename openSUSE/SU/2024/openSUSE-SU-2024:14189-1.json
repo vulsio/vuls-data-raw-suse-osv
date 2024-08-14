@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:14189-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-6600",
+		"CVE-2024-6601",
+		"CVE-2024-6602",
+		"CVE-2024-6603",
+		"CVE-2024-6604"
+	],
+	"summary": "MozillaThunderbird-115.13.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaThunderbird-115.13.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6600"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6601"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6602"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6603"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6604"
+		}
+	]
+}

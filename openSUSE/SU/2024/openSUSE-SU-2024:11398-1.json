@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11398-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-10873",
+		"CVE-2018-10893",
+		"CVE-2020-14355"
+	],
+	"summary": "libspice-client-glib-2_0-8-0.39-1.8 on GA media",
+	"details": "These are all security issues fixed in the libspice-client-glib-2_0-8-0.39-1.8 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10873"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10893"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14355"
+		}
+	]
+}

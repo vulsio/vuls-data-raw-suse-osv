@@ -1,0 +1,82 @@
+{
+	"id": "openSUSE-SU-2023:0404-1",
+	"modified": "2023-12-16T13:01:09Z",
+	"published": "2023-12-16T13:01:09Z",
+	"related": [
+		"CVE-2023-49284"
+	],
+	"summary": "Security update for fish",
+	"details": "This update for fish fixes the following issues:\n\n- CVE-2023-49284: Fixed shell expansion triggered by command substitution output (boo#1217808).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP4",
+				"name": "fish",
+				"purl": "purl:rpm/suse/fish&distro=SUSE%20Package%20Hub%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.1-bp154.3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fish": "3.3.1-bp154.3.3.1",
+						"fish-devel": "3.3.1-bp154.3.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "fish",
+				"purl": "purl:rpm/suse/fish&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.1-bp154.3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fish": "3.3.1-bp154.3.3.1",
+						"fish-devel": "3.3.1-bp154.3.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/ID5OSVJXPI7OW4ZTAPE4ZJUJIM5HRF37/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1217808"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-49284"
+		}
+	]
+}

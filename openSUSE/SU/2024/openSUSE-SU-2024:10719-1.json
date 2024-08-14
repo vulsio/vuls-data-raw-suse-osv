@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:10719-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-15142",
+		"CVE-2019-15143",
+		"CVE-2019-15144",
+		"CVE-2019-15145",
+		"CVE-2019-18804",
+		"CVE-2021-32490",
+		"CVE-2021-32491",
+		"CVE-2021-32492",
+		"CVE-2021-32493",
+		"CVE-2021-3500"
+	],
+	"summary": "djvulibre-3.5.28-3.2 on GA media",
+	"details": "These are all security issues fixed in the djvulibre-3.5.28-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15142"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15143"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15144"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-15145"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-18804"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32490"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32491"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32492"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32493"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3500"
+		}
+	]
+}

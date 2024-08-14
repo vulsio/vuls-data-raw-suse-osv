@@ -1,0 +1,93 @@
+{
+	"id": "SUSE-SU-2020:3161-1",
+	"modified": "2020-11-05T09:33:57Z",
+	"published": "2020-11-05T09:33:57Z",
+	"related": [
+		"CVE-2020-10648",
+		"CVE-2020-8432"
+	],
+	"summary": "Security update for u-boot",
+	"details": "This update for u-boot fixes the following issues:\n\n- CVE-2020-8432: Fixed a double free in the cmd/gpt.c do_rename_gpt_parts() function, which allowed an attacker to execute arbitrary code (bsc#1162198) \n- CVE-2020-10648: Fixed improper signature verification during verified boot (bsc#1167209).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
+				"name": "u-boot",
+				"purl": "purl:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2020.01-10.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"u-boot-rpiarm64": "2020.01-10.9.1",
+						"u-boot-rpiarm64-doc": "2020.01-10.9.1",
+						"u-boot-tools": "2020.01-10.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
+				"name": "u-boot-rpiarm64",
+				"purl": "purl:rpm/suse/u-boot-rpiarm64&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2020.01-10.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"u-boot-rpiarm64": "2020.01-10.9.1",
+						"u-boot-rpiarm64-doc": "2020.01-10.9.1",
+						"u-boot-tools": "2020.01-10.9.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2020/suse-su-20203161-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1162198"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1167209"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-10648"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8432"
+		}
+	]
+}

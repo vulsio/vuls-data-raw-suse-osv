@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10396-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-8767",
+		"CVE-2014-8768",
+		"CVE-2014-8769",
+		"CVE-2015-0261",
+		"CVE-2015-2153",
+		"CVE-2015-2154",
+		"CVE-2015-2155",
+		"CVE-2015-3138"
+	],
+	"summary": "tcpdump-4.7.4-3.4 on GA media",
+	"details": "These are all security issues fixed in the tcpdump-4.7.4-3.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8767"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8768"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-8769"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-0261"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-2153"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-2154"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-2155"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-3138"
+		}
+	]
+}

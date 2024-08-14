@@ -1,0 +1,165 @@
+{
+	"id": "SUSE-SU-2023:1759-1",
+	"modified": "2023-04-04T11:32:56Z",
+	"published": "2023-04-04T11:32:56Z",
+	"summary": "Security update for dpdk",
+	"details": "\nThis update of dpdk fixes the following issues:\n\n- rebuild the package with the new secure boot key (bsc#1209188).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "19.11.10-150400.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "19.11.10-150400.4.9.1",
+						"dpdk-devel": "19.11.10-150400.4.9.1",
+						"dpdk-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-devel": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-tools": "19.11.10-150400.4.9.1",
+						"libdpdk-20_0": "19.11.10-150400.4.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
+				"name": "dpdk-thunderx",
+				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "19.11.10-150400.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "19.11.10-150400.4.9.1",
+						"dpdk-devel": "19.11.10-150400.4.9.1",
+						"dpdk-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-devel": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-tools": "19.11.10-150400.4.9.1",
+						"libdpdk-20_0": "19.11.10-150400.4.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "19.11.10-150400.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "19.11.10-150400.4.9.1",
+						"dpdk-devel": "19.11.10-150400.4.9.1",
+						"dpdk-doc": "19.11.10-150400.4.9.1",
+						"dpdk-examples": "19.11.10-150400.4.9.1",
+						"dpdk-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-devel": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-doc": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-examples": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx-tools": "19.11.10-150400.4.9.1",
+						"dpdk-tools": "19.11.10-150400.4.9.1",
+						"libdpdk-20_0": "19.11.10-150400.4.9.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.4",
+				"name": "dpdk-thunderx",
+				"purl": "purl:rpm/suse/dpdk-thunderx&distro=openSUSE%20Leap%2015.4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "19.11.10-150400.4.9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "19.11.10-150400.4.9.1",
+						"dpdk-devel": "19.11.10-150400.4.9.1",
+						"dpdk-doc": "19.11.10-150400.4.9.1",
+						"dpdk-examples": "19.11.10-150400.4.9.1",
+						"dpdk-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-devel": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-doc": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-examples": "19.11.10-150400.4.9.1",
+						"dpdk-thunderx-kmp-default": "19.11.10_k5.14.21_150400.24.46-150400.4.9.1",
+						"dpdk-thunderx-tools": "19.11.10-150400.4.9.1",
+						"dpdk-tools": "19.11.10-150400.4.9.1",
+						"libdpdk-20_0": "19.11.10-150400.4.9.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20231759-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1209188"
+		}
+	]
+}

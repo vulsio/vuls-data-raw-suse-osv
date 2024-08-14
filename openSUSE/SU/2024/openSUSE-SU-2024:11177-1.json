@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:11177-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-10856",
+		"CVE-2019-10152",
+		"CVE-2019-10214",
+		"CVE-2020-14370",
+		"CVE-2020-1726",
+		"CVE-2021-20199"
+	],
+	"summary": "podman-3.3.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the podman-3.3.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10856"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-10152"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-10214"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-14370"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-1726"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-20199"
+		}
+	]
+}

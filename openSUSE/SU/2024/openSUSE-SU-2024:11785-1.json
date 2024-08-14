@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:11785-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-43310",
+		"CVE-2022-23948",
+		"CVE-2022-23949",
+		"CVE-2022-23950",
+		"CVE-2022-23951",
+		"CVE-2022-23952"
+	],
+	"summary": "keylime-agent-6.3.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the keylime-agent-6.3.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-43310"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23948"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23949"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23950"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23951"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23952"
+		}
+	]
+}

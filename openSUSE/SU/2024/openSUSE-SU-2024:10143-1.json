@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10143-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-0624",
+		"CVE-2014-9112",
+		"CVE-2016-2037"
+	],
+	"summary": "cpio-2.12-3.90 on GA media",
+	"details": "These are all security issues fixed in the cpio-2.12-3.90 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-0624"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-9112"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-2037"
+		}
+	]
+}

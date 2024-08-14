@@ -1,0 +1,82 @@
+{
+	"id": "openSUSE-SU-2024:0125-1",
+	"modified": "2024-05-13T13:09:15Z",
+	"published": "2024-05-13T13:09:15Z",
+	"related": [
+		"CVE-2023-50447"
+	],
+	"summary": "Security update for python-Pillow",
+	"details": "This update for python-Pillow fixes the following issues:\n\n- CVE-2023-50447: Fixed arbitrary code execution via the environment parameter (boo#1219048)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP5",
+				"name": "python-Pillow",
+				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Package%20Hub%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.4.0-bp155.3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python3-Pillow": "8.4.0-bp155.3.3.1",
+						"python3-Pillow-tk": "8.4.0-bp155.3.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.5",
+				"name": "python-Pillow",
+				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Leap%2015.5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.4.0-bp155.3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python3-Pillow": "8.4.0-bp155.3.3.1",
+						"python3-Pillow-tk": "8.4.0-bp155.3.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/GYSVBJPZSCRQ4QL45BINOZYP7XXBBK3C/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1219048"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-50447"
+		}
+	]
+}

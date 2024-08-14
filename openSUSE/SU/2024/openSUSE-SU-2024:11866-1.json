@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11866-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-25235",
+		"CVE-2022-25236",
+		"CVE-2022-25313",
+		"CVE-2022-25314",
+		"CVE-2022-25315"
+	],
+	"summary": "expat-2.4.6-1.1 on GA media",
+	"details": "These are all security issues fixed in the expat-2.4.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-25235"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-25236"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-25313"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-25314"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-25315"
+		}
+	]
+}

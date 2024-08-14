@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12569-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-4283",
+		"CVE-2022-46340",
+		"CVE-2022-46341",
+		"CVE-2022-46342",
+		"CVE-2022-46343",
+		"CVE-2022-46344"
+	],
+	"summary": "xorg-x11-server-21.1.4-6.1 on GA media",
+	"details": "These are all security issues fixed in the xorg-x11-server-21.1.4-6.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-4283"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46340"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46341"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46342"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46343"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46344"
+		}
+	]
+}

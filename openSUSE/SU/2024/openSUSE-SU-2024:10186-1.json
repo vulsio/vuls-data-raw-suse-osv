@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10186-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-1246",
+		"CVE-2016-1249",
+		"CVE-2016-1251"
+	],
+	"summary": "perl-DBD-mysql-4.041-2.1 on GA media",
+	"details": "These are all security issues fixed in the perl-DBD-mysql-4.041-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-1246"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-1249"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-1251"
+		}
+	]
+}

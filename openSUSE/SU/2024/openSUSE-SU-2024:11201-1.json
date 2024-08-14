@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11201-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2017-6542",
+		"CVE-2019-17068",
+		"CVE-2019-17069"
+	],
+	"summary": "putty-0.76-1.2 on GA media",
+	"details": "These are all security issues fixed in the putty-0.76-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-6542"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-17068"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-17069"
+		}
+	]
+}

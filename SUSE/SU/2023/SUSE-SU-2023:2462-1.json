@@ -1,0 +1,80 @@
+{
+	"id": "SUSE-SU-2023:2462-1",
+	"modified": "2023-06-08T07:42:04Z",
+	"published": "2023-06-08T07:42:04Z",
+	"related": [
+		"CVE-2023-30608"
+	],
+	"summary": "Security update for python-sqlparse",
+	"details": "This update for python-sqlparse fixes the following issues:\n\n- CVE-2023-30608: Fixed a Regular Expression Denial of Service (ReDOS) vulnerability (bsc#1210617).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
+				"name": "python-sqlparse",
+				"purl": "purl:rpm/suse/python-sqlparse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.4-150100.6.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-sqlparse": "0.2.4-150100.6.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
+				"name": "python-sqlparse",
+				"purl": "purl:rpm/suse/python-sqlparse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.4-150100.6.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-sqlparse": "0.2.4-150100.6.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20232462-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1210617"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-30608"
+		}
+	]
+}

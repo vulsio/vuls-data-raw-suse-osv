@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10525-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-7273",
+		"CVE-2014-7274",
+		"CVE-2014-7275"
+	],
+	"summary": "getmail-4.46.0-1.2 on GA media",
+	"details": "These are all security issues fixed in the getmail-4.46.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7273"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7274"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-7275"
+		}
+	]
+}

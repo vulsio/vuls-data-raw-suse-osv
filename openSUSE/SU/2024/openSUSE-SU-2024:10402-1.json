@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:10402-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-0295",
+		"CVE-2011-4362",
+		"CVE-2012-5533",
+		"CVE-2013-4508",
+		"CVE-2013-4559",
+		"CVE-2013-4560",
+		"CVE-2014-2323",
+		"CVE-2014-2324"
+	],
+	"summary": "lighttpd-1.4.37-1.6 on GA media",
+	"details": "These are all security issues fixed in the lighttpd-1.4.37-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-0295"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4362"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-5533"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4508"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4559"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4560"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2323"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2324"
+		}
+	]
+}

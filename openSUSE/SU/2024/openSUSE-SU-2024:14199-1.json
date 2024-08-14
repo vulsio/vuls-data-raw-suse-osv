@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:14199-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-45229",
+		"CVE-2023-45230",
+		"CVE-2023-45231",
+		"CVE-2023-45232",
+		"CVE-2023-45234",
+		"CVE-2023-45235"
+	],
+	"summary": "ovmf-202402-1.1 on GA media",
+	"details": "These are all security issues fixed in the ovmf-202402-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45229"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45230"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45231"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45232"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45234"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45235"
+		}
+	]
+}

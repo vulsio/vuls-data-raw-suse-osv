@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:10446-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-1976",
+		"CVE-2014-0050",
+		"CVE-2015-5174",
+		"CVE-2015-5345",
+		"CVE-2015-5346",
+		"CVE-2015-5351",
+		"CVE-2016-0706",
+		"CVE-2016-0714",
+		"CVE-2016-0763",
+		"CVE-2016-3092"
+	],
+	"summary": "tomcat-8.0.36-3.3 on GA media",
+	"details": "These are all security issues fixed in the tomcat-8.0.36-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-1976"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0050"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5174"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5345"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5346"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-5351"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0706"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0714"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0763"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3092"
+		}
+	]
+}

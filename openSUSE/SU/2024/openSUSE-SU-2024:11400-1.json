@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:11400-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-8740",
+		"CVE-2019-16168",
+		"CVE-2019-9936",
+		"CVE-2019-9937",
+		"CVE-2020-13434",
+		"CVE-2020-13435",
+		"CVE-2020-13630",
+		"CVE-2020-13631",
+		"CVE-2020-13632",
+		"CVE-2020-13871"
+	],
+	"summary": "libsqlite3-0-3.36.0-1.2 on GA media",
+	"details": "These are all security issues fixed in the libsqlite3-0-3.36.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-8740"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-16168"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-9936"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-9937"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13434"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13435"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13630"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13631"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13632"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-13871"
+		}
+	]
+}

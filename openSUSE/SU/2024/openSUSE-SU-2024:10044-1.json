@@ -1,0 +1,69 @@
+{
+	"id": "openSUSE-SU-2024:10044-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2011-4315",
+		"CVE-2012-2089",
+		"CVE-2013-2070",
+		"CVE-2013-4547",
+		"CVE-2014-0133",
+		"CVE-2014-3556",
+		"CVE-2014-3616",
+		"CVE-2016-0742",
+		"CVE-2016-0746",
+		"CVE-2016-0747",
+		"CVE-2016-4450"
+	],
+	"summary": "nginx-1.11.4-2.5 on GA media",
+	"details": "These are all security issues fixed in the nginx-1.11.4-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4315"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-2089"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-2070"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-4547"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0133"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3556"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3616"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0742"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0746"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-0747"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-4450"
+		}
+	]
+}

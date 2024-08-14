@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:11595-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-21529",
+		"CVE-2020-21530",
+		"CVE-2020-21531",
+		"CVE-2020-21532",
+		"CVE-2020-21533",
+		"CVE-2020-21534",
+		"CVE-2020-21535",
+		"CVE-2021-32280"
+	],
+	"summary": "transfig-3.2.8b-2.1 on GA media",
+	"details": "These are all security issues fixed in the transfig-3.2.8b-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21529"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21530"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21531"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21532"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21533"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21534"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-21535"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32280"
+		}
+	]
+}

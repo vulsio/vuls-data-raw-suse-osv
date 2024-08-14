@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:11751-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-35905",
+		"CVE-2020-36465",
+		"CVE-2021-27378",
+		"CVE-2021-32714",
+		"CVE-2021-32715",
+		"CVE-2021-38191",
+		"CVE-2021-45710"
+	],
+	"summary": "afterburn-5.0.0-6.1 on GA media",
+	"details": "These are all security issues fixed in the afterburn-5.0.0-6.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-35905"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-36465"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-27378"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32714"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32715"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38191"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-45710"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11812-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-0393",
+		"CVE-2022-0417",
+		"CVE-2022-0443"
+	],
+	"summary": "gvim-8.2.4286-1.1 on GA media",
+	"details": "These are all security issues fixed in the gvim-8.2.4286-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0393"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0417"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0443"
+		}
+	]
+}

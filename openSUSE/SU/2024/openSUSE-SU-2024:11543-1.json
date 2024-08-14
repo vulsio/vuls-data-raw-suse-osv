@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:11543-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-0502",
+		"CVE-2018-1071",
+		"CVE-2018-1083",
+		"CVE-2018-1100",
+		"CVE-2018-13259",
+		"CVE-2019-20044"
+	],
+	"summary": "zsh-5.8-7.7 on GA media",
+	"details": "These are all security issues fixed in the zsh-5.8-7.7 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-0502"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1071"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1083"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1100"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-13259"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-20044"
+		}
+	]
+}

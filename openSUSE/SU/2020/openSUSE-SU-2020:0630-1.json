@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2020:0630-1",
+	"modified": "2020-05-08T12:25:04Z",
+	"published": "2020-05-08T12:25:04Z",
+	"related": [
+		"CVE-2020-1747"
+	],
+	"summary": "Security update for python-PyYAML",
+	"details": "This update for python-PyYAML fixes the following issues:\n\n- CVE-2020-1747: Fixed an arbitrary code execution when YAML files are parsed by FullLoader (bsc#1165439).\n\nThis update was imported from the SUSE:SLE-15-SP1:Update update project.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.1",
+				"name": "python-PyYAML",
+				"purl": "purl:rpm/suse/python-PyYAML&distro=openSUSE%20Leap%2015.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.2-lp151.2.13.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-PyYAML": "5.1.2-lp151.2.13.1",
+						"python3-PyYAML": "5.1.2-lp151.2.13.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/5RCRCB4N7SFWRVKNL5LEFDNZU5ZDJLT5/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1165439"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-1747"
+		}
+	]
+}

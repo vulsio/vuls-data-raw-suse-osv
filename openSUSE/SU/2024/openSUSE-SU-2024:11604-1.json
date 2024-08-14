@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:11604-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2021-37997",
+		"CVE-2021-37998",
+		"CVE-2021-37999",
+		"CVE-2021-38000",
+		"CVE-2021-38001",
+		"CVE-2021-38002",
+		"CVE-2021-38003"
+	],
+	"summary": "chromedriver-95.0.4638.69-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-95.0.4638.69-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37997"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37998"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-37999"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38000"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38001"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38002"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-38003"
+		}
+	]
+}

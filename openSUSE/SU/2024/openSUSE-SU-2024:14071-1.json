@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:14071-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-22796",
+		"CVE-2023-28120",
+		"CVE-2023-38037"
+	],
+	"summary": "ruby3.3-rubygem-activesupport-7.0-7.0.8.4-1.1 on GA media",
+	"details": "These are all security issues fixed in the ruby3.3-rubygem-activesupport-7.0-7.0.8.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-22796"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-28120"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-38037"
+		}
+	]
+}

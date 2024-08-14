@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2021:3485-1",
+	"modified": "2021-10-20T14:18:03Z",
+	"published": "2021-10-20T14:18:03Z",
+	"related": [
+		"CVE-2021-28116"
+	],
+	"summary": "Security update for squid",
+	"details": "This update for squid fixes the following issues:\n\nUpdate to version 4.17:\n\n- CVE-2021-28116: Fixed a out-of-bounds read in the WCCP protocol (bsc#1189403).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "squid",
+				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.17-5.29.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"squid": "4.17-5.29.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/ZZT7QFDJXMSX6NXIB2FSSHOCTFVNNNMF/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1189403"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-28116"
+		}
+	]
+}

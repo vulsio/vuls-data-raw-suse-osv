@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:10029-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-6393",
+		"CVE-2014-2525",
+		"CVE-2014-9130"
+	],
+	"summary": "libyaml-0-2-0.1.6-4.8 on GA media",
+	"details": "These are all security issues fixed in the libyaml-0-2-0.1.6-4.8 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-6393"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-2525"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-9130"
+		}
+	]
+}

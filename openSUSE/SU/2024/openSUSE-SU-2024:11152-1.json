@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:11152-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-3695",
+		"CVE-2019-3696"
+	],
+	"summary": "libpcp-devel-5.2.2-3.4 on GA media",
+	"details": "These are all security issues fixed in the libpcp-devel-5.2.2-3.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3695"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3696"
+		}
+	]
+}

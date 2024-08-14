@@ -1,0 +1,46 @@
+{
+	"id": "SUSE-SU-2019:3090-1",
+	"modified": "2019-11-28T14:44:08Z",
+	"published": "2019-11-28T14:44:08Z",
+	"summary": "Security update for ucode-intel",
+	"details": "This update for ucode-intel fixes the following issues:\n\n- Updated to 20191115 official security release (bsc#1157004)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
+				"name": "ucode-intel",
+				"purl": "purl:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20191115-3.34.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ucode-intel": "20191115-3.34.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2019/suse-su-20193090-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1157004"
+		}
+	]
+}

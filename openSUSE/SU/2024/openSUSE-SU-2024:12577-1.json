@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12577-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-46871",
+		"CVE-2022-46872",
+		"CVE-2022-46873",
+		"CVE-2022-46874",
+		"CVE-2022-46875",
+		"CVE-2022-46877",
+		"CVE-2022-46878",
+		"CVE-2022-46879"
+	],
+	"summary": "MozillaFirefox-108.0.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-108.0.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46871"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46872"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46873"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46874"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46875"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46877"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46878"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-46879"
+		}
+	]
+}

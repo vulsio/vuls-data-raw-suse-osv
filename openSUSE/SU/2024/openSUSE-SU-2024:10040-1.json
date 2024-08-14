@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:10040-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2012-0247",
+		"CVE-2012-0248",
+		"CVE-2012-1185",
+		"CVE-2012-1186",
+		"CVE-2016-3714",
+		"CVE-2016-3715",
+		"CVE-2016-3716",
+		"CVE-2016-3717",
+		"CVE-2016-3718",
+		"CVE-2016-5118"
+	],
+	"summary": "ImageMagick-6.9.6.6-1.1 on GA media",
+	"details": "These are all security issues fixed in the ImageMagick-6.9.6.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-0247"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-0248"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1185"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1186"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3714"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3715"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3716"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3717"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-3718"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-5118"
+		}
+	]
+}

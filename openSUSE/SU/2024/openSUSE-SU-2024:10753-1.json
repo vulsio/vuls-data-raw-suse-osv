@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10753-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-0321",
+		"CVE-2006-5867",
+		"CVE-2006-5974",
+		"CVE-2007-1558",
+		"CVE-2007-4565",
+		"CVE-2021-36386"
+	],
+	"summary": "fetchmail-6.4.21-2.1 on GA media",
+	"details": "These are all security issues fixed in the fetchmail-6.4.21-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-0321"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-5867"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-5974"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-1558"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-4565"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-36386"
+		}
+	]
+}

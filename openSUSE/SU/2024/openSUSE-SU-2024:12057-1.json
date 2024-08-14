@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:12057-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-0561",
+		"CVE-2022-0562",
+		"CVE-2022-0865",
+		"CVE-2022-0891",
+		"CVE-2022-0907",
+		"CVE-2022-0908",
+		"CVE-2022-0909",
+		"CVE-2022-0924",
+		"CVE-2022-1056"
+	],
+	"summary": "libtiff-devel-32bit-4.3.0-1.6 on GA media",
+	"details": "These are all security issues fixed in the libtiff-devel-32bit-4.3.0-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0561"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0562"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0865"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0891"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0907"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0908"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0909"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-0924"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-1056"
+		}
+	]
+}

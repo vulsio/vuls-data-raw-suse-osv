@@ -1,0 +1,80 @@
+{
+	"id": "SUSE-SU-2023:3029-1",
+	"modified": "2023-07-31T08:10:35Z",
+	"published": "2023-07-31T08:10:35Z",
+	"related": [
+		"CVE-2023-29450"
+	],
+	"summary": "Security update for zabbix",
+	"details": "This update for zabbix fixes the following issues:\n\n  - CVE-2023-29450: Fixed unauthorized file system access in JS preprocessing (bsc#1213307).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "zabbix",
+				"purl": "purl:rpm/suse/zabbix&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.12-4.24.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zabbix-agent": "4.0.12-4.24.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "zabbix",
+				"purl": "purl:rpm/suse/zabbix&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.12-4.24.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zabbix-agent": "4.0.12-4.24.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20233029-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1213307"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-29450"
+		}
+	]
+}

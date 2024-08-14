@@ -1,0 +1,109 @@
+{
+	"id": "SUSE-SU-2018:3253-1",
+	"modified": "2018-10-19T10:51:47Z",
+	"published": "2018-10-19T10:51:47Z",
+	"related": [
+		"CVE-2018-10933"
+	],
+	"summary": "Security update for libssh",
+	"details": "\nThis update for libssh fixes the following issues:\n\nSecurity issue fixed:\n\n- CVE-2018-10933: Fixed a server mode authentication bypass (bsc#1108020).\n\nNon security issue fixed:\n\n- Fix popd syntax to be compatible with newer versions of the bash shell.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
+				"name": "libssh",
+				"purl": "purl:rpm/suse/libssh&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.3-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libssh4": "0.6.3-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
+				"name": "libssh",
+				"purl": "purl:rpm/suse/libssh&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.3-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libssh-devel": "0.6.3-12.6.1",
+						"libssh-devel-doc": "0.6.3-12.6.1",
+						"libssh4": "0.6.3-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
+				"name": "libssh",
+				"purl": "purl:rpm/suse/libssh&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.3-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libssh4": "0.6.3-12.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2018/suse-su-20183253-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1108020"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10933"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "openSUSE-SU-2024:12912-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-21987",
+		"CVE-2023-21988",
+		"CVE-2023-21989",
+		"CVE-2023-21990",
+		"CVE-2023-21991",
+		"CVE-2023-21998",
+		"CVE-2023-21999",
+		"CVE-2023-22000",
+		"CVE-2023-22001",
+		"CVE-2023-22002"
+	],
+	"summary": "python3-virtualbox-7.0.8-1.1 on GA media",
+	"details": "These are all security issues fixed in the python3-virtualbox-7.0.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21987"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21988"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21989"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21990"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21991"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21998"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-21999"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-22000"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-22001"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-22002"
+		}
+	]
+}

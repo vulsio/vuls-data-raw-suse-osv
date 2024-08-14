@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11346-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2013-0262",
+		"CVE-2013-0263",
+		"CVE-2015-3225",
+		"CVE-2018-16471",
+		"CVE-2019-16782"
+	],
+	"summary": "ruby2.7-rubygem-rack-2.0-2.0.9-1.10 on GA media",
+	"details": "These are all security issues fixed in the ruby2.7-rubygem-rack-2.0-2.0.9-1.10 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0262"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2013-0263"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2015-3225"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-16471"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-16782"
+		}
+	]
+}

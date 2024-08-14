@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:11165-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2019-3687",
+		"CVE-2019-3688",
+		"CVE-2019-3690",
+		"CVE-2020-8013"
+	],
+	"summary": "chkstat-1550_20210901-29.2 on GA media",
+	"details": "These are all security issues fixed in the chkstat-1550_20210901-29.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3687"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3688"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-3690"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8013"
+		}
+	]
+}

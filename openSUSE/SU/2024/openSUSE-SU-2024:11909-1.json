@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:11909-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-26381",
+		"CVE-2022-26383",
+		"CVE-2022-26384",
+		"CVE-2022-26386",
+		"CVE-2022-26387",
+		"CVE-2022-26485",
+		"CVE-2022-26486"
+	],
+	"summary": "MozillaThunderbird-91.7.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaThunderbird-91.7.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26381"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26383"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26384"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26386"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26387"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26485"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-26486"
+		}
+	]
+}

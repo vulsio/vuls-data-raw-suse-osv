@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:11842-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-22753",
+		"CVE-2022-22754",
+		"CVE-2022-22756",
+		"CVE-2022-22759",
+		"CVE-2022-22760",
+		"CVE-2022-22761",
+		"CVE-2022-22763",
+		"CVE-2022-22764"
+	],
+	"summary": "MozillaThunderbird-91.6.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaThunderbird-91.6.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22753"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22754"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22756"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22759"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22760"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22761"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22763"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-22764"
+		}
+	]
+}

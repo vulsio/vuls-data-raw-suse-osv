@@ -1,0 +1,226 @@
+{
+	"id": "SUSE-SU-2023:0579-2",
+	"modified": "2023-02-28T16:16:27Z",
+	"published": "2023-02-28T16:16:27Z",
+	"related": [
+		"CVE-2019-25013",
+		"CVE-2020-27618",
+		"CVE-2020-29562",
+		"CVE-2020-29573",
+		"CVE-2021-3326"
+	],
+	"summary": "Security update for glibc",
+	"details": "This update for glibc fixes the following issues:\n\nSecurity issues fixed:\n\n- CVE-2020-29573: x86: printf was hardened against non-normal long double values (bsc#1179721, BZ #26649)\n- CVE-2021-3326: Fix assertion failure in gconv ISO-2022-JP-3 module (bsc#1181505, BZ #27256)\n- CVE-2019-25013: Fix buffer overrun in EUC-KR conversion module (bsc#1182117, BZ #24973)\n- CVE-2020-27618: Accept redundant shift sequences in IBM1364 iconv (bsc#1178386, BZ #26224)\n- CVE-2020-29562: Fix incorrect UCS4 inner loop bounds in iconv (bsc#1179694, BZ #26923)\n\n- Schedule nscd cache pruning more accurately from re-added values (bsc#1018158)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc",
+				"purl": "purl:rpm/suse/glibc&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-devel",
+				"purl": "purl:rpm/suse/glibc-devel&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-html",
+				"purl": "purl:rpm/suse/glibc-html&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-i18ndata",
+				"purl": "purl:rpm/suse/glibc-i18ndata&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-info",
+				"purl": "purl:rpm/suse/glibc-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-locale",
+				"purl": "purl:rpm/suse/glibc-locale&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "glibc-profile",
+				"purl": "purl:rpm/suse/glibc-profile&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
+				"name": "nscd",
+				"purl": "purl:rpm/suse/nscd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.3-17.110.43.1"
+						}
+					]
+				}
+			]
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20230579-2/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1018158"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1178386"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1179694"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1179721"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1181505"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1182117"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-25013"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-27618"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-29562"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-29573"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3326"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:10931-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-15664",
+		"CVE-2019-10152"
+	],
+	"summary": "libcontainers-common-20210626-5.1 on GA media",
+	"details": "These are all security issues fixed in the libcontainers-common-20210626-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-15664"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-10152"
+		}
+	]
+}

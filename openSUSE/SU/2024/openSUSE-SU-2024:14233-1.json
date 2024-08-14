@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:14233-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-21131",
+		"CVE-2024-21138",
+		"CVE-2024-21140",
+		"CVE-2024-21144",
+		"CVE-2024-21145",
+		"CVE-2024-21147"
+	],
+	"summary": "java-1_8_0-openjdk-1.8.0.422-1.1 on GA media",
+	"details": "These are all security issues fixed in the java-1_8_0-openjdk-1.8.0.422-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21131"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21138"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21140"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21144"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21145"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21147"
+		}
+	]
+}

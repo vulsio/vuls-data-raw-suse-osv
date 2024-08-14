@@ -1,0 +1,80 @@
+{
+	"id": "SUSE-SU-2021:2545-1",
+	"modified": "2021-07-28T07:05:57Z",
+	"published": "2021-07-28T07:05:57Z",
+	"related": [
+		"CVE-2021-3570"
+	],
+	"summary": "Security update for linuxptp",
+	"details": "This update for linuxptp fixes the following issues:\n\n- CVE-2021-3570: Validate the messageLength field of incoming messages. (bsc#1187646)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8+git65.g303b08c-3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.8+git65.g303b08c-3.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "linuxptp",
+				"purl": "purl:rpm/suse/linuxptp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8+git65.g303b08c-3.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"linuxptp": "1.8+git65.g303b08c-3.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2021/suse-su-20212545-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1187646"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3570"
+		}
+	]
+}

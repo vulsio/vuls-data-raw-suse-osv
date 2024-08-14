@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:11431-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-10243",
+		"CVE-2018-17407",
+		"CVE-2019-18604",
+		"CVE-2020-8016"
+	],
+	"summary": "libkpathsea6-6.3.3-76.3 on GA media",
+	"details": "These are all security issues fixed in the libkpathsea6-6.3.3-76.3 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-10243"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-17407"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-18604"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8016"
+		}
+	]
+}

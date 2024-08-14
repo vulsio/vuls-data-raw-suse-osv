@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:10941-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2017-0379",
+		"CVE-2017-7526",
+		"CVE-2018-0495",
+		"CVE-2019-12904",
+		"CVE-2019-13627",
+		"CVE-2021-3345",
+		"CVE-2021-33560"
+	],
+	"summary": "libgcrypt-cavs-1.9.4-1.2 on GA media",
+	"details": "These are all security issues fixed in the libgcrypt-cavs-1.9.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-0379"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-7526"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-0495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-12904"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-13627"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-3345"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-33560"
+		}
+	]
+}

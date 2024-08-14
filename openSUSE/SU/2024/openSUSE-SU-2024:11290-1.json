@@ -1,0 +1,74 @@
+{
+	"id": "openSUSE-SU-2024:11290-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-2223",
+		"CVE-2007-1995",
+		"CVE-2017-16227",
+		"CVE-2017-5495",
+		"CVE-2018-5278",
+		"CVE-2018-5279",
+		"CVE-2018-5280",
+		"CVE-2018-5281",
+		"CVE-2018-5378",
+		"CVE-2018-5379",
+		"CVE-2018-5380",
+		"CVE-2018-5381"
+	],
+	"summary": "libfpm_pb0-1.2.4-2.14 on GA media",
+	"details": "These are all security issues fixed in the libfpm_pb0-1.2.4-2.14 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-2223"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2007-1995"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-16227"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-5495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5278"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5279"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5280"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5281"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5378"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5379"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5380"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-5381"
+		}
+	]
+}

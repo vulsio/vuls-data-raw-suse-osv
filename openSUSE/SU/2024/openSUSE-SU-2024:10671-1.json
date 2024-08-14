@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:10671-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2006-0528",
+		"CVE-2016-9082",
+		"CVE-2017-7475",
+		"CVE-2017-9814"
+	],
+	"summary": "cairo-devel-1.16.0-3.14 on GA media",
+	"details": "These are all security issues fixed in the cairo-devel-1.16.0-3.14 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2006-0528"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-9082"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-7475"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-9814"
+		}
+	]
+}

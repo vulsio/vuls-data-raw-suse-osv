@@ -1,0 +1,74 @@
+{
+	"id": "openSUSE-SU-2024:13623-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-10663",
+		"CVE-2020-10933",
+		"CVE-2021-28965",
+		"CVE-2021-31799",
+		"CVE-2021-31810",
+		"CVE-2021-32066",
+		"CVE-2021-41816",
+		"CVE-2021-41817",
+		"CVE-2021-41819",
+		"CVE-2022-28738",
+		"CVE-2022-28739",
+		"CVE-2023-28755"
+	],
+	"summary": "libruby3_3-3_3-3.3.0-1.2 on GA media",
+	"details": "These are all security issues fixed in the libruby3_3-3_3-3.3.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-10663"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-10933"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-28965"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-31799"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-31810"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32066"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41816"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41817"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41819"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28738"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-28739"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-28755"
+		}
+	]
+}

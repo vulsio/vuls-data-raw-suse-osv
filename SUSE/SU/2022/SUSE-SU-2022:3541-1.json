@@ -1,0 +1,242 @@
+{
+	"id": "SUSE-SU-2022:3541-1",
+	"modified": "2022-10-06T10:00:04Z",
+	"published": "2022-10-06T10:00:04Z",
+	"related": [
+		"CVE-2022-31197"
+	],
+	"summary": "Security update for postgresql-jdbc",
+	"details": "This update for postgresql-jdbc fixes the following issues:\n\n- CVE-2022-31197: Fixed SQL injection vulnerability (bsc#1202170).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 9",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20OpenStack%20Cloud%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "postgresql-jdbc",
+				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4-3.6.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql-jdbc": "9.4-3.6.3"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2022/suse-su-20223541-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1202170"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-31197"
+		}
+	]
+}

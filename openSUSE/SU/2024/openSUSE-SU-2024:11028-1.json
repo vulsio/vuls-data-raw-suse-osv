@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:11028-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-24370",
+		"CVE-2020-24371"
+	],
+	"summary": "liblua5_3-5-32bit-5.3.6-1.6 on GA media",
+	"details": "These are all security issues fixed in the liblua5_3-5-32bit-5.3.6-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-24370"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-24371"
+		}
+	]
+}

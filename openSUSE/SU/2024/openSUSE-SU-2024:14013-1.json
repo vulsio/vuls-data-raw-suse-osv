@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:14013-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-5493",
+		"CVE-2024-5494",
+		"CVE-2024-5495",
+		"CVE-2024-5496",
+		"CVE-2024-5497",
+		"CVE-2024-5498",
+		"CVE-2024-5499"
+	],
+	"summary": "chromedriver-125.0.6422.141-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-125.0.6422.141-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5493"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5494"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5496"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5497"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5498"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-5499"
+		}
+	]
+}

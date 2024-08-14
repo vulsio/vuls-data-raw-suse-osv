@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:12044-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-29909",
+		"CVE-2022-29910",
+		"CVE-2022-29911",
+		"CVE-2022-29912",
+		"CVE-2022-29914",
+		"CVE-2022-29915",
+		"CVE-2022-29916",
+		"CVE-2022-29917",
+		"CVE-2022-29918"
+	],
+	"summary": "MozillaFirefox-100.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-100.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29909"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29910"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29911"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29912"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29914"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29915"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29916"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29917"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-29918"
+		}
+	]
+}

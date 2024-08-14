@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:10693-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2016-9962",
+		"CVE-2018-16873",
+		"CVE-2018-16874",
+		"CVE-2018-16875",
+		"CVE-2019-5736",
+		"CVE-2020-15157",
+		"CVE-2020-15257",
+		"CVE-2021-21334",
+		"CVE-2021-32760"
+	],
+	"summary": "containerd-1.4.8-2.2 on GA media",
+	"details": "These are all security issues fixed in the containerd-1.4.8-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-9962"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-16873"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-16874"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-16875"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-5736"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-15157"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-15257"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-21334"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-32760"
+		}
+	]
+}

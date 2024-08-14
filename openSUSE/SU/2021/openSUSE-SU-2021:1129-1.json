@@ -1,0 +1,73 @@
+{
+	"id": "openSUSE-SU-2021:1129-1",
+	"modified": "2021-08-10T10:06:23Z",
+	"published": "2021-08-10T10:06:23Z",
+	"summary": "Recommended update for seamonkey",
+	"details": "\nThis update ships seamonkey to openSUSE Leap 15.3 and Packagehub 15-SP3.\n  ",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP3",
+				"name": "seamonkey",
+				"purl": "purl:rpm/suse/seamonkey&distro=SUSE%20Package%20Hub%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.53.8.1-6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"seamonkey": "2.53.8.1-6.1",
+						"seamonkey-dom-inspector": "2.53.8.1-6.1",
+						"seamonkey-irc": "2.53.8.1-6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "seamonkey",
+				"purl": "purl:rpm/suse/seamonkey&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.53.8.1-6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"seamonkey": "2.53.8.1-6.1",
+						"seamonkey-dom-inspector": "2.53.8.1-6.1",
+						"seamonkey-irc": "2.53.8.1-6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/XZ6H2V6TXYVFN4JWUSAXGDCS7XUAMPFD/"
+		}
+	]
+}

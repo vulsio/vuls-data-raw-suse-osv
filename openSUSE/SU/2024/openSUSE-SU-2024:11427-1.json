@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:11427-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2014-9351",
+		"CVE-2019-20787",
+		"CVE-2020-12066"
+	],
+	"summary": "teeworlds-0.7.5-2.9 on GA media",
+	"details": "These are all security issues fixed in the teeworlds-0.7.5-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-9351"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-20787"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12066"
+		}
+	]
+}

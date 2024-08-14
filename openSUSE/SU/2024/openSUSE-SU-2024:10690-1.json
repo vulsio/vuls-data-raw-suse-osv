@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10690-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2011-4953",
+		"CVE-2016-9605",
+		"CVE-2017-1000469",
+		"CVE-2018-1000225",
+		"CVE-2018-1000226",
+		"CVE-2018-10931"
+	],
+	"summary": "cobbler-3.2.1.336+git.5639a3af-1.1 on GA media",
+	"details": "These are all security issues fixed in the cobbler-3.2.1.336+git.5639a3af-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4953"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2016-9605"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-1000469"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1000225"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1000226"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-10931"
+		}
+	]
+}

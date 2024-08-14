@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12589-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-43592",
+		"CVE-2022-43593",
+		"CVE-2022-43594",
+		"CVE-2022-43595",
+		"CVE-2022-43596",
+		"CVE-2022-43597",
+		"CVE-2022-43599",
+		"CVE-2022-43603"
+	],
+	"summary": "OpenImageIO-2.4.6.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the OpenImageIO-2.4.6.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43592"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43593"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43594"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43595"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43596"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43597"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43599"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-43603"
+		}
+	]
+}

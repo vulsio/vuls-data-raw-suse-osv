@@ -1,0 +1,39 @@
+{
+	"id": "openSUSE-SU-2024:11370-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-0543",
+		"CVE-2020-0548",
+		"CVE-2020-12351",
+		"CVE-2020-1472",
+		"CVE-2020-25705"
+	],
+	"summary": "sca-patterns-sle12-1.0.8-2.2 on GA media",
+	"details": "These are all security issues fixed in the sca-patterns-sle12-1.0.8-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-0543"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-0548"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-12351"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-1472"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-25705"
+		}
+	]
+}

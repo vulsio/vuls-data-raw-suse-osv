@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:12494-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-3885",
+		"CVE-2022-3886",
+		"CVE-2022-3887",
+		"CVE-2022-3888",
+		"CVE-2022-3889",
+		"CVE-2022-3890"
+	],
+	"summary": "chromedriver-107.0.5304.110-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-107.0.5304.110-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3885"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3886"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3887"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3888"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3889"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3890"
+		}
+	]
+}

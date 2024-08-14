@@ -1,0 +1,54 @@
+{
+	"id": "SUSE-SU-2020:1057-1",
+	"modified": "2020-04-21T15:14:10Z",
+	"published": "2020-04-21T15:14:10Z",
+	"related": [
+		"CVE-2020-7942"
+	],
+	"summary": "Security update for puppet",
+	"details": "This update for puppet fixes the following issues:\n\n- CVE-2020-7942: Added a warning for a vulnerable configuration option, which could allow\n  for information disclosure in certain setups. Disabling it my break some setups. (bsc#1167645)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
+				"name": "puppet",
+				"purl": "purl:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.8.5-15.12.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"puppet": "3.8.5-15.12.1",
+						"puppet-server": "3.8.5-15.12.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2020/suse-su-20201057-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1167645"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-7942"
+		}
+	]
+}

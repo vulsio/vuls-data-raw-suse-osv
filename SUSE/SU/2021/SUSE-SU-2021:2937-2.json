@@ -1,0 +1,57 @@
+{
+	"id": "SUSE-SU-2021:2937-2",
+	"modified": "2021-09-21T14:38:11Z",
+	"published": "2021-09-21T14:38:11Z",
+	"related": [
+		"CVE-2019-19977"
+	],
+	"summary": "Security update for libesmtp",
+	"details": "This update for libesmtp fixes the following issues:\n\n- CVE-2019-19977: Fixed stack-based buffer over-read in ntlm/ntlmstruct.c (bsc#1160462).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
+				"name": "libesmtp",
+				"purl": "purl:rpm/suse/libesmtp&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.6-150.4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libesmtp": "1.0.6-150.4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2021/suse-su-20212937-2/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1160462"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1189097"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-19977"
+		}
+	]
+}

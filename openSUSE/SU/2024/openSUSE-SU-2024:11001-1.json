@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:11001-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2018-1000654",
+		"CVE-2018-6003"
+	],
+	"summary": "libtasn1-6-32bit-4.17.0-1.2 on GA media",
+	"details": "These are all security issues fixed in the libtasn1-6-32bit-4.17.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-1000654"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2018-6003"
+		}
+	]
+}

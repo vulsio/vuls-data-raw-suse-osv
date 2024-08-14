@@ -1,0 +1,82 @@
+{
+	"id": "openSUSE-SU-2022:10098-1",
+	"modified": "2022-08-24T04:01:23Z",
+	"published": "2022-08-24T04:01:23Z",
+	"related": [
+		"CVE-2022-23607"
+	],
+	"summary": "Security update for python-treq",
+	"details": "This update for python-treq fixes the following issues:\n\n- Fixed CVE-2022-23607 (boo#1195432) binding cookies to the domain.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP3",
+				"name": "python-treq",
+				"purl": "purl:rpm/suse/python-treq&distro=SUSE%20Package%20Hub%2015%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20.3.0-bp153.2.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-treq": "20.3.0-bp153.2.3.1",
+						"python3-treq": "20.3.0-bp153.2.3.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.3",
+				"name": "python-treq",
+				"purl": "purl:rpm/suse/python-treq&distro=openSUSE%20Leap%2015.3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20.3.0-bp153.2.3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python2-treq": "20.3.0-bp153.2.3.1",
+						"python3-treq": "20.3.0-bp153.2.3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/ZTECPNLPX6QR5JLJ2KQYTBYWNU6ZRUSG/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1195432"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-23607"
+		}
+	]
+}

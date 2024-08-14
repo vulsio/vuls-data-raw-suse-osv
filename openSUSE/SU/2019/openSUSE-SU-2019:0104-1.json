@@ -1,0 +1,92 @@
+{
+	"id": "openSUSE-SU-2019:0104-1",
+	"modified": "2019-03-23T10:51:18Z",
+	"published": "2019-03-23T10:51:18Z",
+	"related": [
+		"CVE-2019-6116"
+	],
+	"summary": "Security update for ghostscript",
+	"details": "This update for ghostscript version 9.26a fixes the following issues:\n\nSecurity issue fixed:\n\n- CVE-2019-6116: subroutines within pseudo-operators must themselves be pseudo-operators (bsc#1122319)\n\nThis update was imported from the SUSE:SLE-15:Update update project.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.0",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Leap%2015.0"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-lp150.2.12.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-lp150.2.12.1",
+						"ghostscript-devel": "9.26a-lp150.2.12.1",
+						"ghostscript-mini": "9.26a-lp150.2.12.1",
+						"ghostscript-mini-devel": "9.26a-lp150.2.12.1",
+						"ghostscript-x11": "9.26a-lp150.2.12.1",
+						"libspectre-devel": "0.2.8-lp150.2.9.2",
+						"libspectre1": "0.2.8-lp150.2.9.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.0",
+				"name": "ghostscript-mini",
+				"purl": "purl:rpm/suse/ghostscript-mini&distro=openSUSE%20Leap%2015.0"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-lp150.2.12.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-lp150.2.12.1",
+						"ghostscript-devel": "9.26a-lp150.2.12.1",
+						"ghostscript-mini": "9.26a-lp150.2.12.1",
+						"ghostscript-mini-devel": "9.26a-lp150.2.12.1",
+						"ghostscript-x11": "9.26a-lp150.2.12.1",
+						"libspectre-devel": "0.2.8-lp150.2.9.2",
+						"libspectre1": "0.2.8-lp150.2.9.2"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JX3MAI6H4MC2EFU7457Y7TRWIFXUVGDS/#JX3MAI6H4MC2EFU7457Y7TRWIFXUVGDS"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1122319"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-6116"
+		}
+	]
+}

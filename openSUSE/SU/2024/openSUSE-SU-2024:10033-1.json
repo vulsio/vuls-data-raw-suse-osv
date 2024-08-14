@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:10033-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2011-3153",
+		"CVE-2011-3349",
+		"CVE-2011-4105",
+		"CVE-2012-1111"
+	],
+	"summary": "liblightdm-gobject-1-0-1.21.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the liblightdm-gobject-1-0-1.21.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-3153"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-3349"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2011-4105"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-1111"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "openSUSE-SU-2024:13605-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-22420",
+		"CVE-2024-22421"
+	],
+	"summary": "jupyter-jupyterlab-4.0.11-1.1 on GA media",
+	"details": "These are all security issues fixed in the jupyter-jupyterlab-4.0.11-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-22420"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-22421"
+		}
+	]
+}

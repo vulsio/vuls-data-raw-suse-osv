@@ -1,0 +1,92 @@
+{
+	"id": "SUSE-SU-2023:2530-1",
+	"modified": "2023-06-16T19:47:05Z",
+	"published": "2023-06-16T19:47:05Z",
+	"related": [
+		"CVE-2023-20867"
+	],
+	"summary": "Security update for open-vm-tools",
+	"details": "This update for open-vm-tools fixes the following issues:\n\n- CVE-2023-20867: Fixed authentication bypass vulnerability in the vgauth module (bsc#1212143).\n\nBug fixes:\n\n- Fixed build problem with grpc 1.54 (bsc#1210695).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
+				"name": "open-vm-tools",
+				"purl": "purl:rpm/suse/open-vm-tools&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.2.0-4.53.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvmtools0": "12.2.0-4.53.1",
+						"open-vm-tools": "12.2.0-4.53.1",
+						"open-vm-tools-desktop": "12.2.0-4.53.1",
+						"open-vm-tools-salt-minion": "12.2.0-4.53.1",
+						"open-vm-tools-sdmp": "12.2.0-4.53.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
+				"name": "open-vm-tools",
+				"purl": "purl:rpm/suse/open-vm-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.2.0-4.53.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvmtools0": "12.2.0-4.53.1",
+						"open-vm-tools": "12.2.0-4.53.1",
+						"open-vm-tools-desktop": "12.2.0-4.53.1",
+						"open-vm-tools-salt-minion": "12.2.0-4.53.1",
+						"open-vm-tools-sdmp": "12.2.0-4.53.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2023/suse-su-20232530-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1210695"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1212143"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-20867"
+		}
+	]
+}

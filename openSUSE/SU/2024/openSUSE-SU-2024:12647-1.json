@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:12647-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2022-4345",
+		"CVE-2023-0411",
+		"CVE-2023-0412",
+		"CVE-2023-0413",
+		"CVE-2023-0414",
+		"CVE-2023-0415",
+		"CVE-2023-0416",
+		"CVE-2023-0417"
+	],
+	"summary": "libwireshark16-4.0.3-2.1 on GA media",
+	"details": "These are all security issues fixed in the libwireshark16-4.0.3-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-4345"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0411"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0412"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0413"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0414"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0415"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0416"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0417"
+		}
+	]
+}

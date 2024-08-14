@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:14116-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2024-36387",
+		"CVE-2024-38472",
+		"CVE-2024-38473",
+		"CVE-2024-38474",
+		"CVE-2024-38475",
+		"CVE-2024-38476",
+		"CVE-2024-38477",
+		"CVE-2024-39573",
+		"CVE-2024-39884"
+	],
+	"summary": "apache2-2.4.61-1.1 on GA media",
+	"details": "These are all security issues fixed in the apache2-2.4.61-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-36387"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38472"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38473"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38474"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38475"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38476"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-38477"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-39573"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-39884"
+		}
+	]
+}

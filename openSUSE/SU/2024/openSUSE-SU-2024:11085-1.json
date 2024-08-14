@@ -1,0 +1,34 @@
+{
+	"id": "openSUSE-SU-2024:11085-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2020-10707",
+		"CVE-2020-11612",
+		"CVE-2021-21290",
+		"CVE-2021-21295"
+	],
+	"summary": "netty-4.1.60-1.4 on GA media",
+	"details": "These are all security issues fixed in the netty-4.1.60-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-10707"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-11612"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-21290"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-21295"
+		}
+	]
+}

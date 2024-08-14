@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:13356-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2023-5721",
+		"CVE-2023-5724",
+		"CVE-2023-5725",
+		"CVE-2023-5726",
+		"CVE-2023-5727",
+		"CVE-2023-5728",
+		"CVE-2023-5730",
+		"CVE-2023-5732"
+	],
+	"summary": "MozillaThunderbird-115.4.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaThunderbird-115.4.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5721"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5724"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5725"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5726"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5727"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5728"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5730"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-5732"
+		}
+	]
+}

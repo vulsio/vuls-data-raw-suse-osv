@@ -1,0 +1,44 @@
+{
+	"id": "openSUSE-SU-2024:10080-1",
+	"modified": "2024-08-13T21:44:48Z",
+	"published": "2024-08-13T21:44:48Z",
+	"related": [
+		"CVE-2010-2490",
+		"CVE-2012-0863",
+		"CVE-2014-0044",
+		"CVE-2014-0045",
+		"CVE-2014-3755",
+		"CVE-2014-3756"
+	],
+	"summary": "mumble-1.2.17-1.2 on GA media",
+	"details": "These are all security issues fixed in the mumble-1.2.17-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2010-2490"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2012-0863"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0044"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-0045"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3755"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2014-3756"
+		}
+	]
+}

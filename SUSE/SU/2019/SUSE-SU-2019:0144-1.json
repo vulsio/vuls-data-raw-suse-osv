@@ -1,0 +1,892 @@
+{
+	"id": "SUSE-SU-2019:0144-1",
+	"modified": "2019-01-23T14:54:57Z",
+	"published": "2019-01-23T14:54:57Z",
+	"related": [
+		"CVE-2019-6116"
+	],
+	"summary": "Security update for ghostscript",
+	"details": "This update for ghostscript to version 9.26a fixes the following issues:\n\nSecurity issue fixed:\n\n- CVE-2019-6116: subroutines within pseudo-operators must themselves be pseudo-operators (bsc#1122319)\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 7",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20OpenStack%20Cloud%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:OpenStack Cloud 7",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20OpenStack%20Cloud%207"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript-devel": "9.26a-23.19.1",
+						"libspectre-devel": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript-devel": "9.26a-23.19.1",
+						"libspectre-devel": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript-devel": "9.26a-23.19.1",
+						"libspectre-devel": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript-devel": "9.26a-23.19.1",
+						"libspectre-devel": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 4",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=SUSE%20Enterprise%20Storage%204"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.26a-23.19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Enterprise Storage 4",
+				"name": "libspectre",
+				"purl": "purl:rpm/suse/libspectre&distro=SUSE%20Enterprise%20Storage%204"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.7-12.6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.26a-23.19.1",
+						"ghostscript-x11": "9.26a-23.19.1",
+						"libspectre1": "0.2.7-12.6.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2019/suse-su-20190144-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1122319"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-6116"
+		}
+	]
+}
