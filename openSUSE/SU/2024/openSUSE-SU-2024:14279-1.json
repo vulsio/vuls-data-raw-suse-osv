@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:14279-1",
+	"modified": "2024-08-20T21:45:03Z",
+	"published": "2024-08-20T21:45:03Z",
+	"related": [
+		"CVE-2024-42353"
+	],
+	"summary": "python-WebOb-doc-1.8.8-1.1 on GA media",
+	"details": "These are all security issues fixed in the python-WebOb-doc-1.8.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42353"
+		}
+	]
+}
