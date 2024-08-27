@@ -1,7 +1,7 @@
 {
 	"id": "SUSE-SU-2024:2973-1",
-	"modified": "2024-08-20T07:15:52Z",
-	"published": "2024-08-20T07:15:52Z",
+	"modified": "2024-08-20T07:15:53Z",
+	"published": "2024-08-20T07:15:53Z",
 	"related": [
 		"CVE-2021-47432",
 		"CVE-2022-48772",
@@ -961,6 +961,186 @@
 						"kernel-source-rt": "6.4.0-150600.10.5.1",
 						"kernel-syms-rt": "6.4.0-150600.10.5.1",
 						"ocfs2-kmp-rt": "6.4.0-150600.10.5.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.6",
+				"name": "kernel-rt",
+				"purl": "purl:rpm/suse/kernel-rt&distro=openSUSE%20Leap%2015.6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.4.0-150600.10.5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cluster-md-kmp-rt": "6.4.0-150600.10.5.1",
+						"dlm-kmp-rt": "6.4.0-150600.10.5.1",
+						"gfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"kernel-devel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-extra": "6.4.0-150600.10.5.1",
+						"kernel-rt-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-optional": "6.4.0-150600.10.5.1",
+						"kernel-rt-vdso": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-vdso": "6.4.0-150600.10.5.1",
+						"kernel-source-rt": "6.4.0-150600.10.5.1",
+						"kernel-syms-rt": "6.4.0-150600.10.5.1",
+						"kselftests-kmp-rt": "6.4.0-150600.10.5.1",
+						"ocfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"reiserfs-kmp-rt": "6.4.0-150600.10.5.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.6",
+				"name": "kernel-rt_debug",
+				"purl": "purl:rpm/suse/kernel-rt_debug&distro=openSUSE%20Leap%2015.6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.4.0-150600.10.5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cluster-md-kmp-rt": "6.4.0-150600.10.5.1",
+						"dlm-kmp-rt": "6.4.0-150600.10.5.1",
+						"gfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"kernel-devel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-extra": "6.4.0-150600.10.5.1",
+						"kernel-rt-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-optional": "6.4.0-150600.10.5.1",
+						"kernel-rt-vdso": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-vdso": "6.4.0-150600.10.5.1",
+						"kernel-source-rt": "6.4.0-150600.10.5.1",
+						"kernel-syms-rt": "6.4.0-150600.10.5.1",
+						"kselftests-kmp-rt": "6.4.0-150600.10.5.1",
+						"ocfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"reiserfs-kmp-rt": "6.4.0-150600.10.5.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.6",
+				"name": "kernel-source-rt",
+				"purl": "purl:rpm/suse/kernel-source-rt&distro=openSUSE%20Leap%2015.6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.4.0-150600.10.5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cluster-md-kmp-rt": "6.4.0-150600.10.5.1",
+						"dlm-kmp-rt": "6.4.0-150600.10.5.1",
+						"gfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"kernel-devel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-extra": "6.4.0-150600.10.5.1",
+						"kernel-rt-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-optional": "6.4.0-150600.10.5.1",
+						"kernel-rt-vdso": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-vdso": "6.4.0-150600.10.5.1",
+						"kernel-source-rt": "6.4.0-150600.10.5.1",
+						"kernel-syms-rt": "6.4.0-150600.10.5.1",
+						"kselftests-kmp-rt": "6.4.0-150600.10.5.1",
+						"ocfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"reiserfs-kmp-rt": "6.4.0-150600.10.5.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.6",
+				"name": "kernel-syms-rt",
+				"purl": "purl:rpm/suse/kernel-syms-rt&distro=openSUSE%20Leap%2015.6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.4.0-150600.10.5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cluster-md-kmp-rt": "6.4.0-150600.10.5.1",
+						"dlm-kmp-rt": "6.4.0-150600.10.5.1",
+						"gfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"kernel-devel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt": "6.4.0-150600.10.5.1",
+						"kernel-rt-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-extra": "6.4.0-150600.10.5.1",
+						"kernel-rt-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt-optional": "6.4.0-150600.10.5.1",
+						"kernel-rt-vdso": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-livepatch-devel": "6.4.0-150600.10.5.1",
+						"kernel-rt_debug-vdso": "6.4.0-150600.10.5.1",
+						"kernel-source-rt": "6.4.0-150600.10.5.1",
+						"kernel-syms-rt": "6.4.0-150600.10.5.1",
+						"kselftests-kmp-rt": "6.4.0-150600.10.5.1",
+						"ocfs2-kmp-rt": "6.4.0-150600.10.5.1",
+						"reiserfs-kmp-rt": "6.4.0-150600.10.5.1"
 					}
 				]
 			}
