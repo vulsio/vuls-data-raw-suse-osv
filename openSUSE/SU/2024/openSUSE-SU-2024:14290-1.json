@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:14290-1",
+	"modified": "2024-08-27T21:46:08Z",
+	"published": "2024-08-27T21:46:08Z",
+	"related": [
+		"CVE-2024-7272"
+	],
+	"summary": "ffmpeg-5-5.1.4-11.1 on GA media",
+	"details": "These are all security issues fixed in the ffmpeg-5-5.1.4-11.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-7272"
+		}
+	]
+}

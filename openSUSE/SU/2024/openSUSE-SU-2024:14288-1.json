@@ -1,0 +1,19 @@
+{
+	"id": "openSUSE-SU-2024:14288-1",
+	"modified": "2024-08-27T21:46:08Z",
+	"published": "2024-08-27T21:46:08Z",
+	"related": [
+		"CVE-2024-42369"
+	],
+	"summary": "element-desktop-1.11.75-1.1 on GA media",
+	"details": "These are all security issues fixed in the element-desktop-1.11.75-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42369"
+		}
+	]
+}
