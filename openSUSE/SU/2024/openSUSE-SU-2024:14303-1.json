@@ -1,0 +1,29 @@
+{
+	"id": "openSUSE-SU-2024:14303-1",
+	"modified": "2024-08-31T00:00:00Z",
+	"published": "2024-08-31T00:00:00Z",
+	"related": [
+		"CVE-2024-8193",
+		"CVE-2024-8194",
+		"CVE-2024-8198"
+	],
+	"summary": "chromedriver-128.0.6613.113-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-128.0.6613.113-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-8193"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-8194"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-8198"
+		}
+	]
+}
