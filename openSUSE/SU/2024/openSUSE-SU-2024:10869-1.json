@@ -44,6 +44,38 @@
 	],
 	"summary": "jasper-2.0.33-1.2 on GA media",
 	"details": "These are all security issues fixed in the jasper-2.0.33-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jasper",
+				"purl": "purl:rpm/suse/jasper&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.33-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jasper": "2.0.33-1.2",
+						"libjasper-devel": "2.0.33-1.2",
+						"libjasper4": "2.0.33-1.2",
+						"libjasper4-32bit": "2.0.33-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

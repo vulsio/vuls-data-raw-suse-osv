@@ -7,6 +7,38 @@
 	],
 	"summary": "python-WebOb-doc-1.8.8-1.1 on GA media",
 	"details": "These are all security issues fixed in the python-WebOb-doc-1.8.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-WebOb",
+				"purl": "purl:rpm/suse/python-WebOb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.8-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-WebOb-doc": "1.8.8-1.1",
+						"python310-WebOb": "1.8.8-1.1",
+						"python311-WebOb": "1.8.8-1.1",
+						"python312-WebOb": "1.8.8-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

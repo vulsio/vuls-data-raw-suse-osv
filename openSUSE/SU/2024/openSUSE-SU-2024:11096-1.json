@@ -25,6 +25,38 @@
 	],
 	"summary": "nodejs14-14.17.5-1.2 on GA media",
 	"details": "These are all security issues fixed in the nodejs14-14.17.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs14",
+				"purl": "purl:rpm/suse/nodejs14&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "14.17.5-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"nodejs14": "14.17.5-1.2",
+						"nodejs14-devel": "14.17.5-1.2",
+						"nodejs14-docs": "14.17.5-1.2",
+						"npm14": "14.17.5-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

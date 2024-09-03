@@ -7,6 +7,41 @@
 	],
 	"summary": "xen-4.18.2_06-2.1 on GA media",
 	"details": "These are all security issues fixed in the xen-4.18.2_06-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xen",
+				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.18.2_06-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xen": "4.18.2_06-2.1",
+						"xen-devel": "4.18.2_06-2.1",
+						"xen-doc-html": "4.18.2_06-2.1",
+						"xen-libs": "4.18.2_06-2.1",
+						"xen-tools": "4.18.2_06-2.1",
+						"xen-tools-domU": "4.18.2_06-2.1",
+						"xen-tools-xendomains-wait-disk": "4.18.2_06-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

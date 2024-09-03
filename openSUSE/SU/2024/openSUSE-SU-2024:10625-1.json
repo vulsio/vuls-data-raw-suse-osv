@@ -9,6 +9,35 @@
 	],
 	"summary": "apache2-mod_jk-1.2.48-2.9 on GA media",
 	"details": "These are all security issues fixed in the apache2-mod_jk-1.2.48-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache2-mod_jk",
+				"purl": "purl:rpm/suse/apache2-mod_jk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.48-2.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_jk": "1.2.48-2.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

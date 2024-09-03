@@ -8,6 +8,36 @@
 	],
 	"summary": "a2ps-4.14-6.6 on GA media",
 	"details": "These are all security issues fixed in the a2ps-4.14-6.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "a2ps",
+				"purl": "purl:rpm/suse/a2ps&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.14-6.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"a2ps": "4.14-6.6",
+						"a2ps-devel": "4.14-6.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

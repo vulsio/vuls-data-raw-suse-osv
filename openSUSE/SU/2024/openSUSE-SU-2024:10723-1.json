@@ -7,6 +7,35 @@
 	],
 	"summary": "docker-distribution-registry-2.7.1-7.2 on GA media",
 	"details": "These are all security issues fixed in the docker-distribution-registry-2.7.1-7.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "docker-distribution-registry",
+				"purl": "purl:rpm/suse/docker-distribution-registry&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.1-7.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"docker-distribution-registry": "2.7.1-7.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

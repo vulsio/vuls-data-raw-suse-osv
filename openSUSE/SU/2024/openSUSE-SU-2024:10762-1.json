@@ -10,6 +10,40 @@
 	],
 	"summary": "flatpak-1.11.3-1.2 on GA media",
 	"details": "These are all security issues fixed in the flatpak-1.11.3-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "flatpak",
+				"purl": "purl:rpm/suse/flatpak&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.11.3-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"flatpak": "1.11.3-1.2",
+						"flatpak-devel": "1.11.3-1.2",
+						"flatpak-zsh-completion": "1.11.3-1.2",
+						"libflatpak0": "1.11.3-1.2",
+						"system-user-flatpak": "1.11.3-1.2",
+						"typelib-1_0-Flatpak-1_0": "1.11.3-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

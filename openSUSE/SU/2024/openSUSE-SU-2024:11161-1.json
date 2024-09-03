@@ -8,6 +8,35 @@
 	],
 	"summary": "perl-DBI-1.643-2.7 on GA media",
 	"details": "These are all security issues fixed in the perl-DBI-1.643-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-DBI",
+				"purl": "purl:rpm/suse/perl-DBI&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.643-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-DBI": "1.643-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

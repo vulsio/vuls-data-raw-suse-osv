@@ -7,6 +7,45 @@
 	],
 	"summary": "python3-virtualbox-6.1.36-1.1 on GA media",
 	"details": "These are all security issues fixed in the python3-virtualbox-6.1.36-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "virtualbox",
+				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.1.36-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python3-virtualbox": "6.1.36-1.1",
+						"virtualbox": "6.1.36-1.1",
+						"virtualbox-devel": "6.1.36-1.1",
+						"virtualbox-guest-desktop-icons": "6.1.36-1.1",
+						"virtualbox-guest-source": "6.1.36-1.1",
+						"virtualbox-guest-tools": "6.1.36-1.1",
+						"virtualbox-guest-x11": "6.1.36-1.1",
+						"virtualbox-host-source": "6.1.36-1.1",
+						"virtualbox-qt": "6.1.36-1.1",
+						"virtualbox-vnc": "6.1.36-1.1",
+						"virtualbox-websrv": "6.1.36-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -13,6 +13,35 @@
 	],
 	"summary": "stb-devel-2.36.1594640766.b42009b-1.4 on GA media",
 	"details": "These are all security issues fixed in the stb-devel-2.36.1594640766.b42009b-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "stb",
+				"purl": "purl:rpm/suse/stb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.36.1594640766.b42009b-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"stb-devel": "2.36.1594640766.b42009b-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

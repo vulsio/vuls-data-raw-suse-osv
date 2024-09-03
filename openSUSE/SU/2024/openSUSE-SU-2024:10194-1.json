@@ -11,6 +11,36 @@
 	],
 	"summary": "fetchmail-6.3.26-13.4 on GA media",
 	"details": "These are all security issues fixed in the fetchmail-6.3.26-13.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fetchmail",
+				"purl": "purl:rpm/suse/fetchmail&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.3.26-13.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fetchmail": "6.3.26-13.4",
+						"fetchmailconf": "6.3.26-13.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

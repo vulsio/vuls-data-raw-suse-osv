@@ -7,6 +7,40 @@
 	],
 	"summary": "python-2.7.18-47.1 on GA media",
 	"details": "These are all security issues fixed in the python-2.7.18-47.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python",
+				"purl": "purl:rpm/suse/python&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.18-47.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python": "2.7.18-47.1",
+						"python-curses": "2.7.18-47.1",
+						"python-demo": "2.7.18-47.1",
+						"python-gdbm": "2.7.18-47.1",
+						"python-idle": "2.7.18-47.1",
+						"python-tk": "2.7.18-47.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

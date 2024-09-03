@@ -7,6 +7,35 @@
 	],
 	"summary": "sblim-sfcb-1.4.9-13.6 on GA media",
 	"details": "These are all security issues fixed in the sblim-sfcb-1.4.9-13.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sblim-sfcb",
+				"purl": "purl:rpm/suse/sblim-sfcb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.9-13.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"sblim-sfcb": "1.4.9-13.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "gnome-remote-desktop-46.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the gnome-remote-desktop-46.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gnome-remote-desktop",
+				"purl": "purl:rpm/suse/gnome-remote-desktop&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "46.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gnome-remote-desktop": "46.2-1.1",
+						"gnome-remote-desktop-lang": "46.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,35 @@
 	],
 	"summary": "jgraphx-3.9.2-1.9 on GA media",
 	"details": "These are all security issues fixed in the jgraphx-3.9.2-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jgraphx",
+				"purl": "purl:rpm/suse/jgraphx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.9.2-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jgraphx": "3.9.2-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

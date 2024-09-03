@@ -12,6 +12,44 @@
 	],
 	"summary": "libsnmp40-32bit-5.9.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the libsnmp40-32bit-5.9.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "net-snmp",
+				"purl": "purl:rpm/suse/net-snmp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.9.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsnmp40": "5.9.2-1.1",
+						"libsnmp40-32bit": "5.9.2-1.1",
+						"net-snmp": "5.9.2-1.1",
+						"net-snmp-devel": "5.9.2-1.1",
+						"net-snmp-devel-32bit": "5.9.2-1.1",
+						"perl-SNMP": "5.9.2-1.1",
+						"python310-net-snmp": "5.9.2-1.1",
+						"python38-net-snmp": "5.9.2-1.1",
+						"python39-net-snmp": "5.9.2-1.1",
+						"snmp-mibs": "5.9.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

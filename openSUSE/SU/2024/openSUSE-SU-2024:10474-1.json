@@ -7,6 +7,35 @@
 	],
 	"summary": "python-eyeD3-0.7.4-3.3 on GA media",
 	"details": "These are all security issues fixed in the python-eyeD3-0.7.4-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-eyeD3",
+				"purl": "purl:rpm/suse/python-eyeD3&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.7.4-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-eyeD3": "0.7.4-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

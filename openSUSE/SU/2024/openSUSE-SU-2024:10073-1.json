@@ -20,6 +20,37 @@
 	],
 	"summary": "otrs-3.3.16-37.1 on GA media",
 	"details": "These are all security issues fixed in the otrs-3.3.16-37.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "otrs",
+				"purl": "purl:rpm/suse/otrs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.14-37.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"otrs": "3.3.16-37.1",
+						"otrs-doc": "3.3.16-37.1",
+						"otrs-itsm": "3.3.14-37.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

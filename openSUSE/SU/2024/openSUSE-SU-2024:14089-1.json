@@ -8,6 +8,37 @@
 	],
 	"summary": "python310-PyYAML-6.0.1-4.1 on GA media",
 	"details": "These are all security issues fixed in the python310-PyYAML-6.0.1-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-PyYAML",
+				"purl": "purl:rpm/suse/python-PyYAML&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.0.1-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-PyYAML": "6.0.1-4.1",
+						"python311-PyYAML": "6.0.1-4.1",
+						"python312-PyYAML": "6.0.1-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

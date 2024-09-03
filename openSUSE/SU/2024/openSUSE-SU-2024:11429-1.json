@@ -7,6 +7,35 @@
 	],
 	"summary": "terraform-0.14.10-1.12 on GA media",
 	"details": "These are all security issues fixed in the terraform-0.14.10-1.12 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "terraform",
+				"purl": "purl:rpm/suse/terraform&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.14.10-1.12"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"terraform": "0.14.10-1.12"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

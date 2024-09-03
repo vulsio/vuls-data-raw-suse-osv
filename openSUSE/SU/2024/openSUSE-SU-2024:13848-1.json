@@ -7,6 +7,37 @@
 	],
 	"summary": "apache2-mod_auth_mellon-0.19.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the apache2-mod_auth_mellon-0.19.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache2-mod_auth_mellon",
+				"purl": "purl:rpm/suse/apache2-mod_auth_mellon&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.19.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_auth_mellon": "0.19.0-1.1",
+						"apache2-mod_auth_mellon-diagnostics": "0.19.0-1.1",
+						"apache2-mod_auth_mellon-doc": "0.19.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

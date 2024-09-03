@@ -7,6 +7,35 @@
 	],
 	"summary": "element-desktop-1.9.9-1.1 on GA media",
 	"details": "These are all security issues fixed in the element-desktop-1.9.9-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "element-desktop",
+				"purl": "purl:rpm/suse/element-desktop&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.9-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"element-desktop": "1.9.9-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,35 @@
 	],
 	"summary": "shadowsocks-rust-1.18.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the shadowsocks-rust-1.18.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "shadowsocks-rust",
+				"purl": "purl:rpm/suse/shadowsocks-rust&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.18.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"shadowsocks-rust": "1.18.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

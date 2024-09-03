@@ -9,6 +9,35 @@
 	],
 	"summary": "lynis-3.0.5-3.2 on GA media",
 	"details": "These are all security issues fixed in the lynis-3.0.5-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lynis",
+				"purl": "purl:rpm/suse/lynis&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.5-3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"lynis": "3.0.5-3.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "pwgen-2.07-2.7 on GA media",
 	"details": "These are all security issues fixed in the pwgen-2.07-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pwgen",
+				"purl": "purl:rpm/suse/pwgen&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.07-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pwgen": "2.07-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

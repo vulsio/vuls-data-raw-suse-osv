@@ -7,6 +7,39 @@
 	],
 	"summary": "docker-26.1.5_ce-1.1 on GA media",
 	"details": "These are all security issues fixed in the docker-26.1.5_ce-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "docker",
+				"purl": "purl:rpm/suse/docker&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "26.1.5_ce-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"docker": "26.1.5_ce-1.1",
+						"docker-bash-completion": "26.1.5_ce-1.1",
+						"docker-fish-completion": "26.1.5_ce-1.1",
+						"docker-rootless-extras": "26.1.5_ce-1.1",
+						"docker-zsh-completion": "26.1.5_ce-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

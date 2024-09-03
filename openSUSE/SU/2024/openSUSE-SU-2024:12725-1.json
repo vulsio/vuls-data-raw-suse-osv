@@ -10,6 +10,39 @@
 	],
 	"summary": "corepack18-18.14.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the corepack18-18.14.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs18",
+				"purl": "purl:rpm/suse/nodejs18&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.14.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"corepack18": "18.14.2-1.1",
+						"nodejs18": "18.14.2-1.1",
+						"nodejs18-devel": "18.14.2-1.1",
+						"nodejs18-docs": "18.14.2-1.1",
+						"npm18": "18.14.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

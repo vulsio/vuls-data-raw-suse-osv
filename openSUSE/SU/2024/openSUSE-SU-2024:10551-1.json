@@ -12,6 +12,37 @@
 	],
 	"summary": "sudo-1.8.18p1-1.1 on GA media",
 	"details": "These are all security issues fixed in the sudo-1.8.18p1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sudo",
+				"purl": "purl:rpm/suse/sudo&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.18p1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"sudo": "1.8.18p1-1.1",
+						"sudo-devel": "1.8.18p1-1.1",
+						"sudo-test": "1.8.18p1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

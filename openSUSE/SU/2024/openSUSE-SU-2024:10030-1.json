@@ -41,6 +41,43 @@
 	],
 	"summary": "postgresql94-9.4.10-1.1 on GA media",
 	"details": "These are all security issues fixed in the postgresql94-9.4.10-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql94",
+				"purl": "purl:rpm/suse/postgresql94&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.4.10-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql94": "9.4.10-1.1",
+						"postgresql94-contrib": "9.4.10-1.1",
+						"postgresql94-devel": "9.4.10-1.1",
+						"postgresql94-docs": "9.4.10-1.1",
+						"postgresql94-plperl": "9.4.10-1.1",
+						"postgresql94-plpython": "9.4.10-1.1",
+						"postgresql94-pltcl": "9.4.10-1.1",
+						"postgresql94-server": "9.4.10-1.1",
+						"postgresql94-test": "9.4.10-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

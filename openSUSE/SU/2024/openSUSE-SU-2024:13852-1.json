@@ -9,6 +9,39 @@
 	],
 	"summary": "corepack21-21.7.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the corepack21-21.7.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs21",
+				"purl": "purl:rpm/suse/nodejs21&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.7.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"corepack21": "21.7.2-1.1",
+						"nodejs21": "21.7.2-1.1",
+						"nodejs21-devel": "21.7.2-1.1",
+						"nodejs21-docs": "21.7.2-1.1",
+						"npm21": "21.7.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

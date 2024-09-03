@@ -38,6 +38,40 @@
 	],
 	"summary": "libxml2-2-2.9.4-1.22 on GA media",
 	"details": "These are all security issues fixed in the libxml2-2-2.9.4-1.22 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libxml2",
+				"purl": "purl:rpm/suse/libxml2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.4-1.22"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libxml2-2": "2.9.4-1.22",
+						"libxml2-2-32bit": "2.9.4-1.22",
+						"libxml2-devel": "2.9.4-1.22",
+						"libxml2-devel-32bit": "2.9.4-1.22",
+						"libxml2-doc": "2.9.4-1.22",
+						"libxml2-tools": "2.9.4-1.22"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

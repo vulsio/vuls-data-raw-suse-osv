@@ -7,6 +7,41 @@
 	],
 	"summary": "db48-doc-4.8.30-45.1 on GA media",
 	"details": "These are all security issues fixed in the db48-doc-4.8.30-45.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "db48",
+				"purl": "purl:rpm/suse/db48&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.8.30-45.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"db48-doc": "4.8.30-45.1",
+						"db48-utils": "4.8.30-45.1",
+						"libdb-4_8": "4.8.30-45.1",
+						"libdb-4_8-32bit": "4.8.30-45.1",
+						"libdb-4_8-devel": "4.8.30-45.1",
+						"libdb-4_8-devel-32bit": "4.8.30-45.1",
+						"libdb-4_8-x86-64-v3": "4.8.30-45.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

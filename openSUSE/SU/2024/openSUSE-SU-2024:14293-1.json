@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-Flask-Cors-4.0.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-Flask-Cors-4.0.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-Flask-Cors",
+				"purl": "purl:rpm/suse/python-Flask-Cors&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-Flask-Cors": "4.0.1-1.1",
+						"python311-Flask-Cors": "4.0.1-1.1",
+						"python312-Flask-Cors": "4.0.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

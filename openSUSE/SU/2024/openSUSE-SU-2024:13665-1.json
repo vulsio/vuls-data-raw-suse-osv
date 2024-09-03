@@ -7,6 +7,54 @@
 	],
 	"summary": "libsystemd0-254.8-4.1 on GA media",
 	"details": "These are all security issues fixed in the libsystemd0-254.8-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "systemd",
+				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "254.8-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsystemd0": "254.8-4.1",
+						"libsystemd0-32bit": "254.8-4.1",
+						"libudev1": "254.8-4.1",
+						"libudev1-32bit": "254.8-4.1",
+						"systemd": "254.8-4.1",
+						"systemd-32bit": "254.8-4.1",
+						"systemd-boot": "254.8-4.1",
+						"systemd-container": "254.8-4.1",
+						"systemd-coredump": "254.8-4.1",
+						"systemd-devel": "254.8-4.1",
+						"systemd-doc": "254.8-4.1",
+						"systemd-experimental": "254.8-4.1",
+						"systemd-homed": "254.8-4.1",
+						"systemd-journal-remote": "254.8-4.1",
+						"systemd-lang": "254.8-4.1",
+						"systemd-network": "254.8-4.1",
+						"systemd-portable": "254.8-4.1",
+						"systemd-sysvcompat": "254.8-4.1",
+						"systemd-testsuite": "254.8-4.1",
+						"udev": "254.8-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

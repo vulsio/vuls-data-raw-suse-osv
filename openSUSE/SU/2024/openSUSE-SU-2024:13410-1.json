@@ -9,6 +9,46 @@
 	],
 	"summary": "postgresql14-14.10-1.1 on GA media",
 	"details": "These are all security issues fixed in the postgresql14-14.10-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql14",
+				"purl": "purl:rpm/suse/postgresql14&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "14.10-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql14": "14.10-1.1",
+						"postgresql14-contrib": "14.10-1.1",
+						"postgresql14-devel": "14.10-1.1",
+						"postgresql14-docs": "14.10-1.1",
+						"postgresql14-llvmjit": "14.10-1.1",
+						"postgresql14-llvmjit-devel": "14.10-1.1",
+						"postgresql14-plperl": "14.10-1.1",
+						"postgresql14-plpython": "14.10-1.1",
+						"postgresql14-pltcl": "14.10-1.1",
+						"postgresql14-server": "14.10-1.1",
+						"postgresql14-server-devel": "14.10-1.1",
+						"postgresql14-test": "14.10-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

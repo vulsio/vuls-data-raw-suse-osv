@@ -27,6 +27,68 @@
 	],
 	"summary": "libvirt-7.7.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the libvirt-7.7.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libvirt",
+				"purl": "purl:rpm/suse/libvirt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.7.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvirt": "7.7.0-2.1",
+						"libvirt-client": "7.7.0-2.1",
+						"libvirt-daemon": "7.7.0-2.1",
+						"libvirt-daemon-config-network": "7.7.0-2.1",
+						"libvirt-daemon-config-nwfilter": "7.7.0-2.1",
+						"libvirt-daemon-driver-interface": "7.7.0-2.1",
+						"libvirt-daemon-driver-libxl": "7.7.0-2.1",
+						"libvirt-daemon-driver-lxc": "7.7.0-2.1",
+						"libvirt-daemon-driver-network": "7.7.0-2.1",
+						"libvirt-daemon-driver-nodedev": "7.7.0-2.1",
+						"libvirt-daemon-driver-nwfilter": "7.7.0-2.1",
+						"libvirt-daemon-driver-qemu": "7.7.0-2.1",
+						"libvirt-daemon-driver-secret": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-core": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-disk": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-gluster": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-iscsi": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-iscsi-direct": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-logical": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-mpath": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-rbd": "7.7.0-2.1",
+						"libvirt-daemon-driver-storage-scsi": "7.7.0-2.1",
+						"libvirt-daemon-hooks": "7.7.0-2.1",
+						"libvirt-daemon-lxc": "7.7.0-2.1",
+						"libvirt-daemon-qemu": "7.7.0-2.1",
+						"libvirt-daemon-xen": "7.7.0-2.1",
+						"libvirt-devel": "7.7.0-2.1",
+						"libvirt-devel-32bit": "7.7.0-2.1",
+						"libvirt-doc": "7.7.0-2.1",
+						"libvirt-libs": "7.7.0-2.1",
+						"libvirt-lock-sanlock": "7.7.0-2.1",
+						"libvirt-nss": "7.7.0-2.1",
+						"wireshark-plugin-libvirt": "7.7.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

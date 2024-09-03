@@ -7,6 +7,37 @@
 	],
 	"summary": "xscreensaver-5.34-1.6 on GA media",
 	"details": "These are all security issues fixed in the xscreensaver-5.34-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xscreensaver",
+				"purl": "purl:rpm/suse/xscreensaver&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.34-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xscreensaver": "5.34-1.6",
+						"xscreensaver-data": "5.34-1.6",
+						"xscreensaver-data-extra": "5.34-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

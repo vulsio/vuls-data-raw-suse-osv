@@ -9,6 +9,35 @@
 	],
 	"summary": "socat-1.7.3.1-2.7 on GA media",
 	"details": "These are all security issues fixed in the socat-1.7.3.1-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "socat",
+				"purl": "purl:rpm/suse/socat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7.3.1-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"socat": "1.7.3.1-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

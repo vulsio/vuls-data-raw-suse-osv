@@ -7,6 +7,49 @@
 	],
 	"summary": "libldap-2_4-2-2.4.44-22.1 on GA media",
 	"details": "These are all security issues fixed in the libldap-2_4-2-2.4.44-22.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openldap2",
+				"purl": "purl:rpm/suse/openldap2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2-22.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libldap-2_4-2": "2.4.44-22.1",
+						"libldap-2_4-2-32bit": "2.4.44-22.1",
+						"libldap-data": "2.4.44-22.1",
+						"openldap2": "2.4.44-22.1",
+						"openldap2-back-meta": "2.4.44-22.1",
+						"openldap2-back-perl": "2.4.44-22.1",
+						"openldap2-back-sock": "2.4.44-22.1",
+						"openldap2-back-sql": "2.4.44-22.1",
+						"openldap2-client": "2.4.44-22.1",
+						"openldap2-contrib": "2.4.44-22.1",
+						"openldap2-devel": "2.4.44-22.1",
+						"openldap2-devel-32bit": "2.4.44-22.1",
+						"openldap2-devel-static": "2.4.44-22.1",
+						"openldap2-doc": "2.4.44-22.1",
+						"openldap2-ppolicy-check-password": "1.2-22.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

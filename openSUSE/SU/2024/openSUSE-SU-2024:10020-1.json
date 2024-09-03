@@ -25,6 +25,47 @@
 	],
 	"summary": "python-virtualbox-5.1.10-2.5 on GA media",
 	"details": "These are all security issues fixed in the python-virtualbox-5.1.10-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "virtualbox",
+				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.10-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-virtualbox": "5.1.10-2.5",
+						"virtualbox": "5.1.10-2.5",
+						"virtualbox-devel": "5.1.10-2.5",
+						"virtualbox-guest-desktop-icons": "5.1.10-2.5",
+						"virtualbox-guest-kmp-default": "5.1.10_k4.8.13_1-2.5",
+						"virtualbox-guest-kmp-pae": "5.1.10_k4.8.13_1-2.5",
+						"virtualbox-guest-tools": "5.1.10-2.5",
+						"virtualbox-guest-x11": "5.1.10-2.5",
+						"virtualbox-host-kmp-default": "5.1.10_k4.8.13_1-2.5",
+						"virtualbox-host-kmp-pae": "5.1.10_k4.8.13_1-2.5",
+						"virtualbox-host-source": "5.1.10-2.5",
+						"virtualbox-qt": "5.1.10-2.5",
+						"virtualbox-websrv": "5.1.10-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

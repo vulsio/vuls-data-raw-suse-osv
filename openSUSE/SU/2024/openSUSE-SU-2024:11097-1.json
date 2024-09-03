@@ -11,6 +11,38 @@
 	],
 	"summary": "nodejs16-16.6.2-2.2 on GA media",
 	"details": "These are all security issues fixed in the nodejs16-16.6.2-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs16",
+				"purl": "purl:rpm/suse/nodejs16&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "16.6.2-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"nodejs16": "16.6.2-2.2",
+						"nodejs16-devel": "16.6.2-2.2",
+						"nodejs16-docs": "16.6.2-2.2",
+						"npm16": "16.6.2-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

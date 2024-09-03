@@ -7,6 +7,35 @@
 	],
 	"summary": "terraform-provider-helm-2.9.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the terraform-provider-helm-2.9.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "terraform-provider-helm",
+				"purl": "purl:rpm/suse/terraform-provider-helm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"terraform-provider-helm": "2.9.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

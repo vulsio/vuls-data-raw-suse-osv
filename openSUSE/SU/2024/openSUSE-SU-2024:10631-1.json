@@ -7,6 +7,38 @@
 	],
 	"summary": "aria2-1.36.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the aria2-1.36.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "aria2",
+				"purl": "purl:rpm/suse/aria2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.36.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"aria2": "1.36.0-1.2",
+						"aria2-devel": "1.36.0-1.2",
+						"aria2-lang": "1.36.0-1.2",
+						"libaria2-0": "1.36.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

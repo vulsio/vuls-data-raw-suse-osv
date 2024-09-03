@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-File-Path-2.180000-1.15 on GA media",
 	"details": "These are all security issues fixed in the perl-File-Path-2.180000-1.15 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-File-Path",
+				"purl": "purl:rpm/suse/perl-File-Path&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.180000-1.15"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-File-Path": "2.180000-1.15"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

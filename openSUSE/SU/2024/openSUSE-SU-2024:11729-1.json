@@ -8,6 +8,35 @@
 	],
 	"summary": "zram-generator-1.1.1~git5.8612dbb-1.1 on GA media",
 	"details": "These are all security issues fixed in the zram-generator-1.1.1~git5.8612dbb-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zram-generator",
+				"purl": "purl:rpm/suse/zram-generator&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.1~git5.8612dbb-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zram-generator": "1.1.1~git5.8612dbb-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "forgejo-runner-3.5.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the forgejo-runner-3.5.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "forgejo-runner",
+				"purl": "purl:rpm/suse/forgejo-runner&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"forgejo-runner": "3.5.1-1.1",
+						"forgejo-runner-bash-completion": "3.5.1-1.1",
+						"forgejo-runner-fish-completion": "3.5.1-1.1",
+						"forgejo-runner-zsh-completion": "3.5.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

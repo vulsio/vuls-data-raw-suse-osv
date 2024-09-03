@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-LWP-Protocol-https-6.06-1.4 on GA media",
 	"details": "These are all security issues fixed in the perl-LWP-Protocol-https-6.06-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-LWP-Protocol-https",
+				"purl": "purl:rpm/suse/perl-LWP-Protocol-https&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.06-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-LWP-Protocol-https": "6.06-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

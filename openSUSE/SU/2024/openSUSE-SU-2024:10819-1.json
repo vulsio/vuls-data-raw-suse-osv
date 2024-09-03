@@ -7,6 +7,35 @@
 	],
 	"summary": "grafana-piechart-panel-1.6.1-2.2 on GA media",
 	"details": "These are all security issues fixed in the grafana-piechart-panel-1.6.1-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "grafana-piechart-panel",
+				"purl": "purl:rpm/suse/grafana-piechart-panel&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.1-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"grafana-piechart-panel": "1.6.1-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

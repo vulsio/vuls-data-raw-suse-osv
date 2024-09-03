@@ -7,6 +7,50 @@
 	],
 	"summary": "libecpg6-16.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the libecpg6-16.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql16",
+				"purl": "purl:rpm/suse/postgresql16&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "16.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libecpg6": "16.3-1.1",
+						"libecpg6-32bit": "16.3-1.1",
+						"libpq5": "16.3-1.1",
+						"libpq5-32bit": "16.3-1.1",
+						"postgresql16": "16.3-1.1",
+						"postgresql16-contrib": "16.3-1.1",
+						"postgresql16-devel": "16.3-1.1",
+						"postgresql16-docs": "16.3-1.1",
+						"postgresql16-llvmjit": "16.3-1.1",
+						"postgresql16-llvmjit-devel": "16.3-1.1",
+						"postgresql16-plperl": "16.3-1.1",
+						"postgresql16-plpython": "16.3-1.1",
+						"postgresql16-pltcl": "16.3-1.1",
+						"postgresql16-server": "16.3-1.1",
+						"postgresql16-server-devel": "16.3-1.1",
+						"postgresql16-test": "16.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

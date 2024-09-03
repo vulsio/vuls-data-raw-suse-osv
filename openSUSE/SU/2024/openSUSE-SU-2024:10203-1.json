@@ -7,6 +7,39 @@
 	],
 	"summary": "exiv2-0.25-3.4 on GA media",
 	"details": "These are all security issues fixed in the exiv2-0.25-3.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "exiv2",
+				"purl": "purl:rpm/suse/exiv2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.25-3.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"exiv2": "0.25-3.4",
+						"exiv2-lang": "0.25-3.4",
+						"libexiv2-14": "0.25-3.4",
+						"libexiv2-14-32bit": "0.25-3.4",
+						"libexiv2-devel": "0.25-3.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

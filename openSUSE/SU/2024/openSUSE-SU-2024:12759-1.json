@@ -7,6 +7,35 @@
 	],
 	"summary": "google-osconfig-agent-20230222.00-2.1 on GA media",
 	"details": "These are all security issues fixed in the google-osconfig-agent-20230222.00-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "google-osconfig-agent",
+				"purl": "purl:rpm/suse/google-osconfig-agent&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20230222.00-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"google-osconfig-agent": "20230222.00-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

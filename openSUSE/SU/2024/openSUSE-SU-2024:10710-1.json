@@ -7,6 +7,35 @@
 	],
 	"summary": "davfs2-1.6.0-2.7 on GA media",
 	"details": "These are all security issues fixed in the davfs2-1.6.0-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "davfs2",
+				"purl": "purl:rpm/suse/davfs2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.0-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"davfs2": "1.6.0-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

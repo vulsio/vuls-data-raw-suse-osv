@@ -10,6 +10,39 @@
 	],
 	"summary": "corepack17-17.3.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the corepack17-17.3.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs17",
+				"purl": "purl:rpm/suse/nodejs17&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "17.3.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"corepack17": "17.3.1-1.1",
+						"nodejs17": "17.3.1-1.1",
+						"nodejs17-devel": "17.3.1-1.1",
+						"nodejs17-docs": "17.3.1-1.1",
+						"npm17": "17.3.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

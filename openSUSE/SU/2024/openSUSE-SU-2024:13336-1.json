@@ -7,6 +7,38 @@
 	],
 	"summary": "libnghttp2-14-1.57.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libnghttp2-14-1.57.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nghttp2",
+				"purl": "purl:rpm/suse/nghttp2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.57.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libnghttp2-14": "1.57.0-1.1",
+						"libnghttp2-14-32bit": "1.57.0-1.1",
+						"libnghttp2-devel": "1.57.0-1.1",
+						"nghttp2": "1.57.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

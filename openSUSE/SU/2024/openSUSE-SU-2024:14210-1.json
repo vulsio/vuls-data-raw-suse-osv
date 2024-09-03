@@ -7,6 +7,36 @@
 	],
 	"summary": "weblate-5.6.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the weblate-5.6.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "weblate",
+				"purl": "purl:rpm/suse/weblate&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.6.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"weblate": "5.6.2-1.1",
+						"weblate-doc": "5.6.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

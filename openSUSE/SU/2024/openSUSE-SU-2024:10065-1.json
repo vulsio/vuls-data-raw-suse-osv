@@ -9,6 +9,38 @@
 	],
 	"summary": "openslp-2.0.0-8.1 on GA media",
 	"details": "These are all security issues fixed in the openslp-2.0.0-8.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openslp",
+				"purl": "purl:rpm/suse/openslp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.0-8.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openslp": "2.0.0-8.1",
+						"openslp-32bit": "2.0.0-8.1",
+						"openslp-devel": "2.0.0-8.1",
+						"openslp-server": "2.0.0-8.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

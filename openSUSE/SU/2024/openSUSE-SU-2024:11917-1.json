@@ -7,6 +7,35 @@
 	],
 	"summary": "treefetch-2.0.0~git0.5b3eac1-2.1 on GA media",
 	"details": "These are all security issues fixed in the treefetch-2.0.0~git0.5b3eac1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "treefetch",
+				"purl": "purl:rpm/suse/treefetch&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.0~git0.5b3eac1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"treefetch": "2.0.0~git0.5b3eac1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

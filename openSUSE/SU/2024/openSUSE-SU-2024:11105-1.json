@@ -7,6 +7,35 @@
 	],
 	"summary": "obs-service-refresh_patches-0.3.9+git.1625238904.d59f20e-1.2 on GA media",
 	"details": "These are all security issues fixed in the obs-service-refresh_patches-0.3.9+git.1625238904.d59f20e-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "obs-service-refresh_patches",
+				"purl": "purl:rpm/suse/obs-service-refresh_patches&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.3.9+git.1625238904.d59f20e-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"obs-service-refresh_patches": "0.3.9+git.1625238904.d59f20e-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

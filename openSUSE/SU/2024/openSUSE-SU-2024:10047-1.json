@@ -9,6 +9,36 @@
 	],
 	"summary": "vino-3.22.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the vino-3.22.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "vino",
+				"purl": "purl:rpm/suse/vino&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.22.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"vino": "3.22.0-1.1",
+						"vino-lang": "3.22.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

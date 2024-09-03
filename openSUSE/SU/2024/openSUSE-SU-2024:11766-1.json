@@ -7,6 +7,36 @@
 	],
 	"summary": "python38-distributed-2022.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the python38-distributed-2022.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-distributed",
+				"purl": "purl:rpm/suse/python-distributed&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2022.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python38-distributed": "2022.1.0-1.1",
+						"python39-distributed": "2022.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "aaa_base-13.2+git20160915.106a00d-1.1 on GA media",
 	"details": "These are all security issues fixed in the aaa_base-13.2+git20160915.106a00d-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "aaa_base",
+				"purl": "purl:rpm/suse/aaa_base&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "13.2+git20160915.106a00d-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"aaa_base": "13.2+git20160915.106a00d-1.1",
+						"aaa_base-extras": "13.2+git20160915.106a00d-1.1",
+						"aaa_base-malloccheck": "13.2+git20160915.106a00d-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

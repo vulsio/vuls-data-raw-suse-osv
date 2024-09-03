@@ -13,6 +13,41 @@
 	],
 	"summary": "libgcrypt-cavs-1.9.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the libgcrypt-cavs-1.9.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libgcrypt",
+				"purl": "purl:rpm/suse/libgcrypt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libgcrypt-cavs": "1.9.4-1.2",
+						"libgcrypt-devel": "1.9.4-1.2",
+						"libgcrypt-devel-32bit": "1.9.4-1.2",
+						"libgcrypt20": "1.9.4-1.2",
+						"libgcrypt20-32bit": "1.9.4-1.2",
+						"libgcrypt20-hmac": "1.9.4-1.2",
+						"libgcrypt20-hmac-32bit": "1.9.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

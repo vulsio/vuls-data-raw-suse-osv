@@ -12,6 +12,42 @@
 	],
 	"summary": "gdk-pixbuf-devel-2.36.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the gdk-pixbuf-devel-2.36.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gdk-pixbuf",
+				"purl": "purl:rpm/suse/gdk-pixbuf&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.36.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gdk-pixbuf-devel": "2.36.0-1.1",
+						"gdk-pixbuf-devel-32bit": "2.36.0-1.1",
+						"gdk-pixbuf-lang": "2.36.0-1.1",
+						"gdk-pixbuf-query-loaders": "2.36.0-1.1",
+						"gdk-pixbuf-query-loaders-32bit": "2.36.0-1.1",
+						"libgdk_pixbuf-2_0-0": "2.36.0-1.1",
+						"libgdk_pixbuf-2_0-0-32bit": "2.36.0-1.1",
+						"typelib-1_0-GdkPixbuf-2_0": "2.36.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

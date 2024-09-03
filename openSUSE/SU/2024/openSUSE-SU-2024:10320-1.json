@@ -7,6 +7,39 @@
 	],
 	"summary": "imlib2-1.4.9-1.4 on GA media",
 	"details": "These are all security issues fixed in the imlib2-1.4.9-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "imlib2",
+				"purl": "purl:rpm/suse/imlib2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.9-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"imlib2": "1.4.9-1.4",
+						"imlib2-devel": "1.4.9-1.4",
+						"imlib2-filters": "1.4.9-1.4",
+						"imlib2-loaders": "1.4.9-1.4",
+						"libImlib2-1": "1.4.9-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

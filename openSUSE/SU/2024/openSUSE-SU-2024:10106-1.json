@@ -14,6 +14,44 @@
 	],
 	"summary": "bash-4.4-92.1 on GA media",
 	"details": "These are all security issues fixed in the bash-4.4-92.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bash",
+				"purl": "purl:rpm/suse/bash&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.0-92.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bash": "4.4-92.1",
+						"bash-devel": "4.4-92.1",
+						"bash-doc": "4.4-92.1",
+						"bash-lang": "4.4-92.1",
+						"bash-loadables": "4.4-92.1",
+						"libreadline7": "7.0-92.1",
+						"libreadline7-32bit": "7.0-92.1",
+						"readline-devel": "7.0-92.1",
+						"readline-devel-32bit": "7.0-92.1",
+						"readline-doc": "7.0-92.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,42 @@
 	],
 	"summary": "cyradm-2.4.22-2.1 on GA media",
 	"details": "These are all security issues fixed in the cyradm-2.4.22-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cyrus-imapd",
+				"purl": "purl:rpm/suse/cyrus-imapd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.22-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cyradm": "2.4.22-2.1",
+						"cyrus-imapd": "2.4.22-2.1",
+						"cyrus-imapd-devel": "2.4.22-2.1",
+						"cyrus-imapd-snmp": "2.4.22-2.1",
+						"cyrus-imapd-snmp-mibs": "2.4.22-2.1",
+						"cyrus-imapd-utils": "2.4.22-2.1",
+						"perl-Cyrus-IMAP": "2.4.22-2.1",
+						"perl-Cyrus-SIEVE-managesieve": "2.4.22-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

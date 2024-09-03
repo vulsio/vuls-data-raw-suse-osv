@@ -7,6 +7,40 @@
 	],
 	"summary": "libwireshark15-3.6.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the libwireshark15-3.6.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wireshark",
+				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.6.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libwireshark15": "3.6.1-2.1",
+						"libwiretap12": "3.6.1-2.1",
+						"libwsutil13": "3.6.1-2.1",
+						"wireshark": "3.6.1-2.1",
+						"wireshark-devel": "3.6.1-2.1",
+						"wireshark-ui-qt": "3.6.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

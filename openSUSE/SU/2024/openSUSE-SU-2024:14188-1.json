@@ -9,6 +9,38 @@
 	],
 	"summary": "Botan-doc-2.19.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the Botan-doc-2.19.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "Botan",
+				"purl": "purl:rpm/suse/Botan&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.19.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"Botan-doc": "2.19.5-1.1",
+						"libbotan-2-19": "2.19.5-1.1",
+						"libbotan-devel": "2.19.5-1.1",
+						"python3-botan": "2.19.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

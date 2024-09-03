@@ -7,6 +7,36 @@
 	],
 	"summary": "automake-1.15-4.6 on GA media",
 	"details": "These are all security issues fixed in the automake-1.15-4.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "automake",
+				"purl": "purl:rpm/suse/automake&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.17-5.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"automake": "1.15-4.6",
+						"m4": "1.4.17-5.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

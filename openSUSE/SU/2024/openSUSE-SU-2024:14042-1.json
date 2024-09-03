@@ -8,6 +8,37 @@
 	],
 	"summary": "python310-Werkzeug-3.0.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-Werkzeug-3.0.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-Werkzeug",
+				"purl": "purl:rpm/suse/python-Werkzeug&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-Werkzeug": "3.0.3-1.1",
+						"python311-Werkzeug": "3.0.3-1.1",
+						"python312-Werkzeug": "3.0.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

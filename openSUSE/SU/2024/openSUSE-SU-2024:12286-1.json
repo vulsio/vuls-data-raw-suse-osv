@@ -12,6 +12,39 @@
 	],
 	"summary": "MozillaFirefox-104.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the MozillaFirefox-104.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "MozillaFirefox",
+				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "104.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "104.0-1.1",
+						"MozillaFirefox-branding-upstream": "104.0-1.1",
+						"MozillaFirefox-devel": "104.0-1.1",
+						"MozillaFirefox-translations-common": "104.0-1.1",
+						"MozillaFirefox-translations-other": "104.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

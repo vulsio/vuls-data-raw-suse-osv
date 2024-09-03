@@ -8,6 +8,40 @@
 	],
 	"summary": "libodbc2-2.3.9-3.4 on GA media",
 	"details": "These are all security issues fixed in the libodbc2-2.3.9-3.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "unixODBC",
+				"purl": "purl:rpm/suse/unixODBC&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.9-3.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libodbc2": "2.3.9-3.4",
+						"libodbc2-32bit": "2.3.9-3.4",
+						"unixODBC": "2.3.9-3.4",
+						"unixODBC-32bit": "2.3.9-3.4",
+						"unixODBC-devel": "2.3.9-3.4",
+						"unixODBC-devel-32bit": "2.3.9-3.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

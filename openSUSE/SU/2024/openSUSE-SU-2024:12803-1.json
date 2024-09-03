@@ -7,6 +7,35 @@
 	],
 	"summary": "cockpit-d-installer-0.8.1~1-5.1 on GA media",
 	"details": "These are all security issues fixed in the cockpit-d-installer-0.8.1~1-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cockpit-d-installer",
+				"purl": "purl:rpm/suse/cockpit-d-installer&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.8.1~1-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cockpit-d-installer": "0.8.1~1-5.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

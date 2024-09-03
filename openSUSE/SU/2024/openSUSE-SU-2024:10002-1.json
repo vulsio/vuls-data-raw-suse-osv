@@ -7,6 +7,38 @@
 	],
 	"summary": "libXxf86vm-devel-1.1.4-1.7 on GA media",
 	"details": "These are all security issues fixed in the libXxf86vm-devel-1.1.4-1.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXxf86vm",
+				"purl": "purl:rpm/suse/libXxf86vm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.4-1.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXxf86vm-devel": "1.1.4-1.7",
+						"libXxf86vm-devel-32bit": "1.1.4-1.7",
+						"libXxf86vm1": "1.1.4-1.7",
+						"libXxf86vm1-32bit": "1.1.4-1.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

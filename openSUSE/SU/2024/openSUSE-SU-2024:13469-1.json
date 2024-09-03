@@ -9,6 +9,39 @@
 	],
 	"summary": "docker-24.0.7_ce-2.1 on GA media",
 	"details": "These are all security issues fixed in the docker-24.0.7_ce-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "docker",
+				"purl": "purl:rpm/suse/docker&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "24.0.7_ce-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"docker": "24.0.7_ce-2.1",
+						"docker-bash-completion": "24.0.7_ce-2.1",
+						"docker-fish-completion": "24.0.7_ce-2.1",
+						"docker-rootless-extras": "24.0.7_ce-2.1",
+						"docker-zsh-completion": "24.0.7_ce-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

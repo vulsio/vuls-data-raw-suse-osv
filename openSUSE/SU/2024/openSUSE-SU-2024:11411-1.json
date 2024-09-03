@@ -13,6 +13,42 @@
 	],
 	"summary": "strongswan-5.9.0-1.9 on GA media",
 	"details": "These are all security issues fixed in the strongswan-5.9.0-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "strongswan",
+				"purl": "purl:rpm/suse/strongswan&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.9.0-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"strongswan": "5.9.0-1.9",
+						"strongswan-doc": "5.9.0-1.9",
+						"strongswan-hmac": "5.9.0-1.9",
+						"strongswan-ipsec": "5.9.0-1.9",
+						"strongswan-libs0": "5.9.0-1.9",
+						"strongswan-mysql": "5.9.0-1.9",
+						"strongswan-nm": "5.9.0-1.9",
+						"strongswan-sqlite": "5.9.0-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

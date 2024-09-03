@@ -7,6 +7,35 @@
 	],
 	"summary": "iucode-tool-2.3.1-1.13 on GA media",
 	"details": "These are all security issues fixed in the iucode-tool-2.3.1-1.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "iucode-tool",
+				"purl": "purl:rpm/suse/iucode-tool&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.1-1.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"iucode-tool": "2.3.1-1.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

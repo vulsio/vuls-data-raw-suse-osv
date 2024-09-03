@@ -12,6 +12,44 @@
 	],
 	"summary": "libsvn_auth_gnome_keyring-1-0-1.14.1-1.11 on GA media",
 	"details": "These are all security issues fixed in the libsvn_auth_gnome_keyring-1-0-1.14.1-1.11 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "subversion",
+				"purl": "purl:rpm/suse/subversion&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.14.1-1.11"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsvn_auth_gnome_keyring-1-0": "1.14.1-1.11",
+						"libsvn_auth_kwallet-1-0": "1.14.1-1.11",
+						"subversion": "1.14.1-1.11",
+						"subversion-bash-completion": "1.14.1-1.11",
+						"subversion-devel": "1.14.1-1.11",
+						"subversion-perl": "1.14.1-1.11",
+						"subversion-python": "1.14.1-1.11",
+						"subversion-ruby": "1.14.1-1.11",
+						"subversion-server": "1.14.1-1.11",
+						"subversion-tools": "1.14.1-1.11"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "ini4j-0.5.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the ini4j-0.5.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ini4j",
+				"purl": "purl:rpm/suse/ini4j&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.5.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ini4j": "0.5.4-1.1",
+						"ini4j-javadoc": "0.5.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

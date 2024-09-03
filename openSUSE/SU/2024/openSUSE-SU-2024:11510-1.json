@@ -13,6 +13,36 @@
 	],
 	"summary": "wget-1.21.1-2.2 on GA media",
 	"details": "These are all security issues fixed in the wget-1.21.1-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wget",
+				"purl": "purl:rpm/suse/wget&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.21.1-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"wget": "1.21.1-2.2",
+						"wget-lang": "1.21.1-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

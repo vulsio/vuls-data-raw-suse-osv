@@ -7,6 +7,35 @@
 	],
 	"summary": "systemd-ui-3-1.8 on GA media",
 	"details": "These are all security issues fixed in the systemd-ui-3-1.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "systemd-ui",
+				"purl": "purl:rpm/suse/systemd-ui&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3-1.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"systemd-ui": "3-1.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

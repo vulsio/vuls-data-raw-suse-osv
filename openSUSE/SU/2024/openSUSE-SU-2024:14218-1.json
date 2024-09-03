@@ -7,6 +7,35 @@
 	],
 	"summary": "golang-github-lusitaniae-apache_exporter-1.0.8-1.1 on GA media",
 	"details": "These are all security issues fixed in the golang-github-lusitaniae-apache_exporter-1.0.8-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "golang-github-lusitaniae-apache_exporter",
+				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.8-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"golang-github-lusitaniae-apache_exporter": "1.0.8-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

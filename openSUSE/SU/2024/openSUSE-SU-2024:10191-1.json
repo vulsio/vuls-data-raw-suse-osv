@@ -8,6 +8,35 @@
 	],
 	"summary": "horde5-imp-6.2.5-1.2 on GA media",
 	"details": "These are all security issues fixed in the horde5-imp-6.2.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "horde5-imp",
+				"purl": "purl:rpm/suse/horde5-imp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.2.5-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"horde5-imp": "6.2.5-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

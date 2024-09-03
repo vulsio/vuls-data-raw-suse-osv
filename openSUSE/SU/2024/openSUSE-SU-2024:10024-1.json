@@ -9,6 +9,43 @@
 	],
 	"summary": "libvorbis-devel-1.3.5-2.1 on GA media",
 	"details": "These are all security issues fixed in the libvorbis-devel-1.3.5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libvorbis",
+				"purl": "purl:rpm/suse/libvorbis&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.3.5-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvorbis-devel": "1.3.5-2.1",
+						"libvorbis-devel-32bit": "1.3.5-2.1",
+						"libvorbis-doc": "1.3.5-2.1",
+						"libvorbis0": "1.3.5-2.1",
+						"libvorbis0-32bit": "1.3.5-2.1",
+						"libvorbisenc2": "1.3.5-2.1",
+						"libvorbisenc2-32bit": "1.3.5-2.1",
+						"libvorbisfile3": "1.3.5-2.1",
+						"libvorbisfile3-32bit": "1.3.5-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,36 @@
 	],
 	"summary": "apache-ivy-2.5.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the apache-ivy-2.5.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache-ivy",
+				"purl": "purl:rpm/suse/apache-ivy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache-ivy": "2.5.1-1.1",
+						"apache-ivy-javadoc": "2.5.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

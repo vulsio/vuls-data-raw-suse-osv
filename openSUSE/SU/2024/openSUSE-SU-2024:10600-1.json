@@ -667,6 +667,39 @@
 	],
 	"summary": "MozillaFirefox-92.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the MozillaFirefox-92.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "MozillaFirefox",
+				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "92.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "92.0-1.2",
+						"MozillaFirefox-branding-upstream": "92.0-1.2",
+						"MozillaFirefox-devel": "92.0-1.2",
+						"MozillaFirefox-translations-common": "92.0-1.2",
+						"MozillaFirefox-translations-other": "92.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

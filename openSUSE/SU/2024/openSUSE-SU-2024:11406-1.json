@@ -7,6 +7,35 @@
 	],
 	"summary": "ssdp-responder-1.7-1.7 on GA media",
 	"details": "These are all security issues fixed in the ssdp-responder-1.7-1.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ssdp-responder",
+				"purl": "purl:rpm/suse/ssdp-responder&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7-1.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ssdp-responder": "1.7-1.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

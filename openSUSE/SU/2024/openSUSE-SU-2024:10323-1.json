@@ -8,6 +8,35 @@
 	],
 	"summary": "xinetd-2.3.15-11.3 on GA media",
 	"details": "These are all security issues fixed in the xinetd-2.3.15-11.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xinetd",
+				"purl": "purl:rpm/suse/xinetd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.15-11.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xinetd": "2.3.15-11.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

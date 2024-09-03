@@ -7,6 +7,36 @@
 	],
 	"summary": "kbd-2.0.3-1.5 on GA media",
 	"details": "These are all security issues fixed in the kbd-2.0.3-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kbd",
+				"purl": "purl:rpm/suse/kbd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.3-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kbd": "2.0.3-1.5",
+						"kbd-legacy": "2.0.3-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

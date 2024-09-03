@@ -7,6 +7,35 @@
 	],
 	"summary": "htmldoc-1.9.14-1.1 on GA media",
 	"details": "These are all security issues fixed in the htmldoc-1.9.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "htmldoc",
+				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.14-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"htmldoc": "1.9.14-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

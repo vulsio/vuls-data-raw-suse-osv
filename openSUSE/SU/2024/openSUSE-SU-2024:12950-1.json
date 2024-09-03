@@ -7,6 +7,36 @@
 	],
 	"summary": "apache-commons-fileupload-1.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the apache-commons-fileupload-1.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache-commons-fileupload",
+				"purl": "purl:rpm/suse/apache-commons-fileupload&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache-commons-fileupload": "1.5-1.1",
+						"apache-commons-fileupload-javadoc": "1.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

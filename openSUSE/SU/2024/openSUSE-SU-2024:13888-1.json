@@ -11,6 +11,60 @@
 	],
 	"summary": "ffmpeg-5-5.1.4-5.1 on GA media",
 	"details": "These are all security issues fixed in the ffmpeg-5-5.1.4-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ffmpeg-5",
+				"purl": "purl:rpm/suse/ffmpeg-5&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.4-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ffmpeg-5": "5.1.4-5.1",
+						"ffmpeg-5-libavcodec-devel": "5.1.4-5.1",
+						"ffmpeg-5-libavdevice-devel": "5.1.4-5.1",
+						"ffmpeg-5-libavfilter-devel": "5.1.4-5.1",
+						"ffmpeg-5-libavformat-devel": "5.1.4-5.1",
+						"ffmpeg-5-libavutil-devel": "5.1.4-5.1",
+						"ffmpeg-5-libpostproc-devel": "5.1.4-5.1",
+						"ffmpeg-5-libswresample-devel": "5.1.4-5.1",
+						"ffmpeg-5-libswscale-devel": "5.1.4-5.1",
+						"ffmpeg-5-private-devel": "5.1.4-5.1",
+						"libavcodec59": "5.1.4-5.1",
+						"libavcodec59-32bit": "5.1.4-5.1",
+						"libavdevice59": "5.1.4-5.1",
+						"libavdevice59-32bit": "5.1.4-5.1",
+						"libavfilter8": "5.1.4-5.1",
+						"libavfilter8-32bit": "5.1.4-5.1",
+						"libavformat59": "5.1.4-5.1",
+						"libavformat59-32bit": "5.1.4-5.1",
+						"libavutil57": "5.1.4-5.1",
+						"libavutil57-32bit": "5.1.4-5.1",
+						"libpostproc56": "5.1.4-5.1",
+						"libpostproc56-32bit": "5.1.4-5.1",
+						"libswresample4_ff5": "5.1.4-5.1",
+						"libswresample4_ff5-32bit": "5.1.4-5.1",
+						"libswscale6": "5.1.4-5.1",
+						"libswscale6-32bit": "5.1.4-5.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

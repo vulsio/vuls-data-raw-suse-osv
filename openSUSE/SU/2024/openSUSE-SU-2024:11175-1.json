@@ -7,6 +7,35 @@
 	],
 	"summary": "platformsh-cli-3.67.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the platformsh-cli-3.67.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "platformsh-cli",
+				"purl": "purl:rpm/suse/platformsh-cli&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.67.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"platformsh-cli": "3.67.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

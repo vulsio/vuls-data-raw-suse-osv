@@ -7,6 +7,35 @@
 	],
 	"summary": "tboot-20210614_1.10.2-2.2 on GA media",
 	"details": "These are all security issues fixed in the tboot-20210614_1.10.2-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tboot",
+				"purl": "purl:rpm/suse/tboot&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20210614_1.10.2-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tboot": "20210614_1.10.2-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

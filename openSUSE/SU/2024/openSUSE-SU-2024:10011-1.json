@@ -7,6 +7,48 @@
 	],
 	"summary": "kdelibs4-4.14.27-1.1 on GA media",
 	"details": "These are all security issues fixed in the kdelibs4-4.14.27-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kdelibs4",
+				"purl": "purl:rpm/suse/kdelibs4&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.14.27-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kdelibs4": "4.14.27-1.1",
+						"kdelibs4-apidocs": "4.14.27-1.1",
+						"kdelibs4-branding-upstream": "4.14.27-1.1",
+						"kdelibs4-core": "4.14.27-1.1",
+						"kdelibs4-doc": "4.14.27-1.1",
+						"libkde4": "4.14.27-1.1",
+						"libkde4-32bit": "4.14.27-1.1",
+						"libkde4-devel": "4.14.27-1.1",
+						"libkdecore4": "4.14.27-1.1",
+						"libkdecore4-32bit": "4.14.27-1.1",
+						"libkdecore4-devel": "4.14.27-1.1",
+						"libksuseinstall-devel": "4.14.27-1.1",
+						"libksuseinstall1": "4.14.27-1.1",
+						"libksuseinstall1-32bit": "4.14.27-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

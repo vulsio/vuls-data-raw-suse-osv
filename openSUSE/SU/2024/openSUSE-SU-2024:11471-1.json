@@ -8,6 +8,35 @@
 	],
 	"summary": "tpm2.0-tools-5.1.1-3.2 on GA media",
 	"details": "These are all security issues fixed in the tpm2.0-tools-5.1.1-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tpm2.0-tools",
+				"purl": "purl:rpm/suse/tpm2.0-tools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.1-3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tpm2.0-tools": "5.1.1-3.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

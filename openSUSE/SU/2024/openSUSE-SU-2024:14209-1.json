@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-sentry-sdk-2.10.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-sentry-sdk-2.10.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-sentry-sdk",
+				"purl": "purl:rpm/suse/python-sentry-sdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.10.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-sentry-sdk": "2.10.0-1.1",
+						"python311-sentry-sdk": "2.10.0-1.1",
+						"python312-sentry-sdk": "2.10.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

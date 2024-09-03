@@ -7,6 +7,36 @@
 	],
 	"summary": "cups-filters-1.28.15-3.1 on GA media",
 	"details": "These are all security issues fixed in the cups-filters-1.28.15-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cups-filters",
+				"purl": "purl:rpm/suse/cups-filters&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.28.15-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cups-filters": "1.28.15-3.1",
+						"cups-filters-devel": "1.28.15-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

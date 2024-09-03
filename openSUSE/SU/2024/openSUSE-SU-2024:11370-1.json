@@ -11,6 +11,35 @@
 	],
 	"summary": "sca-patterns-sle12-1.0.8-2.2 on GA media",
 	"details": "These are all security issues fixed in the sca-patterns-sle12-1.0.8-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sca-patterns-sle12",
+				"purl": "purl:rpm/suse/sca-patterns-sle12&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.8-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"sca-patterns-sle12": "1.0.8-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

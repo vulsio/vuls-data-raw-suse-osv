@@ -8,6 +8,46 @@
 	],
 	"summary": "libopenssl-1_0_0-devel-1.0.2u-9.1 on GA media",
 	"details": "These are all security issues fixed in the libopenssl-1_0_0-devel-1.0.2u-9.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openssl-1_0_0",
+				"purl": "purl:rpm/suse/openssl-1_0_0&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.2u-9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libopenssl-1_0_0-devel": "1.0.2u-9.1",
+						"libopenssl-1_0_0-devel-32bit": "1.0.2u-9.1",
+						"libopenssl10": "1.0.2u-9.1",
+						"libopenssl1_0_0": "1.0.2u-9.1",
+						"libopenssl1_0_0-32bit": "1.0.2u-9.1",
+						"libopenssl1_0_0-hmac": "1.0.2u-9.1",
+						"libopenssl1_0_0-hmac-32bit": "1.0.2u-9.1",
+						"libopenssl1_0_0-steam": "1.0.2u-9.1",
+						"libopenssl1_0_0-steam-32bit": "1.0.2u-9.1",
+						"openssl-1_0_0": "1.0.2u-9.1",
+						"openssl-1_0_0-cavs": "1.0.2u-9.1",
+						"openssl-1_0_0-doc": "1.0.2u-9.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

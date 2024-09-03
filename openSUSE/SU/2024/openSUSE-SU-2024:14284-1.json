@@ -7,6 +7,41 @@
 	],
 	"summary": "libvte-2_91-0-0.76.3-3.1 on GA media",
 	"details": "These are all security issues fixed in the libvte-2_91-0-0.76.3-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "vte",
+				"purl": "purl:rpm/suse/vte&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.76.3-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvte-2_91-0": "0.76.3-3.1",
+						"typelib-1_0-Vte-2_91": "0.76.3-3.1",
+						"typelib-1_0-Vte-3_91": "0.76.3-3.1",
+						"vte-devel": "0.76.3-3.1",
+						"vte-lang": "0.76.3-3.1",
+						"vte-tools": "0.76.3-3.1",
+						"vte-tools-gtk4": "0.76.3-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

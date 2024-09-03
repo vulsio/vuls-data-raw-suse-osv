@@ -16,6 +16,38 @@
 	],
 	"summary": "openvpn-2.5.3-1.2 on GA media",
 	"details": "These are all security issues fixed in the openvpn-2.5.3-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openvpn",
+				"purl": "purl:rpm/suse/openvpn&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.3-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openvpn": "2.5.3-1.2",
+						"openvpn-auth-pam-plugin": "2.5.3-1.2",
+						"openvpn-devel": "2.5.3-1.2",
+						"openvpn-down-root-plugin": "2.5.3-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,35 @@
 	],
 	"summary": "timidity-2.14.0-3.10 on GA media",
 	"details": "These are all security issues fixed in the timidity-2.14.0-3.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "timidity",
+				"purl": "purl:rpm/suse/timidity&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.14.0-3.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"timidity": "2.14.0-3.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

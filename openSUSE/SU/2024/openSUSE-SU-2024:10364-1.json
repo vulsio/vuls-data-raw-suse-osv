@@ -7,6 +7,35 @@
 	],
 	"summary": "cecilia-2.0.5-282.2 on GA media",
 	"details": "These are all security issues fixed in the cecilia-2.0.5-282.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cecilia",
+				"purl": "purl:rpm/suse/cecilia&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.5-282.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cecilia": "2.0.5-282.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

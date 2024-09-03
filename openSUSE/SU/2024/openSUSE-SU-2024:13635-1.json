@@ -17,6 +17,35 @@
 	],
 	"summary": "python3-onionshare-2.6-4.1 on GA media",
 	"details": "These are all security issues fixed in the python3-onionshare-2.6-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python3-onionshare",
+				"purl": "purl:rpm/suse/python3-onionshare&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.6-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python3-onionshare": "2.6-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,43 @@
 	],
 	"summary": "dovecot22-2.2.27-1.1 on GA media",
 	"details": "These are all security issues fixed in the dovecot22-2.2.27-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dovecot22",
+				"purl": "purl:rpm/suse/dovecot22&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.2.27-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dovecot22": "2.2.27-1.1",
+						"dovecot22-backend-mysql": "2.2.27-1.1",
+						"dovecot22-backend-pgsql": "2.2.27-1.1",
+						"dovecot22-backend-sqlite": "2.2.27-1.1",
+						"dovecot22-devel": "2.2.27-1.1",
+						"dovecot22-fts": "2.2.27-1.1",
+						"dovecot22-fts-lucene": "2.2.27-1.1",
+						"dovecot22-fts-solr": "2.2.27-1.1",
+						"dovecot22-fts-squat": "2.2.27-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,35 @@
 	],
 	"summary": "iputils-s20160308-1.4 on GA media",
 	"details": "These are all security issues fixed in the iputils-s20160308-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "iputils",
+				"purl": "purl:rpm/suse/iputils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "s20160308-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"iputils": "s20160308-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

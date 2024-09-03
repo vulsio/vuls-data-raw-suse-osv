@@ -8,6 +8,38 @@
 	],
 	"summary": "python310-aiohttp-3.9.3-2.1 on GA media",
 	"details": "These are all security issues fixed in the python310-aiohttp-3.9.3-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-aiohttp",
+				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.9.3-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-aiohttp": "3.9.3-2.1",
+						"python311-aiohttp": "3.9.3-2.1",
+						"python312-aiohttp": "3.9.3-2.1",
+						"python39-aiohttp": "3.9.3-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

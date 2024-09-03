@@ -7,6 +7,43 @@
 	],
 	"summary": "gnutls-3.8.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the gnutls-3.8.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gnutls",
+				"purl": "purl:rpm/suse/gnutls&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.8.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gnutls": "3.8.2-1.1",
+						"libgnutls-dane-devel": "3.8.2-1.1",
+						"libgnutls-dane0": "3.8.2-1.1",
+						"libgnutls-devel": "3.8.2-1.1",
+						"libgnutls-devel-32bit": "3.8.2-1.1",
+						"libgnutls30": "3.8.2-1.1",
+						"libgnutls30-32bit": "3.8.2-1.1",
+						"libgnutlsxx-devel": "3.8.2-1.1",
+						"libgnutlsxx30": "3.8.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -12,6 +12,40 @@
 	],
 	"summary": "xorg-x11-server-21.1.4-6.1 on GA media",
 	"details": "These are all security issues fixed in the xorg-x11-server-21.1.4-6.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xorg-x11-server",
+				"purl": "purl:rpm/suse/xorg-x11-server&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.1.4-6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xorg-x11-server": "21.1.4-6.1",
+						"xorg-x11-server-Xvfb": "21.1.4-6.1",
+						"xorg-x11-server-extra": "21.1.4-6.1",
+						"xorg-x11-server-sdk": "21.1.4-6.1",
+						"xorg-x11-server-source": "21.1.4-6.1",
+						"xorg-x11-server-wrapper": "21.1.4-6.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

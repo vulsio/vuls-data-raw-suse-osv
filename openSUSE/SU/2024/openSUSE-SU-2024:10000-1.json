@@ -7,6 +7,35 @@
 	],
 	"summary": "kdirstat-2.4.4-277.11 on GA media",
 	"details": "These are all security issues fixed in the kdirstat-2.4.4-277.11 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kdirstat",
+				"purl": "purl:rpm/suse/kdirstat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.4-277.11"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kdirstat": "2.4.4-277.11"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

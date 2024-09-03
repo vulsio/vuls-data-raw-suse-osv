@@ -9,6 +9,40 @@
 	],
 	"summary": "libwireshark17-4.2.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the libwireshark17-4.2.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wireshark",
+				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.2.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libwireshark17": "4.2.5-1.1",
+						"libwiretap14": "4.2.5-1.1",
+						"libwsutil15": "4.2.5-1.1",
+						"wireshark": "4.2.5-1.1",
+						"wireshark-devel": "4.2.5-1.1",
+						"wireshark-ui-qt": "4.2.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

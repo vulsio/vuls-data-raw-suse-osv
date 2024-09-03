@@ -7,6 +7,35 @@
 	],
 	"summary": "fvwm2-2.6.9-2.11 on GA media",
 	"details": "These are all security issues fixed in the fvwm2-2.6.9-2.11 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fvwm2",
+				"purl": "purl:rpm/suse/fvwm2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.6.9-2.11"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fvwm2": "2.6.9-2.11"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

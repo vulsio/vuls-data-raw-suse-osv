@@ -9,6 +9,44 @@
 	],
 	"summary": "frr-8.4-12.1 on GA media",
 	"details": "These are all security issues fixed in the frr-8.4-12.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "frr",
+				"purl": "purl:rpm/suse/frr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.4-12.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"frr": "8.4-12.1",
+						"frr-devel": "8.4-12.1",
+						"libfrr0": "8.4-12.1",
+						"libfrr_pb0": "8.4-12.1",
+						"libfrrcares0": "8.4-12.1",
+						"libfrrfpm_pb0": "8.4-12.1",
+						"libfrrospfapiclient0": "8.4-12.1",
+						"libfrrsnmp0": "8.4-12.1",
+						"libfrrzmq0": "8.4-12.1",
+						"libmlag_pb0": "8.4-12.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

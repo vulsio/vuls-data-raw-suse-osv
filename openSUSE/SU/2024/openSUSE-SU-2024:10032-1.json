@@ -8,6 +8,47 @@
 	],
 	"summary": "guestfs-data-1.32.4-11.1 on GA media",
 	"details": "These are all security issues fixed in the guestfs-data-1.32.4-11.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libguestfs",
+				"purl": "purl:rpm/suse/libguestfs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.32.4-11.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"guestfs-data": "1.32.4-11.1",
+						"guestfs-tools": "1.32.4-11.1",
+						"guestfsd": "1.32.4-11.1",
+						"libguestfs-devel": "1.32.4-11.1",
+						"libguestfs-test": "1.32.4-11.1",
+						"libguestfs0": "1.32.4-11.1",
+						"lua-libguestfs": "1.32.4-11.1",
+						"ocaml-libguestfs": "1.32.4-11.1",
+						"ocaml-libguestfs-devel": "1.32.4-11.1",
+						"perl-Sys-Guestfs": "1.32.4-11.1",
+						"python-libguestfs": "1.32.4-11.1",
+						"rubygem-libguestfs": "1.32.4-11.1",
+						"virt-p2v": "1.32.4-11.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

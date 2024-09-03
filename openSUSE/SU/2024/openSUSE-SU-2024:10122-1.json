@@ -7,6 +7,35 @@
 	],
 	"summary": "rpcbind-0.2.3-7.1 on GA media",
 	"details": "These are all security issues fixed in the rpcbind-0.2.3-7.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rpcbind",
+				"purl": "purl:rpm/suse/rpcbind&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.2.3-7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rpcbind": "0.2.3-7.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

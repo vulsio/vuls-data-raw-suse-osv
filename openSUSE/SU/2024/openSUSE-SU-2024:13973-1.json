@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-Email-MIME-1.954.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the perl-Email-MIME-1.954.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-Email-MIME",
+				"purl": "purl:rpm/suse/perl-Email-MIME&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.954.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-Email-MIME": "1.954.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

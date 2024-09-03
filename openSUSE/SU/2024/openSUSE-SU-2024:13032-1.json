@@ -9,6 +9,40 @@
 	],
 	"summary": "python312-3.12.0b3-1.1 on GA media",
 	"details": "These are all security issues fixed in the python312-3.12.0b3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python312",
+				"purl": "purl:rpm/suse/python312&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.12.0b3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python312": "3.12.0b3-1.1",
+						"python312-curses": "3.12.0b3-1.1",
+						"python312-dbm": "3.12.0b3-1.1",
+						"python312-idle": "3.12.0b3-1.1",
+						"python312-tk": "3.12.0b3-1.1",
+						"python312-x86-64-v3": "3.12.0b3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

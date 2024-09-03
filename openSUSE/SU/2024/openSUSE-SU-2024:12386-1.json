@@ -7,6 +7,35 @@
 	],
 	"summary": "rxvt-unicode-9.30-2.1 on GA media",
 	"details": "These are all security issues fixed in the rxvt-unicode-9.30-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rxvt-unicode",
+				"purl": "purl:rpm/suse/rxvt-unicode&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.30-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rxvt-unicode": "9.30-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

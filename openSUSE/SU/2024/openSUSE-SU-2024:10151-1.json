@@ -7,6 +7,35 @@
 	],
 	"summary": "xzgv-0.9.1-27.8 on GA media",
 	"details": "These are all security issues fixed in the xzgv-0.9.1-27.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xzgv",
+				"purl": "purl:rpm/suse/xzgv&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.1-27.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xzgv": "0.9.1-27.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

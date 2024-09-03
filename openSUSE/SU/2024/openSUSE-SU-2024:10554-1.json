@@ -55,6 +55,39 @@
 	],
 	"summary": "libtiff-devel-32bit-4.0.7-1.1 on GA media",
 	"details": "These are all security issues fixed in the libtiff-devel-32bit-4.0.7-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tiff",
+				"purl": "purl:rpm/suse/tiff&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.7-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libtiff-devel": "4.0.7-1.1",
+						"libtiff-devel-32bit": "4.0.7-1.1",
+						"libtiff5": "4.0.7-1.1",
+						"libtiff5-32bit": "4.0.7-1.1",
+						"tiff": "4.0.7-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

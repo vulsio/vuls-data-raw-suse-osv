@@ -28,6 +28,35 @@
 	],
 	"summary": "rdesktop-1.9.0-4.6 on GA media",
 	"details": "These are all security issues fixed in the rdesktop-1.9.0-4.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rdesktop",
+				"purl": "purl:rpm/suse/rdesktop&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.0-4.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rdesktop": "1.9.0-4.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

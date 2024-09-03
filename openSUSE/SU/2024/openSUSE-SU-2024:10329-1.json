@@ -8,6 +8,35 @@
 	],
 	"summary": "lynx-2.8.8rel.2-4.13 on GA media",
 	"details": "These are all security issues fixed in the lynx-2.8.8rel.2-4.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lynx",
+				"purl": "purl:rpm/suse/lynx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.8.8rel.2-4.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"lynx": "2.8.8rel.2-4.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

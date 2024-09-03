@@ -8,6 +8,37 @@
 	],
 	"summary": "python36-PyYAML-5.4.1-1.6 on GA media",
 	"details": "These are all security issues fixed in the python36-PyYAML-5.4.1-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-PyYAML",
+				"purl": "purl:rpm/suse/python-PyYAML&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.4.1-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-PyYAML": "5.4.1-1.6",
+						"python38-PyYAML": "5.4.1-1.6",
+						"python39-PyYAML": "5.4.1-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

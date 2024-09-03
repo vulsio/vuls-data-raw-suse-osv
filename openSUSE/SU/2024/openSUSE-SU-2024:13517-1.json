@@ -7,6 +7,42 @@
 	],
 	"summary": "openssh-9.3p2-5.1 on GA media",
 	"details": "These are all security issues fixed in the openssh-9.3p2-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openssh",
+				"purl": "purl:rpm/suse/openssh&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.3p2-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openssh": "9.3p2-5.1",
+						"openssh-cavs": "9.3p2-5.1",
+						"openssh-clients": "9.3p2-5.1",
+						"openssh-common": "9.3p2-5.1",
+						"openssh-fips": "9.3p2-5.1",
+						"openssh-helpers": "9.3p2-5.1",
+						"openssh-server": "9.3p2-5.1",
+						"openssh-server-config-rootlogin": "9.3p2-5.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "nodejs-electron-29.3.2~20240430g19f0abd6-1.1 on GA media",
 	"details": "These are all security issues fixed in the nodejs-electron-29.3.2~20240430g19f0abd6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs-electron",
+				"purl": "purl:rpm/suse/nodejs-electron&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "29.3.2~20240430g19f0abd6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"nodejs-electron": "29.3.2~20240430g19f0abd6-1.1",
+						"nodejs-electron-devel": "29.3.2~20240430g19f0abd6-1.1",
+						"nodejs-electron-doc": "29.3.2~20240430g19f0abd6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

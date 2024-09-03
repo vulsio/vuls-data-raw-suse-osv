@@ -16,6 +16,45 @@
 	],
 	"summary": "tomcat-8.0.36-3.3 on GA media",
 	"details": "These are all security issues fixed in the tomcat-8.0.36-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tomcat",
+				"purl": "purl:rpm/suse/tomcat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.0.36-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tomcat": "8.0.36-3.3",
+						"tomcat-admin-webapps": "8.0.36-3.3",
+						"tomcat-docs-webapp": "8.0.36-3.3",
+						"tomcat-el-3_0-api": "8.0.36-3.3",
+						"tomcat-embed": "8.0.36-3.3",
+						"tomcat-javadoc": "8.0.36-3.3",
+						"tomcat-jsp-2_3-api": "8.0.36-3.3",
+						"tomcat-jsvc": "8.0.36-3.3",
+						"tomcat-lib": "8.0.36-3.3",
+						"tomcat-servlet-3_1-api": "8.0.36-3.3",
+						"tomcat-webapps": "8.0.36-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

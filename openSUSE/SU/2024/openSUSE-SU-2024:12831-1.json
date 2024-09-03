@@ -9,6 +9,65 @@
 	],
 	"summary": "ctdb-4.18.1+git.298.4ccf830b2a4-1.1 on GA media",
 	"details": "These are all security issues fixed in the ctdb-4.18.1+git.298.4ccf830b2a4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "samba",
+				"purl": "purl:rpm/suse/samba&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.18.1+git.298.4ccf830b2a4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ctdb": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"ctdb-pcp-pmda": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"libsamba-policy-devel": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"libsamba-policy-python3-devel": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"libsamba-policy0-python3": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"libsamba-policy0-python3-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-ad-dc": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-ad-dc-libs": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-ad-dc-libs-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-ceph": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-client": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-client-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-client-libs": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-client-libs-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-devel": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-devel-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-doc": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-dsdb-modules": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-gpupdate": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-ldb-ldap": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-libs": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-libs-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-libs-python3": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-libs-python3-32bit": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-python3": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-test": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-tool": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-winbind": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-winbind-libs": "4.18.1+git.298.4ccf830b2a4-1.1",
+						"samba-winbind-libs-32bit": "4.18.1+git.298.4ccf830b2a4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,35 @@
 	],
 	"summary": "phoronix-test-suite-10.8.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the phoronix-test-suite-10.8.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "phoronix-test-suite",
+				"purl": "purl:rpm/suse/phoronix-test-suite&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.8.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"phoronix-test-suite": "10.8.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

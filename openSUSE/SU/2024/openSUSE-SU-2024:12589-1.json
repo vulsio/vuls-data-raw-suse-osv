@@ -14,6 +14,39 @@
 	],
 	"summary": "OpenImageIO-2.4.6.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the OpenImageIO-2.4.6.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "OpenImageIO",
+				"purl": "purl:rpm/suse/OpenImageIO&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.6.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"OpenImageIO": "2.4.6.0-1.1",
+						"OpenImageIO-devel": "2.4.6.0-1.1",
+						"libOpenImageIO2_4": "2.4.6.0-1.1",
+						"libOpenImageIO_Util2_4": "2.4.6.0-1.1",
+						"python3-OpenImageIO": "2.4.6.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

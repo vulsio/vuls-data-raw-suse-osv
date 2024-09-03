@@ -7,6 +7,40 @@
 	],
 	"summary": "python38-3.8.15-3.1 on GA media",
 	"details": "These are all security issues fixed in the python38-3.8.15-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python38",
+				"purl": "purl:rpm/suse/python38&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.8.15-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python38": "3.8.15-3.1",
+						"python38-32bit": "3.8.15-2.1",
+						"python38-curses": "3.8.15-3.1",
+						"python38-dbm": "3.8.15-3.1",
+						"python38-idle": "3.8.15-3.1",
+						"python38-tk": "3.8.15-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

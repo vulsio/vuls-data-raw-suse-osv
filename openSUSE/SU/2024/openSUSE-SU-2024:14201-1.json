@@ -7,6 +7,39 @@
 	],
 	"summary": "gnome-extensions-46.3.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the gnome-extensions-46.3.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gnome-shell",
+				"purl": "purl:rpm/suse/gnome-shell&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "46.3.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gnome-extensions": "46.3.1-2.1",
+						"gnome-shell": "46.3.1-2.1",
+						"gnome-shell-calendar": "46.3.1-2.1",
+						"gnome-shell-devel": "46.3.1-2.1",
+						"gnome-shell-lang": "46.3.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

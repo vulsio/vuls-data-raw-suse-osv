@@ -7,6 +7,38 @@
 	],
 	"summary": "apache-commons-httpclient-3.1-8.5 on GA media",
 	"details": "These are all security issues fixed in the apache-commons-httpclient-3.1-8.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache-commons-httpclient",
+				"purl": "purl:rpm/suse/apache-commons-httpclient&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1-8.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache-commons-httpclient": "3.1-8.5",
+						"apache-commons-httpclient-demo": "3.1-8.5",
+						"apache-commons-httpclient-javadoc": "3.1-8.5",
+						"apache-commons-httpclient-manual": "3.1-8.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

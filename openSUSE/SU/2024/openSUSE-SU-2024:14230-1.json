@@ -9,6 +9,40 @@
 	],
 	"summary": "espeak-ng-1.51.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the espeak-ng-1.51.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "espeak-ng",
+				"purl": "purl:rpm/suse/espeak-ng&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.51.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"espeak-ng": "1.51.1-1.1",
+						"espeak-ng-compat": "1.51.1-1.1",
+						"espeak-ng-compat-devel": "1.51.1-1.1",
+						"espeak-ng-devel": "1.51.1-1.1",
+						"espeak-ng-vim": "1.51.1-1.1",
+						"libespeak-ng1": "1.51.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

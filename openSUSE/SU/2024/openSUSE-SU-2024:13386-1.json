@@ -9,6 +9,47 @@
 	],
 	"summary": "freeradius-server-3.2.3-2.1 on GA media",
 	"details": "These are all security issues fixed in the freeradius-server-3.2.3-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freeradius-server",
+				"purl": "purl:rpm/suse/freeradius-server&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.3-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freeradius-server": "3.2.3-2.1",
+						"freeradius-server-devel": "3.2.3-2.1",
+						"freeradius-server-doc": "3.2.3-2.1",
+						"freeradius-server-krb5": "3.2.3-2.1",
+						"freeradius-server-ldap": "3.2.3-2.1",
+						"freeradius-server-ldap-schemas": "3.2.3-2.1",
+						"freeradius-server-libs": "3.2.3-2.1",
+						"freeradius-server-mysql": "3.2.3-2.1",
+						"freeradius-server-perl": "3.2.3-2.1",
+						"freeradius-server-postgresql": "3.2.3-2.1",
+						"freeradius-server-python3": "3.2.3-2.1",
+						"freeradius-server-sqlite": "3.2.3-2.1",
+						"freeradius-server-utils": "3.2.3-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -37,6 +37,37 @@
 	],
 	"summary": "phpMyAdmin-5.1.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the phpMyAdmin-5.1.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "phpMyAdmin",
+				"purl": "purl:rpm/suse/phpMyAdmin&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"phpMyAdmin": "5.1.1-1.2",
+						"phpMyAdmin-apache": "5.1.1-1.2",
+						"phpMyAdmin-lang": "5.1.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -16,6 +16,48 @@
 	],
 	"summary": "ImageMagick-6.9.6.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the ImageMagick-6.9.6.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ImageMagick",
+				"purl": "purl:rpm/suse/ImageMagick&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.9.6.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ImageMagick": "6.9.6.6-1.1",
+						"ImageMagick-devel": "6.9.6.6-1.1",
+						"ImageMagick-devel-32bit": "6.9.6.6-1.1",
+						"ImageMagick-doc": "6.9.6.6-1.1",
+						"ImageMagick-extra": "6.9.6.6-1.1",
+						"libMagick++-6_Q16-6": "6.9.6.6-1.1",
+						"libMagick++-6_Q16-6-32bit": "6.9.6.6-1.1",
+						"libMagick++-devel": "6.9.6.6-1.1",
+						"libMagick++-devel-32bit": "6.9.6.6-1.1",
+						"libMagickCore-6_Q16-2": "6.9.6.6-1.1",
+						"libMagickCore-6_Q16-2-32bit": "6.9.6.6-1.1",
+						"libMagickWand-6_Q16-2": "6.9.6.6-1.1",
+						"libMagickWand-6_Q16-2-32bit": "6.9.6.6-1.1",
+						"perl-PerlMagick": "6.9.6.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

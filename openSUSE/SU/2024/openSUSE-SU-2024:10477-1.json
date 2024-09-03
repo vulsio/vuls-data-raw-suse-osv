@@ -13,6 +13,38 @@
 	],
 	"summary": "libbotan-1_10-1-1.10.13-1.1 on GA media",
 	"details": "These are all security issues fixed in the libbotan-1_10-1-1.10.13-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "Botan",
+				"purl": "purl:rpm/suse/Botan&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.10.13-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libbotan-1_10-1": "1.10.13-1.1",
+						"libbotan-1_10-1-32bit": "1.10.13-1.1",
+						"libbotan-devel": "1.10.13-1.1",
+						"libbotan-devel-32bit": "1.10.13-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

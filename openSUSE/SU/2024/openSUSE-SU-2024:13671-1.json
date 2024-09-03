@@ -7,6 +7,46 @@
 	],
 	"summary": "postgresql15-15.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the postgresql15-15.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql15",
+				"purl": "purl:rpm/suse/postgresql15&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "15.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql15": "15.6-1.1",
+						"postgresql15-contrib": "15.6-1.1",
+						"postgresql15-devel": "15.6-1.1",
+						"postgresql15-docs": "15.6-1.1",
+						"postgresql15-llvmjit": "15.6-1.1",
+						"postgresql15-llvmjit-devel": "15.6-1.1",
+						"postgresql15-plperl": "15.6-1.1",
+						"postgresql15-plpython": "15.6-1.1",
+						"postgresql15-pltcl": "15.6-1.1",
+						"postgresql15-server": "15.6-1.1",
+						"postgresql15-server-devel": "15.6-1.1",
+						"postgresql15-test": "15.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

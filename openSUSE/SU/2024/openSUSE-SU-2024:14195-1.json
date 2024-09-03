@@ -7,6 +7,37 @@
 	],
 	"summary": "openCryptoki-3.23.0-4.1 on GA media",
 	"details": "These are all security issues fixed in the openCryptoki-3.23.0-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openCryptoki",
+				"purl": "purl:rpm/suse/openCryptoki&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.23.0-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openCryptoki": "3.23.0-4.1",
+						"openCryptoki-64bit": "3.23.0-4.1",
+						"openCryptoki-devel": "3.23.0-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

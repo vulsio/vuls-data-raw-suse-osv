@@ -12,6 +12,41 @@
 	],
 	"summary": "java-11-openjdk-11.0.22.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-11-openjdk-11.0.22.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-11-openjdk",
+				"purl": "purl:rpm/suse/java-11-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "11.0.22.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-11-openjdk": "11.0.22.0-1.1",
+						"java-11-openjdk-demo": "11.0.22.0-1.1",
+						"java-11-openjdk-devel": "11.0.22.0-1.1",
+						"java-11-openjdk-headless": "11.0.22.0-1.1",
+						"java-11-openjdk-javadoc": "11.0.22.0-1.1",
+						"java-11-openjdk-jmods": "11.0.22.0-1.1",
+						"java-11-openjdk-src": "11.0.22.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

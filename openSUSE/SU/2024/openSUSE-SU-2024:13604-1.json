@@ -7,6 +7,35 @@
 	],
 	"summary": "golang-github-prometheus-prometheus-2.48.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the golang-github-prometheus-prometheus-2.48.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "golang-github-prometheus-prometheus",
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.48.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"golang-github-prometheus-prometheus": "2.48.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

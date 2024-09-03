@@ -7,6 +7,40 @@
 	],
 	"summary": "libsoup-2_4-1-2.56.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libsoup-2_4-1-2.56.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libsoup",
+				"purl": "purl:rpm/suse/libsoup&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.56.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsoup-2_4-1": "2.56.0-1.1",
+						"libsoup-2_4-1-32bit": "2.56.0-1.1",
+						"libsoup-devel": "2.56.0-1.1",
+						"libsoup-devel-32bit": "2.56.0-1.1",
+						"libsoup-lang": "2.56.0-1.1",
+						"typelib-1_0-Soup-2_4": "2.56.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

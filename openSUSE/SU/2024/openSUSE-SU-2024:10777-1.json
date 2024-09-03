@@ -20,6 +20,39 @@
 	],
 	"summary": "gd-2.3.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the gd-2.3.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gd",
+				"purl": "purl:rpm/suse/gd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gd": "2.3.3-1.1",
+						"gd-devel": "2.3.3-1.1",
+						"gd-devel-32bit": "2.3.3-1.1",
+						"libgd3": "2.3.3-1.1",
+						"libgd3-32bit": "2.3.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

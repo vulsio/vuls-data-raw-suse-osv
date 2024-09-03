@@ -7,6 +7,37 @@
 	],
 	"summary": "empathy-3.12.12-3.1 on GA media",
 	"details": "These are all security issues fixed in the empathy-3.12.12-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "empathy",
+				"purl": "purl:rpm/suse/empathy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.12.12-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"empathy": "3.12.12-3.1",
+						"empathy-lang": "3.12.12-3.1",
+						"telepathy-mission-control-plugin-goa": "3.12.12-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "k3s-1.21.3+k3s1-1.2 on GA media",
 	"details": "These are all security issues fixed in the k3s-1.21.3+k3s1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "k3s",
+				"purl": "purl:rpm/suse/k3s&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.21.3+k3s1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"k3s": "1.21.3+k3s1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

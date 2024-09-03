@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-HTTP-Daemon-6.14-2.1 on GA media",
 	"details": "These are all security issues fixed in the perl-HTTP-Daemon-6.14-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-HTTP-Daemon",
+				"purl": "purl:rpm/suse/perl-HTTP-Daemon&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.14-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-HTTP-Daemon": "6.14-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "ruby3.3-rubygem-kramdown-2.4.0-1.12 on GA media",
 	"details": "These are all security issues fixed in the ruby3.3-rubygem-kramdown-2.4.0-1.12 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-kramdown",
+				"purl": "purl:rpm/suse/rubygem-kramdown&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.0-1.12"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby3.3-rubygem-kramdown": "2.4.0-1.12"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

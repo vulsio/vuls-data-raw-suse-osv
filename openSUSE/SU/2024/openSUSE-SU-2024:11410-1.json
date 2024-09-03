@@ -7,6 +7,35 @@
 	],
 	"summary": "storeBackup-3.5-13.2 on GA media",
 	"details": "These are all security issues fixed in the storeBackup-3.5-13.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "storeBackup",
+				"purl": "purl:rpm/suse/storeBackup&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5-13.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"storeBackup": "3.5-13.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

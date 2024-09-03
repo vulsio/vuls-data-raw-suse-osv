@@ -8,6 +8,35 @@
 	],
 	"summary": "spectre-meltdown-checker-0.44-1.2 on GA media",
 	"details": "These are all security issues fixed in the spectre-meltdown-checker-0.44-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "spectre-meltdown-checker",
+				"purl": "purl:rpm/suse/spectre-meltdown-checker&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.44-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"spectre-meltdown-checker": "0.44-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

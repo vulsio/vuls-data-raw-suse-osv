@@ -8,6 +8,39 @@
 	],
 	"summary": "curl-8.4.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the curl-8.4.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "curl",
+				"purl": "purl:rpm/suse/curl&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.4.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"curl": "8.4.0-1.1",
+						"libcurl-devel": "8.4.0-1.1",
+						"libcurl-devel-32bit": "8.4.0-1.1",
+						"libcurl4": "8.4.0-1.1",
+						"libcurl4-32bit": "8.4.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

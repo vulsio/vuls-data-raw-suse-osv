@@ -7,6 +7,36 @@
 	],
 	"summary": "tkimg-1.4-5.9 on GA media",
 	"details": "These are all security issues fixed in the tkimg-1.4-5.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tkimg",
+				"purl": "purl:rpm/suse/tkimg&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4-5.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tkimg": "1.4-5.9",
+						"tkimg-devel": "1.4-5.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

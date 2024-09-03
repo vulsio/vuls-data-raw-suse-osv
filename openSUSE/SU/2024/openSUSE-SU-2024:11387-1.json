@@ -7,6 +7,35 @@
 	],
 	"summary": "slirp4netns-1.1.11-1.2 on GA media",
 	"details": "These are all security issues fixed in the slirp4netns-1.1.11-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "slirp4netns",
+				"purl": "purl:rpm/suse/slirp4netns&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.11-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"slirp4netns": "1.1.11-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

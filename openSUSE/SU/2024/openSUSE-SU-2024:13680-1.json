@@ -7,6 +7,35 @@
 	],
 	"summary": "pdns-recursor-5.0.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the pdns-recursor-5.0.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pdns-recursor",
+				"purl": "purl:rpm/suse/pdns-recursor&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.0.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pdns-recursor": "5.0.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

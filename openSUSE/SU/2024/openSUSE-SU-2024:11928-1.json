@@ -7,6 +7,35 @@
 	],
 	"summary": "pleaser-0.5.1~git0.ce9627c-4.1 on GA media",
 	"details": "These are all security issues fixed in the pleaser-0.5.1~git0.ce9627c-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pleaser",
+				"purl": "purl:rpm/suse/pleaser&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.5.1~git0.ce9627c-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pleaser": "0.5.1~git0.ce9627c-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,39 @@
 	],
 	"summary": "corepack16-16.17.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the corepack16-16.17.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nodejs16",
+				"purl": "purl:rpm/suse/nodejs16&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "16.17.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"corepack16": "16.17.0-2.1",
+						"nodejs16": "16.17.0-2.1",
+						"nodejs16-devel": "16.17.0-2.1",
+						"nodejs16-docs": "16.17.0-2.1",
+						"npm16": "16.17.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -10,6 +10,42 @@
 	],
 	"summary": "libopenssl-1_1-devel-1.1.1t-1.1 on GA media",
 	"details": "These are all security issues fixed in the libopenssl-1_1-devel-1.1.1t-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openssl-1_1",
+				"purl": "purl:rpm/suse/openssl-1_1&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.1t-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libopenssl-1_1-devel": "1.1.1t-1.1",
+						"libopenssl-1_1-devel-32bit": "1.1.1t-1.1",
+						"libopenssl1_1": "1.1.1t-1.1",
+						"libopenssl1_1-32bit": "1.1.1t-1.1",
+						"libopenssl1_1-hmac": "1.1.1t-1.1",
+						"libopenssl1_1-hmac-32bit": "1.1.1t-1.1",
+						"openssl-1_1": "1.1.1t-1.1",
+						"openssl-1_1-doc": "1.1.1t-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

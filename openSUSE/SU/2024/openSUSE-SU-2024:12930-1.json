@@ -8,6 +8,46 @@
 	],
 	"summary": "postgresql12-12.15-1.1 on GA media",
 	"details": "These are all security issues fixed in the postgresql12-12.15-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql12",
+				"purl": "purl:rpm/suse/postgresql12&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.15-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql12": "12.15-1.1",
+						"postgresql12-contrib": "12.15-1.1",
+						"postgresql12-devel": "12.15-1.1",
+						"postgresql12-docs": "12.15-1.1",
+						"postgresql12-llvmjit": "12.15-1.1",
+						"postgresql12-llvmjit-devel": "12.15-1.1",
+						"postgresql12-plperl": "12.15-1.1",
+						"postgresql12-plpython": "12.15-1.1",
+						"postgresql12-pltcl": "12.15-1.1",
+						"postgresql12-server": "12.15-1.1",
+						"postgresql12-server-devel": "12.15-1.1",
+						"postgresql12-test": "12.15-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

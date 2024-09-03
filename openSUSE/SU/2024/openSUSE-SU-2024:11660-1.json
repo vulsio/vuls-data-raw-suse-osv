@@ -7,6 +7,38 @@
 	],
 	"summary": "bind-9.16.20-3.1 on GA media",
 	"details": "These are all security issues fixed in the bind-9.16.20-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bind",
+				"purl": "purl:rpm/suse/bind&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.16.20-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bind": "9.16.20-3.1",
+						"bind-doc": "9.16.20-3.1",
+						"bind-utils": "9.16.20-3.1",
+						"python3-bind": "9.16.20-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

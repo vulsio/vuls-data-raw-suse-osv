@@ -8,6 +8,50 @@
 	],
 	"summary": "connman-1.41-4.1 on GA media",
 	"details": "These are all security issues fixed in the connman-1.41-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "connman",
+				"purl": "purl:rpm/suse/connman&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.41-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"connman": "1.41-4.1",
+						"connman-client": "1.41-4.1",
+						"connman-devel": "1.41-4.1",
+						"connman-doc": "1.41-4.1",
+						"connman-nmcompat": "1.41-4.1",
+						"connman-plugin-hh2serial-gps": "1.41-4.1",
+						"connman-plugin-iospm": "1.41-4.1",
+						"connman-plugin-l2tp": "1.41-4.1",
+						"connman-plugin-openconnect": "1.41-4.1",
+						"connman-plugin-openvpn": "1.41-4.1",
+						"connman-plugin-polkit": "1.41-4.1",
+						"connman-plugin-pptp": "1.41-4.1",
+						"connman-plugin-tist": "1.41-4.1",
+						"connman-plugin-vpnc": "1.41-4.1",
+						"connman-plugin-wireguard": "1.41-4.1",
+						"connman-test": "1.41-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

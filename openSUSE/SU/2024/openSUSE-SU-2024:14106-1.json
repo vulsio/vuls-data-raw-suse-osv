@@ -7,6 +7,35 @@
 	],
 	"summary": "agama-web-ui-9+52-1.1 on GA media",
 	"details": "These are all security issues fixed in the agama-web-ui-9+52-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "agama-web-ui",
+				"purl": "purl:rpm/suse/agama-web-ui&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9+52-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"agama-web-ui": "9+52-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

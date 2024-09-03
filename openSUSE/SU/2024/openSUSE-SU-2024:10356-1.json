@@ -9,6 +9,54 @@
 	],
 	"summary": "libsystemd0-228-17.1 on GA media",
 	"details": "These are all security issues fixed in the libsystemd0-228-17.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "systemd",
+				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "228-17.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsystemd0": "228-17.1",
+						"libsystemd0-32bit": "228-17.1",
+						"libsystemd0-mini": "228-17.1",
+						"libudev-devel": "228-17.1",
+						"libudev-devel-32bit": "228-17.1",
+						"libudev1": "228-17.1",
+						"libudev1-32bit": "228-17.1",
+						"nss-myhostname": "228-17.1",
+						"nss-myhostname-32bit": "228-17.1",
+						"nss-mymachines": "228-17.1",
+						"nss-mymachines-32bit": "228-17.1",
+						"systemd": "228-17.1",
+						"systemd-32bit": "228-17.1",
+						"systemd-bash-completion": "228-17.1",
+						"systemd-devel": "228-17.1",
+						"systemd-journal-remote": "228-17.1",
+						"systemd-logger": "228-17.1",
+						"systemd-mini-bash-completion": "228-17.1",
+						"systemd-sysvinit": "228-17.1",
+						"udev": "228-17.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

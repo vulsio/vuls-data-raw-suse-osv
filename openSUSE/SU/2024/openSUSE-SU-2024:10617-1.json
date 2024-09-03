@@ -9,6 +9,36 @@
 	],
 	"summary": "apache-commons-beanutils-1.9.4-3.7 on GA media",
 	"details": "These are all security issues fixed in the apache-commons-beanutils-1.9.4-3.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache-commons-beanutils",
+				"purl": "purl:rpm/suse/apache-commons-beanutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.4-3.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache-commons-beanutils": "1.9.4-3.7",
+						"apache-commons-beanutils-javadoc": "1.9.4-3.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

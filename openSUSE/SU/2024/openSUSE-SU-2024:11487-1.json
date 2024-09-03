@@ -7,6 +7,35 @@
 	],
 	"summary": "uranium-firmware-lulzbot-1.1.9.34_5f9c029d1-1.9 on GA media",
 	"details": "These are all security issues fixed in the uranium-firmware-lulzbot-1.1.9.34_5f9c029d1-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "uranium-firmware-lulzbot",
+				"purl": "purl:rpm/suse/uranium-firmware-lulzbot&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.9.34_5f9c029d1-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"uranium-firmware-lulzbot": "1.1.9.34_5f9c029d1-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

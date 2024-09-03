@@ -7,6 +7,35 @@
 	],
 	"summary": "log4net-1.2.10-78.1 on GA media",
 	"details": "These are all security issues fixed in the log4net-1.2.10-78.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "log4net",
+				"purl": "purl:rpm/suse/log4net&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.10-78.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"log4net": "1.2.10-78.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

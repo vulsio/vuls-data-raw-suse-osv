@@ -34,6 +34,40 @@
 	],
 	"summary": "xorg-x11-server-1.20.13-1.2 on GA media",
 	"details": "These are all security issues fixed in the xorg-x11-server-1.20.13-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xorg-x11-server",
+				"purl": "purl:rpm/suse/xorg-x11-server&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.20.13-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xorg-x11-server": "1.20.13-1.2",
+						"xorg-x11-server-Xvfb": "1.20.13-1.2",
+						"xorg-x11-server-extra": "1.20.13-1.2",
+						"xorg-x11-server-sdk": "1.20.13-1.2",
+						"xorg-x11-server-source": "1.20.13-1.2",
+						"xorg-x11-server-wrapper": "1.20.13-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

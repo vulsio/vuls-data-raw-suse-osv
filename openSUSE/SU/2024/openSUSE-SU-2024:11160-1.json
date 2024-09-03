@@ -8,6 +8,35 @@
 	],
 	"summary": "perl-DBD-mysql-4.050-2.14 on GA media",
 	"details": "These are all security issues fixed in the perl-DBD-mysql-4.050-2.14 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-DBD-mysql",
+				"purl": "purl:rpm/suse/perl-DBD-mysql&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.050-2.14"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-DBD-mysql": "4.050-2.14"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -11,6 +11,40 @@
 	],
 	"summary": "freerdp2-devel-2.11.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the freerdp2-devel-2.11.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freerdp2",
+				"purl": "purl:rpm/suse/freerdp2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freerdp2-devel": "2.11.5-1.1",
+						"freerdp2-proxy": "2.11.5-1.1",
+						"freerdp2-server": "2.11.5-1.1",
+						"libfreerdp2-2": "2.11.5-1.1",
+						"libwinpr2-2": "2.11.5-1.1",
+						"winpr2-devel": "2.11.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

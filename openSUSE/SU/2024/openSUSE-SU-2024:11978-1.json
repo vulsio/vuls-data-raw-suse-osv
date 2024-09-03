@@ -8,6 +8,38 @@
 	],
 	"summary": "python-Twisted-doc-22.2.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the python-Twisted-doc-22.2.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-Twisted",
+				"purl": "purl:rpm/suse/python-Twisted&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "22.2.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-Twisted-doc": "22.2.0-1.1",
+						"python310-Twisted": "22.2.0-1.1",
+						"python38-Twisted": "22.2.0-1.1",
+						"python39-Twisted": "22.2.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

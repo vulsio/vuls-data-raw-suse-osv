@@ -7,6 +7,35 @@
 	],
 	"summary": "cargo-audit-advisory-db-20220105-1.1 on GA media",
 	"details": "These are all security issues fixed in the cargo-audit-advisory-db-20220105-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cargo-audit-advisory-db",
+				"purl": "purl:rpm/suse/cargo-audit-advisory-db&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20220105-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cargo-audit-advisory-db": "20220105-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

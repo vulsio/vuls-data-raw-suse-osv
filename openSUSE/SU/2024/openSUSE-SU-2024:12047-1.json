@@ -11,6 +11,39 @@
 	],
 	"summary": "clamav-0.103.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the clamav-0.103.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "clamav",
+				"purl": "purl:rpm/suse/clamav&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.103.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"clamav": "0.103.6-1.1",
+						"clamav-devel": "0.103.6-1.1",
+						"clamav-milter": "0.103.6-1.1",
+						"libclamav9": "0.103.6-1.1",
+						"libfreshclam2": "0.103.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

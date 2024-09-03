@@ -8,6 +8,49 @@
 	],
 	"summary": "git-2.38.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the git-2.38.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "git",
+				"purl": "purl:rpm/suse/git&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.38.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"git": "2.38.1-1.1",
+						"git-arch": "2.38.1-1.1",
+						"git-core": "2.38.1-1.1",
+						"git-credential-gnome-keyring": "2.38.1-1.1",
+						"git-credential-libsecret": "2.38.1-1.1",
+						"git-cvs": "2.38.1-1.1",
+						"git-daemon": "2.38.1-1.1",
+						"git-doc": "2.38.1-1.1",
+						"git-email": "2.38.1-1.1",
+						"git-gui": "2.38.1-1.1",
+						"git-p4": "2.38.1-1.1",
+						"git-svn": "2.38.1-1.1",
+						"git-web": "2.38.1-1.1",
+						"gitk": "2.38.1-1.1",
+						"perl-Git": "2.38.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

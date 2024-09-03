@@ -7,6 +7,35 @@
 	],
 	"summary": "haproxy-2.5.4+git0.e55ab4208-1.1 on GA media",
 	"details": "These are all security issues fixed in the haproxy-2.5.4+git0.e55ab4208-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "haproxy",
+				"purl": "purl:rpm/suse/haproxy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.4+git0.e55ab4208-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"haproxy": "2.5.4+git0.e55ab4208-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

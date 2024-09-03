@@ -8,6 +8,35 @@
 	],
 	"summary": "kafka-source-2.1.0-3.6 on GA media",
 	"details": "These are all security issues fixed in the kafka-source-2.1.0-3.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kafka-source",
+				"purl": "purl:rpm/suse/kafka-source&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.1.0-3.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kafka-source": "2.1.0-3.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "bchunk-1.2.2-1.15 on GA media",
 	"details": "These are all security issues fixed in the bchunk-1.2.2-1.15 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bchunk",
+				"purl": "purl:rpm/suse/bchunk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.2-1.15"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bchunk": "1.2.2-1.15"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -44,6 +44,52 @@
 	],
 	"summary": "libjavascriptcoregtk-1_0-0-2.4.11-3.3 on GA media",
 	"details": "These are all security issues fixed in the libjavascriptcoregtk-1_0-0-2.4.11-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gtk3",
+				"purl": "purl:rpm/suse/gtk3&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.11-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libjavascriptcoregtk-1_0-0": "2.4.11-3.3",
+						"libjavascriptcoregtk-1_0-0-32bit": "2.4.11-3.3",
+						"libjavascriptcoregtk-3_0-0": "2.4.11-3.3",
+						"libjavascriptcoregtk-3_0-0-32bit": "2.4.11-3.3",
+						"libwebkitgtk-1_0-0": "2.4.11-3.3",
+						"libwebkitgtk-1_0-0-32bit": "2.4.11-3.3",
+						"libwebkitgtk-3_0-0": "2.4.11-3.3",
+						"libwebkitgtk-3_0-0-32bit": "2.4.11-3.3",
+						"libwebkitgtk-devel": "2.4.11-3.3",
+						"libwebkitgtk2-lang": "2.4.11-3.3",
+						"libwebkitgtk3-devel": "2.4.11-3.3",
+						"libwebkitgtk3-lang": "2.4.11-3.3",
+						"typelib-1_0-JavaScriptCore-1_0": "2.4.11-3.3",
+						"typelib-1_0-JavaScriptCore-3_0": "2.4.11-3.3",
+						"typelib-1_0-WebKit-1_0": "2.4.11-3.3",
+						"typelib-1_0-WebKit-3_0": "2.4.11-3.3",
+						"webkit-jsc-1": "2.4.11-3.3",
+						"webkit-jsc-3": "2.4.11-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

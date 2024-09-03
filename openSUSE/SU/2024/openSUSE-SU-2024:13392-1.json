@@ -7,6 +7,35 @@
 	],
 	"summary": "matrix-synapse-1.95.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the matrix-synapse-1.95.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "matrix-synapse",
+				"purl": "purl:rpm/suse/matrix-synapse&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.95.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"matrix-synapse": "1.95.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

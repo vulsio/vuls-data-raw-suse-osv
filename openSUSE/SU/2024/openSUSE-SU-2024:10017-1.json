@@ -17,6 +17,37 @@
 	],
 	"summary": "exim-4.86.2-2.2 on GA media",
 	"details": "These are all security issues fixed in the exim-4.86.2-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "exim",
+				"purl": "purl:rpm/suse/exim&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.86.2-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"exim": "4.86.2-2.2",
+						"eximon": "4.86.2-2.2",
+						"eximstats-html": "4.86.2-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -21,6 +21,41 @@
 	],
 	"summary": "binutils-2.41-1.2 on GA media",
 	"details": "These are all security issues fixed in the binutils-2.41-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "binutils",
+				"purl": "purl:rpm/suse/binutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.41-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"binutils": "2.41-1.2",
+						"binutils-devel": "2.41-1.2",
+						"binutils-devel-32bit": "2.41-1.2",
+						"binutils-gold": "2.41-1.2",
+						"gprofng": "2.41-1.2",
+						"libctf-nobfd0": "2.41-1.2",
+						"libctf0": "2.41-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

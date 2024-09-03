@@ -36,6 +36,38 @@
 	],
 	"summary": "jasper-1.900.14-3.1 on GA media",
 	"details": "These are all security issues fixed in the jasper-1.900.14-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jasper",
+				"purl": "purl:rpm/suse/jasper&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.900.14-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jasper": "1.900.14-3.1",
+						"libjasper-devel": "1.900.14-3.1",
+						"libjasper1": "1.900.14-3.1",
+						"libjasper1-32bit": "1.900.14-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

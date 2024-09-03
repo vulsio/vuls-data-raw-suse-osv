@@ -7,6 +7,44 @@
 	],
 	"summary": "libpoppler-cpp0-22.09.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libpoppler-cpp0-22.09.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "poppler",
+				"purl": "purl:rpm/suse/poppler&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "22.09.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libpoppler-cpp0": "22.09.0-1.1",
+						"libpoppler-cpp0-32bit": "22.09.0-1.1",
+						"libpoppler-devel": "22.09.0-1.1",
+						"libpoppler-glib-devel": "22.09.0-1.1",
+						"libpoppler-glib8": "22.09.0-1.1",
+						"libpoppler-glib8-32bit": "22.09.0-1.1",
+						"libpoppler124": "22.09.0-1.1",
+						"libpoppler124-32bit": "22.09.0-1.1",
+						"poppler-tools": "22.09.0-1.1",
+						"typelib-1_0-Poppler-0_18": "22.09.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

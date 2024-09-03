@@ -7,6 +7,35 @@
 	],
 	"summary": "aws-cli-1.20.7-2.2 on GA media",
 	"details": "These are all security issues fixed in the aws-cli-1.20.7-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "aws-cli",
+				"purl": "purl:rpm/suse/aws-cli&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.20.7-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"aws-cli": "1.20.7-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

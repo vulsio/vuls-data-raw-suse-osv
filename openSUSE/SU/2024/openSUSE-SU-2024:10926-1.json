@@ -18,6 +18,35 @@
 	],
 	"summary": "libav-tools-12.3-1.17 on GA media",
 	"details": "These are all security issues fixed in the libav-tools-12.3-1.17 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libav-tools",
+				"purl": "purl:rpm/suse/libav-tools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.3-1.17"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libav-tools": "12.3-1.17"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

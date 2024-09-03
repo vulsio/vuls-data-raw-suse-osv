@@ -8,6 +8,37 @@
 	],
 	"summary": "python36-rsa-4.7.2-1.5 on GA media",
 	"details": "These are all security issues fixed in the python36-rsa-4.7.2-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-rsa",
+				"purl": "purl:rpm/suse/python-rsa&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.7.2-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-rsa": "4.7.2-1.5",
+						"python38-rsa": "4.7.2-1.5",
+						"python39-rsa": "4.7.2-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

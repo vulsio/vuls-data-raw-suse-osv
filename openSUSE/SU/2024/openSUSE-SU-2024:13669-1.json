@@ -7,6 +7,46 @@
 	],
 	"summary": "postgresql13-13.14-1.1 on GA media",
 	"details": "These are all security issues fixed in the postgresql13-13.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "postgresql13",
+				"purl": "purl:rpm/suse/postgresql13&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "13.14-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"postgresql13": "13.14-1.1",
+						"postgresql13-contrib": "13.14-1.1",
+						"postgresql13-devel": "13.14-1.1",
+						"postgresql13-docs": "13.14-1.1",
+						"postgresql13-llvmjit": "13.14-1.1",
+						"postgresql13-llvmjit-devel": "13.14-1.1",
+						"postgresql13-plperl": "13.14-1.1",
+						"postgresql13-plpython": "13.14-1.1",
+						"postgresql13-pltcl": "13.14-1.1",
+						"postgresql13-server": "13.14-1.1",
+						"postgresql13-server-devel": "13.14-1.1",
+						"postgresql13-test": "13.14-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

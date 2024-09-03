@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-Email-Address-1.913-1.1 on GA media",
 	"details": "These are all security issues fixed in the perl-Email-Address-1.913-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-Email-Address",
+				"purl": "purl:rpm/suse/perl-Email-Address&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.913-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-Email-Address": "1.913-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,40 @@
 	],
 	"summary": "bzip2-1.0.6-37.82 on GA media",
 	"details": "These are all security issues fixed in the bzip2-1.0.6-37.82 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bzip2",
+				"purl": "purl:rpm/suse/bzip2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.6-37.82"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bzip2": "1.0.6-37.82",
+						"bzip2-doc": "1.0.6-37.82",
+						"libbz2-1": "1.0.6-37.82",
+						"libbz2-1-32bit": "1.0.6-37.82",
+						"libbz2-devel": "1.0.6-37.82",
+						"libbz2-devel-32bit": "1.0.6-37.82"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

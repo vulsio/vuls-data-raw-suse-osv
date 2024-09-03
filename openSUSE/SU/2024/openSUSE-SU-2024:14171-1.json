@@ -12,6 +12,35 @@
 	],
 	"summary": "ruby3.3-rubygem-loofah-2.22.0-1.5 on GA media",
 	"details": "These are all security issues fixed in the ruby3.3-rubygem-loofah-2.22.0-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-loofah",
+				"purl": "purl:rpm/suse/rubygem-loofah&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.22.0-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby3.3-rubygem-loofah": "2.22.0-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

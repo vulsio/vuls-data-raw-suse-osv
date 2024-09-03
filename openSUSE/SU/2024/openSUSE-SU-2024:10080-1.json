@@ -12,6 +12,37 @@
 	],
 	"summary": "mumble-1.2.17-1.2 on GA media",
 	"details": "These are all security issues fixed in the mumble-1.2.17-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mumble",
+				"purl": "purl:rpm/suse/mumble&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.17-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mumble": "1.2.17-1.2",
+						"mumble-32bit": "1.2.17-1.2",
+						"mumble-server": "1.2.17-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

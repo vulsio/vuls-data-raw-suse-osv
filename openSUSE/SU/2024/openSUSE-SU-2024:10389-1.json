@@ -8,6 +8,39 @@
 	],
 	"summary": "guile-2.0.13-2.1 on GA media",
 	"details": "These are all security issues fixed in the guile-2.0.13-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "guile",
+				"purl": "purl:rpm/suse/guile&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.13-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"guile": "2.0.13-2.1",
+						"guile-devel": "2.0.13-2.1",
+						"guile-modules-2_0": "2.0.13-2.1",
+						"libguile-2_0-22": "2.0.13-2.1",
+						"libguilereadline-v-18-18": "2.0.13-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,35 @@
 	],
 	"summary": "mobidict-1.2-1.16 on GA media",
 	"details": "These are all security issues fixed in the mobidict-1.2-1.16 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mobidict",
+				"purl": "purl:rpm/suse/mobidict&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2-1.16"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mobidict": "1.2-1.16"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

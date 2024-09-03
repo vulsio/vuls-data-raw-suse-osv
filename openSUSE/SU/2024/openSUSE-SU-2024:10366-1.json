@@ -7,6 +7,39 @@
 	],
 	"summary": "gnome-shell-3.22.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the gnome-shell-3.22.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gnome-shell",
+				"purl": "purl:rpm/suse/gnome-shell&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.22.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gnome-shell": "3.22.2-1.1",
+						"gnome-shell-browser-plugin": "3.22.2-1.1",
+						"gnome-shell-calendar": "3.22.2-1.1",
+						"gnome-shell-devel": "3.22.2-1.1",
+						"gnome-shell-lang": "3.22.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

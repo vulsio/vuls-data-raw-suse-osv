@@ -7,6 +7,37 @@
 	],
 	"summary": "python36-setuptools-57.4.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the python36-setuptools-57.4.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-setuptools",
+				"purl": "purl:rpm/suse/python-setuptools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "57.4.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-setuptools": "57.4.0-1.2",
+						"python38-setuptools": "57.4.0-1.2",
+						"python39-setuptools": "57.4.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "pgadmin4-7.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the pgadmin4-7.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pgadmin4",
+				"purl": "purl:rpm/suse/pgadmin4&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pgadmin4": "7.4-1.1",
+						"pgadmin4-doc": "7.4-1.1",
+						"pgadmin4-web": "7.4-1.1",
+						"pgadmin4-web-uwsgi": "7.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

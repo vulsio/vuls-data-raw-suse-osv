@@ -7,6 +7,37 @@
 	],
 	"summary": "ntp-4.2.8p15-13.1 on GA media",
 	"details": "These are all security issues fixed in the ntp-4.2.8p15-13.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ntp",
+				"purl": "purl:rpm/suse/ntp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.2.8p15-13.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ntp": "4.2.8p15-13.1",
+						"ntp-dcf77-tools": "4.2.8p15-13.1",
+						"ntp-doc": "4.2.8p15-13.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

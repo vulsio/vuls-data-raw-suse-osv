@@ -8,6 +8,37 @@
 	],
 	"summary": "yast2-core-3.2.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the yast2-core-3.2.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yast2-core",
+				"purl": "purl:rpm/suse/yast2-core&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"yast2-core": "3.2.0-1.1",
+						"yast2-core-debugger": "3.2.0-1.1",
+						"yast2-core-devel": "3.2.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

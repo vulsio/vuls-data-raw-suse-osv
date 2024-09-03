@@ -7,6 +7,36 @@
 	],
 	"summary": "cppcheck-2.12.1-3.1 on GA media",
 	"details": "These are all security issues fixed in the cppcheck-2.12.1-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cppcheck",
+				"purl": "purl:rpm/suse/cppcheck&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.12.1-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cppcheck": "2.12.1-3.1",
+						"cppcheck-gui": "2.12.1-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

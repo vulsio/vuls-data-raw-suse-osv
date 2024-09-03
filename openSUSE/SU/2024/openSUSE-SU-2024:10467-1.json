@@ -43,6 +43,65 @@
 	],
 	"summary": "bind-9.10.3P4-21.1 on GA media",
 	"details": "These are all security issues fixed in the bind-9.10.3P4-21.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bind",
+				"purl": "purl:rpm/suse/bind&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.10.3P4-21.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bind": "9.10.3P4-21.1",
+						"bind-chrootenv": "9.10.3P4-21.1",
+						"bind-devel": "9.10.3P4-21.1",
+						"bind-devel-32bit": "9.10.3P4-21.1",
+						"bind-doc": "9.10.3P4-21.1",
+						"bind-lwresd": "9.10.3P4-21.1",
+						"bind-utils": "9.10.3P4-21.1",
+						"idnkit": "1.0-21.1",
+						"idnkit-devel": "1.0-21.1",
+						"idnkit-devel-32bit": "1.0-21.1",
+						"libbind9-140": "9.10.3P4-21.1",
+						"libbind9-140-32bit": "9.10.3P4-21.1",
+						"libdns162": "9.10.3P4-21.1",
+						"libdns162-32bit": "9.10.3P4-21.1",
+						"libidnkit1": "1.0-21.1",
+						"libidnkit1-32bit": "1.0-21.1",
+						"libidnkitlite1": "1.0-21.1",
+						"libidnkitlite1-32bit": "1.0-21.1",
+						"libidnkitres1": "1.0-21.1",
+						"libidnkitres1-32bit": "1.0-21.1",
+						"libirs-devel": "9.10.3P4-21.1",
+						"libirs141": "9.10.3P4-21.1",
+						"libirs141-32bit": "9.10.3P4-21.1",
+						"libisc160": "9.10.3P4-21.1",
+						"libisc160-32bit": "9.10.3P4-21.1",
+						"libisccc140": "9.10.3P4-21.1",
+						"libisccc140-32bit": "9.10.3P4-21.1",
+						"libisccfg140": "9.10.3P4-21.1",
+						"libisccfg140-32bit": "9.10.3P4-21.1",
+						"liblwres141": "9.10.3P4-21.1",
+						"liblwres141-32bit": "9.10.3P4-21.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -12,6 +12,40 @@
 	],
 	"summary": "libopenssl-3-devel-3.0.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the libopenssl-3-devel-3.0.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openssl-3",
+				"purl": "purl:rpm/suse/openssl-3&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libopenssl-3-devel": "3.0.5-1.1",
+						"libopenssl-3-devel-32bit": "3.0.5-1.1",
+						"libopenssl3": "3.0.5-1.1",
+						"libopenssl3-32bit": "3.0.5-1.1",
+						"openssl-3": "3.0.5-1.1",
+						"openssl-3-doc": "3.0.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

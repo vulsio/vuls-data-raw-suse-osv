@@ -12,6 +12,40 @@
 	],
 	"summary": "libunbound8-1.13.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the libunbound8-1.13.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "unbound",
+				"purl": "purl:rpm/suse/unbound&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.13.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libunbound8": "1.13.2-1.2",
+						"python3-unbound": "1.13.2-1.2",
+						"unbound": "1.13.2-1.2",
+						"unbound-anchor": "1.13.2-1.2",
+						"unbound-devel": "1.13.2-1.2",
+						"unbound-munin": "1.13.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

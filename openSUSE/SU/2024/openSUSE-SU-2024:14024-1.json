@@ -7,6 +7,35 @@
 	],
 	"summary": "kernel-firmware-nvidia-gspx-G06-550.90.07-1.1 on GA media",
 	"details": "These are all security issues fixed in the kernel-firmware-nvidia-gspx-G06-550.90.07-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kernel-firmware-nvidia-gspx-G06",
+				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "550.90.07-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware-nvidia-gspx-G06": "550.90.07-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

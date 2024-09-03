@@ -7,6 +7,38 @@
 	],
 	"summary": "skopeo-1.15.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the skopeo-1.15.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "skopeo",
+				"purl": "purl:rpm/suse/skopeo&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.15.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"skopeo": "1.15.1-1.1",
+						"skopeo-bash-completion": "1.15.1-1.1",
+						"skopeo-fish-completion": "1.15.1-1.1",
+						"skopeo-zsh-completion": "1.15.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "ruby3.2-rubygem-rubyzip-2.3.2-1.11 on GA media",
 	"details": "These are all security issues fixed in the ruby3.2-rubygem-rubyzip-2.3.2-1.11 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ruby3.2-rubygem-rubyzip",
+				"purl": "purl:rpm/suse/ruby3.2-rubygem-rubyzip&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.2-1.11"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby3.2-rubygem-rubyzip": "2.3.2-1.11"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

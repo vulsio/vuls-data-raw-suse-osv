@@ -7,6 +7,35 @@
 	],
 	"summary": "mysql-workbench-8.0.25-2.2 on GA media",
 	"details": "These are all security issues fixed in the mysql-workbench-8.0.25-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mysql-workbench",
+				"purl": "purl:rpm/suse/mysql-workbench&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.0.25-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mysql-workbench": "8.0.25-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

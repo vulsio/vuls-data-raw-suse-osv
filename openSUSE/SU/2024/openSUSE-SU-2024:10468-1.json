@@ -7,6 +7,35 @@
 	],
 	"summary": "proxychains-ng-4.11-1.5 on GA media",
 	"details": "These are all security issues fixed in the proxychains-ng-4.11-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "proxychains-ng",
+				"purl": "purl:rpm/suse/proxychains-ng&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.11-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"proxychains-ng": "4.11-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

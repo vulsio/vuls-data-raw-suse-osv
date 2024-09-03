@@ -9,6 +9,41 @@
 	],
 	"summary": "java-22-openjdk-22.0.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-22-openjdk-22.0.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-22-openjdk",
+				"purl": "purl:rpm/suse/java-22-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "22.0.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-22-openjdk": "22.0.1.0-1.1",
+						"java-22-openjdk-demo": "22.0.1.0-1.1",
+						"java-22-openjdk-devel": "22.0.1.0-1.1",
+						"java-22-openjdk-headless": "22.0.1.0-1.1",
+						"java-22-openjdk-javadoc": "22.0.1.0-1.1",
+						"java-22-openjdk-jmods": "22.0.1.0-1.1",
+						"java-22-openjdk-src": "22.0.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

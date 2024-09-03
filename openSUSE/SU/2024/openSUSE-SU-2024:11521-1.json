@@ -7,6 +7,39 @@
 	],
 	"summary": "libxerces-c-3_2-3.2.3-1.9 on GA media",
 	"details": "These are all security issues fixed in the libxerces-c-3_2-3.2.3-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xerces-c",
+				"purl": "purl:rpm/suse/xerces-c&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.3-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libxerces-c-3_2": "3.2.3-1.9",
+						"libxerces-c-3_2-32bit": "3.2.3-1.9",
+						"libxerces-c-devel": "3.2.3-1.9",
+						"xerces-c": "3.2.3-1.9",
+						"xerces-c-doc": "3.2.3-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

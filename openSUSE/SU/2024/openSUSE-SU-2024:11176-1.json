@@ -7,6 +7,35 @@
 	],
 	"summary": "pngcheck-3.0.0-1.7 on GA media",
 	"details": "These are all security issues fixed in the pngcheck-3.0.0-1.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pngcheck",
+				"purl": "purl:rpm/suse/pngcheck&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.0-1.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pngcheck": "3.0.0-1.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

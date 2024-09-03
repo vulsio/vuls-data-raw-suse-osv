@@ -10,6 +10,36 @@
 	],
 	"summary": "memcached-1.6.9-2.3 on GA media",
 	"details": "These are all security issues fixed in the memcached-1.6.9-2.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "memcached",
+				"purl": "purl:rpm/suse/memcached&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.9-2.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"memcached": "1.6.9-2.3",
+						"memcached-devel": "1.6.9-2.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "inn-2.6.3-4.2 on GA media",
 	"details": "These are all security issues fixed in the inn-2.6.3-4.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "inn",
+				"purl": "purl:rpm/suse/inn&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.6.3-4.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"inn": "2.6.3-4.2",
+						"inn-devel": "2.6.3-4.2",
+						"mininews": "2.6.3-4.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

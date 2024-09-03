@@ -50,6 +50,37 @@
 	],
 	"summary": "ghostscript-9.54.0-2.2 on GA media",
 	"details": "These are all security issues fixed in the ghostscript-9.54.0-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ghostscript",
+				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.54.0-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ghostscript": "9.54.0-2.2",
+						"ghostscript-devel": "9.54.0-2.2",
+						"ghostscript-x11": "9.54.0-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

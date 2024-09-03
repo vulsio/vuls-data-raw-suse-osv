@@ -7,6 +7,52 @@
 	],
 	"summary": "libsystemd0-252.3-2.1 on GA media",
 	"details": "These are all security issues fixed in the libsystemd0-252.3-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "systemd",
+				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "252.3-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsystemd0": "252.3-2.1",
+						"libsystemd0-32bit": "252.3-2.1",
+						"libudev1": "252.3-2.1",
+						"libudev1-32bit": "252.3-2.1",
+						"systemd": "252.3-2.1",
+						"systemd-32bit": "252.3-2.1",
+						"systemd-container": "252.3-2.1",
+						"systemd-coredump": "252.3-2.1",
+						"systemd-devel": "252.3-2.1",
+						"systemd-doc": "252.3-2.1",
+						"systemd-experimental": "252.3-2.1",
+						"systemd-journal-remote": "252.3-2.1",
+						"systemd-lang": "252.3-2.1",
+						"systemd-network": "252.3-2.1",
+						"systemd-portable": "252.3-2.1",
+						"systemd-sysvcompat": "252.3-2.1",
+						"systemd-testsuite": "252.3-2.1",
+						"udev": "252.3-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

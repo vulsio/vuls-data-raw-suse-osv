@@ -7,6 +7,35 @@
 	],
 	"summary": "mysql-connector-java-8.0.28-1.1 on GA media",
 	"details": "These are all security issues fixed in the mysql-connector-java-8.0.28-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mysql-connector-java",
+				"purl": "purl:rpm/suse/mysql-connector-java&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.0.28-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mysql-connector-java": "8.0.28-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "python36-nltk-3.5-1.10 on GA media",
 	"details": "These are all security issues fixed in the python36-nltk-3.5-1.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-nltk",
+				"purl": "purl:rpm/suse/python-nltk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5-1.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-nltk": "3.5-1.10",
+						"python38-nltk": "3.5-1.10",
+						"python39-nltk": "3.5-1.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

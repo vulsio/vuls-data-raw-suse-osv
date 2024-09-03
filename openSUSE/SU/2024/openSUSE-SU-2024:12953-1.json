@@ -7,6 +7,45 @@
 	],
 	"summary": "tomcat-9.0.75-1.1 on GA media",
 	"details": "These are all security issues fixed in the tomcat-9.0.75-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tomcat",
+				"purl": "purl:rpm/suse/tomcat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.0.75-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tomcat": "9.0.75-1.1",
+						"tomcat-admin-webapps": "9.0.75-1.1",
+						"tomcat-docs-webapp": "9.0.75-1.1",
+						"tomcat-el-3_0-api": "9.0.75-1.1",
+						"tomcat-embed": "9.0.75-1.1",
+						"tomcat-javadoc": "9.0.75-1.1",
+						"tomcat-jsp-2_3-api": "9.0.75-1.1",
+						"tomcat-jsvc": "9.0.75-1.1",
+						"tomcat-lib": "9.0.75-1.1",
+						"tomcat-servlet-4_0-api": "9.0.75-1.1",
+						"tomcat-webapps": "9.0.75-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

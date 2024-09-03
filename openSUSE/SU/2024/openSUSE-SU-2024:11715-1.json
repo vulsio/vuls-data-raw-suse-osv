@@ -7,6 +7,35 @@
 	],
 	"summary": "rustup-1.24.3~git1.0a74fef5-2.1 on GA media",
 	"details": "These are all security issues fixed in the rustup-1.24.3~git1.0a74fef5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rustup",
+				"purl": "purl:rpm/suse/rustup&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.24.3~git1.0a74fef5-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rustup": "1.24.3~git1.0a74fef5-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

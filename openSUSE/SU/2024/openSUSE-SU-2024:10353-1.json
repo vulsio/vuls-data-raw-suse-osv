@@ -7,6 +7,35 @@
 	],
 	"summary": "gnump3d-3.0-103.7 on GA media",
 	"details": "These are all security issues fixed in the gnump3d-3.0-103.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gnump3d",
+				"purl": "purl:rpm/suse/gnump3d&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0-103.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gnump3d": "3.0-103.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

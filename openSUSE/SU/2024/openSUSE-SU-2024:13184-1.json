@@ -10,6 +10,40 @@
 	],
 	"summary": "libwireshark16-4.0.8-2.1 on GA media",
 	"details": "These are all security issues fixed in the libwireshark16-4.0.8-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wireshark",
+				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.8-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libwireshark16": "4.0.8-2.1",
+						"libwiretap13": "4.0.8-2.1",
+						"libwsutil14": "4.0.8-2.1",
+						"wireshark": "4.0.8-2.1",
+						"wireshark-devel": "4.0.8-2.1",
+						"wireshark-ui-qt": "4.0.8-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

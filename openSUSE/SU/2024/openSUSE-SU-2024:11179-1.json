@@ -8,6 +8,40 @@
 	],
 	"summary": "policycoreutils-3.2-1.4 on GA media",
 	"details": "These are all security issues fixed in the policycoreutils-3.2-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "coreutils",
+				"purl": "purl:rpm/suse/coreutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"policycoreutils": "3.2-1.4",
+						"policycoreutils-devel": "3.2-1.4",
+						"policycoreutils-lang": "3.2-1.4",
+						"policycoreutils-newrole": "3.2-1.4",
+						"policycoreutils-python-utils": "3.2-1.4",
+						"python3-policycoreutils": "3.2-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

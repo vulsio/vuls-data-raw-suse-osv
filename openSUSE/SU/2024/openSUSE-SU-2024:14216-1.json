@@ -7,6 +7,38 @@
 	],
 	"summary": "liborc-0_4-0-0.4.39-1.1 on GA media",
 	"details": "These are all security issues fixed in the liborc-0_4-0-0.4.39-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "orc",
+				"purl": "purl:rpm/suse/orc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.4.39-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liborc-0_4-0": "0.4.39-1.1",
+						"liborc-0_4-0-32bit": "0.4.39-1.1",
+						"orc": "0.4.39-1.1",
+						"orc-doc": "0.4.39-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,40 @@
 	],
 	"summary": "hexchat-2.14.3-4.4 on GA media",
 	"details": "These are all security issues fixed in the hexchat-2.14.3-4.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "hexchat",
+				"purl": "purl:rpm/suse/hexchat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.14.3-4.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hexchat": "2.14.3-4.4",
+						"hexchat-devel": "2.14.3-4.4",
+						"hexchat-lang": "2.14.3-4.4",
+						"hexchat-plugins-lua": "2.14.3-4.4",
+						"hexchat-plugins-perl": "2.14.3-4.4",
+						"hexchat-plugins-python3": "2.14.3-4.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

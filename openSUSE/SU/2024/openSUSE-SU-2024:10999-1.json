@@ -16,6 +16,37 @@
 	],
 	"summary": "libssh2-1-1.9.0-3.6 on GA media",
 	"details": "These are all security issues fixed in the libssh2-1-1.9.0-3.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libssh2_org",
+				"purl": "purl:rpm/suse/libssh2_org&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.9.0-3.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libssh2-1": "1.9.0-3.6",
+						"libssh2-1-32bit": "1.9.0-3.6",
+						"libssh2-devel": "1.9.0-3.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

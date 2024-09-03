@@ -8,6 +8,41 @@
 	],
 	"summary": "java-21-openj9-21.0.3.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-21-openj9-21.0.3.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-21-openj9",
+				"purl": "purl:rpm/suse/java-21-openj9&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.0.3.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-21-openj9": "21.0.3.0-1.1",
+						"java-21-openj9-demo": "21.0.3.0-1.1",
+						"java-21-openj9-devel": "21.0.3.0-1.1",
+						"java-21-openj9-headless": "21.0.3.0-1.1",
+						"java-21-openj9-javadoc": "21.0.3.0-1.1",
+						"java-21-openj9-jmods": "21.0.3.0-1.1",
+						"java-21-openj9-src": "21.0.3.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

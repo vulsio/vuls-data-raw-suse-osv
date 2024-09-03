@@ -7,6 +7,35 @@
 	],
 	"summary": "aws-efs-utils-1.34.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the aws-efs-utils-1.34.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "aws-efs-utils",
+				"purl": "purl:rpm/suse/aws-efs-utils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.34.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"aws-efs-utils": "1.34.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

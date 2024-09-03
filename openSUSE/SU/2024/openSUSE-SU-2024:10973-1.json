@@ -8,6 +8,38 @@
 	],
 	"summary": "libproxy-devel-0.4.17-2.2 on GA media",
 	"details": "These are all security issues fixed in the libproxy-devel-0.4.17-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libproxy",
+				"purl": "purl:rpm/suse/libproxy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.4.17-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libproxy-devel": "0.4.17-2.2",
+						"libproxy-tools": "0.4.17-2.2",
+						"libproxy1": "0.4.17-2.2",
+						"libproxy1-32bit": "0.4.17-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

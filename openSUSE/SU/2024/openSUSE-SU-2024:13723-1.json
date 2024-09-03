@@ -9,6 +9,39 @@
 	],
 	"summary": "giflib-devel-32bit-5.2.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the giflib-devel-32bit-5.2.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "giflib",
+				"purl": "purl:rpm/suse/giflib&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.2.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"giflib-devel": "5.2.2-1.1",
+						"giflib-devel-32bit": "5.2.2-1.1",
+						"giflib-progs": "5.2.2-1.1",
+						"libgif7": "5.2.2-1.1",
+						"libgif7-32bit": "5.2.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

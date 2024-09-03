@@ -9,6 +9,40 @@
 	],
 	"summary": "python310-numpy-1.25.2-2.1 on GA media",
 	"details": "These are all security issues fixed in the python310-numpy-1.25.2-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-numpy",
+				"purl": "purl:rpm/suse/python-numpy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.25.2-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-numpy": "1.25.2-2.1",
+						"python310-numpy-devel": "1.25.2-2.1",
+						"python311-numpy": "1.25.2-2.1",
+						"python311-numpy-devel": "1.25.2-2.1",
+						"python39-numpy": "1.25.2-2.1",
+						"python39-numpy-devel": "1.25.2-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

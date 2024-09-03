@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-XML-Twig-3.52-2.8 on GA media",
 	"details": "These are all security issues fixed in the perl-XML-Twig-3.52-2.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-XML-Twig",
+				"purl": "purl:rpm/suse/perl-XML-Twig&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.52-2.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-XML-Twig": "3.52-2.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

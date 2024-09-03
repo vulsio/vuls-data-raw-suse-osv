@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-cryptography-41.0.7-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-cryptography-41.0.7-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-cryptography",
+				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "41.0.7-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-cryptography": "41.0.7-1.1",
+						"python311-cryptography": "41.0.7-1.1",
+						"python39-cryptography": "41.0.7-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

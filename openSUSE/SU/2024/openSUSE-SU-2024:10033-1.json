@@ -10,6 +10,43 @@
 	],
 	"summary": "liblightdm-gobject-1-0-1.21.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the liblightdm-gobject-1-0-1.21.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lightdm",
+				"purl": "purl:rpm/suse/lightdm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.21.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblightdm-gobject-1-0": "1.21.1-1.1",
+						"liblightdm-qt-3-0": "1.21.1-1.1",
+						"liblightdm-qt5-3-0": "1.21.1-1.1",
+						"lightdm": "1.21.1-1.1",
+						"lightdm-gobject-devel": "1.21.1-1.1",
+						"lightdm-lang": "1.21.1-1.1",
+						"lightdm-qt-devel": "1.21.1-1.1",
+						"lightdm-qt5-devel": "1.21.1-1.1",
+						"typelib-1_0-LightDM-1": "1.21.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

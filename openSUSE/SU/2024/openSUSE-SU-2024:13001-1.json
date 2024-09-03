@@ -7,6 +7,37 @@
 	],
 	"summary": "guava-32.0.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the guava-32.0.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "guava",
+				"purl": "purl:rpm/suse/guava&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "32.0.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"guava": "32.0.1-1.1",
+						"guava-javadoc": "32.0.1-1.1",
+						"guava-testlib": "32.0.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

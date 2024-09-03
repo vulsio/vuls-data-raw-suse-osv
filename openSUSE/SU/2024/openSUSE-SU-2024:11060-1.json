@@ -8,6 +8,35 @@
 	],
 	"summary": "mp3gain-1.6.2-2.9 on GA media",
 	"details": "These are all security issues fixed in the mp3gain-1.6.2-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mp3gain",
+				"purl": "purl:rpm/suse/mp3gain&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.2-2.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mp3gain": "1.6.2-2.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

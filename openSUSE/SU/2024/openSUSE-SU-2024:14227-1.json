@@ -10,6 +10,39 @@
 	],
 	"summary": "389-ds-3.1.1~git0.aef1668-1.1 on GA media",
 	"details": "These are all security issues fixed in the 389-ds-3.1.1~git0.aef1668-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "389-ds",
+				"purl": "purl:rpm/suse/389-ds&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.1~git0.aef1668-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"389-ds": "3.1.1~git0.aef1668-1.1",
+						"389-ds-devel": "3.1.1~git0.aef1668-1.1",
+						"389-ds-snmp": "3.1.1~git0.aef1668-1.1",
+						"lib389": "3.1.1~git0.aef1668-1.1",
+						"libsvrcore0": "3.1.1~git0.aef1668-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

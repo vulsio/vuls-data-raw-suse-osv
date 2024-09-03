@@ -8,6 +8,40 @@
 	],
 	"summary": "python310-python-jose-3.3.0-3.1 on GA media",
 	"details": "These are all security issues fixed in the python310-python-jose-3.3.0-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-cryptography",
+				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.0-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-python-jose": "3.3.0-3.1",
+						"python310-python-jose-cryptography": "3.3.0-3.1",
+						"python311-python-jose": "3.3.0-3.1",
+						"python311-python-jose-cryptography": "3.3.0-3.1",
+						"python312-python-jose": "3.3.0-3.1",
+						"python312-python-jose-cryptography": "3.3.0-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,35 @@
 	],
 	"summary": "eclipse-jgit-5.11.0-9.1 on GA media",
 	"details": "These are all security issues fixed in the eclipse-jgit-5.11.0-9.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "eclipse-jgit",
+				"purl": "purl:rpm/suse/eclipse-jgit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.11.0-9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"eclipse-jgit": "5.11.0-9.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

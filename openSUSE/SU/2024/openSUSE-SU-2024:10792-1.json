@@ -40,6 +40,46 @@
 	],
 	"summary": "glibc-2.34-1.2 on GA media",
 	"details": "These are all security issues fixed in the glibc-2.34-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "glibc",
+				"purl": "purl:rpm/suse/glibc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.34-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"glibc": "2.34-1.2",
+						"glibc-devel": "2.34-1.2",
+						"glibc-devel-static": "2.34-1.2",
+						"glibc-extra": "2.34-1.2",
+						"glibc-html": "2.34-1.2",
+						"glibc-i18ndata": "2.34-1.2",
+						"glibc-info": "2.34-1.2",
+						"glibc-lang": "2.34-1.2",
+						"glibc-locale": "2.34-1.2",
+						"glibc-locale-base": "2.34-1.2",
+						"glibc-profile": "2.34-1.2",
+						"nscd": "2.34-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

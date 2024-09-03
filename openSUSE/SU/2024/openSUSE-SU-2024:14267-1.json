@@ -7,6 +7,35 @@
 	],
 	"summary": "klp-build-0~20240812.ad9f0e0-1.1 on GA media",
 	"details": "These are all security issues fixed in the klp-build-0~20240812.ad9f0e0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "klp-build",
+				"purl": "purl:rpm/suse/klp-build&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0~20240812.ad9f0e0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"klp-build": "0~20240812.ad9f0e0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

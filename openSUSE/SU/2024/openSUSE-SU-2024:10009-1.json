@@ -7,6 +7,39 @@
 	],
 	"summary": "libupsclient1-2.7.3-2.7 on GA media",
 	"details": "These are all security issues fixed in the libupsclient1-2.7.3-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nut",
+				"purl": "purl:rpm/suse/nut&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.3-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libupsclient1": "2.7.3-2.7",
+						"nut": "2.7.3-2.7",
+						"nut-cgi": "2.7.3-2.7",
+						"nut-devel": "2.7.3-2.7",
+						"nut-drivers-net": "2.7.3-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

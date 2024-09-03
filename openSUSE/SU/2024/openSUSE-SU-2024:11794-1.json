@@ -7,6 +7,37 @@
 	],
 	"summary": "exiftool-12.39-1.1 on GA media",
 	"details": "These are all security issues fixed in the exiftool-12.39-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "exiftool",
+				"purl": "purl:rpm/suse/exiftool&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.39-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"exiftool": "12.39-1.1",
+						"perl-File-RandomAccess": "12.39-1.1",
+						"perl-Image-ExifTool": "12.39-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

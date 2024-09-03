@@ -7,6 +7,37 @@
 	],
 	"summary": "xterm-384-2.1 on GA media",
 	"details": "These are all security issues fixed in the xterm-384-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xterm",
+				"purl": "purl:rpm/suse/xterm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "384-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xterm": "384-2.1",
+						"xterm-bin": "384-2.1",
+						"xterm-resize": "384-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

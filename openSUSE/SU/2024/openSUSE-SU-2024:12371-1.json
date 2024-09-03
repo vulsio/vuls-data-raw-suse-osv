@@ -7,6 +7,38 @@
 	],
 	"summary": "podman-4.2.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the podman-4.2.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "podman",
+				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.2.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"podman": "4.2.0-2.1",
+						"podman-cni-config": "4.2.0-2.1",
+						"podman-docker": "4.2.0-2.1",
+						"podman-remote": "4.2.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

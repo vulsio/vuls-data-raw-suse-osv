@@ -12,6 +12,36 @@
 	],
 	"summary": "chromedriver-113.0.5672.126-1.1 on GA media",
 	"details": "These are all security issues fixed in the chromedriver-113.0.5672.126-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "chromium",
+				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "113.0.5672.126-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chromedriver": "113.0.5672.126-1.1",
+						"chromium": "113.0.5672.126-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

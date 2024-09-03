@@ -8,6 +8,41 @@
 	],
 	"summary": "java-17-openj9-17.0.6.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-17-openj9-17.0.6.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-17-openj9",
+				"purl": "purl:rpm/suse/java-17-openj9&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "17.0.6.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-17-openj9": "17.0.6.0-1.1",
+						"java-17-openj9-demo": "17.0.6.0-1.1",
+						"java-17-openj9-devel": "17.0.6.0-1.1",
+						"java-17-openj9-headless": "17.0.6.0-1.1",
+						"java-17-openj9-javadoc": "17.0.6.0-1.1",
+						"java-17-openj9-jmods": "17.0.6.0-1.1",
+						"java-17-openj9-src": "17.0.6.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

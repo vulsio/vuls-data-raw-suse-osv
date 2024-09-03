@@ -10,6 +10,35 @@
 	],
 	"summary": "helm-mirror-0.3.1-1.9 on GA media",
 	"details": "These are all security issues fixed in the helm-mirror-0.3.1-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "helm-mirror",
+				"purl": "purl:rpm/suse/helm-mirror&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.3.1-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"helm-mirror": "0.3.1-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

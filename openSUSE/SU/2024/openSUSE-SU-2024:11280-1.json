@@ -7,6 +7,37 @@
 	],
 	"summary": "python36-websockets-9.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the python36-websockets-9.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-websockets",
+				"purl": "purl:rpm/suse/python-websockets&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-websockets": "9.1-2.1",
+						"python38-websockets": "9.1-2.1",
+						"python39-websockets": "9.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

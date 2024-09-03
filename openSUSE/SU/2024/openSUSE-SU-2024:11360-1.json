@@ -9,6 +9,42 @@
 	],
 	"summary": "cargo1.53-1.53.0-2.5 on GA media",
 	"details": "These are all security issues fixed in the cargo1.53-1.53.0-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rust1.53",
+				"purl": "purl:rpm/suse/rust1.53&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.53.0-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cargo1.53": "1.53.0-2.5",
+						"cargo1.53-doc": "1.53.0-2.5",
+						"rls1.53": "1.53.0-2.5",
+						"rust1.53": "1.53.0-2.5",
+						"rust1.53-analysis": "1.53.0-2.5",
+						"rust1.53-doc": "1.53.0-2.5",
+						"rust1.53-gdb": "1.53.0-2.5",
+						"rust1.53-src": "1.53.0-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

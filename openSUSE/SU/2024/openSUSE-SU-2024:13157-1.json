@@ -7,6 +7,35 @@
 	],
 	"summary": "ruby3.2-rubygem-http-5.1.0-1.4 on GA media",
 	"details": "These are all security issues fixed in the ruby3.2-rubygem-http-5.1.0-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ruby3.2-rubygem-http",
+				"purl": "purl:rpm/suse/ruby3.2-rubygem-http&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.0-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby3.2-rubygem-http": "5.1.0-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

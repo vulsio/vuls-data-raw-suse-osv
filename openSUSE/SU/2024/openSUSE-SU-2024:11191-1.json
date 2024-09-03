@@ -7,6 +7,37 @@
 	],
 	"summary": "ppp-2.4.8-3.6 on GA media",
 	"details": "These are all security issues fixed in the ppp-2.4.8-3.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ppp",
+				"purl": "purl:rpm/suse/ppp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.8-3.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ppp": "2.4.8-3.6",
+						"ppp-devel": "2.4.8-3.6",
+						"ppp-modem": "2.4.8-3.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

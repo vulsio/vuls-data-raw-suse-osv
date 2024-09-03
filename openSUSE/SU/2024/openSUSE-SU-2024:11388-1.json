@@ -7,6 +7,36 @@
 	],
 	"summary": "slrn-1.0.3-3.13 on GA media",
 	"details": "These are all security issues fixed in the slrn-1.0.3-3.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "slrn",
+				"purl": "purl:rpm/suse/slrn&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.3-3.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"slrn": "1.0.3-3.13",
+						"slrn-lang": "1.0.3-3.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

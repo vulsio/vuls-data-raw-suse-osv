@@ -7,6 +7,35 @@
 	],
 	"summary": "yast2-samba-provision-1.0.5-1.2 on GA media",
 	"details": "These are all security issues fixed in the yast2-samba-provision-1.0.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yast2-samba-provision",
+				"purl": "purl:rpm/suse/yast2-samba-provision&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.5-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"yast2-samba-provision": "1.0.5-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

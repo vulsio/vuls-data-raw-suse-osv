@@ -8,6 +8,35 @@
 	],
 	"summary": "percona-toolkit-2.2.18-1.1 on GA media",
 	"details": "These are all security issues fixed in the percona-toolkit-2.2.18-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "percona-toolkit",
+				"purl": "purl:rpm/suse/percona-toolkit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.2.18-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"percona-toolkit": "2.2.18-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

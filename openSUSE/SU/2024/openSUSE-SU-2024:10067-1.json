@@ -8,6 +8,36 @@
 	],
 	"summary": "icecast-2.4.2-1.7 on GA media",
 	"details": "These are all security issues fixed in the icecast-2.4.2-1.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "icecast",
+				"purl": "purl:rpm/suse/icecast&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.2-1.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"icecast": "2.4.2-1.7",
+						"icecast-doc": "2.4.2-1.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

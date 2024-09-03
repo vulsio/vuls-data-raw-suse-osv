@@ -7,6 +7,36 @@
 	],
 	"summary": "cargo1.57-1.57.0-3.1 on GA media",
 	"details": "These are all security issues fixed in the cargo1.57-1.57.0-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rust1.57",
+				"purl": "purl:rpm/suse/rust1.57&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.57.0-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cargo1.57": "1.57.0-3.1",
+						"rust1.57": "1.57.0-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

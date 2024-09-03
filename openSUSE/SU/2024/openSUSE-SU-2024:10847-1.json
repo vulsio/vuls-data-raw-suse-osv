@@ -7,6 +7,39 @@
 	],
 	"summary": "hplip-3.21.6-1.2 on GA media",
 	"details": "These are all security issues fixed in the hplip-3.21.6-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "hplip",
+				"purl": "purl:rpm/suse/hplip&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.21.6-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hplip": "3.21.6-1.2",
+						"hplip-devel": "3.21.6-1.2",
+						"hplip-hpijs": "3.21.6-1.2",
+						"hplip-sane": "3.21.6-1.2",
+						"hplip-scan-utils": "3.21.6-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

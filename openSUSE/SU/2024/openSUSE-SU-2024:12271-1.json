@@ -7,6 +7,41 @@
 	],
 	"summary": "liblzma5-32bit-5.2.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the liblzma5-32bit-5.2.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xz",
+				"purl": "purl:rpm/suse/xz&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.2.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblzma5": "5.2.6-1.1",
+						"liblzma5-32bit": "5.2.6-1.1",
+						"xz": "5.2.6-1.1",
+						"xz-devel": "5.2.6-1.1",
+						"xz-devel-32bit": "5.2.6-1.1",
+						"xz-lang": "5.2.6-1.1",
+						"xz-static-devel": "5.2.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

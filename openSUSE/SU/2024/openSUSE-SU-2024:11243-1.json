@@ -8,6 +8,38 @@
 	],
 	"summary": "python38-numpy-1.21.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the python38-numpy-1.21.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-numpy",
+				"purl": "purl:rpm/suse/python-numpy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.21.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python38-numpy": "1.21.2-1.1",
+						"python38-numpy-devel": "1.21.2-1.1",
+						"python39-numpy": "1.21.2-1.1",
+						"python39-numpy-devel": "1.21.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,35 @@
 	],
 	"summary": "mipv6d-2.0.2.umip.0.4-23.5 on GA media",
 	"details": "These are all security issues fixed in the mipv6d-2.0.2.umip.0.4-23.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mipv6d",
+				"purl": "purl:rpm/suse/mipv6d&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.2.umip.0.4-23.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mipv6d": "2.0.2.umip.0.4-23.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

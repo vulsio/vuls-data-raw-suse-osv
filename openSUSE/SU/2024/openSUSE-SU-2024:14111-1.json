@@ -8,6 +8,44 @@
 	],
 	"summary": "krb5-1.21.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the krb5-1.21.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "krb5",
+				"purl": "purl:rpm/suse/krb5&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.21.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"krb5": "1.21.3-1.1",
+						"krb5-32bit": "1.21.3-1.1",
+						"krb5-client": "1.21.3-1.1",
+						"krb5-devel": "1.21.3-1.1",
+						"krb5-devel-32bit": "1.21.3-1.1",
+						"krb5-plugin-kdb-ldap": "1.21.3-1.1",
+						"krb5-plugin-preauth-otp": "1.21.3-1.1",
+						"krb5-plugin-preauth-pkinit": "1.21.3-1.1",
+						"krb5-plugin-preauth-spake": "1.21.3-1.1",
+						"krb5-server": "1.21.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

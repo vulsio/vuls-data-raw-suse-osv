@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-MIME-Charset-1.012.2-1.16 on GA media",
 	"details": "These are all security issues fixed in the perl-MIME-Charset-1.012.2-1.16 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-MIME-Charset",
+				"purl": "purl:rpm/suse/perl-MIME-Charset&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.012.2-1.16"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-MIME-Charset": "1.012.2-1.16"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

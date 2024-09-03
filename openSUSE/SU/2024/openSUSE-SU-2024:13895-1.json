@@ -11,6 +11,59 @@
 	],
 	"summary": "ffmpeg-6-6.1.1-4.1 on GA media",
 	"details": "These are all security issues fixed in the ffmpeg-6-6.1.1-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ffmpeg-6",
+				"purl": "purl:rpm/suse/ffmpeg-6&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.1.1-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ffmpeg-6": "6.1.1-4.1",
+						"ffmpeg-6-libavcodec-devel": "6.1.1-4.1",
+						"ffmpeg-6-libavdevice-devel": "6.1.1-4.1",
+						"ffmpeg-6-libavfilter-devel": "6.1.1-4.1",
+						"ffmpeg-6-libavformat-devel": "6.1.1-4.1",
+						"ffmpeg-6-libavutil-devel": "6.1.1-4.1",
+						"ffmpeg-6-libpostproc-devel": "6.1.1-4.1",
+						"ffmpeg-6-libswresample-devel": "6.1.1-4.1",
+						"ffmpeg-6-libswscale-devel": "6.1.1-4.1",
+						"libavcodec60": "6.1.1-4.1",
+						"libavcodec60-32bit": "6.1.1-4.1",
+						"libavdevice60": "6.1.1-4.1",
+						"libavdevice60-32bit": "6.1.1-4.1",
+						"libavfilter9": "6.1.1-4.1",
+						"libavfilter9-32bit": "6.1.1-4.1",
+						"libavformat60": "6.1.1-4.1",
+						"libavformat60-32bit": "6.1.1-4.1",
+						"libavutil58": "6.1.1-4.1",
+						"libavutil58-32bit": "6.1.1-4.1",
+						"libpostproc57": "6.1.1-4.1",
+						"libpostproc57-32bit": "6.1.1-4.1",
+						"libswresample4": "6.1.1-4.1",
+						"libswresample4-32bit": "6.1.1-4.1",
+						"libswscale7": "6.1.1-4.1",
+						"libswscale7-32bit": "6.1.1-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

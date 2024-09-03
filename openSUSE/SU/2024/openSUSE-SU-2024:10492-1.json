@@ -7,6 +7,35 @@
 	],
 	"summary": "perl-HTTP-Body-1.22-1.4 on GA media",
 	"details": "These are all security issues fixed in the perl-HTTP-Body-1.22-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-HTTP-Body",
+				"purl": "purl:rpm/suse/perl-HTTP-Body&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.22-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-HTTP-Body": "1.22-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

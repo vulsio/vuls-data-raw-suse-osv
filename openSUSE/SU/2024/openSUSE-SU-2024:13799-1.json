@@ -8,6 +8,40 @@
 	],
 	"summary": "python310-3.10.14-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-3.10.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python310",
+				"purl": "purl:rpm/suse/python310&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.10.14-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310": "3.10.14-1.1",
+						"python310-32bit": "3.10.14-1.1",
+						"python310-curses": "3.10.14-1.1",
+						"python310-dbm": "3.10.14-1.1",
+						"python310-idle": "3.10.14-1.1",
+						"python310-tk": "3.10.14-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

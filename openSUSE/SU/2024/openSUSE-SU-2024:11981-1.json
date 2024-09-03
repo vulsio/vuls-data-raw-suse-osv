@@ -7,6 +7,36 @@
 	],
 	"summary": "netty3-3.10.6-9.1 on GA media",
 	"details": "These are all security issues fixed in the netty3-3.10.6-9.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "netty3",
+				"purl": "purl:rpm/suse/netty3&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.10.6-9.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"netty3": "3.10.6-9.1",
+						"netty3-javadoc": "3.10.6-9.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

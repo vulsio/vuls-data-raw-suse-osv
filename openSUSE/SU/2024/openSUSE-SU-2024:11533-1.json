@@ -7,6 +7,35 @@
 	],
 	"summary": "yast2-multipath-4.4.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the yast2-multipath-4.4.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yast2-multipath",
+				"purl": "purl:rpm/suse/yast2-multipath&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"yast2-multipath": "4.4.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

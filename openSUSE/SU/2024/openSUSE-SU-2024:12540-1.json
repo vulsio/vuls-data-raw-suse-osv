@@ -7,6 +7,40 @@
 	],
 	"summary": "libgcrypt-devel-1.10.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the libgcrypt-devel-1.10.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libgcrypt",
+				"purl": "purl:rpm/suse/libgcrypt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.10.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libgcrypt-devel": "1.10.1-1.1",
+						"libgcrypt-devel-32bit": "1.10.1-1.1",
+						"libgcrypt20": "1.10.1-1.1",
+						"libgcrypt20-32bit": "1.10.1-1.1",
+						"libgcrypt20-hmac": "1.10.1-1.1",
+						"libgcrypt20-hmac-32bit": "1.10.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

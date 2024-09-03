@@ -7,6 +7,47 @@
 	],
 	"summary": "kubevirt-container-disk-1.2.2-2.1 on GA media",
 	"details": "These are all security issues fixed in the kubevirt-container-disk-1.2.2-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kubevirt",
+				"purl": "purl:rpm/suse/kubevirt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.2-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kubevirt-container-disk": "1.2.2-2.1",
+						"kubevirt-manifests": "1.2.2-2.1",
+						"kubevirt-pr-helper-conf": "1.2.2-2.1",
+						"kubevirt-tests": "1.2.2-2.1",
+						"kubevirt-virt-api": "1.2.2-2.1",
+						"kubevirt-virt-controller": "1.2.2-2.1",
+						"kubevirt-virt-exportproxy": "1.2.2-2.1",
+						"kubevirt-virt-exportserver": "1.2.2-2.1",
+						"kubevirt-virt-handler": "1.2.2-2.1",
+						"kubevirt-virt-launcher": "1.2.2-2.1",
+						"kubevirt-virt-operator": "1.2.2-2.1",
+						"kubevirt-virtctl": "1.2.2-2.1",
+						"obs-service-kubevirt_containers_meta": "1.2.2-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,41 @@
 	],
 	"summary": "java-11-openj9-11.0.18.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-11-openj9-11.0.18.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-11-openj9",
+				"purl": "purl:rpm/suse/java-11-openj9&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "11.0.18.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-11-openj9": "11.0.18.0-1.1",
+						"java-11-openj9-demo": "11.0.18.0-1.1",
+						"java-11-openj9-devel": "11.0.18.0-1.1",
+						"java-11-openj9-headless": "11.0.18.0-1.1",
+						"java-11-openj9-javadoc": "11.0.18.0-1.1",
+						"java-11-openj9-jmods": "11.0.18.0-1.1",
+						"java-11-openj9-src": "11.0.18.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"
