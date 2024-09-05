@@ -9,6 +9,42 @@
 	],
 	"summary": "java-15-openjdk-15.0.8.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-15-openjdk-15.0.8.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-15-openjdk",
+				"purl": "purl:rpm/suse/java-15-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "15.0.8.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-15-openjdk": "15.0.8.0-1.1",
+						"java-15-openjdk-accessibility": "15.0.8.0-1.1",
+						"java-15-openjdk-demo": "15.0.8.0-1.1",
+						"java-15-openjdk-devel": "15.0.8.0-1.1",
+						"java-15-openjdk-headless": "15.0.8.0-1.1",
+						"java-15-openjdk-javadoc": "15.0.8.0-1.1",
+						"java-15-openjdk-jmods": "15.0.8.0-1.1",
+						"java-15-openjdk-src": "15.0.8.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

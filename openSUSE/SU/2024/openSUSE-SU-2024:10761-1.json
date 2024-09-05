@@ -10,6 +10,36 @@
 	],
 	"summary": "flannel-0.14.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the flannel-0.14.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "flannel",
+				"purl": "purl:rpm/suse/flannel&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.14.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"flannel": "0.14.0-1.2",
+						"flannel-k8s-yaml": "0.14.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

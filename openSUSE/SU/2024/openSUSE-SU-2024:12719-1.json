@@ -8,6 +8,41 @@
 	],
 	"summary": "java-13-openjdk-13.0.14.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-13-openjdk-13.0.14.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-13-openjdk",
+				"purl": "purl:rpm/suse/java-13-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "13.0.14.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-13-openjdk": "13.0.14.0-1.1",
+						"java-13-openjdk-demo": "13.0.14.0-1.1",
+						"java-13-openjdk-devel": "13.0.14.0-1.1",
+						"java-13-openjdk-headless": "13.0.14.0-1.1",
+						"java-13-openjdk-javadoc": "13.0.14.0-1.1",
+						"java-13-openjdk-jmods": "13.0.14.0-1.1",
+						"java-13-openjdk-src": "13.0.14.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

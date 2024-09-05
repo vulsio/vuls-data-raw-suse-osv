@@ -7,6 +7,38 @@
 	],
 	"summary": "busybox-1.36.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the busybox-1.36.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "busybox",
+				"purl": "purl:rpm/suse/busybox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.36.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"busybox": "1.36.1-2.1",
+						"busybox-static": "1.36.1-2.1",
+						"busybox-testsuite": "1.36.1-2.1",
+						"busybox-warewulf3": "1.36.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

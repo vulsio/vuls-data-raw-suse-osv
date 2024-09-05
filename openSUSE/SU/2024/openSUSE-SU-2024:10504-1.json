@@ -7,6 +7,36 @@
 	],
 	"summary": "cvs-1.12.12-183.10 on GA media",
 	"details": "These are all security issues fixed in the cvs-1.12.12-183.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cvs",
+				"purl": "purl:rpm/suse/cvs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.12.12-183.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cvs": "1.12.12-183.10",
+						"cvs-doc": "1.12.12-183.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

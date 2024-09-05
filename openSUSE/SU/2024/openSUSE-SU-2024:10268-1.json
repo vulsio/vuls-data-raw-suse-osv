@@ -54,6 +54,42 @@
 	],
 	"summary": "apache2-2.4.23-4.1 on GA media",
 	"details": "These are all security issues fixed in the apache2-2.4.23-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache2",
+				"purl": "purl:rpm/suse/apache2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.23-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2": "2.4.23-4.1",
+						"apache2-devel": "2.4.23-4.1",
+						"apache2-doc": "2.4.23-4.1",
+						"apache2-event": "2.4.23-4.1",
+						"apache2-example-pages": "2.4.23-4.1",
+						"apache2-prefork": "2.4.23-4.1",
+						"apache2-utils": "2.4.23-4.1",
+						"apache2-worker": "2.4.23-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

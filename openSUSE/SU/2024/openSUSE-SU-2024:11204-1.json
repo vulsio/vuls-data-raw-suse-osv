@@ -7,6 +7,37 @@
 	],
 	"summary": "python36-CherryPy-18.6.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the python36-CherryPy-18.6.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-CherryPy",
+				"purl": "purl:rpm/suse/python-CherryPy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.6.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-CherryPy": "18.6.1-1.2",
+						"python38-CherryPy": "18.6.1-1.2",
+						"python39-CherryPy": "18.6.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

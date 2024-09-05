@@ -9,6 +9,40 @@
 	],
 	"summary": "fuse-2.9.5-1.6 on GA media",
 	"details": "These are all security issues fixed in the fuse-2.9.5-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fuse",
+				"purl": "purl:rpm/suse/fuse&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.5-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fuse": "2.9.5-1.6",
+						"fuse-devel": "2.9.5-1.6",
+						"fuse-devel-static": "2.9.5-1.6",
+						"libfuse2": "2.9.5-1.6",
+						"libfuse2-32bit": "2.9.5-1.6",
+						"libulockmgr1": "2.9.5-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

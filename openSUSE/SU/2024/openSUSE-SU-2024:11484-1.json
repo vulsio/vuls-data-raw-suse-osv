@@ -7,6 +7,37 @@
 	],
 	"summary": "libunshield0-1.4.3-2.9 on GA media",
 	"details": "These are all security issues fixed in the libunshield0-1.4.3-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "unshield",
+				"purl": "purl:rpm/suse/unshield&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.3-2.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libunshield0": "1.4.3-2.9",
+						"unshield": "1.4.3-2.9",
+						"unshield-devel": "1.4.3-2.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-treq-22.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-treq-22.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-treq",
+				"purl": "purl:rpm/suse/python-treq&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "22.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-treq": "22.1.0-1.1",
+						"python38-treq": "22.1.0-1.1",
+						"python39-treq": "22.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

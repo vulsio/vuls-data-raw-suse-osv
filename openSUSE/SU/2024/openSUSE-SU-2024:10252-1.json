@@ -7,6 +7,40 @@
 	],
 	"summary": "audit-devel-2.5-1.82 on GA media",
 	"details": "These are all security issues fixed in the audit-devel-2.5-1.82 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "audit",
+				"purl": "purl:rpm/suse/audit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5-1.82"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"audit-devel": "2.5-1.82",
+						"audit-devel-32bit": "2.5-1.82",
+						"libaudit1": "2.5-1.82",
+						"libaudit1-32bit": "2.5-1.82",
+						"libauparse0": "2.5-1.82",
+						"libauparse0-32bit": "2.5-1.82"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

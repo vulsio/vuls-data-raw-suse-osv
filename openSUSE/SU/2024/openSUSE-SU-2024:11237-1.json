@@ -8,6 +8,37 @@
 	],
 	"summary": "python36-markdown2-2.4.0-2.4 on GA media",
 	"details": "These are all security issues fixed in the python36-markdown2-2.4.0-2.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-markdown2",
+				"purl": "purl:rpm/suse/python-markdown2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.0-2.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-markdown2": "2.4.0-2.4",
+						"python38-markdown2": "2.4.0-2.4",
+						"python39-markdown2": "2.4.0-2.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

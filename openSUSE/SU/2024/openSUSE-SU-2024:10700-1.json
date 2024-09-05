@@ -7,6 +7,37 @@
 	],
 	"summary": "crmsh-4.3.1+20210913.d7356663-1.2 on GA media",
 	"details": "These are all security issues fixed in the crmsh-4.3.1+20210913.d7356663-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "crmsh",
+				"purl": "purl:rpm/suse/crmsh&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.3.1+20210913.d7356663-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"crmsh": "4.3.1+20210913.d7356663-1.2",
+						"crmsh-scripts": "4.3.1+20210913.d7356663-1.2",
+						"crmsh-test": "4.3.1+20210913.d7356663-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

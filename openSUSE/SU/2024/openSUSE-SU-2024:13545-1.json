@@ -7,6 +7,36 @@
 	],
 	"summary": "liblog4cxx-devel-1.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the liblog4cxx-devel-1.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "log4cxx",
+				"purl": "purl:rpm/suse/log4cxx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblog4cxx-devel": "1.1.0-1.1",
+						"liblog4cxx15": "1.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

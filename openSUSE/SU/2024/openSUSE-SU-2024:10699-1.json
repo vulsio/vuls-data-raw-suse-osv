@@ -9,6 +9,36 @@
 	],
 	"summary": "cri-o-1.22.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the cri-o-1.22.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cri-o",
+				"purl": "purl:rpm/suse/cri-o&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.22.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cri-o": "1.22.0-1.2",
+						"cri-o-kubeadm-criconfig": "1.22.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

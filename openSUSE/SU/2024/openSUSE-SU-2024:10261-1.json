@@ -7,6 +7,40 @@
 	],
 	"summary": "wesnoth-1.12.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the wesnoth-1.12.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wesnoth",
+				"purl": "purl:rpm/suse/wesnoth&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.12.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"wesnoth": "1.12.6-1.1",
+						"wesnoth-campaign-server": "1.12.6-1.1",
+						"wesnoth-data": "1.12.6-1.1",
+						"wesnoth-fslayout": "1.12.6-1.1",
+						"wesnoth-server": "1.12.6-1.1",
+						"wesnoth-tools": "1.12.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

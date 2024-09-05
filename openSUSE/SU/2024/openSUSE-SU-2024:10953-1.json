@@ -15,6 +15,40 @@
 	],
 	"summary": "liblouis-data-3.16.1-1.5 on GA media",
 	"details": "These are all security issues fixed in the liblouis-data-3.16.1-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "liblouis",
+				"purl": "purl:rpm/suse/liblouis&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.16.1-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblouis-data": "3.16.1-1.5",
+						"liblouis-devel": "3.16.1-1.5",
+						"liblouis-doc": "3.16.1-1.5",
+						"liblouis-tools": "3.16.1-1.5",
+						"liblouis20": "3.16.1-1.5",
+						"python3-louis": "3.16.1-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

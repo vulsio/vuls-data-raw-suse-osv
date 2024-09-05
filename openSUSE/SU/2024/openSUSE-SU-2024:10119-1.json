@@ -9,6 +9,39 @@
 	],
 	"summary": "quassel-base-0.12.4-3.3 on GA media",
 	"details": "These are all security issues fixed in the quassel-base-0.12.4-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "quassel",
+				"purl": "purl:rpm/suse/quassel&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.12.4-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"quassel-base": "0.12.4-3.3",
+						"quassel-client": "0.12.4-3.3",
+						"quassel-client-qt5": "0.12.4-3.3",
+						"quassel-core": "0.12.4-3.3",
+						"quassel-mono": "0.12.4-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

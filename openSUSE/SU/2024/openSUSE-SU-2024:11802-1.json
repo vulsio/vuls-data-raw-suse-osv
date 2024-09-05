@@ -8,6 +8,39 @@
 	],
 	"summary": "ldns-1.8.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the ldns-1.8.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ldns",
+				"purl": "purl:rpm/suse/ldns&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ldns": "1.8.1-1.1",
+						"ldns-devel": "1.8.1-1.1",
+						"libldns3": "1.8.1-1.1",
+						"perl-DNS-LDNS": "1.8.1-1.1",
+						"python3-ldns": "1.8.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

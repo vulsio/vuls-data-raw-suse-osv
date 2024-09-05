@@ -7,6 +7,37 @@
 	],
 	"summary": "fence-agents-4.10.0+git.1627556580.31443c15-1.2 on GA media",
 	"details": "These are all security issues fixed in the fence-agents-4.10.0+git.1627556580.31443c15-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fence-agents",
+				"purl": "purl:rpm/suse/fence-agents&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.10.0+git.1627556580.31443c15-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fence-agents": "4.10.0+git.1627556580.31443c15-1.2",
+						"fence-agents-amt_ws": "4.10.0+git.1627556580.31443c15-1.2",
+						"fence-agents-devel": "4.10.0+git.1627556580.31443c15-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

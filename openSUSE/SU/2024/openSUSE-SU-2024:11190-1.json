@@ -8,6 +8,36 @@
 	],
 	"summary": "pound-2.8-3.9 on GA media",
 	"details": "These are all security issues fixed in the pound-2.8-3.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pound",
+				"purl": "purl:rpm/suse/pound&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.8-3.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pound": "2.8-3.9",
+						"pound-doc": "2.8-3.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

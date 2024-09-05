@@ -9,6 +9,36 @@
 	],
 	"summary": "udisks-1.0.5-5.10 on GA media",
 	"details": "These are all security issues fixed in the udisks-1.0.5-5.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "udisks",
+				"purl": "purl:rpm/suse/udisks&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.5-5.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"udisks": "1.0.5-5.10",
+						"udisks-devel": "1.0.5-5.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,40 @@
 	],
 	"summary": "python36-3.6.15-10.1 on GA media",
 	"details": "These are all security issues fixed in the python36-3.6.15-10.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python36",
+				"purl": "purl:rpm/suse/python36&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.6.15-10.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36": "3.6.15-10.1",
+						"python36-32bit": "3.6.15-10.1",
+						"python36-curses": "3.6.15-10.1",
+						"python36-dbm": "3.6.15-10.1",
+						"python36-idle": "3.6.15-10.1",
+						"python36-tk": "3.6.15-10.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

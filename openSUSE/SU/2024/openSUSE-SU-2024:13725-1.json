@@ -7,6 +7,51 @@
 	],
 	"summary": "libopenvswitch-3_1-0-3.1.0-19.1 on GA media",
 	"details": "These are all security issues fixed in the libopenvswitch-3_1-0-3.1.0-19.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openvswitch",
+				"purl": "purl:rpm/suse/openvswitch&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.0-19.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libopenvswitch-3_1-0": "3.1.0-19.1",
+						"libovn-23_03-0": "23.03.0-19.1",
+						"openvswitch": "3.1.0-19.1",
+						"openvswitch-devel": "3.1.0-19.1",
+						"openvswitch-doc": "3.1.0-19.1",
+						"openvswitch-ipsec": "3.1.0-19.1",
+						"openvswitch-pki": "3.1.0-19.1",
+						"openvswitch-test": "3.1.0-19.1",
+						"openvswitch-vtep": "3.1.0-19.1",
+						"ovn": "23.03.0-19.1",
+						"ovn-central": "23.03.0-19.1",
+						"ovn-devel": "23.03.0-19.1",
+						"ovn-doc": "23.03.0-19.1",
+						"ovn-docker": "23.03.0-19.1",
+						"ovn-host": "23.03.0-19.1",
+						"ovn-vtep": "23.03.0-19.1",
+						"python3-ovs": "3.1.0-19.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

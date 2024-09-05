@@ -8,6 +8,38 @@
 	],
 	"summary": "libXt-devel-1.1.5-1.19 on GA media",
 	"details": "These are all security issues fixed in the libXt-devel-1.1.5-1.19 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXt",
+				"purl": "purl:rpm/suse/libXt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.5-1.19"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXt-devel": "1.1.5-1.19",
+						"libXt-devel-32bit": "1.1.5-1.19",
+						"libXt6": "1.1.5-1.19",
+						"libXt6-32bit": "1.1.5-1.19"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

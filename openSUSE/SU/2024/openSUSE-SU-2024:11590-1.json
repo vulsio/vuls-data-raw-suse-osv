@@ -7,6 +7,38 @@
 	],
 	"summary": "kernel-devel-5.14.14-1.1 on GA media",
 	"details": "These are all security issues fixed in the kernel-devel-5.14.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kernel-source",
+				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.14.14-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-devel": "5.14.14-1.1",
+						"kernel-macros": "5.14.14-1.1",
+						"kernel-source": "5.14.14-1.1",
+						"kernel-source-vanilla": "5.14.14-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,37 @@
 	],
 	"summary": "atheme-7.2.7-1.1 on GA media",
 	"details": "These are all security issues fixed in the atheme-7.2.7-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "atheme",
+				"purl": "purl:rpm/suse/atheme&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.2.7-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"atheme": "7.2.7-1.1",
+						"atheme-devel": "7.2.7-1.1",
+						"libathemecore1": "7.2.7-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

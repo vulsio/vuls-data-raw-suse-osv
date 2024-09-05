@@ -11,6 +11,38 @@
 	],
 	"summary": "libprocps8-3.3.17-5.2 on GA media",
 	"details": "These are all security issues fixed in the libprocps8-3.3.17-5.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "procps",
+				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.17-5.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libprocps8": "3.3.17-5.2",
+						"procps": "3.3.17-5.2",
+						"procps-devel": "3.3.17-5.2",
+						"procps-lang": "3.3.17-5.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "libXtst-devel-1.2.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the libXtst-devel-1.2.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXtst",
+				"purl": "purl:rpm/suse/libXtst&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXtst-devel": "1.2.3-1.1",
+						"libXtst-devel-32bit": "1.2.3-1.1",
+						"libXtst6": "1.2.3-1.1",
+						"libXtst6-32bit": "1.2.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

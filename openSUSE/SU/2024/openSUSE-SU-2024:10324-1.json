@@ -7,6 +7,36 @@
 	],
 	"summary": "android-tools-5.1.1_r8-3.5 on GA media",
 	"details": "These are all security issues fixed in the android-tools-5.1.1_r8-3.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "android-tools",
+				"purl": "purl:rpm/suse/android-tools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.1.1_r8-3.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"android-tools": "5.1.1_r8-3.5",
+						"android-tools-udev": "5.1.1_r8-3.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

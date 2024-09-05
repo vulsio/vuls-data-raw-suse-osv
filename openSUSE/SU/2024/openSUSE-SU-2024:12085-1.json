@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-nokogiri",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-nokogiri&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-nokogiri",
+				"purl": "purl:rpm/suse/rubygem-nokogiri&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

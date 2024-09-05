@@ -13,8 +13,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-loofah",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-loofah&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-loofah",
+				"purl": "purl:rpm/suse/rubygem-loofah&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

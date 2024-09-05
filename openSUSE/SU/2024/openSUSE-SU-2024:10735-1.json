@@ -8,6 +8,40 @@
 	],
 	"summary": "emacs-27.2-6.2 on GA media",
 	"details": "These are all security issues fixed in the emacs-27.2-6.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "emacs",
+				"purl": "purl:rpm/suse/emacs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "27.2-6.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"emacs": "27.2-6.2",
+						"emacs-el": "27.2-6.2",
+						"emacs-info": "27.2-6.2",
+						"emacs-nox": "27.2-6.2",
+						"emacs-x11": "27.2-6.2",
+						"etags": "27.2-6.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

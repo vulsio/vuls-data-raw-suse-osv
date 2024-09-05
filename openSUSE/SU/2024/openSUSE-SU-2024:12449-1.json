@@ -7,6 +7,39 @@
 	],
 	"summary": "expat-2.5.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the expat-2.5.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "expat",
+				"purl": "purl:rpm/suse/expat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"expat": "2.5.0-1.1",
+						"libexpat-devel": "2.5.0-1.1",
+						"libexpat-devel-32bit": "2.5.0-1.1",
+						"libexpat1": "2.5.0-1.1",
+						"libexpat1-32bit": "2.5.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

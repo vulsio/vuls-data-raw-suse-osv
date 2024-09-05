@@ -7,6 +7,36 @@
 	],
 	"summary": "perl-Tk-804.033-1.10 on GA media",
 	"details": "These are all security issues fixed in the perl-Tk-804.033-1.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl-Tk",
+				"purl": "purl:rpm/suse/perl-Tk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "804.033-1.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl-Tk": "804.033-1.10",
+						"perl-Tk-devel": "804.033-1.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

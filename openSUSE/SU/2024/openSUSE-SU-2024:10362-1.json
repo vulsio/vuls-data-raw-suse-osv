@@ -12,6 +12,39 @@
 	],
 	"summary": "libospf0-1.0.20160315-5.1 on GA media",
 	"details": "These are all security issues fixed in the libospf0-1.0.20160315-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "quagga",
+				"purl": "purl:rpm/suse/quagga&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.20160315-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libospf0": "1.0.20160315-5.1",
+						"libospfapiclient0": "1.0.20160315-5.1",
+						"libzebra0": "1.0.20160315-5.1",
+						"quagga": "1.0.20160315-5.1",
+						"quagga-devel": "1.0.20160315-5.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

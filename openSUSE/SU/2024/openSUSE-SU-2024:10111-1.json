@@ -7,6 +7,41 @@
 	],
 	"summary": "crash-7.1.5-3.51 on GA media",
 	"details": "These are all security issues fixed in the crash-7.1.5-3.51 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "crash",
+				"purl": "purl:rpm/suse/crash&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.1.5_k4.8.13_1-3.51"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"crash": "7.1.5-3.51",
+						"crash-devel": "7.1.5-3.51",
+						"crash-doc": "7.1.5-3.51",
+						"crash-eppic": "7.1.5-3.51",
+						"crash-gcore": "7.1.5-3.51",
+						"crash-kmp-default": "7.1.5_k4.8.13_1-3.51",
+						"crash-kmp-pae": "7.1.5_k4.8.13_1-3.51"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

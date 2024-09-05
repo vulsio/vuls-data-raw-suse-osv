@@ -7,6 +7,37 @@
 	],
 	"summary": "librsync-devel-1.0.0-2.8 on GA media",
 	"details": "These are all security issues fixed in the librsync-devel-1.0.0-2.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "librsync",
+				"purl": "purl:rpm/suse/librsync&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.0-2.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"librsync-devel": "1.0.0-2.8",
+						"librsync2": "1.0.0-2.8",
+						"rdiff": "1.0.0-2.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

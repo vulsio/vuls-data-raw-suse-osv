@@ -7,6 +7,38 @@
 	],
 	"summary": "conftest-0.54.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the conftest-0.54.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "conftest",
+				"purl": "purl:rpm/suse/conftest&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.54.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"conftest": "0.54.0-1.1",
+						"conftest-bash-completion": "0.54.0-1.1",
+						"conftest-fish-completion": "0.54.0-1.1",
+						"conftest-zsh-completion": "0.54.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

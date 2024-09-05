@@ -7,6 +7,38 @@
 	],
 	"summary": "libmpfr4-3.1.5-2.1 on GA media",
 	"details": "These are all security issues fixed in the libmpfr4-3.1.5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mpfr",
+				"purl": "purl:rpm/suse/mpfr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.5-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmpfr4": "3.1.5-2.1",
+						"libmpfr4-32bit": "3.1.5-2.1",
+						"mpfr-devel": "3.1.5-2.1",
+						"mpfr-devel-32bit": "3.1.5-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

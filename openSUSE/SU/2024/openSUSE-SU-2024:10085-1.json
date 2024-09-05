@@ -7,6 +7,37 @@
 	],
 	"summary": "libgssglue-devel-0.4-5.10 on GA media",
 	"details": "These are all security issues fixed in the libgssglue-devel-0.4-5.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libgssglue",
+				"purl": "purl:rpm/suse/libgssglue&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.4-5.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libgssglue-devel": "0.4-5.10",
+						"libgssglue1": "0.4-5.10",
+						"libgssglue1-32bit": "0.4-5.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

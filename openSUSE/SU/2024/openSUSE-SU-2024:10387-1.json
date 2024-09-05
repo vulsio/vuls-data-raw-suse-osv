@@ -7,6 +7,39 @@
 	],
 	"summary": "FastCGI-2.4.0-171.10 on GA media",
 	"details": "These are all security issues fixed in the FastCGI-2.4.0-171.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "FastCGI",
+				"purl": "purl:rpm/suse/FastCGI&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.0-171.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"FastCGI": "2.4.0-171.10",
+						"FastCGI-devel": "2.4.0-171.10",
+						"libfcgi0": "2.4.0-171.10",
+						"perl-CGI": "4.35-1.1",
+						"perl-FastCGI": "2.4.0-171.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

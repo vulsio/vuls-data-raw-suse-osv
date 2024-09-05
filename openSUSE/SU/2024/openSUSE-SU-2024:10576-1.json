@@ -7,6 +7,37 @@
 	],
 	"summary": "gv-3.7.4-3.8 on GA media",
 	"details": "These are all security issues fixed in the gv-3.7.4-3.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gv",
+				"purl": "purl:rpm/suse/gv&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.2-5.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gv": "3.7.4-3.8",
+						"wdiff": "1.2.2-5.5",
+						"wdiff-lang": "1.2.2-5.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

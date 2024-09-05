@@ -9,6 +9,38 @@
 	],
 	"summary": "ant-1.10.10-1.2 on GA media",
 	"details": "These are all security issues fixed in the ant-1.10.10-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ant",
+				"purl": "purl:rpm/suse/ant&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.10.10-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ant": "1.10.10-1.2",
+						"ant-jmf": "1.10.10-1.2",
+						"ant-scripts": "1.10.10-1.2",
+						"ant-swing": "1.10.10-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

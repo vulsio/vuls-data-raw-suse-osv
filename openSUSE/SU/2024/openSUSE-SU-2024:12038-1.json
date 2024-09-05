@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-kramdown",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-kramdown&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-kramdown",
+				"purl": "purl:rpm/suse/rubygem-kramdown&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -7,6 +7,41 @@
 	],
 	"summary": "libvmtools-devel-12.2.0-6.1 on GA media",
 	"details": "These are all security issues fixed in the libvmtools-devel-12.2.0-6.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "open-vm-tools",
+				"purl": "purl:rpm/suse/open-vm-tools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.2.0-6.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvmtools-devel": "12.2.0-6.1",
+						"libvmtools0": "12.2.0-6.1",
+						"open-vm-tools": "12.2.0-6.1",
+						"open-vm-tools-containerinfo": "12.2.0-6.1",
+						"open-vm-tools-desktop": "12.2.0-6.1",
+						"open-vm-tools-salt-minion": "12.2.0-6.1",
+						"open-vm-tools-sdmp": "12.2.0-6.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

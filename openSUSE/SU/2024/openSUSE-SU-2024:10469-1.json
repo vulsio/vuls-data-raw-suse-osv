@@ -12,6 +12,40 @@
 	],
 	"summary": "emacs-25.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the emacs-25.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "emacs",
+				"purl": "purl:rpm/suse/emacs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "25.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"emacs": "25.1-1.1",
+						"emacs-el": "25.1-1.1",
+						"emacs-info": "25.1-1.1",
+						"emacs-nox": "25.1-1.1",
+						"emacs-x11": "25.1-1.1",
+						"etags": "25.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

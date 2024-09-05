@@ -7,6 +7,36 @@
 	],
 	"summary": "mpop-1.4.14-1.1 on GA media",
 	"details": "These are all security issues fixed in the mpop-1.4.14-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mpop",
+				"purl": "purl:rpm/suse/mpop&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.14-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mpop": "1.4.14-1.1",
+						"mpop-doc": "1.4.14-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

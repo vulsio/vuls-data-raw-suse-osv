@@ -8,6 +8,38 @@
 	],
 	"summary": "zypper-1.14.49-1.2 on GA media",
 	"details": "These are all security issues fixed in the zypper-1.14.49-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zypper",
+				"purl": "purl:rpm/suse/zypper&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.14.49-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zypper": "1.14.49-1.2",
+						"zypper-aptitude": "1.14.49-1.2",
+						"zypper-log": "1.14.49-1.2",
+						"zypper-needs-restarting": "1.14.49-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

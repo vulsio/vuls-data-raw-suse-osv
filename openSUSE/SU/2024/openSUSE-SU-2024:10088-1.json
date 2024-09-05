@@ -11,6 +11,41 @@
 	],
 	"summary": "libmbedcrypto0-2.4.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the libmbedcrypto0-2.4.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mbedtls",
+				"purl": "purl:rpm/suse/mbedtls&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmbedcrypto0": "2.4.0-1.2",
+						"libmbedcrypto0-32bit": "2.4.0-1.2",
+						"libmbedtls10": "2.4.0-1.2",
+						"libmbedtls10-32bit": "2.4.0-1.2",
+						"libmbedx509-0": "2.4.0-1.2",
+						"libmbedx509-0-32bit": "2.4.0-1.2",
+						"mbedtls-devel": "2.4.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,41 @@
 	],
 	"summary": "gdm-3.22.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the gdm-3.22.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gdm",
+				"purl": "purl:rpm/suse/gdm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.22.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gdm": "3.22.1-1.2",
+						"gdm-branding-upstream": "3.22.1-1.2",
+						"gdm-devel": "3.22.1-1.2",
+						"gdm-lang": "3.22.1-1.2",
+						"gdmflexiserver": "3.22.1-1.2",
+						"libgdm1": "3.22.1-1.2",
+						"typelib-1_0-Gdm-1_0": "3.22.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

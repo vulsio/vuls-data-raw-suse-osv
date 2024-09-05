@@ -7,6 +7,37 @@
 	],
 	"summary": "etcd-3.5.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the etcd-3.5.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "etcd",
+				"purl": "purl:rpm/suse/etcd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"etcd": "3.5.2-1.1",
+						"etcdctl": "3.5.2-1.1",
+						"etcdutl": "3.5.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

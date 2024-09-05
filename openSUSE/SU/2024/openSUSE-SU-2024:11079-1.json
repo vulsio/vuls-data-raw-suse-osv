@@ -25,6 +25,37 @@
 	],
 	"summary": "neomutt-20210205-3.3 on GA media",
 	"details": "These are all security issues fixed in the neomutt-20210205-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "neomutt",
+				"purl": "purl:rpm/suse/neomutt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20210205-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"neomutt": "20210205-3.3",
+						"neomutt-doc": "20210205-3.3",
+						"neomutt-lang": "20210205-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

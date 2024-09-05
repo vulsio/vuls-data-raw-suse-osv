@@ -7,6 +7,36 @@
 	],
 	"summary": "apache-sshd-2.9.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the apache-sshd-2.9.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apache-sshd",
+				"purl": "purl:rpm/suse/apache-sshd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache-sshd": "2.9.2-1.1",
+						"apache-sshd-javadoc": "2.9.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

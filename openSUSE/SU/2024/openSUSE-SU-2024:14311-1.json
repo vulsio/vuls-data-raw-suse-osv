@@ -1,0 +1,73 @@
+{
+	"id": "openSUSE-SU-2024:14311-1",
+	"modified": "2024-09-04T00:00:00Z",
+	"published": "2024-09-04T00:00:00Z",
+	"related": [
+		"CVE-2017-12852",
+		"CVE-2019-6446",
+		"CVE-2021-33430",
+		"CVE-2021-41495",
+		"CVE-2021-41496"
+	],
+	"summary": "python310-numpy1-1.26.4-1.1 on GA media",
+	"details": "These are all security issues fixed in the python310-numpy1-1.26.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-numpy1",
+				"purl": "purl:rpm/suse/python-numpy1&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.26.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-numpy1": "1.26.4-1.1",
+						"python310-numpy1-devel": "1.26.4-1.1",
+						"python311-numpy1": "1.26.4-1.1",
+						"python311-numpy1-devel": "1.26.4-1.1",
+						"python312-numpy1": "1.26.4-1.1",
+						"python312-numpy1-devel": "1.26.4-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2017-12852"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-6446"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-33430"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41496"
+		}
+	]
+}

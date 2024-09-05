@@ -7,6 +7,37 @@
 	],
 	"summary": "forgejo-7.0.5-1.1 on GA media",
 	"details": "These are all security issues fixed in the forgejo-7.0.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "forgejo",
+				"purl": "purl:rpm/suse/forgejo&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.0.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"forgejo": "7.0.5-1.1",
+						"forgejo-apparmor": "7.0.5-1.1",
+						"forgejo-selinux": "7.0.5-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

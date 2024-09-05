@@ -7,6 +7,38 @@
 	],
 	"summary": "libusbguard1-1.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libusbguard1-1.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "usbguard",
+				"purl": "purl:rpm/suse/usbguard&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libusbguard1": "1.1.0-1.1",
+						"usbguard": "1.1.0-1.1",
+						"usbguard-devel": "1.1.0-1.1",
+						"usbguard-tools": "1.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

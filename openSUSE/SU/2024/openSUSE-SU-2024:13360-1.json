@@ -9,6 +9,38 @@
 	],
 	"summary": "teleport-14.1.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the teleport-14.1.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "teleport",
+				"purl": "purl:rpm/suse/teleport&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "14.1.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"teleport": "14.1.1-1.1",
+						"teleport-tbot": "14.1.1-1.1",
+						"teleport-tctl": "14.1.1-1.1",
+						"teleport-tsh": "14.1.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

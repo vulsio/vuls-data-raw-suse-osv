@@ -7,6 +7,48 @@
 	],
 	"summary": "ruby2.2-rubygem-facter-2.4.6-2.1 on GA media",
 	"details": "These are all security issues fixed in the ruby2.2-rubygem-facter-2.4.6-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-facter",
+				"purl": "purl:rpm/suse/rubygem-facter&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.3.4-3.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby2.2-rubygem-facter": "2.4.6-2.1",
+						"ruby2.2-rubygem-facter-doc": "2.4.6-2.1",
+						"ruby2.2-rubygem-facter-testsuite": "2.4.6-2.1",
+						"ruby2.2-rubygem-hiera": "1.3.4-3.5",
+						"ruby2.2-rubygem-hiera-doc": "1.3.4-3.5",
+						"ruby2.2-rubygem-hiera-testsuite": "1.3.4-3.5",
+						"ruby2.3-rubygem-facter": "2.4.6-2.1",
+						"ruby2.3-rubygem-facter-doc": "2.4.6-2.1",
+						"ruby2.3-rubygem-facter-testsuite": "2.4.6-2.1",
+						"ruby2.3-rubygem-hiera": "1.3.4-3.5",
+						"ruby2.3-rubygem-hiera-doc": "1.3.4-3.5",
+						"ruby2.3-rubygem-hiera-testsuite": "1.3.4-3.5",
+						"rubygem-facter": "2.4.6-2.1",
+						"rubygem-hiera": "1.3.4-3.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

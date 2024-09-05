@@ -18,6 +18,38 @@
 	],
 	"summary": "bsdtar-3.5.1-1.5 on GA media",
 	"details": "These are all security issues fixed in the bsdtar-3.5.1-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bsdtar",
+				"purl": "purl:rpm/suse/bsdtar&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5.1-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bsdtar": "3.5.1-1.5",
+						"libarchive-devel": "3.5.1-1.5",
+						"libarchive13": "3.5.1-1.5",
+						"libarchive13-32bit": "3.5.1-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

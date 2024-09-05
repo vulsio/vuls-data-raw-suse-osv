@@ -11,6 +11,37 @@
 	],
 	"summary": "libzypp-17.28.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the libzypp-17.28.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libzypp",
+				"purl": "purl:rpm/suse/libzypp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "17.28.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libzypp": "17.28.4-1.2",
+						"libzypp-devel": "17.28.4-1.2",
+						"libzypp-devel-doc": "17.28.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

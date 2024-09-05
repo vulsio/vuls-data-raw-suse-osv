@@ -7,6 +7,40 @@
 	],
 	"summary": "python310-Pillow-10.2.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-Pillow-10.2.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-Pillow",
+				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.2.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-Pillow": "10.2.0-1.1",
+						"python310-Pillow-tk": "10.2.0-1.1",
+						"python311-Pillow": "10.2.0-1.1",
+						"python311-Pillow-tk": "10.2.0-1.1",
+						"python39-Pillow": "10.2.0-1.1",
+						"python39-Pillow-tk": "10.2.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

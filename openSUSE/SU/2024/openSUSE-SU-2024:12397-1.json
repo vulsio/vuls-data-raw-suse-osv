@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-rack-2.2",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-rack-2.2&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-rack-2.2",
+				"purl": "purl:rpm/suse/rubygem-rack-2.2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

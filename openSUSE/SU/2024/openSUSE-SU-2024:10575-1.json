@@ -10,6 +10,36 @@
 	],
 	"summary": "csound-5.18.02-7.10 on GA media",
 	"details": "These are all security issues fixed in the csound-5.18.02-7.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "csound",
+				"purl": "purl:rpm/suse/csound&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.18.02-7.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"csound": "5.18.02-7.10",
+						"csound-devel": "5.18.02-7.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

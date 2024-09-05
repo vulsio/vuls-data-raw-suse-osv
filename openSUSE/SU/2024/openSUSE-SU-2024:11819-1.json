@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-actionmailbox-6.0",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-actionmailbox-6.0&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-actionmailbox-6.0",
+				"purl": "purl:rpm/suse/rubygem-actionmailbox-6.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

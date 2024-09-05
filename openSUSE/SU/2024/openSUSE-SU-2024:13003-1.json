@@ -8,6 +8,45 @@
 	],
 	"summary": "kubernetes1.23-apiserver-1.23.17-4.1 on GA media",
 	"details": "These are all security issues fixed in the kubernetes1.23-apiserver-1.23.17-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kubernetes1.23",
+				"purl": "purl:rpm/suse/kubernetes1.23&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.23.17-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kubernetes1.23-apiserver": "1.23.17-4.1",
+						"kubernetes1.23-client": "1.23.17-4.1",
+						"kubernetes1.23-client-bash-completion": "1.23.17-4.1",
+						"kubernetes1.23-client-common": "1.23.17-4.1",
+						"kubernetes1.23-client-fish-completion": "1.23.17-4.1",
+						"kubernetes1.23-controller-manager": "1.23.17-4.1",
+						"kubernetes1.23-kubeadm": "1.23.17-4.1",
+						"kubernetes1.23-kubelet": "1.23.17-4.1",
+						"kubernetes1.23-kubelet-common": "1.23.17-4.1",
+						"kubernetes1.23-proxy": "1.23.17-4.1",
+						"kubernetes1.23-scheduler": "1.23.17-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

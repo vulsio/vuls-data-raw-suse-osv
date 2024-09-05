@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-requests-2.31.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the python310-requests-2.31.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-requests",
+				"purl": "purl:rpm/suse/python-requests&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.31.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-requests": "2.31.0-1.2",
+						"python311-requests": "2.31.0-1.2",
+						"python39-requests": "2.31.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

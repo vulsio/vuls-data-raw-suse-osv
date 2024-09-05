@@ -10,6 +10,40 @@
 	],
 	"summary": "libpolkit0-0.118-7.2 on GA media",
 	"details": "These are all security issues fixed in the libpolkit0-0.118-7.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "polkit",
+				"purl": "purl:rpm/suse/polkit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.118-7.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libpolkit0": "0.118-7.2",
+						"libpolkit0-32bit": "0.118-7.2",
+						"polkit": "0.118-7.2",
+						"polkit-devel": "0.118-7.2",
+						"polkit-doc": "0.118-7.2",
+						"typelib-1_0-Polkit-1_0": "0.118-7.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

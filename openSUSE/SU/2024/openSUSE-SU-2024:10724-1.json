@@ -8,6 +8,38 @@
 	],
 	"summary": "dom4j-1.6.1-33.6 on GA media",
 	"details": "These are all security issues fixed in the dom4j-1.6.1-33.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dom4j",
+				"purl": "purl:rpm/suse/dom4j&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.1-33.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dom4j": "1.6.1-33.6",
+						"dom4j-demo": "1.6.1-33.6",
+						"dom4j-javadoc": "1.6.1-33.6",
+						"dom4j-manual": "1.6.1-33.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

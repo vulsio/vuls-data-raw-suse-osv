@@ -7,6 +7,36 @@
 	],
 	"summary": "pam-modules-12.1-27.4 on GA media",
 	"details": "These are all security issues fixed in the pam-modules-12.1-27.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pam-modules",
+				"purl": "purl:rpm/suse/pam-modules&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "12.1-27.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pam-modules": "12.1-27.4",
+						"pam-modules-32bit": "12.1-27.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -10,6 +10,36 @@
 	],
 	"summary": "wicked-0.6.66-1.2 on GA media",
 	"details": "These are all security issues fixed in the wicked-0.6.66-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wicked",
+				"purl": "purl:rpm/suse/wicked&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.66-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"wicked": "0.6.66-1.2",
+						"wicked-service": "0.6.66-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

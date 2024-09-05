@@ -7,6 +7,39 @@
 	],
 	"summary": "agrep-0.8.0_git201402282055-5.8 on GA media",
 	"details": "These are all security issues fixed in the agrep-0.8.0_git201402282055-5.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "agrep",
+				"purl": "purl:rpm/suse/agrep&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.8.0_git201402282055-5.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"agrep": "0.8.0_git201402282055-5.8",
+						"libtre5": "0.8.0_git201402282055-5.8",
+						"tre": "0.8.0_git201402282055-5.8",
+						"tre-devel": "0.8.0_git201402282055-5.8",
+						"tre-lang": "0.8.0_git201402282055-5.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

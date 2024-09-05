@@ -8,6 +8,40 @@
 	],
 	"summary": "ruby2.2-rubygem-rack-1_4-1.4.7-1.8 on GA media",
 	"details": "These are all security issues fixed in the ruby2.2-rubygem-rack-1_4-1.4.7-1.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubyem-rack",
+				"purl": "purl:rpm/suse/rubyem-rack&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.7-1.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby2.2-rubygem-rack-1_4": "1.4.7-1.8",
+						"ruby2.2-rubygem-rack-doc-1_4": "1.4.7-1.8",
+						"ruby2.2-rubygem-rack-testsuite-1_4": "1.4.7-1.8",
+						"ruby2.3-rubygem-rack-1_4": "1.4.7-1.8",
+						"ruby2.3-rubygem-rack-doc-1_4": "1.4.7-1.8",
+						"ruby2.3-rubygem-rack-testsuite-1_4": "1.4.7-1.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "apr-devel-1.7.0-2.2 on GA media",
 	"details": "These are all security issues fixed in the apr-devel-1.7.0-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apr",
+				"purl": "purl:rpm/suse/apr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7.0-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apr-devel": "1.7.0-2.2",
+						"libapr1": "1.7.0-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

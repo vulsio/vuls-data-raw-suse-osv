@@ -7,6 +7,38 @@
 	],
 	"summary": "python-SQLAlchemy1-doc-1.4.46-2.1 on GA media",
 	"details": "These are all security issues fixed in the python-SQLAlchemy1-doc-1.4.46-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-SQLAlchemy",
+				"purl": "purl:rpm/suse/python-SQLAlchemy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.46-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-SQLAlchemy1-doc": "1.4.46-2.1",
+						"python310-SQLAlchemy1": "1.4.46-2.1",
+						"python311-SQLAlchemy1": "1.4.46-2.1",
+						"python39-SQLAlchemy1": "1.4.46-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

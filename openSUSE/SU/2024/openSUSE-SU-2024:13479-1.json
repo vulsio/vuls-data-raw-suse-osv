@@ -8,6 +8,39 @@
 	],
 	"summary": "perl-32bit-5.38.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the perl-32bit-5.38.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "perl",
+				"purl": "purl:rpm/suse/perl&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.38.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"perl": "5.38.2-1.1",
+						"perl-32bit": "5.38.2-1.1",
+						"perl-base": "5.38.2-1.1",
+						"perl-base-32bit": "5.38.2-1.1",
+						"perl-doc": "5.38.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

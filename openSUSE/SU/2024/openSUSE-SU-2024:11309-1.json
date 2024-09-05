@@ -7,6 +7,51 @@
 	],
 	"summary": "rsyslog-8.2106.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the rsyslog-8.2106.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rsyslog",
+				"purl": "purl:rpm/suse/rsyslog&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.2106.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rsyslog": "8.2106.0-1.2",
+						"rsyslog-diag-tools": "8.2106.0-1.2",
+						"rsyslog-doc": "8.2106.0-1.2",
+						"rsyslog-module-elasticsearch": "8.2106.0-1.2",
+						"rsyslog-module-gcrypt": "8.2106.0-1.2",
+						"rsyslog-module-gssapi": "8.2106.0-1.2",
+						"rsyslog-module-gtls": "8.2106.0-1.2",
+						"rsyslog-module-kafka": "8.2106.0-1.2",
+						"rsyslog-module-mmnormalize": "8.2106.0-1.2",
+						"rsyslog-module-mysql": "8.2106.0-1.2",
+						"rsyslog-module-omamqp1": "8.2106.0-1.2",
+						"rsyslog-module-omhttpfs": "8.2106.0-1.2",
+						"rsyslog-module-omtcl": "8.2106.0-1.2",
+						"rsyslog-module-ossl": "8.2106.0-1.2",
+						"rsyslog-module-pgsql": "8.2106.0-1.2",
+						"rsyslog-module-relp": "8.2106.0-1.2",
+						"rsyslog-module-snmp": "8.2106.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

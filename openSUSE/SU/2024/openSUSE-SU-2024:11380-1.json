@@ -7,6 +7,36 @@
 	],
 	"summary": "sharutils-4.15.2-6.9 on GA media",
 	"details": "These are all security issues fixed in the sharutils-4.15.2-6.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sharutils",
+				"purl": "purl:rpm/suse/sharutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.15.2-6.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"sharutils": "4.15.2-6.9",
+						"sharutils-lang": "4.15.2-6.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

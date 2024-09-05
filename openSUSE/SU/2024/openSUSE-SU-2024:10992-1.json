@@ -21,6 +21,37 @@
 	],
 	"summary": "libsndfile-devel-1.0.31-2.2 on GA media",
 	"details": "These are all security issues fixed in the libsndfile-devel-1.0.31-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libsndfile",
+				"purl": "purl:rpm/suse/libsndfile&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.31-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsndfile-devel": "1.0.31-2.2",
+						"libsndfile1": "1.0.31-2.2",
+						"libsndfile1-32bit": "1.0.31-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

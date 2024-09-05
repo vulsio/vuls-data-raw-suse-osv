@@ -7,6 +7,38 @@
 	],
 	"summary": "chkstat-1599_20220912-1.1 on GA media",
 	"details": "These are all security issues fixed in the chkstat-1599_20220912-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "permissions",
+				"purl": "purl:rpm/suse/permissions&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1599_20220912-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chkstat": "1599_20220912-1.1",
+						"permissions": "1599_20220912-1.1",
+						"permissions-config": "1599_20220912-1.1",
+						"permissions-zypp-plugin": "1599_20220912-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

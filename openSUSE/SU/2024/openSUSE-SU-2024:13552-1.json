@@ -7,6 +7,43 @@
 	],
 	"summary": "libjpeg-turbo-3.0.1-77.1 on GA media",
 	"details": "These are all security issues fixed in the libjpeg-turbo-3.0.1-77.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libjpeg-turbo",
+				"purl": "purl:rpm/suse/libjpeg-turbo&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.3.2-77.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libjpeg-turbo": "3.0.1-77.1",
+						"libjpeg8": "8.3.2-77.1",
+						"libjpeg8-32bit": "8.3.2-77.1",
+						"libjpeg8-devel": "8.3.2-77.1",
+						"libjpeg8-devel-32bit": "8.3.2-77.1",
+						"libjpeg8-x86-64-v3": "8.3.2-77.1",
+						"libturbojpeg0": "8.3.2-77.1",
+						"libturbojpeg0-32bit": "8.3.2-77.1",
+						"libturbojpeg0-x86-64-v3": "8.3.2-77.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

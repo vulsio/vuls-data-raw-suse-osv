@@ -10,6 +10,39 @@
 	],
 	"summary": "apr-util-devel-1.6.1-8.1 on GA media",
 	"details": "These are all security issues fixed in the apr-util-devel-1.6.1-8.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apr-util",
+				"purl": "purl:rpm/suse/apr-util&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.1-8.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apr-util-devel": "1.6.1-8.1",
+						"libapr-util1-0": "1.6.1-8.1",
+						"libapr-util1-0-dbd-mysql": "1.6.1-8.1",
+						"libapr-util1-0-dbd-pgsql": "1.6.1-8.1",
+						"libapr-util1-0-dbd-sqlite3": "1.6.1-8.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

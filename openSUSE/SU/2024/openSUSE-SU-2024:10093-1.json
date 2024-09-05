@@ -7,6 +7,38 @@
 	],
 	"summary": "conky-1.10.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the conky-1.10.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "conky",
+				"purl": "purl:rpm/suse/conky&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.10.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"conky": "1.10.4-1.2",
+						"conky-doc": "1.10.4-1.2",
+						"nano-plugin-conky": "1.10.4-1.2",
+						"vim-plugin-conky": "1.10.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "id3lib-3.8.3-266.5 on GA media",
 	"details": "These are all security issues fixed in the id3lib-3.8.3-266.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "id3lib",
+				"purl": "purl:rpm/suse/id3lib&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.8.3-266.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"id3lib": "3.8.3-266.5",
+						"id3lib-32bit": "3.8.3-266.5",
+						"id3lib-devel": "3.8.3-266.5",
+						"id3lib-examples": "3.8.3-266.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,36 @@
 	],
 	"summary": "cpio-2.12-3.90 on GA media",
 	"details": "These are all security issues fixed in the cpio-2.12-3.90 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cpio",
+				"purl": "purl:rpm/suse/cpio&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.12-3.90"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cpio": "2.12-3.90",
+						"cpio-lang": "2.12-3.90"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

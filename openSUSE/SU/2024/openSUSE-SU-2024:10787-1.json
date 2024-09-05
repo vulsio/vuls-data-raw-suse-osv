@@ -7,6 +7,36 @@
 	],
 	"summary": "git-annex-8.20210903-1.2 on GA media",
 	"details": "These are all security issues fixed in the git-annex-8.20210903-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "git-annex",
+				"purl": "purl:rpm/suse/git-annex&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.20210903-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"git-annex": "8.20210903-1.2",
+						"git-annex-bash-completion": "8.20210903-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,43 @@
 	],
 	"summary": "gstreamer-plugins-good-1.18.5-2.1 on GA media",
 	"details": "These are all security issues fixed in the gstreamer-plugins-good-1.18.5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gstreamer-plugins-good",
+				"purl": "purl:rpm/suse/gstreamer-plugins-good&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.18.5-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gstreamer-plugins-good": "1.18.5-2.1",
+						"gstreamer-plugins-good-32bit": "1.18.5-2.1",
+						"gstreamer-plugins-good-extra": "1.18.5-2.1",
+						"gstreamer-plugins-good-extra-32bit": "1.18.5-2.1",
+						"gstreamer-plugins-good-gtk": "1.18.5-2.1",
+						"gstreamer-plugins-good-jack": "1.18.5-2.1",
+						"gstreamer-plugins-good-jack-32bit": "1.18.5-2.1",
+						"gstreamer-plugins-good-lang": "1.18.5-2.1",
+						"gstreamer-plugins-good-qtqml": "1.18.5-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

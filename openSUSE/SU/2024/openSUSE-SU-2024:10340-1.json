@@ -8,6 +8,40 @@
 	],
 	"summary": "lcms-1.19-19.8 on GA media",
 	"details": "These are all security issues fixed in the lcms-1.19-19.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lcms",
+				"purl": "purl:rpm/suse/lcms&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19-19.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"lcms": "1.19-19.8",
+						"liblcms-devel": "1.19-19.8",
+						"liblcms-devel-32bit": "1.19-19.8",
+						"liblcms1": "1.19-19.8",
+						"liblcms1-32bit": "1.19-19.8",
+						"python-lcms": "1.19-19.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

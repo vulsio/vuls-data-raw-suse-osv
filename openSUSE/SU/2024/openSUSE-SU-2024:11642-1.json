@@ -7,6 +7,39 @@
 	],
 	"summary": "aom-tools-3.2.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the aom-tools-3.2.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libaom",
+				"purl": "purl:rpm/suse/libaom&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"aom-tools": "3.2.0-2.1",
+						"libaom-devel": "3.2.0-2.1",
+						"libaom-devel-doc": "3.2.0-2.1",
+						"libaom3": "3.2.0-2.1",
+						"libaom3-32bit": "3.2.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

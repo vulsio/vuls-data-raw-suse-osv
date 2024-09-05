@@ -7,6 +7,37 @@
 	],
 	"summary": "lasem-0.4.4-2.13 on GA media",
 	"details": "These are all security issues fixed in the lasem-0.4.4-2.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lasem",
+				"purl": "purl:rpm/suse/lasem&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.4.4-2.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"lasem": "0.4.4-2.13",
+						"lasem-devel": "0.4.4-2.13",
+						"liblasem-0_4-4": "0.4.4-2.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

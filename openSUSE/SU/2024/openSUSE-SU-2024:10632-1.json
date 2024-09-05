@@ -8,6 +8,37 @@
 	],
 	"summary": "ark-21.08.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the ark-21.08.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ark",
+				"purl": "purl:rpm/suse/ark&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.08.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ark": "21.08.1-1.2",
+						"ark-lang": "21.08.1-1.2",
+						"libkerfuffle21": "21.08.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

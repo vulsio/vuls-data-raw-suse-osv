@@ -7,6 +7,42 @@
 	],
 	"summary": "libzstd-devel-1.5.5-5.1 on GA media",
 	"details": "These are all security issues fixed in the libzstd-devel-1.5.5-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zstd",
+				"purl": "purl:rpm/suse/zstd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5.5-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libzstd-devel": "1.5.5-5.1",
+						"libzstd-devel-32bit": "1.5.5-5.1",
+						"libzstd-devel-static": "1.5.5-5.1",
+						"libzstd1": "1.5.5-5.1",
+						"libzstd1-32bit": "1.5.5-5.1",
+						"libzstd1-x86-64-v3": "1.5.5-5.1",
+						"zstd": "1.5.5-5.1",
+						"zstd-gzip": "1.5.5-5.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

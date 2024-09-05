@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-jquery-rails",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-jquery-rails&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-jquery-rails",
+				"purl": "purl:rpm/suse/rubygem-jquery-rails&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

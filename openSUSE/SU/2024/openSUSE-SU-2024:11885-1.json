@@ -8,6 +8,41 @@
 	],
 	"summary": "flac-1.3.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the flac-1.3.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "flac",
+				"purl": "purl:rpm/suse/flac&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.3.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"flac": "1.3.4-1.1",
+						"flac-devel": "1.3.4-1.1",
+						"flac-devel-32bit": "1.3.4-1.1",
+						"libFLAC++6": "1.3.4-1.1",
+						"libFLAC++6-32bit": "1.3.4-1.1",
+						"libFLAC8": "1.3.4-1.1",
+						"libFLAC8-32bit": "1.3.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

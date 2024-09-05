@@ -7,6 +7,38 @@
 	],
 	"summary": "velocity-1.7-9.3 on GA media",
 	"details": "These are all security issues fixed in the velocity-1.7-9.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "velocity",
+				"purl": "purl:rpm/suse/velocity&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7-9.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"velocity": "1.7-9.3",
+						"velocity-demo": "1.7-9.3",
+						"velocity-javadoc": "1.7-9.3",
+						"velocity-manual": "1.7-9.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

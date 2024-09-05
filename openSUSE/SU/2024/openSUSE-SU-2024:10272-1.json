@@ -7,6 +7,41 @@
 	],
 	"summary": "transmission-2.92-3.1 on GA media",
 	"details": "These are all security issues fixed in the transmission-2.92-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "transmission",
+				"purl": "purl:rpm/suse/transmission&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.92-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"transmission": "2.92-3.1",
+						"transmission-common": "2.92-3.1",
+						"transmission-daemon": "2.92-3.1",
+						"transmission-gtk": "2.92-3.1",
+						"transmission-gtk-lang": "2.92-3.1",
+						"transmission-qt": "2.92-3.1",
+						"transmission-qt-lang": "2.92-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

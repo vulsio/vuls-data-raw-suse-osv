@@ -12,6 +12,42 @@
 	],
 	"summary": "libXvnc-devel-1.10.1-17.1 on GA media",
 	"details": "These are all security issues fixed in the libXvnc-devel-1.10.1-17.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tigervnc",
+				"purl": "purl:rpm/suse/tigervnc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.10.1-17.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXvnc-devel": "1.10.1-17.1",
+						"libXvnc1": "1.10.1-17.1",
+						"tigervnc": "1.10.1-17.1",
+						"tigervnc-x11vnc": "1.10.1-17.1",
+						"xorg-x11-Xvnc": "1.10.1-17.1",
+						"xorg-x11-Xvnc-java": "1.10.1-17.1",
+						"xorg-x11-Xvnc-module": "1.10.1-17.1",
+						"xorg-x11-Xvnc-novnc": "1.10.1-17.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

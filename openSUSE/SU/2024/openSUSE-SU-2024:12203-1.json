@@ -9,6 +9,42 @@
 	],
 	"summary": "java-18-openjdk-18.0.2.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the java-18-openjdk-18.0.2.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-18-openjdk",
+				"purl": "purl:rpm/suse/java-18-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "18.0.2.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-18-openjdk": "18.0.2.0-1.1",
+						"java-18-openjdk-accessibility": "18.0.2.0-1.1",
+						"java-18-openjdk-demo": "18.0.2.0-1.1",
+						"java-18-openjdk-devel": "18.0.2.0-1.1",
+						"java-18-openjdk-headless": "18.0.2.0-1.1",
+						"java-18-openjdk-javadoc": "18.0.2.0-1.1",
+						"java-18-openjdk-jmods": "18.0.2.0-1.1",
+						"java-18-openjdk-src": "18.0.2.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

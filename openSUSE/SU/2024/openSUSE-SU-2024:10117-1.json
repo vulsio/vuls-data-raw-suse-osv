@@ -7,6 +7,38 @@
 	],
 	"summary": "libXinerama-devel-1.1.3-5.7 on GA media",
 	"details": "These are all security issues fixed in the libXinerama-devel-1.1.3-5.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXinerama",
+				"purl": "purl:rpm/suse/libXinerama&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.3-5.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXinerama-devel": "1.1.3-5.7",
+						"libXinerama-devel-32bit": "1.1.3-5.7",
+						"libXinerama1": "1.1.3-5.7",
+						"libXinerama1-32bit": "1.1.3-5.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

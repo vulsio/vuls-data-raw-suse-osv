@@ -8,6 +8,36 @@
 	],
 	"summary": "ruby3.1-rubygem-activerecord-7.0-7.0.4.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the ruby3.1-rubygem-activerecord-7.0-7.0.4.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-activerecord-7.0",
+				"purl": "purl:rpm/suse/rubygem-activerecord-7.0&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.0.4.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby3.1-rubygem-activerecord-7.0": "7.0.4.1-1.1",
+						"ruby3.2-rubygem-activerecord-7.0": "7.0.4.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

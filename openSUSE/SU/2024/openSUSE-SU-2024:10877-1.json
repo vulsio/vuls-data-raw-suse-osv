@@ -7,6 +7,36 @@
 	],
 	"summary": "jdom2-2.0.6-3.2 on GA media",
 	"details": "These are all security issues fixed in the jdom2-2.0.6-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jdom2",
+				"purl": "purl:rpm/suse/jdom2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.6-3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jdom2": "2.0.6-3.2",
+						"jdom2-javadoc": "2.0.6-3.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "snakeyaml-1.28-2.2 on GA media",
 	"details": "These are all security issues fixed in the snakeyaml-1.28-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "snakeyaml",
+				"purl": "purl:rpm/suse/snakeyaml&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.28-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"snakeyaml": "1.28-2.2",
+						"snakeyaml-javadoc": "1.28-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

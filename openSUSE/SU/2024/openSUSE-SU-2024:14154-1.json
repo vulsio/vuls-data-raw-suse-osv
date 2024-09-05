@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-pyOpenSSL-24.1.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the python310-pyOpenSSL-24.1.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-pyOpenSSL",
+				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "24.1.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-pyOpenSSL": "24.1.0-1.2",
+						"python311-pyOpenSSL": "24.1.0-1.2",
+						"python312-pyOpenSSL": "24.1.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

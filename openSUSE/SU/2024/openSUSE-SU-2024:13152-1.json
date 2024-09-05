@@ -7,6 +7,37 @@
 	],
 	"summary": "jtidy-1.0.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the jtidy-1.0.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jtidy",
+				"purl": "purl:rpm/suse/jtidy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jtidy": "1.0.4-1.1",
+						"jtidy-javadoc": "1.0.4-1.1",
+						"jtidy-scripts": "1.0.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

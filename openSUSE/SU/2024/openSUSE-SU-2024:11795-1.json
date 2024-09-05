@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-fluentd",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-fluentd&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-fluentd",
+				"purl": "purl:rpm/suse/rubygem-fluentd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

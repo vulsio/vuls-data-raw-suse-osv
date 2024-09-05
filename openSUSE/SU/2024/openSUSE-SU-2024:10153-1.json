@@ -29,6 +29,47 @@
 	],
 	"summary": "libmysqlclient-devel-10.0.22-3.8 on GA media",
 	"details": "These are all security issues fixed in the libmysqlclient-devel-10.0.22-3.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mariadb",
+				"purl": "purl:rpm/suse/mariadb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.0.22-3.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmysqlclient-devel": "10.0.22-3.8",
+						"libmysqlclient18": "10.0.22-3.8",
+						"libmysqlclient18-32bit": "10.0.22-3.8",
+						"libmysqlclient_r18": "10.0.22-3.8",
+						"libmysqlclient_r18-32bit": "10.0.22-3.8",
+						"libmysqld-devel": "10.0.22-3.8",
+						"libmysqld18": "10.0.22-3.8",
+						"mariadb": "10.0.22-3.8",
+						"mariadb-bench": "10.0.22-3.8",
+						"mariadb-client": "10.0.22-3.8",
+						"mariadb-errormessages": "10.0.22-3.8",
+						"mariadb-test": "10.0.22-3.8",
+						"mariadb-tools": "10.0.22-3.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

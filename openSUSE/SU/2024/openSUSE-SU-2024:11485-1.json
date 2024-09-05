@@ -11,6 +11,36 @@
 	],
 	"summary": "unzip-6.00-39.1 on GA media",
 	"details": "These are all security issues fixed in the unzip-6.00-39.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "unzip",
+				"purl": "purl:rpm/suse/unzip&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.00-39.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"unzip": "6.00-39.1",
+						"unzip-doc": "6.00-39.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

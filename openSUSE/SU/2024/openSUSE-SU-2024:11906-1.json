@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-sprockets",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-sprockets&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-sprockets",
+				"purl": "purl:rpm/suse/rubygem-sprockets&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

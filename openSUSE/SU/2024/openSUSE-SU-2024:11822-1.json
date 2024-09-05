@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-actiontext-6.0",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-actiontext-6.0&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-actiontext-6.0",
+				"purl": "purl:rpm/suse/rubygem-actiontext-6.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

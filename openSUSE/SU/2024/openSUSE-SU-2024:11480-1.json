@@ -8,6 +8,37 @@
 	],
 	"summary": "gimp-ufraw-0.22-9.4 on GA media",
 	"details": "These are all security issues fixed in the gimp-ufraw-0.22-9.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gimp-ufraw",
+				"purl": "purl:rpm/suse/gimp-ufraw&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.22-9.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gimp-ufraw": "0.22-9.4",
+						"ufraw": "0.22-9.4",
+						"ufraw-lang": "0.22-9.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

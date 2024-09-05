@@ -7,6 +7,38 @@
 	],
 	"summary": "go1.19-1.19.12-1.1 on GA media",
 	"details": "These are all security issues fixed in the go1.19-1.19.12-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "go1.19",
+				"purl": "purl:rpm/suse/go1.19&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.19.12-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"go1.19": "1.19.12-1.1",
+						"go1.19-doc": "1.19.12-1.1",
+						"go1.19-libstd": "1.19.12-1.1",
+						"go1.19-race": "1.19.12-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

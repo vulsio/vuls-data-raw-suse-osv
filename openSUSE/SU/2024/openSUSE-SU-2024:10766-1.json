@@ -9,6 +9,37 @@
 	],
 	"summary": "freeimage-devel-3.18.0-4.4 on GA media",
 	"details": "These are all security issues fixed in the freeimage-devel-3.18.0-4.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freeimage",
+				"purl": "purl:rpm/suse/freeimage&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.18.0-4.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freeimage-devel": "3.18.0-4.4",
+						"libfreeimage3": "3.18.0-4.4",
+						"libfreeimageplus3": "3.18.0-4.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

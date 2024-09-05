@@ -23,6 +23,45 @@
 	],
 	"summary": "libvlc5-3.0.16-1.5 on GA media",
 	"details": "These are all security issues fixed in the libvlc5-3.0.16-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "vlc",
+				"purl": "purl:rpm/suse/vlc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.16-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvlc5": "3.0.16-1.5",
+						"libvlccore9": "3.0.16-1.5",
+						"vlc": "3.0.16-1.5",
+						"vlc-codec-gstreamer": "3.0.16-1.5",
+						"vlc-devel": "3.0.16-1.5",
+						"vlc-jack": "3.0.16-1.5",
+						"vlc-lang": "3.0.16-1.5",
+						"vlc-noX": "3.0.16-1.5",
+						"vlc-opencv": "3.0.16-1.5",
+						"vlc-qt": "3.0.16-1.5",
+						"vlc-vdpau": "3.0.16-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

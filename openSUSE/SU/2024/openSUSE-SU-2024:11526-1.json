@@ -10,6 +10,38 @@
 	],
 	"summary": "libpainter0-0.9.15-2.2 on GA media",
 	"details": "These are all security issues fixed in the libpainter0-0.9.15-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xrdp",
+				"purl": "purl:rpm/suse/xrdp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.15-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libpainter0": "0.9.15-2.2",
+						"librfxencode0": "0.9.15-2.2",
+						"xrdp": "0.9.15-2.2",
+						"xrdp-devel": "0.9.15-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

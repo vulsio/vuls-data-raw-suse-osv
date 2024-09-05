@@ -7,6 +7,42 @@
 	],
 	"summary": "cryptsetup-2.4.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the cryptsetup-2.4.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cryptsetup",
+				"purl": "purl:rpm/suse/cryptsetup&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cryptsetup": "2.4.1-1.1",
+						"cryptsetup-lang": "2.4.1-1.1",
+						"cryptsetup-ssh": "2.4.1-1.1",
+						"libcryptsetup-devel": "2.4.1-1.1",
+						"libcryptsetup12": "2.4.1-1.1",
+						"libcryptsetup12-32bit": "2.4.1-1.1",
+						"libcryptsetup12-hmac": "2.4.1-1.1",
+						"libcryptsetup12-hmac-32bit": "2.4.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

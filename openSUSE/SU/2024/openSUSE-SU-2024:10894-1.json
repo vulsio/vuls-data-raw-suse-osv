@@ -9,6 +9,36 @@
 	],
 	"summary": "kernel-firmware-20210901-1.2 on GA media",
 	"details": "These are all security issues fixed in the kernel-firmware-20210901-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kernel-firmware",
+				"purl": "purl:rpm/suse/kernel-firmware&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20210901-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-firmware": "20210901-1.2",
+						"ucode-amd": "20210901-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

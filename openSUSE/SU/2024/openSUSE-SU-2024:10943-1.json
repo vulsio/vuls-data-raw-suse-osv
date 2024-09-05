@@ -21,6 +21,37 @@
 	],
 	"summary": "libgit2-1_1-1.1.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the libgit2-1_1-1.1.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libgit2",
+				"purl": "purl:rpm/suse/libgit2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libgit2-1_1": "1.1.1-1.2",
+						"libgit2-1_1-32bit": "1.1.1-1.2",
+						"libgit2-devel": "1.1.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-http",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-http&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-http",
+				"purl": "purl:rpm/suse/rubygem-http&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

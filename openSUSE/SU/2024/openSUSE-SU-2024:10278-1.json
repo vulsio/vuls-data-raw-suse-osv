@@ -8,6 +8,37 @@
 	],
 	"summary": "criu-2.9-1.1 on GA media",
 	"details": "These are all security issues fixed in the criu-2.9-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "criu",
+				"purl": "purl:rpm/suse/criu&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"criu": "2.9-1.1",
+						"criu-devel": "2.9-1.1",
+						"libcriu1": "2.9-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

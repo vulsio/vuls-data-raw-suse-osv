@@ -9,6 +9,38 @@
 	],
 	"summary": "libmruby3_1_0-3.1.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libmruby3_1_0-3.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mruby",
+				"purl": "purl:rpm/suse/mruby&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmruby3_1_0": "3.1.0-1.1",
+						"libmruby_core3_1_0": "3.1.0-1.1",
+						"mruby": "3.1.0-1.1",
+						"mruby-devel": "3.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

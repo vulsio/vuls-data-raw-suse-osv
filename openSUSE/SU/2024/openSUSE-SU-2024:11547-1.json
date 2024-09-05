@@ -8,6 +8,42 @@
 	],
 	"summary": "gdm-41.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the gdm-41.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gdm",
+				"purl": "purl:rpm/suse/gdm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "41.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gdm": "41.0-1.1",
+						"gdm-branding-upstream": "41.0-1.1",
+						"gdm-devel": "41.0-1.1",
+						"gdm-lang": "41.0-1.1",
+						"gdm-systemd": "41.0-1.1",
+						"gdmflexiserver": "41.0-1.1",
+						"libgdm1": "41.0-1.1",
+						"typelib-1_0-Gdm-1_0": "41.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

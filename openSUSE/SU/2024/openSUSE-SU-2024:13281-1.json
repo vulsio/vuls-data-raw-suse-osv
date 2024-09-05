@@ -7,6 +7,36 @@
 	],
 	"summary": "suse-module-tools-16.0.36-1.1 on GA media",
 	"details": "These are all security issues fixed in the suse-module-tools-16.0.36-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "suse-module-tools",
+				"purl": "purl:rpm/suse/suse-module-tools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "16.0.36-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"suse-module-tools": "16.0.36-1.1",
+						"suse-module-tools-scriptlets": "16.0.36-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

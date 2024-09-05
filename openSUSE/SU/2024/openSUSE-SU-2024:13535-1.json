@@ -7,6 +7,44 @@
 	],
 	"summary": "zabbix-agent-6.0.25-1.1 on GA media",
 	"details": "These are all security issues fixed in the zabbix-agent-6.0.25-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zabbix",
+				"purl": "purl:rpm/suse/zabbix&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.0.25-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zabbix-agent": "6.0.25-1.1",
+						"zabbix-java-gateway": "6.0.25-1.1",
+						"zabbix-proxy": "6.0.25-1.1",
+						"zabbix-proxy-mysql": "6.0.25-1.1",
+						"zabbix-proxy-postgresql": "6.0.25-1.1",
+						"zabbix-proxy-sqlite": "6.0.25-1.1",
+						"zabbix-server": "6.0.25-1.1",
+						"zabbix-server-mysql": "6.0.25-1.1",
+						"zabbix-server-postgresql": "6.0.25-1.1",
+						"zabbix-ui": "6.0.25-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

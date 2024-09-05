@@ -7,6 +7,38 @@
 	],
 	"summary": "libqore6-0.9.15-1.2 on GA media",
 	"details": "These are all security issues fixed in the libqore6-0.9.15-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "qore",
+				"purl": "purl:rpm/suse/qore&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.15-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libqore6": "0.9.15-1.2",
+						"qore": "0.9.15-1.2",
+						"qore-devel": "0.9.15-1.2",
+						"qore-misc-tools": "0.9.15-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

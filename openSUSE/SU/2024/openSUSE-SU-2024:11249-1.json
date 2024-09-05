@@ -8,6 +8,38 @@
 	],
 	"summary": "python-paramiko-doc-2.7.2-3.7 on GA media",
 	"details": "These are all security issues fixed in the python-paramiko-doc-2.7.2-3.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-paramiko",
+				"purl": "purl:rpm/suse/python-paramiko&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.2-3.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-paramiko-doc": "2.7.2-3.7",
+						"python36-paramiko": "2.7.2-3.7",
+						"python38-paramiko": "2.7.2-3.7",
+						"python39-paramiko": "2.7.2-3.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2024:14305-1",
+	"modified": "2024-09-03T00:00:00Z",
+	"published": "2024-09-03T00:00:00Z",
+	"related": [
+		"CVE-2024-2397"
+	],
+	"summary": "tcpdump-4.99.5-1.1 on GA media",
+	"details": "These are all security issues fixed in the tcpdump-4.99.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tcpdump",
+				"purl": "purl:rpm/suse/tcpdump&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.99.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tcpdump": "4.99.5-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-2397"
+		}
+	]
+}

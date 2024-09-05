@@ -7,6 +7,37 @@
 	],
 	"summary": "gsoap-devel-2.8.117-1.2 on GA media",
 	"details": "These are all security issues fixed in the gsoap-devel-2.8.117-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gsoap",
+				"purl": "purl:rpm/suse/gsoap&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.8.117-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gsoap-devel": "2.8.117-1.2",
+						"gsoap-doc": "2.8.117-1.2",
+						"libgsoap-2_8_117": "2.8.117-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

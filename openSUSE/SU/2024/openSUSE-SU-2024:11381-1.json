@@ -8,6 +8,38 @@
 	],
 	"summary": "libshibsp-lite10-3.2.3-1.2 on GA media",
 	"details": "These are all security issues fixed in the libshibsp-lite10-3.2.3-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sha1collisiondetection",
+				"purl": "purl:rpm/suse/sha1collisiondetection&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.3-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libshibsp-lite10": "3.2.3-1.2",
+						"libshibsp10": "3.2.3-1.2",
+						"shibboleth-sp": "3.2.3-1.2",
+						"shibboleth-sp-devel": "3.2.3-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

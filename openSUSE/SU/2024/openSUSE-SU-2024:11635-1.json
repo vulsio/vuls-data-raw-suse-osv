@@ -7,6 +7,37 @@
 	],
 	"summary": "liblldpctl4-1.0.13-1.1 on GA media",
 	"details": "These are all security issues fixed in the liblldpctl4-1.0.13-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lldpd",
+				"purl": "purl:rpm/suse/lldpd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.13-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblldpctl4": "1.0.13-1.1",
+						"lldpd": "1.0.13-1.1",
+						"lldpd-devel": "1.0.13-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

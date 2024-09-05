@@ -7,6 +7,38 @@
 	],
 	"summary": "ripgrep-13.0.0-2.2 on GA media",
 	"details": "These are all security issues fixed in the ripgrep-13.0.0-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ripgrep",
+				"purl": "purl:rpm/suse/ripgrep&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "13.0.0-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ripgrep": "13.0.0-2.2",
+						"ripgrep-bash-completion": "13.0.0-2.2",
+						"ripgrep-fish-completion": "13.0.0-2.2",
+						"ripgrep-zsh-completion": "13.0.0-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

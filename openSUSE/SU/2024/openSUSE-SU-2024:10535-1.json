@@ -8,6 +8,45 @@
 	],
 	"summary": "DirectFB-1.7.7-5.9 on GA media",
 	"details": "These are all security issues fixed in the DirectFB-1.7.7-5.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "DirectFB",
+				"purl": "purl:rpm/suse/DirectFB&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7.7-5.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"DirectFB": "1.7.7-5.9",
+						"DirectFB-Mesa": "1.7.7-5.9",
+						"DirectFB-devel": "1.7.7-5.9",
+						"DirectFB-devel-32bit": "1.7.7-5.9",
+						"DirectFB-doc": "1.7.7-5.9",
+						"DirectFB-libSDL": "1.7.7-5.9",
+						"DirectFB-libvncclient": "1.7.7-5.9",
+						"lib++dfb-1_7-7": "1.7.7-5.9",
+						"lib++dfb-devel": "1.7.7-5.9",
+						"libdirectfb-1_7-7": "1.7.7-5.9",
+						"libdirectfb-1_7-7-32bit": "1.7.7-5.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

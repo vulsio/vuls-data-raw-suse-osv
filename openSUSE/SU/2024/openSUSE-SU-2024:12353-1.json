@@ -7,6 +7,43 @@
 	],
 	"summary": "colord-1.4.6-2.1 on GA media",
 	"details": "These are all security issues fixed in the colord-1.4.6-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "colord",
+				"purl": "purl:rpm/suse/colord&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.6-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"colord": "1.4.6-2.1",
+						"colord-color-profiles": "1.4.6-2.1",
+						"colord-lang": "1.4.6-2.1",
+						"libcolord-devel": "1.4.6-2.1",
+						"libcolord2": "1.4.6-2.1",
+						"libcolord2-32bit": "1.4.6-2.1",
+						"libcolorhug2": "1.4.6-2.1",
+						"typelib-1_0-Colord-1_0": "1.4.6-2.1",
+						"typelib-1_0-Colorhug-1_0": "1.4.6-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -13,6 +13,38 @@
 	],
 	"summary": "leptonica-devel-1.80.0-1.9 on GA media",
 	"details": "These are all security issues fixed in the leptonica-devel-1.80.0-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "leptonica",
+				"purl": "purl:rpm/suse/leptonica&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.80.0-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"leptonica-devel": "1.80.0-1.9",
+						"leptonica-tools": "1.80.0-1.9",
+						"liblept5": "1.80.0-1.9",
+						"liblept5-32bit": "1.80.0-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

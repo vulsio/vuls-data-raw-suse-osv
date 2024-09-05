@@ -8,6 +8,36 @@
 	],
 	"summary": "librecad-2.2.0~rc3-7.1 on GA media",
 	"details": "These are all security issues fixed in the librecad-2.2.0~rc3-7.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "librecad",
+				"purl": "purl:rpm/suse/librecad&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.2.0~rc3-7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"librecad": "2.2.0~rc3-7.1",
+						"librecad-parts": "2.2.0~rc3-7.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

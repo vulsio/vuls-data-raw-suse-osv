@@ -8,6 +8,38 @@
 	],
 	"summary": "cobbler-2.6.6-4.2 on GA media",
 	"details": "These are all security issues fixed in the cobbler-2.6.6-4.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cobbler",
+				"purl": "purl:rpm/suse/cobbler&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.6.6-4.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cobbler": "2.6.6-4.2",
+						"cobbler-tests": "2.6.6-4.2",
+						"cobbler-web": "2.6.6-4.2",
+						"koan": "2.6.6-4.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

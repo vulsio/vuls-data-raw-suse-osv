@@ -7,6 +7,37 @@
 	],
 	"summary": "gthumb-3.12.0-3.1 on GA media",
 	"details": "These are all security issues fixed in the gthumb-3.12.0-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gthumb",
+				"purl": "purl:rpm/suse/gthumb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.12.0-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gthumb": "3.12.0-3.1",
+						"gthumb-devel": "3.12.0-3.1",
+						"gthumb-lang": "3.12.0-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

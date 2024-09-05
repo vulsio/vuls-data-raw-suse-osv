@@ -12,6 +12,41 @@
 	],
 	"summary": "libX11-6-1.7.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the libX11-6-1.7.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libX11",
+				"purl": "purl:rpm/suse/libX11&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libX11-6": "1.7.2-1.2",
+						"libX11-6-32bit": "1.7.2-1.2",
+						"libX11-data": "1.7.2-1.2",
+						"libX11-devel": "1.7.2-1.2",
+						"libX11-devel-32bit": "1.7.2-1.2",
+						"libX11-xcb1": "1.7.2-1.2",
+						"libX11-xcb1-32bit": "1.7.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

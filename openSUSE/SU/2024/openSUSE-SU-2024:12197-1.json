@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "cereal-devel",
-				"purl": "purl:rpm/suse/cereal-devel&distro=openSUSE%20Tumbleweed"
+				"name": "cereal",
+				"purl": "purl:rpm/suse/cereal&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

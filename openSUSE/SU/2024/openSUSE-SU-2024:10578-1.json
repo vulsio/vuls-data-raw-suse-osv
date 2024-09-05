@@ -8,6 +8,40 @@
 	],
 	"summary": "libpango-1_0-0-1.40.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the libpango-1_0-0-1.40.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pango",
+				"purl": "purl:rpm/suse/pango&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.40.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libpango-1_0-0": "1.40.3-1.1",
+						"libpango-1_0-0-32bit": "1.40.3-1.1",
+						"pango-devel": "1.40.3-1.1",
+						"pango-devel-32bit": "1.40.3-1.1",
+						"pango-tools": "1.40.3-1.1",
+						"typelib-1_0-Pango-1_0": "1.40.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

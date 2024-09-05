@@ -7,6 +7,37 @@
 	],
 	"summary": "junit-4.13.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the junit-4.13.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "junit",
+				"purl": "purl:rpm/suse/junit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.13.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"junit": "4.13.2-1.1",
+						"junit-javadoc": "4.13.2-1.1",
+						"junit-manual": "4.13.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "libXfont2-2-2.0.5-1.2 on GA media",
 	"details": "These are all security issues fixed in the libXfont2-2-2.0.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXfont2",
+				"purl": "purl:rpm/suse/libXfont2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.5-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXfont2-2": "2.0.5-1.2",
+						"libXfont2-2-32bit": "2.0.5-1.2",
+						"libXfont2-devel": "2.0.5-1.2",
+						"libXfont2-devel-32bit": "2.0.5-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

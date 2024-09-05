@@ -7,6 +7,36 @@
 	],
 	"summary": "audacity-3.0.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the audacity-3.0.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "audacity",
+				"purl": "purl:rpm/suse/audacity&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"audacity": "3.0.4-1.2",
+						"audacity-lang": "3.0.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

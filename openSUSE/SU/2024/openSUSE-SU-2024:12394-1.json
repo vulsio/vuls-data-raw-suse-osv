@@ -7,6 +7,45 @@
 	],
 	"summary": "bluez-5.65-3.1 on GA media",
 	"details": "These are all security issues fixed in the bluez-5.65-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bluez",
+				"purl": "purl:rpm/suse/bluez&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.65-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bluez": "5.65-3.1",
+						"bluez-auto-enable-devices": "5.65-3.1",
+						"bluez-cups": "5.65-3.1",
+						"bluez-deprecated": "5.65-3.1",
+						"bluez-devel": "5.65-3.1",
+						"bluez-devel-32bit": "5.65-3.1",
+						"bluez-obexd": "5.65-3.1",
+						"bluez-test": "5.65-3.1",
+						"bluez-zsh-completion": "5.65-3.1",
+						"libbluetooth3": "5.65-3.1",
+						"libbluetooth3-32bit": "5.65-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

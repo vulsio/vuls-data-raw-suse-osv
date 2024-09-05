@@ -7,6 +7,37 @@
 	],
 	"summary": "autotrace-0.31.1-646.1 on GA media",
 	"details": "These are all security issues fixed in the autotrace-0.31.1-646.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "autotrace",
+				"purl": "purl:rpm/suse/autotrace&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.31.1-646.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"autotrace": "0.31.1-646.1",
+						"autotrace-devel": "0.31.1-646.1",
+						"libautotrace3": "0.31.1-646.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,40 @@
 	],
 	"summary": "ruby2.2-rubygem-extlib-0.9.16-7.4 on GA media",
 	"details": "These are all security issues fixed in the ruby2.2-rubygem-extlib-0.9.16-7.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-extlib",
+				"purl": "purl:rpm/suse/rubygem-extlib&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.9.16-7.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby2.2-rubygem-extlib": "0.9.16-7.4",
+						"ruby2.2-rubygem-extlib-doc": "0.9.16-7.4",
+						"ruby2.2-rubygem-extlib-testsuite": "0.9.16-7.4",
+						"ruby2.3-rubygem-extlib": "0.9.16-7.4",
+						"ruby2.3-rubygem-extlib-doc": "0.9.16-7.4",
+						"ruby2.3-rubygem-extlib-testsuite": "0.9.16-7.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

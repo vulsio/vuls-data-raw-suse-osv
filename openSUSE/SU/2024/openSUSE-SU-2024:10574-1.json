@@ -8,6 +8,42 @@
 	],
 	"summary": "ruby2.2-rubygem-activesupport-4_2-4.2.7.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the ruby2.2-rubygem-activesupport-4_2-4.2.7.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rubygem-activesupport-4_2",
+				"purl": "purl:rpm/suse/rubygem-activesupport-4_2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.0.0.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ruby2.2-rubygem-activesupport-4_2": "4.2.7.1-1.1",
+						"ruby2.2-rubygem-activesupport-5_0": "5.0.0.1-1.1",
+						"ruby2.2-rubygem-activesupport-doc-4_2": "4.2.7.1-1.1",
+						"ruby2.2-rubygem-activesupport-doc-5_0": "5.0.0.1-1.1",
+						"ruby2.3-rubygem-activesupport-4_2": "4.2.7.1-1.1",
+						"ruby2.3-rubygem-activesupport-5_0": "5.0.0.1-1.1",
+						"ruby2.3-rubygem-activesupport-doc-4_2": "4.2.7.1-1.1",
+						"ruby2.3-rubygem-activesupport-doc-5_0": "5.0.0.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

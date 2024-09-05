@@ -7,6 +7,45 @@
 	],
 	"summary": "libudisks2-0-2.9.2-1.6 on GA media",
 	"details": "These are all security issues fixed in the libudisks2-0-2.9.2-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "udisks2",
+				"purl": "purl:rpm/suse/udisks2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.9.2-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libudisks2-0": "2.9.2-1.6",
+						"libudisks2-0-devel": "2.9.2-1.6",
+						"libudisks2-0_bcache": "2.9.2-1.6",
+						"libudisks2-0_btrfs": "2.9.2-1.6",
+						"libudisks2-0_lsm": "2.9.2-1.6",
+						"libudisks2-0_lvm2": "2.9.2-1.6",
+						"libudisks2-0_vdo": "2.9.2-1.6",
+						"libudisks2-0_zram": "2.9.2-1.6",
+						"typelib-1_0-UDisks-2_0": "2.9.2-1.6",
+						"udisks2": "2.9.2-1.6",
+						"udisks2-lang": "2.9.2-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

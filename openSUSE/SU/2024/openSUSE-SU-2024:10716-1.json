@@ -8,6 +8,36 @@
 	],
 	"summary": "dia-0.97.3-11.1 on GA media",
 	"details": "These are all security issues fixed in the dia-0.97.3-11.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dia",
+				"purl": "purl:rpm/suse/dia&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.97.3-11.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dia": "0.97.3-11.1",
+						"dia-lang": "0.97.3-11.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

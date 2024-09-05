@@ -7,6 +7,54 @@
 	],
 	"summary": "erlang-26.2.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the erlang-26.2.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "erlang",
+				"purl": "purl:rpm/suse/erlang&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "26.2.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"erlang": "26.2.1-1.1",
+						"erlang-debugger": "26.2.1-1.1",
+						"erlang-debugger-src": "26.2.1-1.1",
+						"erlang-dialyzer": "26.2.1-1.1",
+						"erlang-dialyzer-src": "26.2.1-1.1",
+						"erlang-diameter": "26.2.1-1.1",
+						"erlang-diameter-src": "26.2.1-1.1",
+						"erlang-doc": "26.2.1-1.1",
+						"erlang-epmd": "26.2.1-1.1",
+						"erlang-et": "26.2.1-1.1",
+						"erlang-et-src": "26.2.1-1.1",
+						"erlang-jinterface": "26.2.1-1.1",
+						"erlang-jinterface-src": "26.2.1-1.1",
+						"erlang-observer": "26.2.1-1.1",
+						"erlang-observer-src": "26.2.1-1.1",
+						"erlang-reltool": "26.2.1-1.1",
+						"erlang-reltool-src": "26.2.1-1.1",
+						"erlang-src": "26.2.1-1.1",
+						"erlang-wx": "26.2.1-1.1",
+						"erlang-wx-src": "26.2.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

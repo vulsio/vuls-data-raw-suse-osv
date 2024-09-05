@@ -9,6 +9,38 @@
 	],
 	"summary": "qt3-3.3.8c-140.6 on GA media",
 	"details": "These are all security issues fixed in the qt3-3.3.8c-140.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "qt3",
+				"purl": "purl:rpm/suse/qt3&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.8c-140.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"qt3": "3.3.8c-140.6",
+						"qt3-32bit": "3.3.8c-140.6",
+						"qt3-devel": "3.3.8c-140.6",
+						"qt3-devel-32bit": "3.3.8c-140.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

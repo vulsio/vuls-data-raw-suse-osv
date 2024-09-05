@@ -27,6 +27,37 @@
 	],
 	"summary": "mutt-2.0.7-2.2 on GA media",
 	"details": "These are all security issues fixed in the mutt-2.0.7-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mutt",
+				"purl": "purl:rpm/suse/mutt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.7-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"mutt": "2.0.7-2.2",
+						"mutt-doc": "2.0.7-2.2",
+						"mutt-lang": "2.0.7-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

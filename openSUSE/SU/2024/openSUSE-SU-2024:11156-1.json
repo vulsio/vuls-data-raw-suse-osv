@@ -22,6 +22,44 @@
 	],
 	"summary": "pdns-4.5.1-1.5 on GA media",
 	"details": "These are all security issues fixed in the pdns-4.5.1-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pdns",
+				"purl": "purl:rpm/suse/pdns&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.1-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pdns": "4.5.1-1.5",
+						"pdns-backend-geoip": "4.5.1-1.5",
+						"pdns-backend-godbc": "4.5.1-1.5",
+						"pdns-backend-ldap": "4.5.1-1.5",
+						"pdns-backend-lmdb": "4.5.1-1.5",
+						"pdns-backend-lua": "4.5.1-1.5",
+						"pdns-backend-mysql": "4.5.1-1.5",
+						"pdns-backend-postgresql": "4.5.1-1.5",
+						"pdns-backend-remote": "4.5.1-1.5",
+						"pdns-backend-sqlite3": "4.5.1-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

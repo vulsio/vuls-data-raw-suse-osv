@@ -7,6 +7,37 @@
 	],
 	"summary": "xerces-j2-2.12.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the xerces-j2-2.12.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xerces-j2",
+				"purl": "purl:rpm/suse/xerces-j2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.12.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xerces-j2": "2.12.2-1.1",
+						"xerces-j2-demo": "2.12.2-1.1",
+						"xerces-j2-javadoc": "2.12.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

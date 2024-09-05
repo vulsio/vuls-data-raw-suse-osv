@@ -14,6 +14,37 @@
 	],
 	"summary": "libmozjs-102-0-102.7.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libmozjs-102-0-102.7.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mozjs102",
+				"purl": "purl:rpm/suse/mozjs102&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "102.7.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmozjs-102-0": "102.7.0-1.1",
+						"mozjs102": "102.7.0-1.1",
+						"mozjs102-devel": "102.7.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

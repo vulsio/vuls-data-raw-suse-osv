@@ -8,6 +8,40 @@
 	],
 	"summary": "liblouis-data-3.25.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the liblouis-data-3.25.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "liblouis",
+				"purl": "purl:rpm/suse/liblouis&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.25.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblouis-data": "3.25.0-2.1",
+						"liblouis-devel": "3.25.0-2.1",
+						"liblouis-doc": "3.25.0-2.1",
+						"liblouis-tools": "3.25.0-2.1",
+						"liblouis20": "3.25.0-2.1",
+						"python3-louis": "3.25.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

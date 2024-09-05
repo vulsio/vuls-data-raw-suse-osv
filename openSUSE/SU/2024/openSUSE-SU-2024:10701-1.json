@@ -7,6 +7,37 @@
 	],
 	"summary": "cron-4.2-86.1 on GA media",
 	"details": "These are all security issues fixed in the cron-4.2-86.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cron",
+				"purl": "purl:rpm/suse/cron&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5.7-86.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cron": "4.2-86.1",
+						"cronie": "1.5.7-86.1",
+						"cronie-anacron": "1.5.7-86.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

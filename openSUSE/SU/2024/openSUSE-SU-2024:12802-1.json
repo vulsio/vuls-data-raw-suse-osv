@@ -8,6 +8,37 @@
 	],
 	"summary": "cmark-0.30.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the cmark-0.30.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cmark",
+				"purl": "purl:rpm/suse/cmark&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.30.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cmark": "0.30.3-1.1",
+						"cmark-devel": "0.30.3-1.1",
+						"libcmark0_30_3": "0.30.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

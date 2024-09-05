@@ -9,6 +9,40 @@
 	],
 	"summary": "libruby3_0-3_0-3.0.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the libruby3_0-3_0-3.0.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ruby3.0",
+				"purl": "purl:rpm/suse/ruby3.0&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libruby3_0-3_0": "3.0.3-1.1",
+						"ruby3.0": "3.0.3-1.1",
+						"ruby3.0-devel": "3.0.3-1.1",
+						"ruby3.0-devel-extra": "3.0.3-1.1",
+						"ruby3.0-doc": "3.0.3-1.1",
+						"ruby3.0-doc-ri": "3.0.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,36 @@
 	],
 	"summary": "python-pip-8.1.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the python-pip-8.1.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-pip",
+				"purl": "purl:rpm/suse/python-pip&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "9.0.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-pip": "8.1.2-1.2",
+						"python3-pip": "9.0.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

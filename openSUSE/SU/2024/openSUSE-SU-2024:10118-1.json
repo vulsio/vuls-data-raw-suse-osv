@@ -15,6 +15,40 @@
 	],
 	"summary": "ecryptfs-utils-108-2.5 on GA media",
 	"details": "These are all security issues fixed in the ecryptfs-utils-108-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ecryptfs-utils",
+				"purl": "purl:rpm/suse/ecryptfs-utils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "108-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ecryptfs-utils": "108-2.5",
+						"ecryptfs-utils-32bit": "108-2.5",
+						"ecryptfs-utils-devel": "108-2.5",
+						"ecryptfs-utils-devel-32bit": "108-2.5",
+						"libecryptfs1": "108-2.5",
+						"libecryptfs1-32bit": "108-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

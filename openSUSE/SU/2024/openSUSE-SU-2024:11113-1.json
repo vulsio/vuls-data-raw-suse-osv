@@ -9,6 +9,43 @@
 	],
 	"summary": "openafs-1.8.8-1.13 on GA media",
 	"details": "These are all security issues fixed in the openafs-1.8.8-1.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openafs",
+				"purl": "purl:rpm/suse/openafs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.8-1.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openafs": "1.8.8-1.13",
+						"openafs-authlibs": "1.8.8-1.13",
+						"openafs-authlibs-devel": "1.8.8-1.13",
+						"openafs-client": "1.8.8-1.13",
+						"openafs-devel": "1.8.8-1.13",
+						"openafs-fuse_client": "1.8.8-1.13",
+						"openafs-kernel-source": "1.8.8-1.13",
+						"openafs-kmp-default": "1.8.8_k5.14.6_1-1.13",
+						"openafs-server": "1.8.8-1.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -12,6 +12,42 @@
 	],
 	"summary": "caca-utils-0.99.beta19.git20171003-8.3 on GA media",
 	"details": "These are all security issues fixed in the caca-utils-0.99.beta19.git20171003-8.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libcaca",
+				"purl": "purl:rpm/suse/libcaca&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.99.beta19.git20171003-8.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"caca-utils": "0.99.beta19.git20171003-8.3",
+						"libcaca-devel": "0.99.beta19.git20171003-8.3",
+						"libcaca-ruby": "0.99.beta19.git20171003-8.3",
+						"libcaca0": "0.99.beta19.git20171003-8.3",
+						"libcaca0-32bit": "0.99.beta19.git20171003-8.3",
+						"libcaca0-plugins": "0.99.beta19.git20171003-8.3",
+						"libcaca0-plugins-32bit": "0.99.beta19.git20171003-8.3",
+						"python3-caca": "0.99.beta19.git20171003-8.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

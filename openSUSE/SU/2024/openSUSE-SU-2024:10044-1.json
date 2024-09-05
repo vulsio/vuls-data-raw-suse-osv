@@ -17,6 +17,36 @@
 	],
 	"summary": "nginx-1.11.4-2.5 on GA media",
 	"details": "These are all security issues fixed in the nginx-1.11.4-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nginx",
+				"purl": "purl:rpm/suse/nginx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.11.4-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"nginx": "1.11.4-2.5",
+						"vim-plugin-nginx": "1.11.4-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,37 @@
 	],
 	"summary": "cloud-init-21.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the cloud-init-21.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cloud-init",
+				"purl": "purl:rpm/suse/cloud-init&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cloud-init": "21.2-1.2",
+						"cloud-init-config-suse": "21.2-1.2",
+						"cloud-init-doc": "21.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -9,6 +9,38 @@
 	],
 	"summary": "blender-3.0.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the blender-3.0.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "blender",
+				"purl": "purl:rpm/suse/blender&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"blender": "3.0.1-2.1",
+						"blender-cycles-devel": "3.0.1-2.1",
+						"blender-demo": "3.0.1-2.1",
+						"blender-lang": "3.0.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

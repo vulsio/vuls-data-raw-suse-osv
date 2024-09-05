@@ -9,6 +9,37 @@
 	],
 	"summary": "coturn-4.5.2-2.2 on GA media",
 	"details": "These are all security issues fixed in the coturn-4.5.2-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "coturn",
+				"purl": "purl:rpm/suse/coturn&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.5.2-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"coturn": "4.5.2-2.2",
+						"coturn-devel": "4.5.2-2.2",
+						"coturn-utils": "4.5.2-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,36 @@
 	],
 	"summary": "jettison-1.5.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the jettison-1.5.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jettison",
+				"purl": "purl:rpm/suse/jettison&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jettison": "1.5.1-1.1",
+						"jettison-javadoc": "1.5.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

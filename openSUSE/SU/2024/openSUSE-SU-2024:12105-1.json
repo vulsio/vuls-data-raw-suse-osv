@@ -7,6 +7,37 @@
 	],
 	"summary": "neomutt-20220429-1.1 on GA media",
 	"details": "These are all security issues fixed in the neomutt-20220429-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "neomutt",
+				"purl": "purl:rpm/suse/neomutt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20220429-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"neomutt": "20220429-1.1",
+						"neomutt-doc": "20220429-1.1",
+						"neomutt-lang": "20220429-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

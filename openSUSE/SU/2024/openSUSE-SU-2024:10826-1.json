@@ -11,6 +11,44 @@
 	],
 	"summary": "gstreamer-1.18.5-2.1 on GA media",
 	"details": "These are all security issues fixed in the gstreamer-1.18.5-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gstreamer",
+				"purl": "purl:rpm/suse/gstreamer&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.18.5-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gstreamer": "1.18.5-2.1",
+						"gstreamer-32bit": "1.18.5-2.1",
+						"gstreamer-devel": "1.18.5-2.1",
+						"gstreamer-devel-32bit": "1.18.5-2.1",
+						"gstreamer-lang": "1.18.5-2.1",
+						"gstreamer-utils": "1.18.5-2.1",
+						"libgstreamer-1_0-0": "1.18.5-2.1",
+						"libgstreamer-1_0-0-32bit": "1.18.5-2.1",
+						"typelib-1_0-Gst-1_0": "1.18.5-2.1",
+						"typelib-1_0-Gst-1_0-32bit": "1.18.5-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "xalan-j2-2.7.2-5.4 on GA media",
 	"details": "These are all security issues fixed in the xalan-j2-2.7.2-5.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xalan-j2",
+				"purl": "purl:rpm/suse/xalan-j2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.2-5.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xalan-j2": "2.7.2-5.4",
+						"xalan-j2-demo": "2.7.2-5.4",
+						"xalan-j2-manual": "2.7.2-5.4",
+						"xalan-j2-xsltc": "2.7.2-5.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

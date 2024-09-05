@@ -7,6 +7,37 @@
 	],
 	"summary": "liblasso-devel-2.7.0-2.2 on GA media",
 	"details": "These are all security issues fixed in the liblasso-devel-2.7.0-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lasso",
+				"purl": "purl:rpm/suse/lasso&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.0-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblasso-devel": "2.7.0-2.2",
+						"liblasso3": "2.7.0-2.2",
+						"python3-lasso": "2.7.0-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

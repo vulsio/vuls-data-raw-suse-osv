@@ -7,6 +7,38 @@
 	],
 	"summary": "chrony-4.1-5.2 on GA media",
 	"details": "These are all security issues fixed in the chrony-4.1-5.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "chrony",
+				"purl": "purl:rpm/suse/chrony&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.1-5.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chrony": "4.1-5.2",
+						"chrony-pool-empty": "4.1-5.2",
+						"chrony-pool-openSUSE": "4.1-5.2",
+						"chrony-pool-suse": "4.1-5.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

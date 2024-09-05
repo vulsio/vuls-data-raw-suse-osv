@@ -7,6 +7,36 @@
 	],
 	"summary": "git-annex-10.20220624-1.1 on GA media",
 	"details": "These are all security issues fixed in the git-annex-10.20220624-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "git-annex",
+				"purl": "purl:rpm/suse/git-annex&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.20220624-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"git-annex": "10.20220624-1.1",
+						"git-annex-bash-completion": "10.20220624-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

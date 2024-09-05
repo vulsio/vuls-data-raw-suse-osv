@@ -7,6 +7,36 @@
 	],
 	"summary": "gdb-10.1-11.2 on GA media",
 	"details": "These are all security issues fixed in the gdb-10.1-11.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gdb",
+				"purl": "purl:rpm/suse/gdb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.1-11.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gdb": "10.1-11.2",
+						"gdbserver": "10.1-11.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

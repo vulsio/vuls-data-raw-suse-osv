@@ -9,6 +9,49 @@
 	],
 	"summary": "freerdp-3.4.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the freerdp-3.4.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freerdp",
+				"purl": "purl:rpm/suse/freerdp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.4.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freerdp": "3.4.0-1.1",
+						"freerdp-devel": "3.4.0-1.1",
+						"freerdp-proxy": "3.4.0-1.1",
+						"freerdp-proxy-plugins": "3.4.0-1.1",
+						"freerdp-sdl": "3.4.0-1.1",
+						"freerdp-server": "3.4.0-1.1",
+						"freerdp-wayland": "3.4.0-1.1",
+						"libfreerdp-server-proxy3-3": "3.4.0-1.1",
+						"libfreerdp3-3": "3.4.0-1.1",
+						"librdtk0-0": "3.4.0-1.1",
+						"libuwac0-0": "3.4.0-1.1",
+						"libwinpr3-3": "3.4.0-1.1",
+						"rdtk0-devel": "3.4.0-1.1",
+						"uwac0-devel": "3.4.0-1.1",
+						"winpr-devel": "3.4.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

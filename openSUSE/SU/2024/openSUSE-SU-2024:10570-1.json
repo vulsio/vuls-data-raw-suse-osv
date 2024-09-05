@@ -8,6 +8,49 @@
 	],
 	"summary": "elfutils-0.167-1.5 on GA media",
 	"details": "These are all security issues fixed in the elfutils-0.167-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "elfutils",
+				"purl": "purl:rpm/suse/elfutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.167-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"elfutils": "0.167-1.5",
+						"elfutils-lang": "0.167-1.5",
+						"libasm-devel": "0.167-1.5",
+						"libasm1": "0.167-1.5",
+						"libasm1-32bit": "0.167-1.5",
+						"libdw-devel": "0.167-1.5",
+						"libdw1": "0.167-1.5",
+						"libdw1-32bit": "0.167-1.5",
+						"libebl-devel": "0.167-1.5",
+						"libebl1": "0.167-1.5",
+						"libebl1-32bit": "0.167-1.5",
+						"libelf-devel": "0.167-1.5",
+						"libelf-devel-32bit": "0.167-1.5",
+						"libelf1": "0.167-1.5",
+						"libelf1-32bit": "0.167-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

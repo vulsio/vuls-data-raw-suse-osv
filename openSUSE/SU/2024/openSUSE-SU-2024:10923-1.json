@@ -7,6 +7,38 @@
 	],
 	"summary": "libXrandr-devel-1.5.2-1.11 on GA media",
 	"details": "These are all security issues fixed in the libXrandr-devel-1.5.2-1.11 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXrandr",
+				"purl": "purl:rpm/suse/libXrandr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5.2-1.11"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXrandr-devel": "1.5.2-1.11",
+						"libXrandr-devel-32bit": "1.5.2-1.11",
+						"libXrandr2": "1.5.2-1.11",
+						"libXrandr2-32bit": "1.5.2-1.11"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

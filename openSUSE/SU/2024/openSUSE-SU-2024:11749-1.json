@@ -7,6 +7,38 @@
 	],
 	"summary": "libsubid-devel-4.11.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the libsubid-devel-4.11.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "shadow",
+				"purl": "purl:rpm/suse/shadow&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.11.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsubid-devel": "4.11.1-1.1",
+						"libsubid4": "4.11.1-1.1",
+						"login_defs": "4.11.1-1.1",
+						"shadow": "4.11.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

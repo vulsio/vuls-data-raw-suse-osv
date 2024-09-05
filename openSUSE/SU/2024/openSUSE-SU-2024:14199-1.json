@@ -12,6 +12,42 @@
 	],
 	"summary": "ovmf-202402-1.1 on GA media",
 	"details": "These are all security issues fixed in the ovmf-202402-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ovmf",
+				"purl": "purl:rpm/suse/ovmf&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "202402-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ovmf": "202402-1.1",
+						"ovmf-tools": "202402-1.1",
+						"qemu-ovmf-ia32": "202402-1.1",
+						"qemu-ovmf-x86_64": "202402-1.1",
+						"qemu-ovmf-x86_64-debug": "202402-1.1",
+						"qemu-uefi-aarch32": "202402-1.1",
+						"qemu-uefi-aarch64": "202402-1.1",
+						"qemu-uefi-riscv64": "202402-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

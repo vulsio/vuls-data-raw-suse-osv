@@ -18,6 +18,41 @@
 	],
 	"summary": "libfpm_pb0-1.2.4-2.14 on GA media",
 	"details": "These are all security issues fixed in the libfpm_pb0-1.2.4-2.14 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "quagga",
+				"purl": "purl:rpm/suse/quagga&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.4-2.14"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libfpm_pb0": "1.2.4-2.14",
+						"libospf0": "1.2.4-2.14",
+						"libospfapiclient0": "1.2.4-2.14",
+						"libquagga_pb0": "1.2.4-2.14",
+						"libzebra1": "1.2.4-2.14",
+						"quagga": "1.2.4-2.14",
+						"quagga-devel": "1.2.4-2.14"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

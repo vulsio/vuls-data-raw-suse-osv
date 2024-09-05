@@ -10,6 +10,37 @@
 	],
 	"summary": "openttd-1.6.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the openttd-1.6.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openttd",
+				"purl": "purl:rpm/suse/openttd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openttd": "1.6.1-1.1",
+						"openttd-data": "1.6.1-1.1",
+						"openttd-dedicated": "1.6.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "jq-1.5-3.3 on GA media",
 	"details": "These are all security issues fixed in the jq-1.5-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jq",
+				"purl": "purl:rpm/suse/jq&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jq": "1.5-3.3",
+						"libjq-devel": "1.5-3.3",
+						"libjq1": "1.5-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

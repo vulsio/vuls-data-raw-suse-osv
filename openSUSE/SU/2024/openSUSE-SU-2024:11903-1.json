@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-activestorage-7.0",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-activestorage-7.0&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-activestorage-7.0",
+				"purl": "purl:rpm/suse/rubygem-activestorage-7.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

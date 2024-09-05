@@ -7,6 +7,36 @@
 	],
 	"summary": "zim-0.73.5-1.2 on GA media",
 	"details": "These are all security issues fixed in the zim-0.73.5-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zim",
+				"purl": "purl:rpm/suse/zim&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.73.5-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"zim": "0.73.5-1.2",
+						"zim-lang": "0.73.5-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

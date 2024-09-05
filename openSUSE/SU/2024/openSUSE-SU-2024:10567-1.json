@@ -10,6 +10,36 @@
 	],
 	"summary": "python-Pillow-3.1.1-4.1 on GA media",
 	"details": "These are all security issues fixed in the python-Pillow-3.1.1-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-Pillow",
+				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.1-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python-Pillow": "3.1.1-4.1",
+						"python-Pillow-tk": "3.1.1-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

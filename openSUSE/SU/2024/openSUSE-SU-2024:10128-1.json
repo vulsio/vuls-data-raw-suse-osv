@@ -88,6 +88,59 @@
 	],
 	"summary": "kernel-debug-4.8.13-1.1 on GA media",
 	"details": "These are all security issues fixed in the kernel-debug-4.8.13-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "kernel-source",
+				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.8.13-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kernel-debug": "4.8.13-1.1",
+						"kernel-debug-base": "4.8.13-1.1",
+						"kernel-debug-devel": "4.8.13-1.1",
+						"kernel-default": "4.8.13-1.1",
+						"kernel-default-base": "4.8.13-1.1",
+						"kernel-default-devel": "4.8.13-1.1",
+						"kernel-devel": "4.8.13-1.1",
+						"kernel-docs": "4.8.13-1.1",
+						"kernel-docs-html": "4.8.13-1.1",
+						"kernel-docs-pdf": "4.8.13-1.1",
+						"kernel-macros": "4.8.13-1.1",
+						"kernel-obs-build": "4.8.13-1.1",
+						"kernel-obs-qa": "4.8.13-1.1",
+						"kernel-pae": "4.8.13-1.1",
+						"kernel-pae-base": "4.8.13-1.1",
+						"kernel-pae-devel": "4.8.13-1.1",
+						"kernel-source": "4.8.13-1.1",
+						"kernel-source-vanilla": "4.8.13-1.1",
+						"kernel-syms": "4.8.13-1.1",
+						"kernel-syzkaller": "4.8.13-1.1",
+						"kernel-syzkaller-base": "4.8.13-1.1",
+						"kernel-syzkaller-devel": "4.8.13-1.1",
+						"kernel-vanilla": "4.8.13-1.1",
+						"kernel-vanilla-base": "4.8.13-1.1",
+						"kernel-vanilla-devel": "4.8.13-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

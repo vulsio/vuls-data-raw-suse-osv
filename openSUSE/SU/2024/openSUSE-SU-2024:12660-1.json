@@ -7,6 +7,45 @@
 	],
 	"summary": "harfbuzz-devel-6.0.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the harfbuzz-devel-6.0.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "harfbuzz",
+				"purl": "purl:rpm/suse/harfbuzz&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.0.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"harfbuzz-devel": "6.0.0-2.1",
+						"harfbuzz-tools": "6.0.0-2.1",
+						"libharfbuzz-gobject0": "6.0.0-2.1",
+						"libharfbuzz-gobject0-32bit": "6.0.0-2.1",
+						"libharfbuzz-icu0": "6.0.0-2.1",
+						"libharfbuzz-icu0-32bit": "6.0.0-2.1",
+						"libharfbuzz-subset0": "6.0.0-2.1",
+						"libharfbuzz-subset0-32bit": "6.0.0-2.1",
+						"libharfbuzz0": "6.0.0-2.1",
+						"libharfbuzz0-32bit": "6.0.0-2.1",
+						"typelib-1_0-HarfBuzz-0_0": "6.0.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

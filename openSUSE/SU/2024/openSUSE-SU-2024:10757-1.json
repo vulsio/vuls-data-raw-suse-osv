@@ -7,6 +7,37 @@
 	],
 	"summary": "filezilla-3.55.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the filezilla-3.55.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "filezilla",
+				"purl": "purl:rpm/suse/filezilla&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.55.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"filezilla": "3.55.1-1.2",
+						"filezilla-devel": "3.55.1-1.2",
+						"filezilla-lang": "3.55.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

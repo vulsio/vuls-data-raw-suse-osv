@@ -10,6 +10,37 @@
 	],
 	"summary": "netty-4.1.60-1.4 on GA media",
 	"details": "These are all security issues fixed in the netty-4.1.60-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "netty",
+				"purl": "purl:rpm/suse/netty&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.1.60-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"netty": "4.1.60-1.4",
+						"netty-javadoc": "4.1.60-1.4",
+						"netty-poms": "4.1.60-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

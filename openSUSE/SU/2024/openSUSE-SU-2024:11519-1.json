@@ -7,6 +7,36 @@
 	],
 	"summary": "xdm-1.1.12-16.3 on GA media",
 	"details": "These are all security issues fixed in the xdm-1.1.12-16.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xdm",
+				"purl": "purl:rpm/suse/xdm&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.12-16.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xdm": "1.1.12-16.3",
+						"xdm-xsession": "1.1.12-16.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

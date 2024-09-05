@@ -7,6 +7,36 @@
 	],
 	"summary": "gajim-1.3.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the gajim-1.3.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gajim",
+				"purl": "purl:rpm/suse/gajim&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.3.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gajim": "1.3.2-1.2",
+						"gajim-lang": "1.3.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

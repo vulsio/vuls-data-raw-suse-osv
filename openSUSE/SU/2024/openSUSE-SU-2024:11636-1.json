@@ -7,6 +7,40 @@
 	],
 	"summary": "gmp-devel-32bit-6.2.1-4.1 on GA media",
 	"details": "These are all security issues fixed in the gmp-devel-32bit-6.2.1-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gmp",
+				"purl": "purl:rpm/suse/gmp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.2.1-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gmp-devel": "6.2.1-4.1",
+						"gmp-devel-32bit": "6.2.1-4.1",
+						"libgmp10": "6.2.1-4.1",
+						"libgmp10-32bit": "6.2.1-4.1",
+						"libgmpxx4": "6.2.1-4.1",
+						"libgmpxx4-32bit": "6.2.1-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

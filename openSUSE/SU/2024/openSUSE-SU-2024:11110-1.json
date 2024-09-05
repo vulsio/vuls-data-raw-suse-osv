@@ -8,6 +8,39 @@
 	],
 	"summary": "okular-21.08.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the okular-21.08.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "okular",
+				"purl": "purl:rpm/suse/okular&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "21.08.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"okular": "21.08.1-1.2",
+						"okular-devel": "21.08.1-1.2",
+						"okular-lang": "21.08.1-1.2",
+						"okular-mobile": "21.08.1-1.2",
+						"okular-spectre": "21.08.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "liferea-1.13.6-2.2 on GA media",
 	"details": "These are all security issues fixed in the liferea-1.13.6-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "liferea",
+				"purl": "purl:rpm/suse/liferea&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.13.6-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liferea": "1.13.6-2.2",
+						"liferea-lang": "1.13.6-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

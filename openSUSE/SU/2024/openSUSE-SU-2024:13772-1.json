@@ -7,6 +7,42 @@
 	],
 	"summary": "jsch-agent-proxy-connector-factory-0.0.9-1.1 on GA media",
 	"details": "These are all security issues fixed in the jsch-agent-proxy-connector-factory-0.0.9-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "jsch",
+				"purl": "purl:rpm/suse/jsch&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.0.9-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jsch-agent-proxy-connector-factory": "0.0.9-1.1",
+						"jsch-agent-proxy-core": "0.0.9-1.1",
+						"jsch-agent-proxy-javadoc": "0.0.9-1.1",
+						"jsch-agent-proxy-jsch": "0.0.9-1.1",
+						"jsch-agent-proxy-pageant": "0.0.9-1.1",
+						"jsch-agent-proxy-sshagent": "0.0.9-1.1",
+						"jsch-agent-proxy-usocket-jna": "0.0.9-1.1",
+						"jsch-agent-proxy-usocket-nc": "0.0.9-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

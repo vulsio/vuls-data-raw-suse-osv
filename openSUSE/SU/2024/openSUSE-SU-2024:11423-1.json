@@ -8,6 +8,38 @@
 	],
 	"summary": "python36-targetcli-fb-2.1.54-1.2 on GA media",
 	"details": "These are all security issues fixed in the python36-targetcli-fb-2.1.54-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "targetcli",
+				"purl": "purl:rpm/suse/targetcli&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.1.54-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python36-targetcli-fb": "2.1.54-1.2",
+						"python38-targetcli-fb": "2.1.54-1.2",
+						"python39-targetcli-fb": "2.1.54-1.2",
+						"targetcli-fb-common": "2.1.54-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "freeciv-3.0.3-1.1 on GA media",
 	"details": "These are all security issues fixed in the freeciv-3.0.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freeciv",
+				"purl": "purl:rpm/suse/freeciv&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freeciv": "3.0.3-1.1",
+						"freeciv-gtk3": "3.0.3-1.1",
+						"freeciv-lang": "3.0.3-1.1",
+						"freeciv-qt": "3.0.3-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

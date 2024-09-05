@@ -7,6 +7,47 @@
 	],
 	"summary": "apache2-mod_apparmor-3.0.4-4.1 on GA media",
 	"details": "These are all security issues fixed in the apache2-mod_apparmor-3.0.4-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "apparmor",
+				"purl": "purl:rpm/suse/apparmor&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.4-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"apache2-mod_apparmor": "3.0.4-4.1",
+						"apparmor-abstractions": "3.0.4-4.1",
+						"apparmor-docs": "3.0.4-4.1",
+						"apparmor-parser": "3.0.4-4.1",
+						"apparmor-parser-lang": "3.0.4-4.1",
+						"apparmor-profiles": "3.0.4-4.1",
+						"apparmor-utils": "3.0.4-4.1",
+						"apparmor-utils-lang": "3.0.4-4.1",
+						"pam_apparmor": "3.0.4-4.1",
+						"pam_apparmor-32bit": "3.0.4-4.1",
+						"perl-apparmor": "3.0.4-4.1",
+						"python3-apparmor": "3.0.4-4.1",
+						"ruby-apparmor": "3.0.4-4.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-json_pure",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-json_pure&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-json_pure",
+				"purl": "purl:rpm/suse/rubygem-json_pure&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

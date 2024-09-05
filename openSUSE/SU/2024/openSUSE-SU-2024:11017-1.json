@@ -14,6 +14,39 @@
 	],
 	"summary": "libxslt-devel-1.1.34-3.2 on GA media",
 	"details": "These are all security issues fixed in the libxslt-devel-1.1.34-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libxslt",
+				"purl": "purl:rpm/suse/libxslt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.34-3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libxslt-devel": "1.1.34-3.2",
+						"libxslt-devel-32bit": "1.1.34-3.2",
+						"libxslt-tools": "1.1.34-3.2",
+						"libxslt1": "1.1.34-3.2",
+						"libxslt1-32bit": "1.1.34-3.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

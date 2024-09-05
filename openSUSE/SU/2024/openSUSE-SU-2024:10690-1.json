@@ -12,6 +12,36 @@
 	],
 	"summary": "cobbler-3.2.1.336+git.5639a3af-1.1 on GA media",
 	"details": "These are all security issues fixed in the cobbler-3.2.1.336+git.5639a3af-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cobbler",
+				"purl": "purl:rpm/suse/cobbler&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.1.336+git.5639a3af-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cobbler": "3.2.1.336+git.5639a3af-1.1",
+						"cobbler-tests": "3.2.1.336+git.5639a3af-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

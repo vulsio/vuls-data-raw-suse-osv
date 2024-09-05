@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "ruby3.1-rubygem-tzinfo-1.2",
-				"purl": "purl:rpm/suse/ruby3.1-rubygem-tzinfo-1.2&distro=openSUSE%20Tumbleweed"
+				"name": "rubygem-tzinfo-1.2",
+				"purl": "purl:rpm/suse/rubygem-tzinfo-1.2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

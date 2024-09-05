@@ -10,6 +10,44 @@
 	],
 	"summary": "pdns-4.0.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the pdns-4.0.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pdns",
+				"purl": "purl:rpm/suse/pdns&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pdns": "4.0.1-1.2",
+						"pdns-backend-geoip": "4.0.1-1.2",
+						"pdns-backend-godbc": "4.0.1-1.2",
+						"pdns-backend-ldap": "4.0.1-1.2",
+						"pdns-backend-lua": "4.0.1-1.2",
+						"pdns-backend-mydns": "4.0.1-1.2",
+						"pdns-backend-mysql": "4.0.1-1.2",
+						"pdns-backend-postgresql": "4.0.1-1.2",
+						"pdns-backend-remote": "4.0.1-1.2",
+						"pdns-backend-sqlite3": "4.0.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

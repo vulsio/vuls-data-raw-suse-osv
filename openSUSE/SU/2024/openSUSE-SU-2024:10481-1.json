@@ -9,6 +9,42 @@
 	],
 	"summary": "libruby2_2-2_2-2.2.5-1.5 on GA media",
 	"details": "These are all security issues fixed in the libruby2_2-2_2-2.2.5-1.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ruby2.2",
+				"purl": "purl:rpm/suse/ruby2.2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.2.5-1.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libruby2_2-2_2": "2.2.5-1.5",
+						"ruby2.2": "2.2.5-1.5",
+						"ruby2.2-devel": "2.2.5-1.5",
+						"ruby2.2-devel-extra": "2.2.5-1.5",
+						"ruby2.2-doc": "2.2.5-1.5",
+						"ruby2.2-doc-ri": "2.2.5-1.5",
+						"ruby2.2-stdlib": "2.2.5-1.5",
+						"ruby2.2-tk": "2.2.5-1.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

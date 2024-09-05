@@ -13,6 +13,39 @@
 	],
 	"summary": "pam-1.3.0-3.4 on GA media",
 	"details": "These are all security issues fixed in the pam-1.3.0-3.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "pam",
+				"purl": "purl:rpm/suse/pam&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.3.0-3.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"pam": "1.3.0-3.4",
+						"pam-32bit": "1.3.0-3.4",
+						"pam-devel": "1.3.0-3.4",
+						"pam-devel-32bit": "1.3.0-3.4",
+						"pam-doc": "1.3.0-3.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

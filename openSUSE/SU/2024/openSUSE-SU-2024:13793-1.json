@@ -7,6 +7,46 @@
 	],
 	"summary": "libfreebl3-3.98-1.1 on GA media",
 	"details": "These are all security issues fixed in the libfreebl3-3.98-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mozilla-nss",
+				"purl": "purl:rpm/suse/mozilla-nss&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.98-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libfreebl3": "3.98-1.1",
+						"libfreebl3-32bit": "3.98-1.1",
+						"libsoftokn3": "3.98-1.1",
+						"libsoftokn3-32bit": "3.98-1.1",
+						"mozilla-nss": "3.98-1.1",
+						"mozilla-nss-32bit": "3.98-1.1",
+						"mozilla-nss-certs": "3.98-1.1",
+						"mozilla-nss-certs-32bit": "3.98-1.1",
+						"mozilla-nss-devel": "3.98-1.1",
+						"mozilla-nss-sysinit": "3.98-1.1",
+						"mozilla-nss-sysinit-32bit": "3.98-1.1",
+						"mozilla-nss-tools": "3.98-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -13,6 +13,41 @@
 	],
 	"summary": "libjpeg-turbo-2.1.1-65.2 on GA media",
 	"details": "These are all security issues fixed in the libjpeg-turbo-2.1.1-65.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libjpeg-turbo",
+				"purl": "purl:rpm/suse/libjpeg-turbo&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.2.2-65.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libjpeg-turbo": "2.1.1-65.2",
+						"libjpeg8": "8.2.2-65.2",
+						"libjpeg8-32bit": "8.2.2-65.2",
+						"libjpeg8-devel": "8.2.2-65.2",
+						"libjpeg8-devel-32bit": "8.2.2-65.2",
+						"libturbojpeg0": "8.2.2-65.2",
+						"libturbojpeg0-32bit": "8.2.2-65.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "libXcursor-devel-1.2.0-1.9 on GA media",
 	"details": "These are all security issues fixed in the libXcursor-devel-1.2.0-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libXcursor",
+				"purl": "purl:rpm/suse/libXcursor&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.0-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libXcursor-devel": "1.2.0-1.9",
+						"libXcursor-devel-32bit": "1.2.0-1.9",
+						"libXcursor1": "1.2.0-1.9",
+						"libXcursor1-32bit": "1.2.0-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

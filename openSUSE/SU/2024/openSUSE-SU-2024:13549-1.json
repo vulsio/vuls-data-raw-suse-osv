@@ -9,6 +9,38 @@
 	],
 	"summary": "bsdtar-3.7.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the bsdtar-3.7.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bsdtar",
+				"purl": "purl:rpm/suse/bsdtar&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.7.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bsdtar": "3.7.2-1.1",
+						"libarchive-devel": "3.7.2-1.1",
+						"libarchive13": "3.7.2-1.1",
+						"libarchive13-32bit": "3.7.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

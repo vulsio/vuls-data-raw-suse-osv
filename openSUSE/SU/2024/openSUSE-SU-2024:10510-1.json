@@ -13,6 +13,37 @@
 	],
 	"summary": "libexif-devel-0.6.21-10.8 on GA media",
 	"details": "These are all security issues fixed in the libexif-devel-0.6.21-10.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libexif",
+				"purl": "purl:rpm/suse/libexif&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.21-10.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libexif-devel": "0.6.21-10.8",
+						"libexif12": "0.6.21-10.8",
+						"libexif12-32bit": "0.6.21-10.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"
