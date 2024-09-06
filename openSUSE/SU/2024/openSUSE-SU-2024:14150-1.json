@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-oic-1.5.0-1.8 on GA media",
 	"details": "These are all security issues fixed in the python310-oic-1.5.0-1.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-oic",
+				"purl": "purl:rpm/suse/python-oic&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.5.0-1.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-oic": "1.5.0-1.8",
+						"python311-oic": "1.5.0-1.8",
+						"python312-oic": "1.5.0-1.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

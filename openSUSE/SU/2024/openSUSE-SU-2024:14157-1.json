@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-python-engineio-4.3.4-3.3 on GA media",
 	"details": "These are all security issues fixed in the python310-python-engineio-4.3.4-3.3 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-python-engineio",
+				"purl": "purl:rpm/suse/python-python-engineio&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.3.4-3.3"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-python-engineio": "4.3.4-3.3",
+						"python311-python-engineio": "4.3.4-3.3",
+						"python312-python-engineio": "4.3.4-3.3"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

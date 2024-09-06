@@ -7,6 +7,38 @@
 	],
 	"summary": "libseccomp-devel-2.5.2-2.1 on GA media",
 	"details": "These are all security issues fixed in the libseccomp-devel-2.5.2-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libseccomp",
+				"purl": "purl:rpm/suse/libseccomp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.2-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libseccomp-devel": "2.5.2-2.1",
+						"libseccomp-tools": "2.5.2-2.1",
+						"libseccomp2": "2.5.2-2.1",
+						"libseccomp2-32bit": "2.5.2-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

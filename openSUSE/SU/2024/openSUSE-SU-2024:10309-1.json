@@ -36,6 +36,44 @@
 	],
 	"summary": "libcrypto38-2.5.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libcrypto38-2.5.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libressl",
+				"purl": "purl:rpm/suse/libressl&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.5.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libcrypto38": "2.5.0-1.1",
+						"libcrypto38-32bit": "2.5.0-1.1",
+						"libressl": "2.5.0-1.1",
+						"libressl-devel": "2.5.0-1.1",
+						"libressl-devel-32bit": "2.5.0-1.1",
+						"libressl-devel-doc": "2.5.0-1.1",
+						"libssl39": "2.5.0-1.1",
+						"libssl39-32bit": "2.5.0-1.1",
+						"libtls11": "2.5.0-1.1",
+						"libtls11-32bit": "2.5.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

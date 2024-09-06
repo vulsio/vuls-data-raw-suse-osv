@@ -8,6 +8,44 @@
 	],
 	"summary": "libcrypto46-3.3.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the libcrypto46-3.3.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libressl",
+				"purl": "purl:rpm/suse/libressl&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libcrypto46": "3.3.4-1.2",
+						"libcrypto46-32bit": "3.3.4-1.2",
+						"libressl": "3.3.4-1.2",
+						"libressl-devel": "3.3.4-1.2",
+						"libressl-devel-32bit": "3.3.4-1.2",
+						"libressl-devel-doc": "3.3.4-1.2",
+						"libssl48": "3.3.4-1.2",
+						"libssl48-32bit": "3.3.4-1.2",
+						"libtls20": "3.3.4-1.2",
+						"libtls20-32bit": "3.3.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

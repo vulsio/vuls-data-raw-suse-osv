@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-oletools-0.60.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the python310-oletools-0.60.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-oletools",
+				"purl": "purl:rpm/suse/python-oletools&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.60.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-oletools": "0.60.1-1.2",
+						"python311-oletools": "0.60.1-1.2",
+						"python312-oletools": "0.60.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

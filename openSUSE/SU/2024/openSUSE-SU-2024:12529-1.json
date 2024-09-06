@@ -8,6 +8,36 @@
 	],
 	"summary": "libslirp-devel-4.7.0+44-3.1 on GA media",
 	"details": "These are all security issues fixed in the libslirp-devel-4.7.0+44-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libslirp",
+				"purl": "purl:rpm/suse/libslirp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.7.0+44-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libslirp-devel": "4.7.0+44-3.1",
+						"libslirp0": "4.7.0+44-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"
