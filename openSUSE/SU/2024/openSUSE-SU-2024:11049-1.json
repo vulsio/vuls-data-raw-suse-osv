@@ -7,6 +7,36 @@
 	],
 	"summary": "minicom-2.7.1-2.9 on GA media",
 	"details": "These are all security issues fixed in the minicom-2.7.1-2.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "minicom",
+				"purl": "purl:rpm/suse/minicom&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.1-2.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"minicom": "2.7.1-2.9",
+						"minicom-lang": "2.7.1-2.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

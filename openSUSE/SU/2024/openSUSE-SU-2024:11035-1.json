@@ -7,6 +7,41 @@
 	],
 	"summary": "libmailutils5-3.8-8.8 on GA media",
 	"details": "These are all security issues fixed in the libmailutils5-3.8-8.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mailutils",
+				"purl": "purl:rpm/suse/mailutils&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.8-8.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmailutils5": "3.8-8.8",
+						"mailutils": "3.8-8.8",
+						"mailutils-devel": "3.8-8.8",
+						"mailutils-imap4d": "3.8-8.8",
+						"mailutils-mh": "3.8-8.8",
+						"mailutils-notify": "3.8-8.8",
+						"mailutils-pop3d": "3.8-8.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

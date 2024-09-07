@@ -8,6 +8,37 @@
 	],
 	"summary": "libneon-devel-0.31.2-2.6 on GA media",
 	"details": "These are all security issues fixed in the libneon-devel-0.31.2-2.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "neon",
+				"purl": "purl:rpm/suse/neon&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.31.2-2.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libneon-devel": "0.31.2-2.6",
+						"libneon27": "0.31.2-2.6",
+						"libneon27-32bit": "0.31.2-2.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

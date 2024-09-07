@@ -9,6 +9,55 @@
 	],
 	"summary": "evolution-data-server-3.40.4-1.4 on GA media",
 	"details": "These are all security issues fixed in the evolution-data-server-3.40.4-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "evolution-data-server",
+				"purl": "purl:rpm/suse/evolution-data-server&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.40.4-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"evolution-data-server": "3.40.4-1.4",
+						"evolution-data-server-devel": "3.40.4-1.4",
+						"evolution-data-server-lang": "3.40.4-1.4",
+						"libcamel-1_2-62": "3.40.4-1.4",
+						"libebackend-1_2-10": "3.40.4-1.4",
+						"libebook-1_2-20": "3.40.4-1.4",
+						"libebook-contacts-1_2-3": "3.40.4-1.4",
+						"libecal-2_0-1": "3.40.4-1.4",
+						"libedata-book-1_2-26": "3.40.4-1.4",
+						"libedata-cal-2_0-1": "3.40.4-1.4",
+						"libedataserver-1_2-26": "3.40.4-1.4",
+						"libedataserverui-1_2-3": "3.40.4-1.4",
+						"typelib-1_0-Camel-1_2": "3.40.4-1.4",
+						"typelib-1_0-EBackend-1_2": "3.40.4-1.4",
+						"typelib-1_0-EBook-1_2": "3.40.4-1.4",
+						"typelib-1_0-EBookContacts-1_2": "3.40.4-1.4",
+						"typelib-1_0-ECal-2_0": "3.40.4-1.4",
+						"typelib-1_0-EDataBook-1_2": "3.40.4-1.4",
+						"typelib-1_0-EDataCal-2_0": "3.40.4-1.4",
+						"typelib-1_0-EDataServer-1_2": "3.40.4-1.4",
+						"typelib-1_0-EDataServerUI-1_2": "3.40.4-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

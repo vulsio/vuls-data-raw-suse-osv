@@ -14,6 +14,44 @@
 	],
 	"summary": "gimp-2.8.18-1.4 on GA media",
 	"details": "These are all security issues fixed in the gimp-2.8.18-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gimp",
+				"purl": "purl:rpm/suse/gimp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.8.18-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gimp": "2.8.18-1.4",
+						"gimp-devel": "2.8.18-1.4",
+						"gimp-help-browser": "2.8.18-1.4",
+						"gimp-lang": "2.8.18-1.4",
+						"gimp-plugin-aa": "2.8.18-1.4",
+						"gimp-plugins-python": "2.8.18-1.4",
+						"libgimp-2_0-0": "2.8.18-1.4",
+						"libgimp-2_0-0-32bit": "2.8.18-1.4",
+						"libgimpui-2_0-0": "2.8.18-1.4",
+						"libgimpui-2_0-0-32bit": "2.8.18-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,43 @@
 	],
 	"summary": "xmlgraphics-batik-1.14-2.5 on GA media",
 	"details": "These are all security issues fixed in the xmlgraphics-batik-1.14-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xmgraphics-batik",
+				"purl": "purl:rpm/suse/xmgraphics-batik&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.14-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xmlgraphics-batik": "1.14-2.5",
+						"xmlgraphics-batik-css": "1.14-2.5",
+						"xmlgraphics-batik-demo": "1.14-2.5",
+						"xmlgraphics-batik-javadoc": "1.14-2.5",
+						"xmlgraphics-batik-rasterizer": "1.14-2.5",
+						"xmlgraphics-batik-slideshow": "1.14-2.5",
+						"xmlgraphics-batik-squiggle": "1.14-2.5",
+						"xmlgraphics-batik-svgpp": "1.14-2.5",
+						"xmlgraphics-batik-ttf2svg": "1.14-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -10,6 +10,39 @@
 	],
 	"summary": "freetype2-devel-2.11.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the freetype2-devel-2.11.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "freetype2",
+				"purl": "purl:rpm/suse/freetype2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.11.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"freetype2-devel": "2.11.0-1.2",
+						"freetype2-devel-32bit": "2.11.0-1.2",
+						"freetype2-profile-tti35": "2.11.0-1.2",
+						"libfreetype6": "2.11.0-1.2",
+						"libfreetype6-32bit": "2.11.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

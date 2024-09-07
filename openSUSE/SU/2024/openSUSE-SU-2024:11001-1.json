@@ -8,6 +8,39 @@
 	],
 	"summary": "libtasn1-6-32bit-4.17.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the libtasn1-6-32bit-4.17.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libtasn1",
+				"purl": "purl:rpm/suse/libtasn1&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.17.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libtasn1-6": "4.17.0-1.2",
+						"libtasn1-6-32bit": "4.17.0-1.2",
+						"libtasn1-devel": "4.17.0-1.2",
+						"libtasn1-devel-32bit": "4.17.0-1.2",
+						"libtasn1-tools": "4.17.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

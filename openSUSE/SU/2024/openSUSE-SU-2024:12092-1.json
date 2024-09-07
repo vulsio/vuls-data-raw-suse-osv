@@ -7,6 +7,43 @@
 	],
 	"summary": "gimp-2.10.30-3.1 on GA media",
 	"details": "These are all security issues fixed in the gimp-2.10.30-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "gimp",
+				"purl": "purl:rpm/suse/gimp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.10.30-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gimp": "2.10.30-3.1",
+						"gimp-devel": "2.10.30-3.1",
+						"gimp-lang": "2.10.30-3.1",
+						"gimp-plugin-aa": "2.10.30-3.1",
+						"gimp-plugins-python": "2.10.30-3.1",
+						"libgimp-2_0-0": "2.10.30-3.1",
+						"libgimp-2_0-0-32bit": "2.10.30-3.1",
+						"libgimpui-2_0-0": "2.10.30-3.1",
+						"libgimpui-2_0-0-32bit": "2.10.30-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,37 @@
 	],
 	"summary": "libvarnishapi2-6.6.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the libvarnishapi2-6.6.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "varnish",
+				"purl": "purl:rpm/suse/varnish&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.6.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvarnishapi2": "6.6.1-1.2",
+						"varnish": "6.6.1-1.2",
+						"varnish-devel": "6.6.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

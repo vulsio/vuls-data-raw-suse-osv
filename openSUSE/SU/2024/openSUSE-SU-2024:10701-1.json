@@ -11,8 +11,8 @@
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "cron",
-				"purl": "purl:rpm/suse/cron&distro=openSUSE%20Tumbleweed"
+				"name": "cronie",
+				"purl": "purl:rpm/suse/cronie&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

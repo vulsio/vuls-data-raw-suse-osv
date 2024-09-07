@@ -7,6 +7,41 @@
 	],
 	"summary": "liblxc-devel-5.0.2-1.1 on GA media",
 	"details": "These are all security issues fixed in the liblxc-devel-5.0.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "lxc",
+				"purl": "purl:rpm/suse/lxc&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.0.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"liblxc-devel": "5.0.2-1.1",
+						"liblxc1": "5.0.2-1.1",
+						"lxc": "5.0.2-1.1",
+						"lxc-bash-completion": "5.0.2-1.1",
+						"lxc-ja-doc": "5.0.2-1.1",
+						"lxc-ko-doc": "5.0.2-1.1",
+						"pam_cgfs": "5.0.2-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

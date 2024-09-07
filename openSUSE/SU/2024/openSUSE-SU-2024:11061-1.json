@@ -8,6 +8,53 @@
 	],
 	"summary": "libmpg123-0-1.29.0-1.2 on GA media",
 	"details": "These are all security issues fixed in the libmpg123-0-1.29.0-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mpg123",
+				"purl": "purl:rpm/suse/mpg123&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.29.0-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmpg123-0": "1.29.0-1.2",
+						"libmpg123-0-32bit": "1.29.0-1.2",
+						"libout123-0": "1.29.0-1.2",
+						"libout123-0-32bit": "1.29.0-1.2",
+						"libsyn123-0": "1.29.0-1.2",
+						"libsyn123-0-32bit": "1.29.0-1.2",
+						"mpg123": "1.29.0-1.2",
+						"mpg123-devel": "1.29.0-1.2",
+						"mpg123-devel-32bit": "1.29.0-1.2",
+						"mpg123-jack": "1.29.0-1.2",
+						"mpg123-jack-32bit": "1.29.0-1.2",
+						"mpg123-openal": "1.29.0-1.2",
+						"mpg123-openal-32bit": "1.29.0-1.2",
+						"mpg123-portaudio": "1.29.0-1.2",
+						"mpg123-portaudio-32bit": "1.29.0-1.2",
+						"mpg123-pulse": "1.29.0-1.2",
+						"mpg123-pulse-32bit": "1.29.0-1.2",
+						"mpg123-sdl": "1.29.0-1.2",
+						"mpg123-sdl-32bit": "1.29.0-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

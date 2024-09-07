@@ -7,6 +7,37 @@
 	],
 	"summary": "libsha1detectcoll-devel-1.0.3-4.12 on GA media",
 	"details": "These are all security issues fixed in the libsha1detectcoll-devel-1.0.3-4.12 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sha1collisiondetection",
+				"purl": "purl:rpm/suse/sha1collisiondetection&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.3-4.12"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsha1detectcoll-devel": "1.0.3-4.12",
+						"libsha1detectcoll1": "1.0.3-4.12",
+						"sha1collisiondetection": "1.0.3-4.12"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

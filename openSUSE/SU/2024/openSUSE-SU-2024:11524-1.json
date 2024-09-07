@@ -7,6 +7,36 @@
 	],
 	"summary": "xorg-x11-7.6_1-16.13 on GA media",
 	"details": "These are all security issues fixed in the xorg-x11-7.6_1-16.13 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xorg-x11",
+				"purl": "purl:rpm/suse/xorg-x11&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.6_1-16.13"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xorg-x11": "7.6_1-16.13",
+						"xorg-x11-essentials": "7.6_1-16.13"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

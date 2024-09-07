@@ -17,6 +17,38 @@
 	],
 	"summary": "libwavpack1-32bit-5.4.0-1.6 on GA media",
 	"details": "These are all security issues fixed in the libwavpack1-32bit-5.4.0-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "wavpack",
+				"purl": "purl:rpm/suse/wavpack&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.4.0-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libwavpack1": "5.4.0-1.6",
+						"libwavpack1-32bit": "5.4.0-1.6",
+						"wavpack": "5.4.0-1.6",
+						"wavpack-devel": "5.4.0-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

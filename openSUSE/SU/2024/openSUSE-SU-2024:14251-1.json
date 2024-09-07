@@ -9,6 +9,36 @@
 	],
 	"summary": "ansible-core-2.16-2.16.9-1.1 on GA media",
 	"details": "These are all security issues fixed in the ansible-core-2.16-2.16.9-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ansible-core",
+				"purl": "purl:rpm/suse/ansible-core&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.16.9-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"ansible-core-2.16": "2.16.9-1.1",
+						"ansible-test-2.16": "2.16.9-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

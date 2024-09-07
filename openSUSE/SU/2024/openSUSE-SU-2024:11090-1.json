@@ -7,6 +7,38 @@
 	],
 	"summary": "libnfsidmap1-1.0-26.2 on GA media",
 	"details": "These are all security issues fixed in the libnfsidmap1-1.0-26.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nfsidmap",
+				"purl": "purl:rpm/suse/nfsidmap&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0-26.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libnfsidmap1": "1.0-26.2",
+						"nfs-client": "2.5.4-26.2",
+						"nfs-kernel-server": "2.5.4-26.2",
+						"nfsidmap-devel": "1.0-26.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -8,6 +8,38 @@
 	],
 	"summary": "iscsiuio-0.7.8.6-80.2 on GA media",
 	"details": "These are all security issues fixed in the iscsiuio-0.7.8.6-80.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "open-iscsi",
+				"purl": "purl:rpm/suse/open-iscsi&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.1.5-80.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"iscsiuio": "0.7.8.6-80.2",
+						"libopeniscsiusr0_2_0": "2.1.5-80.2",
+						"open-iscsi": "2.1.5-80.2",
+						"open-iscsi-devel": "2.1.5-80.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

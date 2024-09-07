@@ -7,6 +7,46 @@
 	],
 	"summary": "libevtlog-3_33-0-3.33.2-1.2 on GA media",
 	"details": "These are all security issues fixed in the libevtlog-3_33-0-3.33.2-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "syslog-ng",
+				"purl": "purl:rpm/suse/syslog-ng&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.33.2-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libevtlog-3_33-0": "3.33.2-1.2",
+						"syslog-ng": "3.33.2-1.2",
+						"syslog-ng-curl": "3.33.2-1.2",
+						"syslog-ng-devel": "3.33.2-1.2",
+						"syslog-ng-geoip": "3.33.2-1.2",
+						"syslog-ng-java": "3.33.2-1.2",
+						"syslog-ng-mqtt": "3.33.2-1.2",
+						"syslog-ng-python": "3.33.2-1.2",
+						"syslog-ng-redis": "3.33.2-1.2",
+						"syslog-ng-smtp": "3.33.2-1.2",
+						"syslog-ng-snmp": "3.33.2-1.2",
+						"syslog-ng-sql": "3.33.2-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

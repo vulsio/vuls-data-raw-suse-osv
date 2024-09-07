@@ -8,6 +8,38 @@
 	],
 	"summary": "libvpx-devel-1.6.0-2.1 on GA media",
 	"details": "These are all security issues fixed in the libvpx-devel-1.6.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libvpx",
+				"purl": "purl:rpm/suse/libvpx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.6.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libvpx-devel": "1.6.0-2.1",
+						"libvpx4": "1.6.0-2.1",
+						"libvpx4-32bit": "1.6.0-2.1",
+						"vpx-tools": "1.6.0-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

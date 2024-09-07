@@ -14,6 +14,41 @@
 	],
 	"summary": "dpdk-19.11.8-2.7 on GA media",
 	"details": "These are all security issues fixed in the dpdk-19.11.8-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dpdk",
+				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "19.11.8-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "19.11.8-2.7",
+						"dpdk-devel": "19.11.8-2.7",
+						"dpdk-doc": "19.11.8-2.7",
+						"dpdk-examples": "19.11.8-2.7",
+						"dpdk-kmp-default": "19.11.8_k5.13.13_1-2.7",
+						"dpdk-tools": "19.11.8-2.7",
+						"libdpdk-20_0": "19.11.8-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

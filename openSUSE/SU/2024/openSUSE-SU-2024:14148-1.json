@@ -8,6 +8,37 @@
 	],
 	"summary": "python310-mistune-3.0.2-2.5 on GA media",
 	"details": "These are all security issues fixed in the python310-mistune-3.0.2-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-mistune",
+				"purl": "purl:rpm/suse/python-mistune&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.0.2-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-mistune": "3.0.2-2.5",
+						"python311-mistune": "3.0.2-2.5",
+						"python312-mistune": "3.0.2-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

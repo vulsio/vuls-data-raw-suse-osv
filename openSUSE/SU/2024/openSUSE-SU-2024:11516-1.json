@@ -7,6 +7,40 @@
 	],
 	"summary": "libxapian-devel-1.4.18-1.6 on GA media",
 	"details": "These are all security issues fixed in the libxapian-devel-1.4.18-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xapian",
+				"purl": "purl:rpm/suse/xapian&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.18-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libxapian-devel": "1.4.18-1.6",
+						"libxapian30": "1.4.18-1.6",
+						"libxapian30-32bit": "1.4.18-1.6",
+						"xapian-core": "1.4.18-1.6",
+						"xapian-core-doc": "1.4.18-1.6",
+						"xapian-core-examples": "1.4.18-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

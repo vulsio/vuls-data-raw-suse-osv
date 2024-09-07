@@ -7,6 +7,39 @@
 	],
 	"summary": "libmunge2-0.5.14-2.6 on GA media",
 	"details": "These are all security issues fixed in the libmunge2-0.5.14-2.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "munge",
+				"purl": "purl:rpm/suse/munge&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.5.14-2.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmunge2": "0.5.14-2.6",
+						"libmunge2-32bit": "0.5.14-2.6",
+						"munge": "0.5.14-2.6",
+						"munge-devel": "0.5.14-2.6",
+						"munge-devel-32bit": "0.5.14-2.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

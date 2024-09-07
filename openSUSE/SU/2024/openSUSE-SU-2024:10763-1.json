@@ -7,6 +7,37 @@
 	],
 	"summary": "fontforge-20201107-1.6 on GA media",
 	"details": "These are all security issues fixed in the fontforge-20201107-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fontforge",
+				"purl": "purl:rpm/suse/fontforge&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20201107-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fontforge": "20201107-1.6",
+						"fontforge-devel": "20201107-1.6",
+						"fontforge-doc": "20201107-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

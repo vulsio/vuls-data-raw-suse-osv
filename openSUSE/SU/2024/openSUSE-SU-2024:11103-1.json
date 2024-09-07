@@ -11,6 +11,40 @@
 	],
 	"summary": "libntpc1-1.2.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the libntpc1-1.2.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ntpsec",
+				"purl": "purl:rpm/suse/ntpsec&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libntpc1": "1.2.1-1.2",
+						"ntpsec": "1.2.1-1.2",
+						"ntpsec-devel": "1.2.1-1.2",
+						"ntpsec-doc": "1.2.1-1.2",
+						"ntpsec-utils": "1.2.1-1.2",
+						"python3-ntp": "1.2.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

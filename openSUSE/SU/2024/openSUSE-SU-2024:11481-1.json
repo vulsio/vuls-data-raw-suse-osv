@@ -7,6 +7,37 @@
 	],
 	"summary": "libulfius2_7-2.7.4-1.2 on GA media",
 	"details": "These are all security issues fixed in the libulfius2_7-2.7.4-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ulfius",
+				"purl": "purl:rpm/suse/ulfius&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.7.4-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libulfius2_7": "2.7.4-1.2",
+						"ulfius-devel": "2.7.4-1.2",
+						"uwsc": "2.7.4-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

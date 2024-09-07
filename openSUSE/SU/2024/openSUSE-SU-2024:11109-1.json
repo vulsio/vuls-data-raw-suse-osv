@@ -7,6 +7,36 @@
 	],
 	"summary": "oddjob-0.34.5-1.9 on GA media",
 	"details": "These are all security issues fixed in the oddjob-0.34.5-1.9 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "oddjob",
+				"purl": "purl:rpm/suse/oddjob&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.34.5-1.9"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"oddjob": "0.34.5-1.9",
+						"oddjob-mkhomedir": "0.34.5-1.9"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

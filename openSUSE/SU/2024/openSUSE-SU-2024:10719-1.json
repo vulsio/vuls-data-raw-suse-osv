@@ -16,6 +16,38 @@
 	],
 	"summary": "djvulibre-3.5.28-3.2 on GA media",
 	"details": "These are all security issues fixed in the djvulibre-3.5.28-3.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "djvulibre",
+				"purl": "purl:rpm/suse/djvulibre&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.5.28-3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"djvulibre": "3.5.28-3.2",
+						"djvulibre-doc": "3.5.28-3.2",
+						"libdjvulibre-devel": "3.5.28-3.2",
+						"libdjvulibre21": "3.5.28-3.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,44 @@
 	],
 	"summary": "jcl-over-slf4j-1.7.30-2.5 on GA media",
 	"details": "These are all security issues fixed in the jcl-over-slf4j-1.7.30-2.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "slf4j",
+				"purl": "purl:rpm/suse/slf4j&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.7.30-2.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jcl-over-slf4j": "1.7.30-2.5",
+						"jul-to-slf4j": "1.7.30-2.5",
+						"log4j-over-slf4j": "1.7.30-2.5",
+						"slf4j": "1.7.30-2.5",
+						"slf4j-ext": "1.7.30-2.5",
+						"slf4j-javadoc": "1.7.30-2.5",
+						"slf4j-jcl": "1.7.30-2.5",
+						"slf4j-jdk14": "1.7.30-2.5",
+						"slf4j-log4j12": "1.7.30-2.5",
+						"slf4j-manual": "1.7.30-2.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

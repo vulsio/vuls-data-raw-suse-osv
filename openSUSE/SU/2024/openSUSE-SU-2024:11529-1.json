@@ -7,6 +7,36 @@
 	],
 	"summary": "libyaml-cpp0_6-0.6.3-1.8 on GA media",
 	"details": "These are all security issues fixed in the libyaml-cpp0_6-0.6.3-1.8 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yaml-cpp",
+				"purl": "purl:rpm/suse/yaml-cpp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.3-1.8"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libyaml-cpp0_6": "0.6.3-1.8",
+						"yaml-cpp-devel": "0.6.3-1.8"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,38 @@
 	],
 	"summary": "fribidi-1.0.10-2.1 on GA media",
 	"details": "These are all security issues fixed in the fribidi-1.0.10-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fribidi",
+				"purl": "purl:rpm/suse/fribidi&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.10-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"fribidi": "1.0.10-2.1",
+						"fribidi-devel": "1.0.10-2.1",
+						"libfribidi0": "1.0.10-2.1",
+						"libfribidi0-32bit": "1.0.10-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

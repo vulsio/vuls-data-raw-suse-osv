@@ -8,6 +8,47 @@
 	],
 	"summary": "e2fsprogs-1.46.4-1.1 on GA media",
 	"details": "These are all security issues fixed in the e2fsprogs-1.46.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "e2fsprogs",
+				"purl": "purl:rpm/suse/e2fsprogs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.46.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"e2fsprogs": "1.46.4-1.1",
+						"e2fsprogs-devel": "1.46.4-1.1",
+						"e2fsprogs-scrub": "1.46.4-1.1",
+						"libcom_err-devel": "1.46.4-1.1",
+						"libcom_err-devel-32bit": "1.46.4-1.1",
+						"libcom_err-devel-static": "1.46.4-1.1",
+						"libcom_err2": "1.46.4-1.1",
+						"libcom_err2-32bit": "1.46.4-1.1",
+						"libext2fs-devel": "1.46.4-1.1",
+						"libext2fs-devel-32bit": "1.46.4-1.1",
+						"libext2fs-devel-static": "1.46.4-1.1",
+						"libext2fs2": "1.46.4-1.1",
+						"libext2fs2-32bit": "1.46.4-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

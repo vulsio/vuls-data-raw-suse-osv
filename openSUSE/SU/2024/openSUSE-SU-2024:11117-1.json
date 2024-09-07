@@ -15,6 +15,46 @@
 	],
 	"summary": "libIex-3_1-30-3.1.1-2.2 on GA media",
 	"details": "These are all security issues fixed in the libIex-3_1-30-3.1.1-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openexr",
+				"purl": "purl:rpm/suse/openexr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.1.1-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libIex-3_1-30": "3.1.1-2.2",
+						"libIex-3_1-30-32bit": "3.1.1-2.2",
+						"libIlmThread-3_1-30": "3.1.1-2.2",
+						"libIlmThread-3_1-30-32bit": "3.1.1-2.2",
+						"libOpenEXR-3_1-30": "3.1.1-2.2",
+						"libOpenEXR-3_1-30-32bit": "3.1.1-2.2",
+						"libOpenEXRCore-3_1-30": "3.1.1-2.2",
+						"libOpenEXRUtil-3_1-30": "3.1.1-2.2",
+						"libOpenEXRUtil-3_1-30-32bit": "3.1.1-2.2",
+						"openexr": "3.1.1-2.2",
+						"openexr-devel": "3.1.1-2.2",
+						"openexr-doc": "3.1.1-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

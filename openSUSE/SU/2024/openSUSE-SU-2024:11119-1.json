@@ -7,6 +7,39 @@
 	],
 	"summary": "openjfx-11.0.12-2.2 on GA media",
 	"details": "These are all security issues fixed in the openjfx-11.0.12-2.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openjfx",
+				"purl": "purl:rpm/suse/openjfx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "11.0.12-2.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"openjfx": "11.0.12-2.2",
+						"openjfx-devel": "11.0.12-2.2",
+						"openjfx-javadoc": "11.0.12-2.2",
+						"openjfx-jmods": "11.0.12-2.2",
+						"openjfx-src": "11.0.12-2.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

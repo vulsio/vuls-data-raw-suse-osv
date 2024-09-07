@@ -12,6 +12,64 @@
 	],
 	"summary": "libipa_hbac-devel-1.14.2-3.1 on GA media",
 	"details": "These are all security issues fixed in the libipa_hbac-devel-1.14.2-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "sssd",
+				"purl": "purl:rpm/suse/sssd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.14.2-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libipa_hbac-devel": "1.14.2-3.1",
+						"libipa_hbac0": "1.14.2-3.1",
+						"libnfsidmap-sss": "1.14.2-3.1",
+						"libsss_idmap-devel": "1.14.2-3.1",
+						"libsss_idmap0": "1.14.2-3.1",
+						"libsss_nss_idmap-devel": "1.14.2-3.1",
+						"libsss_nss_idmap0": "1.14.2-3.1",
+						"libsss_simpleifp-devel": "1.14.2-3.1",
+						"libsss_simpleifp0": "1.14.2-3.1",
+						"python-ipa_hbac": "1.14.2-3.1",
+						"python-sss-murmur": "1.14.2-3.1",
+						"python-sss_nss_idmap": "1.14.2-3.1",
+						"python-sssd-config": "1.14.2-3.1",
+						"python3-ipa_hbac": "1.14.2-3.1",
+						"python3-sss-murmur": "1.14.2-3.1",
+						"python3-sss_nss_idmap": "1.14.2-3.1",
+						"python3-sssd-config": "1.14.2-3.1",
+						"sssd": "1.14.2-3.1",
+						"sssd-32bit": "1.14.2-3.1",
+						"sssd-ad": "1.14.2-3.1",
+						"sssd-dbus": "1.14.2-3.1",
+						"sssd-ipa": "1.14.2-3.1",
+						"sssd-krb5": "1.14.2-3.1",
+						"sssd-krb5-common": "1.14.2-3.1",
+						"sssd-ldap": "1.14.2-3.1",
+						"sssd-proxy": "1.14.2-3.1",
+						"sssd-tools": "1.14.2-3.1",
+						"sssd-wbclient": "1.14.2-3.1",
+						"sssd-wbclient-devel": "1.14.2-3.1",
+						"sssd-winbind-idmap": "1.14.2-3.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,39 @@
 	],
 	"summary": "libmpv1-0.33.1+git.20210630T163736.f2afae55e9-1.4 on GA media",
 	"details": "These are all security issues fixed in the libmpv1-0.33.1+git.20210630T163736.f2afae55e9-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mpv",
+				"purl": "purl:rpm/suse/mpv&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.33.1+git.20210630T163736.f2afae55e9-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmpv1": "0.33.1+git.20210630T163736.f2afae55e9-1.4",
+						"mpv": "0.33.1+git.20210630T163736.f2afae55e9-1.4",
+						"mpv-bash-completion": "0.33.1+git.20210630T163736.f2afae55e9-1.4",
+						"mpv-devel": "0.33.1+git.20210630T163736.f2afae55e9-1.4",
+						"mpv-zsh-completion": "0.33.1+git.20210630T163736.f2afae55e9-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

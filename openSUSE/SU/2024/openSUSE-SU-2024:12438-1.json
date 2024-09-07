@@ -7,6 +7,43 @@
 	],
 	"summary": "dfu-tool-1.8.6-1.1 on GA media",
 	"details": "These are all security issues fixed in the dfu-tool-1.8.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "fwupd",
+				"purl": "purl:rpm/suse/fwupd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dfu-tool": "1.8.6-1.1",
+						"fwupd": "1.8.6-1.1",
+						"fwupd-bash-completion": "1.8.6-1.1",
+						"fwupd-devel": "1.8.6-1.1",
+						"fwupd-doc": "1.8.6-1.1",
+						"fwupd-fish-completion": "1.8.6-1.1",
+						"fwupd-lang": "1.8.6-1.1",
+						"libfwupd2": "1.8.6-1.1",
+						"typelib-1_0-Fwupd-2_0": "1.8.6-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

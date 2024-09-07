@@ -9,6 +9,40 @@
 	],
 	"summary": "libopenconnect5-8.10-2.6 on GA media",
 	"details": "These are all security issues fixed in the libopenconnect5-8.10-2.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "openconnect",
+				"purl": "purl:rpm/suse/openconnect&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "8.10-2.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libopenconnect5": "8.10-2.6",
+						"openconnect": "8.10-2.6",
+						"openconnect-bash-completion": "8.10-2.6",
+						"openconnect-devel": "8.10-2.6",
+						"openconnect-doc": "8.10-2.6",
+						"openconnect-lang": "8.10-2.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

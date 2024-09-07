@@ -9,6 +9,42 @@
 	],
 	"summary": "evolution-3.40.4-1.4 on GA media",
 	"details": "These are all security issues fixed in the evolution-3.40.4-1.4 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "evolution",
+				"purl": "purl:rpm/suse/evolution&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.40.4-1.4"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"evolution": "3.40.4-1.4",
+						"evolution-devel": "3.40.4-1.4",
+						"evolution-lang": "3.40.4-1.4",
+						"evolution-plugin-bogofilter": "3.40.4-1.4",
+						"evolution-plugin-pst-import": "3.40.4-1.4",
+						"evolution-plugin-spamassassin": "3.40.4-1.4",
+						"evolution-plugin-text-highlight": "3.40.4-1.4",
+						"glade-catalog-evolution": "3.40.4-1.4"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

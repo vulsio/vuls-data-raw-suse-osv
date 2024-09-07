@@ -7,6 +7,44 @@
 	],
 	"summary": "libthrift-0_14_1-0.14.1-1.6 on GA media",
 	"details": "These are all security issues fixed in the libthrift-0_14_1-0.14.1-1.6 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "thrift",
+				"purl": "purl:rpm/suse/thrift&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.14.1-1.6"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libthrift-0_14_1": "0.14.1-1.6",
+						"libthrift-devel": "0.14.1-1.6",
+						"libthrift_c_glib0": "0.14.1-1.6",
+						"libthriftnb-0_14_1": "0.14.1-1.6",
+						"libthriftz-0_14_1": "0.14.1-1.6",
+						"perl-thrift": "0.14.1-1.6",
+						"python36-thrift": "0.14.1-1.6",
+						"python38-thrift": "0.14.1-1.6",
+						"python39-thrift": "0.14.1-1.6",
+						"thrift": "0.14.1-1.6"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

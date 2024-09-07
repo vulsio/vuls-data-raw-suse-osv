@@ -9,6 +9,38 @@
 	],
 	"summary": "libyara-devel-4.1.1-1.2 on GA media",
 	"details": "These are all security issues fixed in the libyara-devel-4.1.1-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yara",
+				"purl": "purl:rpm/suse/yara&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.1.1-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libyara-devel": "4.1.1-1.2",
+						"libyara8": "4.1.1-1.2",
+						"yara": "4.1.1-1.2",
+						"yara-doc": "4.1.1-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

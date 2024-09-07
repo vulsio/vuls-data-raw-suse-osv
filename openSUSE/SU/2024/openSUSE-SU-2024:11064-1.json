@@ -7,6 +7,38 @@
 	],
 	"summary": "msmtp-1.8.16-1.1 on GA media",
 	"details": "These are all security issues fixed in the msmtp-1.8.16-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mstmp",
+				"purl": "purl:rpm/suse/mstmp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.16-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"msmtp": "1.8.16-1.1",
+						"msmtp-doc": "1.8.16-1.1",
+						"msmtp-lang": "1.8.16-1.1",
+						"msmtp-mta": "1.8.16-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

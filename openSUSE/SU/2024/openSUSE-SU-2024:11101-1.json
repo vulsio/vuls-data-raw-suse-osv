@@ -12,6 +12,39 @@
 	],
 	"summary": "libntfs-3g-devel-2021.8.22-1.1 on GA media",
 	"details": "These are all security issues fixed in the libntfs-3g-devel-2021.8.22-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "ntfs-3g_ntfsprogs",
+				"purl": "purl:rpm/suse/ntfs-3g_ntfsprogs&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2021.8.22-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libntfs-3g-devel": "2021.8.22-1.1",
+						"libntfs-3g89": "2021.8.22-1.1",
+						"ntfs-3g": "2021.8.22-1.1",
+						"ntfsprogs": "2021.8.22-1.1",
+						"ntfsprogs-extra": "2021.8.22-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

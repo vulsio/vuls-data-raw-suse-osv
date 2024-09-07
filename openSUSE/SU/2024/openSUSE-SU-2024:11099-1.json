@@ -7,6 +7,37 @@
 	],
 	"summary": "monitoring-plugins-nrpe-4.0.3-3.5 on GA media",
 	"details": "These are all security issues fixed in the monitoring-plugins-nrpe-4.0.3-3.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nrpe",
+				"purl": "purl:rpm/suse/nrpe&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.0.3-3.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"monitoring-plugins-nrpe": "4.0.3-3.5",
+						"nrpe": "4.0.3-3.5",
+						"nrpe-doc": "4.0.3-3.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

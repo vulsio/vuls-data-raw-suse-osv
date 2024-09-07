@@ -7,6 +7,38 @@
 	],
 	"summary": "kbfs-6.3.1-2.1 on GA media",
 	"details": "These are all security issues fixed in the kbfs-6.3.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "keybase-client",
+				"purl": "purl:rpm/suse/keybase-client&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.3.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"kbfs": "6.3.1-2.1",
+						"kbfs-git": "6.3.1-2.1",
+						"kbfs-tool": "6.3.1-2.1",
+						"keybase-client": "6.3.1-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

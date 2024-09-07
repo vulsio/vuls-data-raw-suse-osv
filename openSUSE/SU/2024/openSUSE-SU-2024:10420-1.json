@@ -7,6 +7,40 @@
 	],
 	"summary": "bsh2-2.0.0.b6-2.7 on GA media",
 	"details": "These are all security issues fixed in the bsh2-2.0.0.b6-2.7 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "bsh2",
+				"purl": "purl:rpm/suse/bsh2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.0.b6-2.7"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"bsh2": "2.0.0.b6-2.7",
+						"bsh2-bsf": "2.0.0.b6-2.7",
+						"bsh2-classgen": "2.0.0.b6-2.7",
+						"bsh2-demo": "2.0.0.b6-2.7",
+						"bsh2-javadoc": "2.0.0.b6-2.7",
+						"bsh2-manual": "2.0.0.b6-2.7"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

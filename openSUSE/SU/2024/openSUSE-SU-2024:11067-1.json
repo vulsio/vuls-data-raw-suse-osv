@@ -7,6 +7,36 @@
 	],
 	"summary": "munin-2.0.66-3.5 on GA media",
 	"details": "These are all security issues fixed in the munin-2.0.66-3.5 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "munin",
+				"purl": "purl:rpm/suse/munin&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.66-3.5"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"munin": "2.0.66-3.5",
+						"munin-node": "2.0.66-3.5"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"
