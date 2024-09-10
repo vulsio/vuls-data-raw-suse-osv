@@ -1,0 +1,52 @@
+{
+	"id": "openSUSE-SU-2024:14327-1",
+	"modified": "2024-09-09T00:00:00Z",
+	"published": "2024-09-09T00:00:00Z",
+	"related": [
+		"CVE-2024-6232"
+	],
+	"summary": "python39-3.9.19-8.1 on GA media",
+	"details": "These are all security issues fixed in the python39-3.9.19-8.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python39",
+				"purl": "purl:rpm/suse/python39&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.9.19-8.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python39": "3.9.19-8.1",
+						"python39-curses": "3.9.19-8.1",
+						"python39-dbm": "3.9.19-8.1",
+						"python39-idle": "3.9.19-8.1",
+						"python39-tk": "3.9.19-8.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-6232"
+		}
+	]
+}
