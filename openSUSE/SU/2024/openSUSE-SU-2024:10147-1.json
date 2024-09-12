@@ -7,6 +7,37 @@
 	],
 	"summary": "libcares-devel-1.12.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the libcares-devel-1.12.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "c-ares",
+				"purl": "purl:rpm/suse/c-ares&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.12.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libcares-devel": "1.12.0-1.1",
+						"libcares2": "1.12.0-1.1",
+						"libcares2-32bit": "1.12.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

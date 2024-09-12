@@ -7,6 +7,41 @@
 	],
 	"summary": "python310-yt-dlp-2024.07.01-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-yt-dlp-2024.07.01-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "yt-dlp",
+				"purl": "purl:rpm/suse/yt-dlp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2024.07.01-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-yt-dlp": "2024.07.01-1.1",
+						"python311-yt-dlp": "2024.07.01-1.1",
+						"python312-yt-dlp": "2024.07.01-1.1",
+						"yt-dlp": "2024.07.01-1.1",
+						"yt-dlp-bash-completion": "2024.07.01-1.1",
+						"yt-dlp-fish-completion": "2024.07.01-1.1",
+						"yt-dlp-zsh-completion": "2024.07.01-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,36 @@
 	],
 	"summary": "libhtp-devel-0.5.48-2.1 on GA media",
 	"details": "These are all security issues fixed in the libhtp-devel-0.5.48-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libhtp",
+				"purl": "purl:rpm/suse/libhtp&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.5.48-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libhtp-devel": "0.5.48-2.1",
+						"libhtp2": "0.5.48-2.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

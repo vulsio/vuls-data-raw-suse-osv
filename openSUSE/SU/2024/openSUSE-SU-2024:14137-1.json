@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-django-debug-toolbar-4.3-1.2 on GA media",
 	"details": "These are all security issues fixed in the python310-django-debug-toolbar-4.3-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-django-debug-toolbar",
+				"purl": "purl:rpm/suse/python-django-debug-toolbar&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.3-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-django-debug-toolbar": "4.3-1.2",
+						"python311-django-debug-toolbar": "4.3-1.2",
+						"python312-django-debug-toolbar": "4.3-1.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

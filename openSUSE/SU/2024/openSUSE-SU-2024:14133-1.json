@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-bjoern-3.2.2-1.10 on GA media",
 	"details": "These are all security issues fixed in the python310-bjoern-3.2.2-1.10 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-bjoern",
+				"purl": "purl:rpm/suse/python-bjoern&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.2-1.10"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-bjoern": "3.2.2-1.10",
+						"python311-bjoern": "3.2.2-1.10",
+						"python312-bjoern": "3.2.2-1.10"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

@@ -7,6 +7,44 @@
 	],
 	"summary": "keylime-config-7.11.0-1.1 on GA media",
 	"details": "These are all security issues fixed in the keylime-config-7.11.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "keylime",
+				"purl": "purl:rpm/suse/keylime&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "7.11.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"keylime-config": "7.11.0-1.1",
+						"keylime-firewalld": "7.11.0-1.1",
+						"keylime-logrotate": "7.11.0-1.1",
+						"keylime-registrar": "7.11.0-1.1",
+						"keylime-tenant": "7.11.0-1.1",
+						"keylime-tpm_cert_store": "7.11.0-1.1",
+						"keylime-verifier": "7.11.0-1.1",
+						"python310-keylime": "7.11.0-1.1",
+						"python311-keylime": "7.11.0-1.1",
+						"python312-keylime": "7.11.0-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

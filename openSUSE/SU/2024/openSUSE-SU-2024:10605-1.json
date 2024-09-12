@@ -9,6 +9,47 @@
 	],
 	"summary": "PackageKit-1.2.2-13.2 on GA media",
 	"details": "These are all security issues fixed in the PackageKit-1.2.2-13.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "PackageKit",
+				"purl": "purl:rpm/suse/PackageKit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.2-13.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"PackageKit": "1.2.2-13.2",
+						"PackageKit-backend-dnf": "1.2.2-13.2",
+						"PackageKit-backend-zypp": "1.2.2-13.2",
+						"PackageKit-branding-upstream": "1.2.2-13.2",
+						"PackageKit-devel": "1.2.2-13.2",
+						"PackageKit-gstreamer-plugin": "1.2.2-13.2",
+						"PackageKit-gtk3-module": "1.2.2-13.2",
+						"PackageKit-lang": "1.2.2-13.2",
+						"libpackagekit-glib2-18": "1.2.2-13.2",
+						"libpackagekit-glib2-18-32bit": "1.2.2-13.2",
+						"libpackagekit-glib2-devel": "1.2.2-13.2",
+						"libpackagekit-glib2-devel-32bit": "1.2.2-13.2",
+						"typelib-1_0-PackageKitGlib-1_0": "1.2.2-13.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

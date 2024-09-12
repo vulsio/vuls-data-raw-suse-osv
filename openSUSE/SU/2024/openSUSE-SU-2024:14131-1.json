@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-XStatic-jquery-ui-1.13.0.1-1.15 on GA media",
 	"details": "These are all security issues fixed in the python310-XStatic-jquery-ui-1.13.0.1-1.15 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-XStatic-jquery-ui",
+				"purl": "purl:rpm/suse/python-XStatic-jquery-ui&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.13.0.1-1.15"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-XStatic-jquery-ui": "1.13.0.1-1.15",
+						"python311-XStatic-jquery-ui": "1.13.0.1-1.15",
+						"python312-XStatic-jquery-ui": "1.13.0.1-1.15"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

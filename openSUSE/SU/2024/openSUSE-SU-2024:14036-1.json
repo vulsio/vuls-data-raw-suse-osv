@@ -7,6 +7,37 @@
 	],
 	"summary": "python310-social-auth-app-django-5.4.1-1.1 on GA media",
 	"details": "These are all security issues fixed in the python310-social-auth-app-django-5.4.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-social-auth-app-django",
+				"purl": "purl:rpm/suse/python-social-auth-app-django&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.4.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310-social-auth-app-django": "5.4.1-1.1",
+						"python311-social-auth-app-django": "5.4.1-1.1",
+						"python312-social-auth-app-django": "5.4.1-1.1"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

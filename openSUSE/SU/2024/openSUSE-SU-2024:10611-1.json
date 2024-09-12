@@ -7,6 +7,39 @@
 	],
 	"summary": "accountsservice-0.6.55-8.2 on GA media",
 	"details": "These are all security issues fixed in the accountsservice-0.6.55-8.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "accountservice",
+				"purl": "purl:rpm/suse/accountservice&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.6.55-8.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"accountsservice": "0.6.55-8.2",
+						"accountsservice-devel": "0.6.55-8.2",
+						"accountsservice-lang": "0.6.55-8.2",
+						"libaccountsservice0": "0.6.55-8.2",
+						"typelib-1_0-AccountsService-1_0": "0.6.55-8.2"
+					}
+				]
+			}
+		}
+	],
 	"references": [
 		{
 			"type": "ADVISORY"

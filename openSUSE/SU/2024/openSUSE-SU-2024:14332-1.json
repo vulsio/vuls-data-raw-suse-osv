@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2024:14332-1",
+	"modified": "2024-09-11T00:00:00Z",
+	"published": "2024-09-11T00:00:00Z",
+	"related": [
+		"CVE-2024-41184"
+	],
+	"summary": "keepalived-2.3.1+git59.b6681f98-1.1 on GA media",
+	"details": "These are all security issues fixed in the keepalived-2.3.1+git59.b6681f98-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "keepalived",
+				"purl": "purl:rpm/suse/keepalived&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.1+git59.b6681f98-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"keepalived": "2.3.1+git59.b6681f98-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-41184"
+		}
+	]
+}
