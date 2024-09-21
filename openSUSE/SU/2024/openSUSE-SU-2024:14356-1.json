@@ -1,0 +1,58 @@
+{
+	"id": "openSUSE-SU-2024:14356-1",
+	"modified": "2024-09-20T00:00:00Z",
+	"published": "2024-09-20T00:00:00Z",
+	"related": [
+		"CVE-2024-36461"
+	],
+	"summary": "system-user-zabbix-6.0.33-1.1 on GA media",
+	"details": "These are all security issues fixed in the system-user-zabbix-6.0.33-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "zabbix",
+				"purl": "purl:rpm/suse/zabbix&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.0.33-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"system-user-zabbix": "6.0.33-1.1",
+						"zabbix-agent": "6.0.33-1.1",
+						"zabbix-java-gateway": "6.0.33-1.1",
+						"zabbix-proxy": "6.0.33-1.1",
+						"zabbix-proxy-mysql": "6.0.33-1.1",
+						"zabbix-proxy-postgresql": "6.0.33-1.1",
+						"zabbix-proxy-sqlite": "6.0.33-1.1",
+						"zabbix-server": "6.0.33-1.1",
+						"zabbix-server-mysql": "6.0.33-1.1",
+						"zabbix-server-postgresql": "6.0.33-1.1",
+						"zabbix-ui": "6.0.33-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-36461"
+		}
+	]
+}

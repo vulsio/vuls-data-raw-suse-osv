@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2024:14355-1",
+	"modified": "2024-09-20T00:00:00Z",
+	"published": "2024-09-20T00:00:00Z",
+	"related": [
+		"CVE-2024-45405"
+	],
+	"summary": "stgit-2.4.12-1.1 on GA media",
+	"details": "These are all security issues fixed in the stgit-2.4.12-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "stgit",
+				"purl": "purl:rpm/suse/stgit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.4.12-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"stgit": "2.4.12-1.1",
+						"stgit-bash-completion": "2.4.12-1.1",
+						"stgit-emacs": "2.4.12-1.1",
+						"stgit-fish-completion": "2.4.12-1.1",
+						"stgit-vim-plugin": "2.4.12-1.1",
+						"stgit-zsh-completion": "2.4.12-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45405"
+		}
+	]
+}
