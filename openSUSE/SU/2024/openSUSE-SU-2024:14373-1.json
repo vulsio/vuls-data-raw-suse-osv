@@ -1,0 +1,52 @@
+{
+	"id": "openSUSE-SU-2024:14373-1",
+	"modified": "2024-09-29T00:00:00Z",
+	"published": "2024-09-29T00:00:00Z",
+	"related": [
+		"CVE-2024-42934"
+	],
+	"summary": "OpenIPMI-2.0.36.4+git.c114912-1.1 on GA media",
+	"details": "These are all security issues fixed in the OpenIPMI-2.0.36.4+git.c114912-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "OpenIPMI",
+				"purl": "purl:rpm/suse/OpenIPMI&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.0.36.4+git.c114912-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"OpenIPMI": "2.0.36.4+git.c114912-1.1",
+						"OpenIPMI-devel": "2.0.36.4+git.c114912-1.1",
+						"OpenIPMI-python3": "2.0.36.4+git.c114912-1.1",
+						"libOpenIPMI0": "2.0.36.4+git.c114912-1.1",
+						"libOpenIPMIui1": "2.0.36.4+git.c114912-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-42934"
+		}
+	]
+}
