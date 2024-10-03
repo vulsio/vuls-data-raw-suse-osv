@@ -1,0 +1,60 @@
+{
+	"id": "openSUSE-SU-2024:14381-1",
+	"modified": "2024-10-02T00:00:00Z",
+	"published": "2024-10-02T00:00:00Z",
+	"related": [
+		"CVE-2024-45490",
+		"CVE-2024-45491",
+		"CVE-2024-45492"
+	],
+	"summary": "libmozjs-78-0-78.15.0-5.1 on GA media",
+	"details": "These are all security issues fixed in the libmozjs-78-0-78.15.0-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mozjs78",
+				"purl": "purl:rpm/suse/mozjs78&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "78.15.0-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmozjs-78-0": "78.15.0-5.1",
+						"mozjs78": "78.15.0-5.1",
+						"mozjs78-devel": "78.15.0-5.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45490"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45491"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45492"
+		}
+	]
+}
