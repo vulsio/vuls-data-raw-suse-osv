@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2024:14383-1",
+	"modified": "2024-10-04T00:00:00Z",
+	"published": "2024-10-04T00:00:00Z",
+	"related": [
+		"CVE-2024-7025",
+		"CVE-2024-9369",
+		"CVE-2024-9370"
+	],
+	"summary": "chromedriver-129.0.6668.89-1.2 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-129.0.6668.89-1.2 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "chromium",
+				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "129.0.6668.89-1.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chromedriver": "129.0.6668.89-1.2",
+						"chromium": "129.0.6668.89-1.2"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-7025"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9369"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9370"
+		}
+	]
+}
