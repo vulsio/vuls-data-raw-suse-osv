@@ -1,0 +1,112 @@
+{
+	"id": "openSUSE-SU-2024:14385-1",
+	"modified": "2024-10-06T00:00:00Z",
+	"published": "2024-10-06T00:00:00Z",
+	"related": [
+		"CVE-2024-9391",
+		"CVE-2024-9392",
+		"CVE-2024-9393",
+		"CVE-2024-9394",
+		"CVE-2024-9395",
+		"CVE-2024-9396",
+		"CVE-2024-9397",
+		"CVE-2024-9398",
+		"CVE-2024-9399",
+		"CVE-2024-9400",
+		"CVE-2024-9401",
+		"CVE-2024-9402",
+		"CVE-2024-9403"
+	],
+	"summary": "MozillaFirefox-131.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the MozillaFirefox-131.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "MozillaFirefox",
+				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "131.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "131.0-1.1",
+						"MozillaFirefox-branding-upstream": "131.0-1.1",
+						"MozillaFirefox-devel": "131.0-1.1",
+						"MozillaFirefox-translations-common": "131.0-1.1",
+						"MozillaFirefox-translations-other": "131.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9391"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9392"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9393"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9394"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9395"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9396"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9397"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9398"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9399"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9400"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9401"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9402"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9403"
+		}
+	]
+}
