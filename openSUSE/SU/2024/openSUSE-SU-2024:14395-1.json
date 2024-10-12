@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:14395-1",
+	"modified": "2024-10-11T00:00:00Z",
+	"published": "2024-10-11T00:00:00Z",
+	"related": [
+		"CVE-2022-42003"
+	],
+	"summary": "java-jwt-4.4.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the java-jwt-4.4.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-jwt",
+				"purl": "purl:rpm/suse/java-jwt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.4.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-jwt": "4.4.0-1.1",
+						"java-jwt-javadoc": "4.4.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-42003"
+		}
+	]
+}
