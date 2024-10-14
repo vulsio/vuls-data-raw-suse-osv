@@ -1,7 +1,7 @@
 {
-	"id": "openSUSE-SU-2024:14394-1",
-	"modified": "2024-10-11T00:00:00Z",
-	"published": "2024-10-11T00:00:00Z",
+	"id": "openSUSE-SU-2024:14397-1",
+	"modified": "2024-10-12T00:00:00Z",
+	"published": "2024-10-12T00:00:00Z",
 	"related": [
 		"CVE-2024-8900",
 		"CVE-2024-9392",
@@ -16,14 +16,14 @@
 		"CVE-2024-9402",
 		"CVE-2024-9680"
 	],
-	"summary": "MozillaThunderbird-128.3.1-1.1 on GA media",
-	"details": "These are all security issues fixed in the MozillaThunderbird-128.3.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"summary": "libmozjs-128-0-128.3.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the libmozjs-128-0-128.3.1-1.1 package on the GA media of openSUSE Tumbleweed.",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
-				"name": "MozillaThunderbird",
-				"purl": "purl:rpm/suse/MozillaThunderbird&distro=openSUSE%20Tumbleweed"
+				"name": "mozjs128",
+				"purl": "purl:rpm/suse/mozjs128&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -41,10 +41,9 @@
 			"ecosystem_specific": {
 				"binaries": [
 					{
-						"MozillaThunderbird": "128.3.1-1.1",
-						"MozillaThunderbird-openpgp-librnp": "128.3.1-1.1",
-						"MozillaThunderbird-translations-common": "128.3.1-1.1",
-						"MozillaThunderbird-translations-other": "128.3.1-1.1"
+						"libmozjs-128-0": "128.3.1-1.1",
+						"mozjs128": "128.3.1-1.1",
+						"mozjs128-devel": "128.3.1-1.1"
 					}
 				]
 			}
@@ -52,8 +51,7 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY",
-			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/WA4S63AHEQ76BYNIIRG5P4KRDT5XUJR4/"
+			"type": "ADVISORY"
 		},
 		{
 			"type": "WEB",
