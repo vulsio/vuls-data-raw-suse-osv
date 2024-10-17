@@ -38,7 +38,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/Q6W3TNQBBMGBNGGBK5DYH5DN2UZ5OLES/"
 		},
 		{
 			"type": "WEB",
