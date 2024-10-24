@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2024:14422-1",
+	"modified": "2024-10-23T00:00:00Z",
+	"published": "2024-10-23T00:00:00Z",
+	"related": [
+		"CVE-2024-9050"
+	],
+	"summary": "NetworkManager-applet-libreswan-1.2.24-1.1 on GA media",
+	"details": "These are all security issues fixed in the NetworkManager-applet-libreswan-1.2.24-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "NetworkManager-libreswan",
+				"purl": "purl:rpm/suse/NetworkManager-libreswan&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.2.24-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"NetworkManager-applet-libreswan": "1.2.24-1.1",
+						"NetworkManager-libreswan": "1.2.24-1.1",
+						"NetworkManager-libreswan-lang": "1.2.24-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9050"
+		}
+	]
+}
