@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2024:14430-1",
+	"modified": "2024-10-27T00:00:00Z",
+	"published": "2024-10-27T00:00:00Z",
+	"related": [
+		"CVE-2024-9287"
+	],
+	"summary": "python313-3.13.0-3.1 on GA media",
+	"details": "These are all security issues fixed in the python313-3.13.0-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python313",
+				"purl": "purl:rpm/suse/python313&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.13.0-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python313": "3.13.0-3.1",
+						"python313-curses": "3.13.0-3.1",
+						"python313-dbm": "3.13.0-3.1",
+						"python313-idle": "3.13.0-3.1",
+						"python313-tk": "3.13.0-3.1",
+						"python313-x86-64-v3": "3.13.0-3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9287"
+		}
+	]
+}
