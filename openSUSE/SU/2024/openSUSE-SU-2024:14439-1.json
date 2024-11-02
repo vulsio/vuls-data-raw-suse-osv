@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2024:14439-1",
+	"modified": "2024-10-30T00:00:00Z",
+	"published": "2024-10-30T00:00:00Z",
+	"related": [
+		"CVE-2024-36129",
+		"CVE-2024-8975"
+	],
+	"summary": "alloy-1.4.3-1.1 on GA media",
+	"details": "These are all security issues fixed in the alloy-1.4.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "alloy",
+				"purl": "purl:rpm/suse/alloy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.4.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"alloy": "1.4.3-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/GV22GT4IQUST2QGFMIMZLHTXGK7CRNWF/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-36129"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-8975"
+		}
+	]
+}

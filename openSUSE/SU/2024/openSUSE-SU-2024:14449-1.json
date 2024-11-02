@@ -1,0 +1,69 @@
+{
+	"id": "openSUSE-SU-2024:14449-1",
+	"modified": "2024-11-01T00:00:00Z",
+	"published": "2024-11-01T00:00:00Z",
+	"related": [
+		"CVE-2024-21208",
+		"CVE-2024-21210",
+		"CVE-2024-21217",
+		"CVE-2024-21235"
+	],
+	"summary": "java-23-openjdk-23.0.1.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the java-23-openjdk-23.0.1.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "java-23-openjdk",
+				"purl": "purl:rpm/suse/java-23-openjdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "23.0.1.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"java-23-openjdk": "23.0.1.0-1.1",
+						"java-23-openjdk-demo": "23.0.1.0-1.1",
+						"java-23-openjdk-devel": "23.0.1.0-1.1",
+						"java-23-openjdk-headless": "23.0.1.0-1.1",
+						"java-23-openjdk-javadoc": "23.0.1.0-1.1",
+						"java-23-openjdk-jmods": "23.0.1.0-1.1",
+						"java-23-openjdk-src": "23.0.1.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21208"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21210"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21217"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21235"
+		}
+	]
+}

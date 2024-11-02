@@ -1,0 +1,24 @@
+{
+	"id": "SUSE-SU-2024:3791-1",
+	"modified": "2024-10-30T08:19:47Z",
+	"published": "2024-10-30T08:19:47Z",
+	"related": [
+		"CVE-2024-9632"
+	],
+	"summary": "Security update for xwayland",
+	"details": "This update for xwayland fixes the following issues:\n\n- CVE-2024-9632: Fixed heap-based buffer overflow privilege escalation in _XkbSetCompatMap (bsc#1231565).\n",
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2024/suse-su-20243791-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1231565"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9632"
+		}
+	]
+}

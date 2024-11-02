@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2024:14443-1",
+	"modified": "2024-10-30T00:00:00Z",
+	"published": "2024-10-30T00:00:00Z",
+	"related": [
+		"CVE-2024-50602"
+	],
+	"summary": "xsd-4.1.0-3.1 on GA media",
+	"details": "These are all security issues fixed in the xsd-4.1.0-3.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "xsd",
+				"purl": "purl:rpm/suse/xsd&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.1.0-3.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"xsd": "4.1.0-3.1",
+						"xsd-doc": "4.1.0-3.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/TAVLUAO5K6MJFTEJB4GJPOEFBO7TERI6/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-50602"
+		}
+	]
+}
