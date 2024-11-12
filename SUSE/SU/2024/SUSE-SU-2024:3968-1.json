@@ -1,0 +1,55 @@
+{
+	"id": "SUSE-SU-2024:3968-1",
+	"modified": "2024-11-11T08:57:56Z",
+	"published": "2024-11-11T08:57:56Z",
+	"related": [
+		"CVE-2024-50602"
+	],
+	"summary": "Security update for expat",
+	"details": "This update for expat fixes the following issues:\n\n- CVE-2024-50602: Fixed a denial of service via XML_ResumeParser (bsc#1232579).\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5 LTSS Extended Security",
+				"name": "expat",
+				"purl": "purl:rpm/suse/expat&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5%20LTSS%20Extended%20Security"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.1.0-21.40.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"expat": "2.1.0-21.40.1",
+						"libexpat1": "2.1.0-21.40.1",
+						"libexpat1-32bit": "2.1.0-21.40.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://www.suse.com/support/update/announcement/2024/suse-su-20243968-1/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1232579"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-50602"
+		}
+	]
+}
