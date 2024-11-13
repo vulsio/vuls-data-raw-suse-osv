@@ -86,9 +86,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5 LTSS Extended Security",
+				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12-SP5",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5%20LTSS%20Extended%20Security"
+				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012-SP5"
 			},
 			"ranges": [
 				{
@@ -124,9 +124,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5 LTSS Extended Security",
+				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12-SP5",
 				"name": "apache2-tls13",
-				"purl": "purl:rpm/suse/apache2-tls13&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5%20LTSS%20Extended%20Security"
+				"purl": "purl:rpm/suse/apache2-tls13&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012-SP5"
 			},
 			"ranges": [
 				{
