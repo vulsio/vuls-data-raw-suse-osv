@@ -40,9 +40,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12-SP5",
+				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012-SP5"
+				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{

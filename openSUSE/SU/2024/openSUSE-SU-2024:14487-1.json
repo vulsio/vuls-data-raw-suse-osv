@@ -1,0 +1,72 @@
+{
+	"id": "openSUSE-SU-2024:14487-1",
+	"modified": "2024-11-13T00:00:00Z",
+	"published": "2024-11-13T00:00:00Z",
+	"related": [
+		"CVE-2024-52533"
+	],
+	"summary": "gio-branding-upstream-2.82.2-2.1 on GA media",
+	"details": "These are all security issues fixed in the gio-branding-upstream-2.82.2-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "glib2",
+				"purl": "purl:rpm/suse/glib2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.82.2-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"gio-branding-upstream": "2.82.2-2.1",
+						"glib2-devel": "2.82.2-2.1",
+						"glib2-devel-32bit": "2.82.2-2.1",
+						"glib2-devel-static": "2.82.2-2.1",
+						"glib2-lang": "2.82.2-2.1",
+						"glib2-tests-devel": "2.82.2-2.1",
+						"glib2-tools": "2.82.2-2.1",
+						"glib2-tools-32bit": "2.82.2-2.1",
+						"libgio-2_0-0": "2.82.2-2.1",
+						"libgio-2_0-0-32bit": "2.82.2-2.1",
+						"libgirepository-2_0-0": "2.82.2-2.1",
+						"libglib-2_0-0": "2.82.2-2.1",
+						"libglib-2_0-0-32bit": "2.82.2-2.1",
+						"libgmodule-2_0-0": "2.82.2-2.1",
+						"libgmodule-2_0-0-32bit": "2.82.2-2.1",
+						"libgobject-2_0-0": "2.82.2-2.1",
+						"libgobject-2_0-0-32bit": "2.82.2-2.1",
+						"libgthread-2_0-0": "2.82.2-2.1",
+						"libgthread-2_0-0-32bit": "2.82.2-2.1",
+						"typelib-1_0-GIRepository-3_0": "2.82.2-2.1",
+						"typelib-1_0-GLib-2_0": "2.82.2-2.1",
+						"typelib-1_0-GLibUnix-2_0": "2.82.2-2.1",
+						"typelib-1_0-GModule-2_0": "2.82.2-2.1",
+						"typelib-1_0-GObject-2_0": "2.82.2-2.1",
+						"typelib-1_0-Gio-2_0": "2.82.2-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52533"
+		}
+	]
+}

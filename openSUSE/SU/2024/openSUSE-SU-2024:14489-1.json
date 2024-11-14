@@ -1,0 +1,63 @@
+{
+	"id": "openSUSE-SU-2024:14489-1",
+	"modified": "2024-11-13T00:00:00Z",
+	"published": "2024-11-13T00:00:00Z",
+	"related": [
+		"CVE-2024-52530",
+		"CVE-2024-52531",
+		"CVE-2024-52532"
+	],
+	"summary": "libsoup-2_4-1-2.74.3-4.1 on GA media",
+	"details": "These are all security issues fixed in the libsoup-2_4-1-2.74.3-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "libsoup2",
+				"purl": "purl:rpm/suse/libsoup2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.74.3-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libsoup-2_4-1": "2.74.3-4.1",
+						"libsoup-2_4-1-32bit": "2.74.3-4.1",
+						"libsoup2-devel": "2.74.3-4.1",
+						"libsoup2-devel-32bit": "2.74.3-4.1",
+						"libsoup2-lang": "2.74.3-4.1",
+						"typelib-1_0-Soup-2_4": "2.74.3-4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52530"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52531"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52532"
+		}
+	]
+}

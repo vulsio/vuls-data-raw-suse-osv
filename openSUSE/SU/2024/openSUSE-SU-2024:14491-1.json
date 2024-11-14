@@ -1,0 +1,51 @@
+{
+	"id": "openSUSE-SU-2024:14491-1",
+	"modified": "2024-11-13T00:00:00Z",
+	"published": "2024-11-13T00:00:00Z",
+	"related": [
+		"CVE-2019-18802"
+	],
+	"summary": "libnghttp2-14-1.64.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the libnghttp2-14-1.64.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "nghttp2",
+				"purl": "purl:rpm/suse/nghttp2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.64.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libnghttp2-14": "1.64.0-1.1",
+						"libnghttp2-14-32bit": "1.64.0-1.1",
+						"libnghttp2-devel": "1.64.0-1.1",
+						"nghttp2": "1.64.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2019-18802"
+		}
+	]
+}

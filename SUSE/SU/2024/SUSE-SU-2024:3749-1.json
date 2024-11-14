@@ -66,9 +66,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12-SP5",
+				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012-SP5"
+				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{
