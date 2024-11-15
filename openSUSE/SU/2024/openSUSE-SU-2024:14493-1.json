@@ -1,0 +1,55 @@
+{
+	"id": "openSUSE-SU-2024:14493-1",
+	"modified": "2024-11-14T00:00:00Z",
+	"published": "2024-11-14T00:00:00Z",
+	"related": [
+		"CVE-2024-49369"
+	],
+	"summary": "icinga2-2.14.3-1.1 on GA media",
+	"details": "These are all security issues fixed in the icinga2-2.14.3-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "icinga2",
+				"purl": "purl:rpm/suse/icinga2&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.14.3-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"icinga2": "2.14.3-1.1",
+						"icinga2-bin": "2.14.3-1.1",
+						"icinga2-common": "2.14.3-1.1",
+						"icinga2-doc": "2.14.3-1.1",
+						"icinga2-ido-mysql": "2.14.3-1.1",
+						"icinga2-ido-pgsql": "2.14.3-1.1",
+						"nano-icinga2": "2.14.3-1.1",
+						"vim-icinga2": "2.14.3-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-49369"
+		}
+	]
+}

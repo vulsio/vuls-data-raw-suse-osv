@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2024:14495-1",
+	"modified": "2024-11-14T00:00:00Z",
+	"published": "2024-11-14T00:00:00Z",
+	"related": [
+		"CVE-2024-51744"
+	],
+	"summary": "rclone-1.68.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the rclone-1.68.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rclone",
+				"purl": "purl:rpm/suse/rclone&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.68.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rclone": "1.68.1-2.1",
+						"rclone-bash-completion": "1.68.1-2.1",
+						"rclone-zsh-completion": "1.68.1-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-51744"
+		}
+	]
+}
