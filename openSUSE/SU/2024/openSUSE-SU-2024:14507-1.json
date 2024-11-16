@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2024:14507-1",
+	"modified": "2024-11-15T00:00:00Z",
+	"published": "2024-11-15T00:00:00Z",
+	"related": [
+		"CVE-2024-11168"
+	],
+	"summary": "python310-3.10.15-5.1 on GA media",
+	"details": "These are all security issues fixed in the python310-3.10.15-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python310",
+				"purl": "purl:rpm/suse/python310&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.10.15-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python310": "3.10.15-5.1",
+						"python310-32bit": "3.10.15-5.1",
+						"python310-curses": "3.10.15-5.1",
+						"python310-dbm": "3.10.15-5.1",
+						"python310-idle": "3.10.15-5.1",
+						"python310-tk": "3.10.15-5.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-11168"
+		}
+	]
+}

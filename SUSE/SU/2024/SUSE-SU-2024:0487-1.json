@@ -17,9 +17,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -57,9 +57,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -97,9 +97,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -137,9 +137,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -177,9 +177,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -217,9 +217,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -257,9 +257,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -297,9 +297,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -337,9 +337,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Tools%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

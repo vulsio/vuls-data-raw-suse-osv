@@ -11,9 +11,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "bind",
-				"purl": "purl:rpm/suse/bind&distro=SUSE%20Manager%20Tools%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/bind&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

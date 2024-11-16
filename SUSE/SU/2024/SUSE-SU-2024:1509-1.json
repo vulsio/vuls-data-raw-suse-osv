@@ -24,9 +24,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "POS_Image-Graphical7",
-				"purl": "purl:rpm/suse/POS_Image-Graphical7&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/POS_Image-Graphical7&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -68,9 +68,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "POS_Image-JeOS7",
-				"purl": "purl:rpm/suse/POS_Image-JeOS7&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/POS_Image-JeOS7&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -112,9 +112,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -156,9 +156,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -200,9 +200,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -244,9 +244,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -288,9 +288,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -332,9 +332,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -376,9 +376,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -420,9 +420,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -464,9 +464,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -508,9 +508,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Tools%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -536,9 +536,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Tools%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

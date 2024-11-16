@@ -17,9 +17,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "POS_Image-Graphical7",
-				"purl": "purl:rpm/suse/POS_Image-Graphical7&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/POS_Image-Graphical7&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -60,9 +60,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "POS_Image-JeOS7",
-				"purl": "purl:rpm/suse/POS_Image-JeOS7&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/POS_Image-JeOS7&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -103,9 +103,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -146,9 +146,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -189,9 +189,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -232,9 +232,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -275,9 +275,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -318,9 +318,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -361,9 +361,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Tools%2015-BETA"
+				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -404,9 +404,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools Beta for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -434,9 +434,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools Beta for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

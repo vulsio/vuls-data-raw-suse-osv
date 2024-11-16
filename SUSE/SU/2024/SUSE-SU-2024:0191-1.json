@@ -54,9 +54,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-QubitProducts-exporter_exporter",
-				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -101,9 +101,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-boynux-squid_exporter",
-				"purl": "purl:rpm/suse/golang-github-boynux-squid_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-boynux-squid_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -148,9 +148,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -195,9 +195,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-alertmanager",
-				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -242,9 +242,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -289,9 +289,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -336,9 +336,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -383,9 +383,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -430,9 +430,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "kiwi-desc-saltboot",
-				"purl": "purl:rpm/suse/kiwi-desc-saltboot&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/kiwi-desc-saltboot&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -477,9 +477,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -524,9 +524,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -571,9 +571,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -618,9 +618,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "python-hwdata",
-				"purl": "purl:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -665,9 +665,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -712,9 +712,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -759,9 +759,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -806,9 +806,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -853,9 +853,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "system-user-grafana",
-				"purl": "purl:rpm/suse/system-user-grafana&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/system-user-grafana&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -900,9 +900,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "system-user-prometheus",
-				"purl": "purl:rpm/suse/system-user-prometheus&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/system-user-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -947,9 +947,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12-BETA",
+				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Tools%2012-BETA"
+				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
