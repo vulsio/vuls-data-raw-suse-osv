@@ -12,9 +12,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-prometheus-alertmanager",
-				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -39,9 +39,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools for SLE Micro 5",
+				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Tools%20for%20SLE%20Micro%205"
+				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

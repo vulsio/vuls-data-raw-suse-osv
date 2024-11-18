@@ -16,9 +16,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -63,9 +63,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -110,9 +110,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-QubitProducts-exporter_exporter",
-				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -157,9 +157,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -204,9 +204,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -251,9 +251,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -298,9 +298,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "python-hwdata",
-				"purl": "purl:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -345,9 +345,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -392,9 +392,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -439,9 +439,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -486,9 +486,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -533,9 +533,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 15",
+				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "zypp-plugin-spacewalk",
-				"purl": "purl:rpm/suse/zypp-plugin-spacewalk&distro=SUSE%20Manager%20Tools%2015"
+				"purl": "purl:rpm/suse/zypp-plugin-spacewalk&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{

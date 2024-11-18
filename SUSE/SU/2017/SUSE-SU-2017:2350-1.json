@@ -93,9 +93,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "python-pycrypto",
-				"purl": "purl:rpm/suse/python-pycrypto&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/python-pycrypto&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{

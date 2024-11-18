@@ -10,9 +10,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -57,9 +57,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "kiwi-desc-saltboot",
-				"purl": "purl:rpm/suse/kiwi-desc-saltboot&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/kiwi-desc-saltboot&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -104,9 +104,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-cfg",
-				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -151,9 +151,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -198,9 +198,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -245,9 +245,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -292,9 +292,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -339,9 +339,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -386,9 +386,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -433,9 +433,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-remote-utils",
-				"purl": "purl:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{

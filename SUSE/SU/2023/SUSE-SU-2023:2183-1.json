@@ -67,9 +67,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-alertmanager",
-				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -99,9 +99,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -131,9 +131,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -163,9 +163,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -195,9 +195,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -227,9 +227,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{

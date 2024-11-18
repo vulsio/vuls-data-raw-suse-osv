@@ -14,9 +14,9 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -74,9 +74,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -134,9 +134,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-cfg",
-				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -194,9 +194,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-custom-info",
-				"purl": "purl:rpm/suse/mgr-custom-info&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-custom-info&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -254,9 +254,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -314,9 +314,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -374,9 +374,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -434,9 +434,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -494,9 +494,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -554,9 +554,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -614,9 +614,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -674,9 +674,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-oscap",
-				"purl": "purl:rpm/suse/spacewalk-oscap&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/spacewalk-oscap&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -734,9 +734,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "suseRegisterInfo",
-				"purl": "purl:rpm/suse/suseRegisterInfo&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/suseRegisterInfo&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -794,9 +794,9 @@
 		},
 		{
 			"package": {
-				"ecosystem": "SUSE:Manager Tools 12",
+				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Tools%2012"
+				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
