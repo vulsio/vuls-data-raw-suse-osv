@@ -1,0 +1,93 @@
+{
+	"id": "openSUSE-SU-2024:14513-1",
+	"modified": "2024-11-20T00:00:00Z",
+	"published": "2024-11-20T00:00:00Z",
+	"related": [
+		"CVE-2020-8911",
+		"CVE-2023-0109",
+		"CVE-2024-0793",
+		"CVE-2024-24425",
+		"CVE-2024-24426",
+		"CVE-2024-44625",
+		"CVE-2024-52010",
+		"CVE-2024-52308",
+		"CVE-2024-52522",
+		"CVE-2024-9526"
+	],
+	"summary": "govulncheck-vulndb-0.0.20241119T173509-1.1 on GA media",
+	"details": "These are all security issues fixed in the govulncheck-vulndb-0.0.20241119T173509-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "govulncheck-vulndb",
+				"purl": "purl:rpm/suse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.0.20241119T173509-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"govulncheck-vulndb": "0.0.20241119T173509-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-8911"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-0109"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-0793"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-24425"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-24426"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-44625"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52010"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52308"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52522"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9526"
+		}
+	]
+}
