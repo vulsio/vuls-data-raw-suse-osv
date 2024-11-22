@@ -1,0 +1,55 @@
+{
+	"id": "openSUSE-SU-2024:14514-1",
+	"modified": "2024-11-21T00:00:00Z",
+	"published": "2024-11-21T00:00:00Z",
+	"related": [
+		"CVE-2024-27628",
+		"CVE-2024-34509"
+	],
+	"summary": "dcmtk-3.6.8-5.1 on GA media",
+	"details": "These are all security issues fixed in the dcmtk-3.6.8-5.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dcmtk",
+				"purl": "purl:rpm/suse/dcmtk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.6.8-5.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dcmtk": "3.6.8-5.1",
+						"dcmtk-devel": "3.6.8-5.1",
+						"libdcmtk18": "3.6.8-5.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-27628"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-34509"
+		}
+	]
+}
