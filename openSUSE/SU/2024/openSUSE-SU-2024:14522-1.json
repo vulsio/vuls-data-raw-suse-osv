@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2024:14522-1",
+	"modified": "2024-11-23T00:00:00Z",
+	"published": "2024-11-23T00:00:00Z",
+	"related": [
+		"CVE-2024-51744"
+	],
+	"summary": "traefik-3.2.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the traefik-3.2.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "traefik",
+				"purl": "purl:rpm/suse/traefik&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.2.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"traefik": "3.2.1-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-51744"
+		}
+	]
+}
