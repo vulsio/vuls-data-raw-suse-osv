@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "privoxy",
-				"purl": "purl:rpm/suse/privoxy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/privoxy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

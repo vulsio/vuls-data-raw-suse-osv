@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nodejs20",
-				"purl": "purl:rpm/suse/nodejs20&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nodejs20&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/roundcubemail&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/roundcubemail&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

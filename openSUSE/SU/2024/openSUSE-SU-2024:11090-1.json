@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nfsidmap",
-				"purl": "purl:rpm/suse/nfsidmap&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nfsidmap&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "flannel",
-				"purl": "purl:rpm/suse/flannel&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/flannel&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

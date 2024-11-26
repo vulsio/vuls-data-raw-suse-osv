@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "csound",
-				"purl": "purl:rpm/suse/csound&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/csound&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

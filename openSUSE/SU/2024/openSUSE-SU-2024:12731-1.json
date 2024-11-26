@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dnsdist",
-				"purl": "purl:rpm/suse/dnsdist&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dnsdist&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

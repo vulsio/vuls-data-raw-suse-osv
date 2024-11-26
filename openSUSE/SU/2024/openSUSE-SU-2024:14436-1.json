@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openvpn",
-				"purl": "purl:rpm/suse/openvpn&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openvpn&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

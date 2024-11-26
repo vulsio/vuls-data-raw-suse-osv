@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-YAML-LibYAML",
-				"purl": "purl:rpm/suse/perl-YAML-LibYAML&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-YAML-LibYAML&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

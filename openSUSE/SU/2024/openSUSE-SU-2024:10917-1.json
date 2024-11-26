@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libICE",
-				"purl": "purl:rpm/suse/libICE&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libICE&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

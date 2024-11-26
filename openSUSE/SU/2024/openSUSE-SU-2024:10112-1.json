@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "systemd-ui",
-				"purl": "purl:rpm/suse/systemd-ui&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/systemd-ui&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

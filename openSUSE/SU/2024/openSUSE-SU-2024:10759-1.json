@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "firejail",
-				"purl": "purl:rpm/suse/firejail&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/firejail&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

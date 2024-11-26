@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cflow",
-				"purl": "purl:rpm/suse/cflow&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cflow&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

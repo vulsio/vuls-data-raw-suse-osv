@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xmltooling",
-				"purl": "purl:rpm/suse/xmltooling&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xmltooling&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

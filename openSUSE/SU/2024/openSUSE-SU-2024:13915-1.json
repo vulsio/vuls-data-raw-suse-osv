@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "hcode",
-				"purl": "purl:rpm/suse/hcode&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/hcode&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "transfig",
-				"purl": "purl:rpm/suse/transfig&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/transfig&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

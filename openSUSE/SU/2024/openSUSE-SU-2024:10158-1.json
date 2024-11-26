@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dovecot22",
-				"purl": "purl:rpm/suse/dovecot22&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dovecot22&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

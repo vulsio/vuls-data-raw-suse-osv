@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "radvd",
-				"purl": "purl:rpm/suse/radvd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/radvd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

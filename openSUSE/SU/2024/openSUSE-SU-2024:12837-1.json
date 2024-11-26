@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openssl-1_0_0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gupnp",
-				"purl": "purl:rpm/suse/gupnp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gupnp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

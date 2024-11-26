@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP4",
 				"name": "python311",
-				"purl": "purl:rpm/suse/python311&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
+				"purl": "pkg:rpm/suse/python311&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP4",
 				"name": "python311-core",
-				"purl": "purl:rpm/suse/python311-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
+				"purl": "pkg:rpm/suse/python311-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
 			},
 			"ranges": [
 				{

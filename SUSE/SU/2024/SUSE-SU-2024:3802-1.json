@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5-LTSS"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/keepalived&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP5",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/keepalived&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.5",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=openSUSE%20Leap%20Micro%205.5"
+				"purl": "pkg:rpm/opensuse/keepalived&distro=openSUSE%20Leap%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/keepalived&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

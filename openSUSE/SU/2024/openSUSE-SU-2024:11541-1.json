@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zim",
-				"purl": "purl:rpm/suse/zim&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zim&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libzypp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -29,7 +29,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ntp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

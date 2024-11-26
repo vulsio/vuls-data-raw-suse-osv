@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "google-oauth-java-client",
-				"purl": "purl:rpm/suse/google-oauth-java-client&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/google-oauth-java-client&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

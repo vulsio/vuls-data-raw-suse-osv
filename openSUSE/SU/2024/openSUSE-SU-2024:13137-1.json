@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ruby3.2-rubygem-rails-html-sanitizer",
-				"purl": "purl:rpm/suse/ruby3.2-rubygem-rails-html-sanitizer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ruby3.2-rubygem-rails-html-sanitizer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

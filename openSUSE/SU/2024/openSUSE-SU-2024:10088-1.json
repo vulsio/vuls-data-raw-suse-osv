@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mbedtls",
-				"purl": "purl:rpm/suse/mbedtls&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mbedtls&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

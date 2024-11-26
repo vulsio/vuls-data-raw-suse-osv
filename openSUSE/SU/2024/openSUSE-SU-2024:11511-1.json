@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "wicked",
-				"purl": "purl:rpm/suse/wicked&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/wicked&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

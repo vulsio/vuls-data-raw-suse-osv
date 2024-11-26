@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "virglrenderer",
-				"purl": "purl:rpm/suse/virglrenderer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/virglrenderer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

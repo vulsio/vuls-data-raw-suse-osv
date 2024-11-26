@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "newt",
-				"purl": "purl:rpm/suse/newt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/newt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "librsync",
-				"purl": "purl:rpm/suse/librsync&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/librsync&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

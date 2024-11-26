@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "obs-service-go_modules",
-				"purl": "purl:rpm/suse/obs-service-go_modules&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/obs-service-go_modules&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

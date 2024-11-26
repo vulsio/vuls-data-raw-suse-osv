@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zsh",
-				"purl": "purl:rpm/suse/zsh&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zsh&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

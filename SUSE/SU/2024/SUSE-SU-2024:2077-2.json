@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "gdk-pixbuf",
-				"purl": "purl:rpm/suse/gdk-pixbuf&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/gdk-pixbuf&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{

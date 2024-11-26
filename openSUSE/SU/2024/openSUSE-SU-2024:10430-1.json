@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "conntrack-tools",
-				"purl": "purl:rpm/suse/conntrack-tools&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/conntrack-tools&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

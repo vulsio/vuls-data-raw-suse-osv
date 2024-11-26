@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cri-o",
-				"purl": "purl:rpm/suse/cri-o&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cri-o&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

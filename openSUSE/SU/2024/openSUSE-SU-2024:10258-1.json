@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "pidgin-otr",
-				"purl": "purl:rpm/suse/pidgin-otr&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/pidgin-otr&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

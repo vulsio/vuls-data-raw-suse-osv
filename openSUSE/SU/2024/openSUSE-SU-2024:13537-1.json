@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cJSON",
-				"purl": "purl:rpm/suse/cJSON&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cJSON&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

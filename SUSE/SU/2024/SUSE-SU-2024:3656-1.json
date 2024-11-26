@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "etcd",
-				"purl": "purl:rpm/suse/etcd&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/etcd&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "etcd",
-				"purl": "purl:rpm/suse/etcd&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/etcd&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

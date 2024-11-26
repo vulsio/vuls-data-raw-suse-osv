@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "wp-cli",
-				"purl": "purl:rpm/suse/wp-cli&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/wp-cli&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

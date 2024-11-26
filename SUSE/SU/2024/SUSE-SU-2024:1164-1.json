@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP5",
 				"name": "kubernetes1.24",
-				"purl": "purl:rpm/suse/kubernetes1.24&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
+				"purl": "pkg:rpm/suse/kubernetes1.24&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "kubernetes1.24",
-				"purl": "purl:rpm/suse/kubernetes1.24&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/kubernetes1.24&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

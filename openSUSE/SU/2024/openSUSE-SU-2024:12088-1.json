@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kernel-firmware",
-				"purl": "purl:rpm/suse/kernel-firmware&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kernel-firmware&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

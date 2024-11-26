@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "klp-build",
-				"purl": "purl:rpm/suse/klp-build&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/klp-build&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

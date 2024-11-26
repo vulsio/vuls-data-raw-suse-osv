@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "spice-vdagent",
-				"purl": "purl:rpm/suse/spice-vdagent&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/spice-vdagent&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

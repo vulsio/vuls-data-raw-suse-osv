@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-alertmanager",
-				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -218,7 +218,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -300,7 +300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/spacewalk-koan&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -341,7 +341,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -382,7 +382,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -409,7 +409,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{

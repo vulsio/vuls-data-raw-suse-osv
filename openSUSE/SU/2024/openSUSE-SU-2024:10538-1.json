@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "subversion",
-				"purl": "purl:rpm/suse/subversion&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/subversion&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

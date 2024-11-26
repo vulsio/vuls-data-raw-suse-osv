@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tinyproxy",
-				"purl": "purl:rpm/suse/tinyproxy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tinyproxy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

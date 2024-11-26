@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ganglia-web",
-				"purl": "purl:rpm/suse/ganglia-web&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ganglia-web&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

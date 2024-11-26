@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "postgresql16",
-				"purl": "purl:rpm/suse/postgresql16&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/postgresql16&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{

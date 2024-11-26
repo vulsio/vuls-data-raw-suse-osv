@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "llvm17",
-				"purl": "purl:rpm/suse/llvm17&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/llvm17&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -197,7 +197,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "llvm17",
-				"purl": "purl:rpm/suse/llvm17&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/llvm17&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libFS",
-				"purl": "purl:rpm/suse/libFS&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libFS&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

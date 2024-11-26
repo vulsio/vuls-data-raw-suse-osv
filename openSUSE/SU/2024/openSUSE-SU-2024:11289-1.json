@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/qpdf&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

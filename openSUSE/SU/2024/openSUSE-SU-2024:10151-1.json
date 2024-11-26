@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xzgv",
-				"purl": "purl:rpm/suse/xzgv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xzgv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

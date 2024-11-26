@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "glibc",
-				"purl": "purl:rpm/suse/glibc&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/glibc&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ini4j",
-				"purl": "purl:rpm/suse/ini4j&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ini4j&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

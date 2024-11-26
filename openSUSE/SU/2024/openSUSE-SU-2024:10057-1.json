@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-actionview-4_2",
-				"purl": "purl:rpm/suse/rubygem-actionview-4_2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-actionview-4_2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

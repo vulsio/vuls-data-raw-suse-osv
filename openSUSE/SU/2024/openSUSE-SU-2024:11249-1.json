@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-paramiko",
-				"purl": "purl:rpm/suse/python-paramiko&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-paramiko&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

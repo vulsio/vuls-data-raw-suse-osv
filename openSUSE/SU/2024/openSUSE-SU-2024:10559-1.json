@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libXext",
-				"purl": "purl:rpm/suse/libXext&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libXext&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

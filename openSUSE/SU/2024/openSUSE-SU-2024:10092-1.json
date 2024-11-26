@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "derby",
-				"purl": "purl:rpm/suse/derby&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/derby&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

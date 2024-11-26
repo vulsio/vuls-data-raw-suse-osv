@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rtkit",
-				"purl": "purl:rpm/suse/rtkit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rtkit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

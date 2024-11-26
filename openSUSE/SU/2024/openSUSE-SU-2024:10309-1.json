@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libressl",
-				"purl": "purl:rpm/suse/libressl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libressl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

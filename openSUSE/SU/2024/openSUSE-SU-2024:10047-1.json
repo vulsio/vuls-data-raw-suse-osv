@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "vino",
-				"purl": "purl:rpm/suse/vino&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/vino&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

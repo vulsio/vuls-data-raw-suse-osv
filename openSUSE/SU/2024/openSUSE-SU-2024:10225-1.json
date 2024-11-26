@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dracut",
-				"purl": "purl:rpm/suse/dracut&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dracut&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

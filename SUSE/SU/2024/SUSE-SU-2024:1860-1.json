@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "uriparser",
-				"purl": "purl:rpm/suse/uriparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/uriparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "uriparser",
-				"purl": "purl:rpm/suse/uriparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/uriparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "uriparser",
-				"purl": "purl:rpm/suse/uriparser&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/uriparser&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "uriparser",
-				"purl": "purl:rpm/suse/uriparser&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/uriparser&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "scummvm",
-				"purl": "purl:rpm/suse/scummvm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/scummvm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

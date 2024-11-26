@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-jquery-rails",
-				"purl": "purl:rpm/suse/rubygem-jquery-rails&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-jquery-rails&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

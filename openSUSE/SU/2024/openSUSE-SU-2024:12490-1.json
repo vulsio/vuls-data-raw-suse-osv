@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "coredns",
-				"purl": "purl:rpm/suse/coredns&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/coredns&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

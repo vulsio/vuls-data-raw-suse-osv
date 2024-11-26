@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "spice",
-				"purl": "purl:rpm/suse/spice&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/spice&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

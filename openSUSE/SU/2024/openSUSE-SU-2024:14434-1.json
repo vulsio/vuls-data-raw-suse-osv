@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python314",
-				"purl": "purl:rpm/suse/python314&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python314&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

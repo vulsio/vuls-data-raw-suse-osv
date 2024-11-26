@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Confidential Computing Technical Preview 15 SP6",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
 			},
 			"ranges": [
 				{

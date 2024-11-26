@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/containerd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

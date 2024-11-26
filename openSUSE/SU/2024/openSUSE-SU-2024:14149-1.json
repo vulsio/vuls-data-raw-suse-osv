@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-mysql-connector-python",
-				"purl": "purl:rpm/suse/python-mysql-connector-python&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-mysql-connector-python&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

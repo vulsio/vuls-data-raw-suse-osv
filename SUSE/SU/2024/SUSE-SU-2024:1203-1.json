@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "texlive-kastrup",
-				"purl": "purl:rpm/suse/texlive-kastrup&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/texlive-kastrup&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "texlive-koma-script",
-				"purl": "purl:rpm/suse/texlive-koma-script&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/texlive-koma-script&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "texlive-kpathsea",
-				"purl": "purl:rpm/suse/texlive-kpathsea&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/texlive-kpathsea&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{

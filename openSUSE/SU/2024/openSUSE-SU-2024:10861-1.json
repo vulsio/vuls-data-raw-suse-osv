@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "imlib2",
-				"purl": "purl:rpm/suse/imlib2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/imlib2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sqlite3",
-				"purl": "purl:rpm/suse/sqlite3&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sqlite3&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

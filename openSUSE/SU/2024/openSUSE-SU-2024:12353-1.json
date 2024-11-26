@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/colord&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-Beaker",
-				"purl": "purl:rpm/suse/python-Beaker&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-Beaker&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

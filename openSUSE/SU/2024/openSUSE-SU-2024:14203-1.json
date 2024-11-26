@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-Django&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

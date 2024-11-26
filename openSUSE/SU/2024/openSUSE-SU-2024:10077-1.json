@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "expat",
-				"purl": "purl:rpm/suse/expat&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/expat&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

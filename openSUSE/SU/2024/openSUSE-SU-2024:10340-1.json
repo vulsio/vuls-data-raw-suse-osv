@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lcms",
-				"purl": "purl:rpm/suse/lcms&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lcms&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

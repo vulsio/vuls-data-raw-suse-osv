@@ -28,7 +28,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "busybox",
-				"purl": "purl:rpm/suse/busybox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/busybox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

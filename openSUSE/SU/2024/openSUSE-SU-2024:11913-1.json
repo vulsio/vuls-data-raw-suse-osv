@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "juliaup",
-				"purl": "purl:rpm/suse/juliaup&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/juliaup&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

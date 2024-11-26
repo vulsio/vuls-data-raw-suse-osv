@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gnome-shell",
-				"purl": "purl:rpm/suse/gnome-shell&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gnome-shell&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

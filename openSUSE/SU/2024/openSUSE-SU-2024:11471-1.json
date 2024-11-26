@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tpm2.0-tools",
-				"purl": "purl:rpm/suse/tpm2.0-tools&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tpm2.0-tools&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sharutils",
-				"purl": "purl:rpm/suse/sharutils&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sharutils&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

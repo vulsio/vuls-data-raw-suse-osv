@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "procps",
-				"purl": "purl:rpm/suse/procps&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/procps&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

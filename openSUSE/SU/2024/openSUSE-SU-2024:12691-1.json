@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "prometheus-ha_cluster_exporter",
-				"purl": "purl:rpm/suse/prometheus-ha_cluster_exporter&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/prometheus-ha_cluster_exporter&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

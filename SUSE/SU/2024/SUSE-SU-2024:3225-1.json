@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{

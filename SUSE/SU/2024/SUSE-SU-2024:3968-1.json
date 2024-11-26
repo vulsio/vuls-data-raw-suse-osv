@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "expat",
-				"purl": "purl:rpm/suse/expat&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
+				"purl": "pkg:rpm/suse/expat&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{

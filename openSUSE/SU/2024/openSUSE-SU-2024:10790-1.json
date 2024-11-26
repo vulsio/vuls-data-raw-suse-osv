@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "glib-networking",
-				"purl": "purl:rpm/suse/glib-networking&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/glib-networking&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

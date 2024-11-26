@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ardour",
-				"purl": "purl:rpm/suse/ardour&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ardour&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

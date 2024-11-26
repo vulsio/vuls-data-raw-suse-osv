@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "php5",
-				"purl": "purl:rpm/suse/php5&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/php5&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

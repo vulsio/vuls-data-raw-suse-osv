@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "velero",
-				"purl": "purl:rpm/suse/velero&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/velero&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

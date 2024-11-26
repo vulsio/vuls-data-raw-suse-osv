@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-keystonemiddleware",
-				"purl": "purl:rpm/suse/python-keystonemiddleware&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-keystonemiddleware&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

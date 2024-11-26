@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/Mesa&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

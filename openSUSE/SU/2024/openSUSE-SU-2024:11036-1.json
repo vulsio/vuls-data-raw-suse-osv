@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "man",
-				"purl": "purl:rpm/suse/man&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/man&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "pam_u2f",
-				"purl": "purl:rpm/suse/pam_u2f&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/pam_u2f&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

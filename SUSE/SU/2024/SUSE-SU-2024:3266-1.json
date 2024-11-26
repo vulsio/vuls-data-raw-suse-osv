@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -109,7 +109,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{

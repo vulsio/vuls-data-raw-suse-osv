@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "opensc",
-				"purl": "purl:rpm/suse/opensc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/opensc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "opensc",
-				"purl": "purl:rpm/suse/opensc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/opensc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{

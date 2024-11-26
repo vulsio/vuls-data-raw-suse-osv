@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "yubikey-manager",
-				"purl": "purl:rpm/suse/yubikey-manager&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/yubikey-manager&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

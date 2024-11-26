@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "aria2",
-				"purl": "purl:rpm/suse/aria2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/aria2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

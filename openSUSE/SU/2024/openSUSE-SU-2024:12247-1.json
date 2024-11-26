@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-http",
-				"purl": "purl:rpm/suse/rubygem-http&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-http&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

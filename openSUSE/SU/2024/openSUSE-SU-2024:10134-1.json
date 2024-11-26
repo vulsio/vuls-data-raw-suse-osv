@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xlockmore",
-				"purl": "purl:rpm/suse/xlockmore&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xlockmore&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

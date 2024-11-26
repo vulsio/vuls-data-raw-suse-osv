@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP5",
 				"name": "kernel-azure",
-				"purl": "purl:rpm/suse/kernel-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
+				"purl": "pkg:rpm/suse/kernel-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP5",
 				"name": "kernel-source-azure",
-				"purl": "purl:rpm/suse/kernel-source-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
+				"purl": "pkg:rpm/suse/kernel-source-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP5",
 				"name": "kernel-syms-azure",
-				"purl": "purl:rpm/suse/kernel-syms-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
+				"purl": "pkg:rpm/suse/kernel-syms-azure&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "kernel-azure",
-				"purl": "purl:rpm/suse/kernel-azure&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/kernel-azure&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -143,7 +143,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "kernel-source-azure",
-				"purl": "purl:rpm/suse/kernel-source-azure&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/kernel-source-azure&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "kernel-syms-azure",
-				"purl": "purl:rpm/suse/kernel-syms-azure&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/kernel-syms-azure&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

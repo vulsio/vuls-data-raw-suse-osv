@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "FastCGI",
-				"purl": "purl:rpm/suse/FastCGI&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/FastCGI&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

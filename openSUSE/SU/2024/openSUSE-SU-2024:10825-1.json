@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gsoap",
-				"purl": "purl:rpm/suse/gsoap&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gsoap&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/slurm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "helmfile",
-				"purl": "purl:rpm/suse/helmfile&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/helmfile&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Pillow&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

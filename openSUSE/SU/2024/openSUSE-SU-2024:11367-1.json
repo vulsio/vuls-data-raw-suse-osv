@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sarg",
-				"purl": "purl:rpm/suse/sarg&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sarg&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

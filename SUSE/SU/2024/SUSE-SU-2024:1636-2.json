@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "tpm2.0-tools",
-				"purl": "purl:rpm/suse/tpm2.0-tools&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/tpm2.0-tools&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{

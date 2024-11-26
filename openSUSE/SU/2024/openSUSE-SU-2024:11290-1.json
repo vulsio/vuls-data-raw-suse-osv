@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "quagga",
-				"purl": "purl:rpm/suse/quagga&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/quagga&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

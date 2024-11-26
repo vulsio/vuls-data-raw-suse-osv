@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "icinga2",
-				"purl": "purl:rpm/suse/icinga2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/icinga2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

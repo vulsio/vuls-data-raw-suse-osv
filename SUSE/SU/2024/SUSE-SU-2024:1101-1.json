@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/xen&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.4",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Leap%20Micro%205.4"
+				"purl": "pkg:rpm/opensuse/xen&distro=openSUSE%20Leap%20Micro%205.4"
 			},
 			"ranges": [
 				{

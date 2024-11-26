@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nodejs19",
-				"purl": "purl:rpm/suse/nodejs19&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nodejs19&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

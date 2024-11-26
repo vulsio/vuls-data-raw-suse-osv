@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mozjs102",
-				"purl": "purl:rpm/suse/mozjs102&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mozjs102&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

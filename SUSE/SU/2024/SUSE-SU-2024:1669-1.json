@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{
@@ -151,7 +151,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{
@@ -191,7 +191,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{
@@ -231,7 +231,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4 LTSS EXTREME CORE",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4%20LTSS%20EXTREME%20CORE"
 			},
 			"ranges": [
 				{

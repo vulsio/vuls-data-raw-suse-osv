@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "yt-dlp",
-				"purl": "purl:rpm/suse/yt-dlp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/yt-dlp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

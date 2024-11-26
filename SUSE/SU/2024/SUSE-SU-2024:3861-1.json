@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "uwsgi",
-				"purl": "purl:rpm/suse/uwsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/uwsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "uwsgi",
-				"purl": "purl:rpm/suse/uwsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/uwsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "uwsgi",
-				"purl": "purl:rpm/suse/uwsgi&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/uwsgi&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "uwsgi",
-				"purl": "purl:rpm/suse/uwsgi&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/uwsgi&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

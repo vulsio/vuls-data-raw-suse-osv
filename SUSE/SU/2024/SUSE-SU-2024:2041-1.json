@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP2",
 				"name": "booth",
-				"purl": "purl:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{

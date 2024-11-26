@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{

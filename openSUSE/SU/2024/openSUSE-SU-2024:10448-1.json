@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tkdiff",
-				"purl": "purl:rpm/suse/tkdiff&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tkdiff&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

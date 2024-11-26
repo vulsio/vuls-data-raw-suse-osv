@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "eclipse-jgit",
-				"purl": "purl:rpm/suse/eclipse-jgit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/eclipse-jgit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "FlightGear",
-				"purl": "purl:rpm/suse/FlightGear&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/FlightGear&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

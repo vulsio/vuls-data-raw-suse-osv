@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "hexchat",
-				"purl": "purl:rpm/suse/hexchat&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/hexchat&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

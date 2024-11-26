@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "uwsgi",
-				"purl": "purl:rpm/suse/uwsgi&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/uwsgi&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

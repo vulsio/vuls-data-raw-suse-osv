@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -121,7 +121,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -152,7 +152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -214,7 +214,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/ffmpeg-4&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

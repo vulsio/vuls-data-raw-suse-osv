@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kubernetes1.23",
-				"purl": "purl:rpm/suse/kubernetes1.23&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kubernetes1.23&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

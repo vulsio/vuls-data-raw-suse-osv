@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openssh",
-				"purl": "purl:rpm/suse/openssh&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openssh&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

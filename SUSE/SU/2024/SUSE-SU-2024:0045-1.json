@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "gcc13",
-				"purl": "purl:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "gcc13",
-				"purl": "purl:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "gcc13",
-				"purl": "purl:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/gcc13&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{

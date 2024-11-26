@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "istioctl",
-				"purl": "purl:rpm/suse/istioctl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/istioctl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

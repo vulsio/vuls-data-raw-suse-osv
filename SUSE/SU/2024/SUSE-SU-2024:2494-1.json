@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "cockpit",
-				"purl": "purl:rpm/suse/cockpit&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/cockpit&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "squirrel",
-				"purl": "purl:rpm/suse/squirrel&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/squirrel&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nasm",
-				"purl": "purl:rpm/suse/nasm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nasm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

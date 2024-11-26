@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-ugly&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

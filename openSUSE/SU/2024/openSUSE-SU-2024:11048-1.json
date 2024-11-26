@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "miller",
-				"purl": "purl:rpm/suse/miller&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/miller&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

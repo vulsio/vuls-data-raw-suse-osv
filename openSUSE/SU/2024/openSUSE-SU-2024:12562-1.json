@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rpm",
-				"purl": "purl:rpm/suse/rpm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rpm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

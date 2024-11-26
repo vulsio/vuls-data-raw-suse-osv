@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-Email-MIME",
-				"purl": "purl:rpm/suse/perl-Email-MIME&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-Email-MIME&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

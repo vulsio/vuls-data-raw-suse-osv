@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Django&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

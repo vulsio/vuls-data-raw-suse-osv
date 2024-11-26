@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tuigreet",
-				"purl": "purl:rpm/suse/tuigreet&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tuigreet&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

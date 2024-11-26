@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "davfs2",
-				"purl": "purl:rpm/suse/davfs2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/davfs2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

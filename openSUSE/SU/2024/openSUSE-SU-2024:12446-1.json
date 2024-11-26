@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bluez",
-				"purl": "purl:rpm/suse/bluez&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bluez&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

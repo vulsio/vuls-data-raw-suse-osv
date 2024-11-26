@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cifs-utils",
-				"purl": "purl:rpm/suse/cifs-utils&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cifs-utils&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

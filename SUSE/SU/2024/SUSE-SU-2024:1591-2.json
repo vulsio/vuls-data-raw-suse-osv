@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-Werkzeug",
-				"purl": "purl:rpm/suse/python-Werkzeug&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Werkzeug&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{

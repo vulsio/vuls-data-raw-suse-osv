@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cecilia",
-				"purl": "purl:rpm/suse/cecilia&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cecilia&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

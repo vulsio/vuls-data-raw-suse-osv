@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tomcat10",
-				"purl": "purl:rpm/suse/tomcat10&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tomcat10&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

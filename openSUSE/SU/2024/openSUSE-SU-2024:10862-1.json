@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "inn",
-				"purl": "purl:rpm/suse/inn&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/inn&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

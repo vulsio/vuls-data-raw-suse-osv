@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rmt-server",
-				"purl": "purl:rpm/suse/rmt-server&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rmt-server&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

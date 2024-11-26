@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libcontainers-common",
-				"purl": "purl:rpm/suse/libcontainers-common&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libcontainers-common&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

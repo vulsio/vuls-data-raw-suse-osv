@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gdm",
-				"purl": "purl:rpm/suse/gdm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gdm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

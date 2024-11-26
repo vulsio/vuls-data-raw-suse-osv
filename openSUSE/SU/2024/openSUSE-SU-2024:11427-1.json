@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "teeworlds",
-				"purl": "purl:rpm/suse/teeworlds&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/teeworlds&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

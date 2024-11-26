@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "aws-cli",
-				"purl": "purl:rpm/suse/aws-cli&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/aws-cli&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

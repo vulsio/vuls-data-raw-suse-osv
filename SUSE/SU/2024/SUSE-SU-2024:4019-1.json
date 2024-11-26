@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "golang",
-				"purl": "purl:rpm/suse/golang&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/golang&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -106,7 +106,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "scap-security-guide",
-				"purl": "purl:rpm/suse/scap-security-guide&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/scap-security-guide&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -247,7 +247,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -279,7 +279,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "scap-security-guide",
-				"purl": "purl:rpm/suse/scap-security-guide&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/scap-security-guide&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -311,7 +311,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

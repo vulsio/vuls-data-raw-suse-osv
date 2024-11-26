@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-slixmpp",
-				"purl": "purl:rpm/suse/python-slixmpp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-slixmpp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

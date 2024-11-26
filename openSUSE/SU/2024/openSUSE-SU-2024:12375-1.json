@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "element-web",
-				"purl": "purl:rpm/suse/element-web&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/element-web&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

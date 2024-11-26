@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dosbox",
-				"purl": "purl:rpm/suse/dosbox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dosbox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

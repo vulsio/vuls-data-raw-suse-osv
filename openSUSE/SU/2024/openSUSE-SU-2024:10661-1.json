@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bouncycastle",
-				"purl": "purl:rpm/suse/bouncycastle&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bouncycastle&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

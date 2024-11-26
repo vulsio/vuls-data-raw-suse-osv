@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "coturn",
-				"purl": "purl:rpm/suse/coturn&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/coturn&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

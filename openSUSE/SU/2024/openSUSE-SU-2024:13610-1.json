@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-Mako",
-				"purl": "purl:rpm/suse/python-Mako&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-Mako&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

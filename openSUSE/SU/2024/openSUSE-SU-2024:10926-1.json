@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libav-tools",
-				"purl": "purl:rpm/suse/libav-tools&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libav-tools&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

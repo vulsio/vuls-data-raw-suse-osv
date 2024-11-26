@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "automake",
-				"purl": "purl:rpm/suse/automake&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/automake&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

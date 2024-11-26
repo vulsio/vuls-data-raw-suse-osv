@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "GraphicsMagick",
-				"purl": "purl:rpm/suse/GraphicsMagick&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/GraphicsMagick&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

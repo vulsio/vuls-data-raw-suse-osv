@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "osc",
-				"purl": "purl:rpm/suse/osc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/osc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "osc",
-				"purl": "purl:rpm/suse/osc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/osc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "osc",
-				"purl": "purl:rpm/suse/osc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/osc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "osc",
-				"purl": "purl:rpm/suse/osc&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/osc&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

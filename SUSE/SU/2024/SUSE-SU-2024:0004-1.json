@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -85,7 +85,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -275,7 +275,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -367,7 +367,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -413,7 +413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -459,7 +459,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -505,7 +505,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -597,7 +597,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -643,7 +643,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -689,7 +689,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -735,7 +735,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -781,7 +781,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -827,7 +827,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -873,7 +873,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -907,7 +907,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/webkit2gtk3-soup2&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -941,7 +941,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/webkit2gtk3&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1001,7 +1001,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/webkit2gtk3-soup2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1061,7 +1061,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/webkit2gtk4&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1121,7 +1121,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/webkit2gtk3&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1181,7 +1181,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "webkit2gtk3-soup2",
-				"purl": "purl:rpm/suse/webkit2gtk3-soup2&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/webkit2gtk3-soup2&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1241,7 +1241,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "webkit2gtk4",
-				"purl": "purl:rpm/suse/webkit2gtk4&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/webkit2gtk4&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

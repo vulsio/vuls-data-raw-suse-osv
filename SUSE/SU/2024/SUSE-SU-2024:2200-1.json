@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP6",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP6",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -161,7 +161,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/avahi&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/avahi-glib2&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -296,7 +296,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "avahi-qt5",
-				"purl": "purl:rpm/suse/avahi-qt5&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/avahi-qt5&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

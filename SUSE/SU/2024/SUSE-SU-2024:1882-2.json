@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{

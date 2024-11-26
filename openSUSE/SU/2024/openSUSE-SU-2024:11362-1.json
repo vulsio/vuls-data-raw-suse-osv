@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rzip",
-				"purl": "purl:rpm/suse/rzip&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rzip&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apache-ivy",
-				"purl": "purl:rpm/suse/apache-ivy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apache-ivy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

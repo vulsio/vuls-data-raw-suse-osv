@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libXdmcp",
-				"purl": "purl:rpm/suse/libXdmcp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libXdmcp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

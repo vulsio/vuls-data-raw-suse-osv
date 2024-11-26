@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "buildah",
-				"purl": "purl:rpm/suse/buildah&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/buildah&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

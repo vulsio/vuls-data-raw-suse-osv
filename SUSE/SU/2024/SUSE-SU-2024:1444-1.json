@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "apache2-mod_php7",
-				"purl": "purl:rpm/suse/apache2-mod_php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/apache2-mod_php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -91,7 +91,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "php7-fastcgi",
-				"purl": "purl:rpm/suse/php7-fastcgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/php7-fastcgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -247,7 +247,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "php7-fpm",
-				"purl": "purl:rpm/suse/php7-fpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/php7-fpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -325,7 +325,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "php7-embed",
-				"purl": "purl:rpm/suse/php7-embed&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/php7-embed&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -352,7 +352,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "apache2-mod_php7",
-				"purl": "purl:rpm/suse/apache2-mod_php7&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/apache2-mod_php7&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -432,7 +432,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/php7&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -512,7 +512,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "php7-embed",
-				"purl": "purl:rpm/suse/php7-embed&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/php7-embed&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -592,7 +592,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "php7-fastcgi",
-				"purl": "purl:rpm/suse/php7-fastcgi&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/php7-fastcgi&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "php7-fpm",
-				"purl": "purl:rpm/suse/php7-fpm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/php7-fpm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -752,7 +752,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "php7-test",
-				"purl": "purl:rpm/suse/php7-test&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/php7-test&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

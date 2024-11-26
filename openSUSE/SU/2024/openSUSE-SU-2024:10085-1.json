@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libgssglue",
-				"purl": "purl:rpm/suse/libgssglue&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libgssglue&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

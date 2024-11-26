@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cpio",
-				"purl": "purl:rpm/suse/cpio&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cpio&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

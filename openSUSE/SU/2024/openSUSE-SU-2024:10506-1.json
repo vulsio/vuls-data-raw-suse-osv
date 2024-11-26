@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "systemtap",
-				"purl": "purl:rpm/suse/systemtap&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/systemtap&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

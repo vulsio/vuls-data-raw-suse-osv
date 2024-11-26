@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "fish",
-				"purl": "purl:rpm/suse/fish&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/fish&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

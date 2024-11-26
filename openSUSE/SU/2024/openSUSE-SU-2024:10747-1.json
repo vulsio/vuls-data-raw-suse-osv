@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "exiv2",
-				"purl": "purl:rpm/suse/exiv2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/exiv2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

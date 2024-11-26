@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP5",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP6",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP6"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/kubernetes1.28&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/kubernetes1.28&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -210,7 +210,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "kubernetes1.28",
-				"purl": "purl:rpm/suse/kubernetes1.28&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/kubernetes1.28&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

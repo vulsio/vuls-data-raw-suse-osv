@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mozilla-nss&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

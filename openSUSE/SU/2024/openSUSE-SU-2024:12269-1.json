@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "EternalTerminal",
-				"purl": "purl:rpm/suse/EternalTerminal&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/EternalTerminal&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

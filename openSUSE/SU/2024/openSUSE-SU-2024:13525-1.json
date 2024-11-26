@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zbar&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

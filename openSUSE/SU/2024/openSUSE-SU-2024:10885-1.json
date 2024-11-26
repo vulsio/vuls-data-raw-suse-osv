@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kaffeine",
-				"purl": "purl:rpm/suse/kaffeine&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kaffeine&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "shadowsocks-rust",
-				"purl": "purl:rpm/suse/shadowsocks-rust&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/shadowsocks-rust&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

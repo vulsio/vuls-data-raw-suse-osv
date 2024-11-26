@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rpmdevtools",
-				"purl": "purl:rpm/suse/rpmdevtools&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rpmdevtools&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

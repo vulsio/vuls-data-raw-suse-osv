@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gitleaks",
-				"purl": "purl:rpm/suse/gitleaks&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gitleaks&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

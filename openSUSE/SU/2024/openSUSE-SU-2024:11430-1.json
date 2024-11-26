@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "terraform-provider-helm",
-				"purl": "purl:rpm/suse/terraform-provider-helm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/terraform-provider-helm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

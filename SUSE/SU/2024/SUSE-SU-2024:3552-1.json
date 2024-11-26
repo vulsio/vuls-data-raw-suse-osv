@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "pgadmin4",
-				"purl": "purl:rpm/suse/pgadmin4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/pgadmin4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
 				"name": "pgadmin4",
-				"purl": "purl:rpm/suse/pgadmin4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/pgadmin4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "pgadmin4",
-				"purl": "purl:rpm/suse/pgadmin4&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/pgadmin4&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

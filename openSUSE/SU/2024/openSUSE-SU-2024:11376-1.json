@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sddm",
-				"purl": "purl:rpm/suse/sddm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sddm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

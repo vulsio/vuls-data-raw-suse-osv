@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "file",
-				"purl": "purl:rpm/suse/file&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/file&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apptainer",
-				"purl": "purl:rpm/suse/apptainer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apptainer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

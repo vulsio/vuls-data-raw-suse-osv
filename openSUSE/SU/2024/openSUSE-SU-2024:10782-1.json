@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gegl",
-				"purl": "purl:rpm/suse/gegl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gegl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

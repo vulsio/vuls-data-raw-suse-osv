@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "opensc",
-				"purl": "purl:rpm/suse/opensc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/opensc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

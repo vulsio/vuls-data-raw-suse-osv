@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kubo",
-				"purl": "purl:rpm/suse/kubo&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kubo&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

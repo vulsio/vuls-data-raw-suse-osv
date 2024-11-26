@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ctags",
-				"purl": "purl:rpm/suse/ctags&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ctags&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

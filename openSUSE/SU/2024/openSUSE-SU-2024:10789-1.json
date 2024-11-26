@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gitolite",
-				"purl": "purl:rpm/suse/gitolite&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gitolite&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

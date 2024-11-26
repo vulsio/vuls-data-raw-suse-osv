@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP4",
 				"name": "kernel-livepatch-SLE15-SP4_Update_26",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP4_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP4_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
 			},
 			"ranges": [
 				{

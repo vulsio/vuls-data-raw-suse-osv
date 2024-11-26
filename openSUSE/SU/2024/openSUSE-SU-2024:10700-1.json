@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "crmsh",
-				"purl": "purl:rpm/suse/crmsh&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/crmsh&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rust1.66",
-				"purl": "purl:rpm/suse/rust1.66&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rust1.66&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

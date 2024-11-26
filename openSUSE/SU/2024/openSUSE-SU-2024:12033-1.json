@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-sinatra",
-				"purl": "purl:rpm/suse/rubygem-sinatra&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-sinatra&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

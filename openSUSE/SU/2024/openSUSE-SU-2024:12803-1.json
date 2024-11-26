@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cockpit-d-installer",
-				"purl": "purl:rpm/suse/cockpit-d-installer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cockpit-d-installer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

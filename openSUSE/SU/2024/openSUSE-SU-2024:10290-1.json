@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/php7&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

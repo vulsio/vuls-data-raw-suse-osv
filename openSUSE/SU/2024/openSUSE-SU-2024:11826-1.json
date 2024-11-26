@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-activerecord-6.0",
-				"purl": "purl:rpm/suse/rubygem-activerecord-6.0&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-activerecord-6.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

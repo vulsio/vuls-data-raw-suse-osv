@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bat",
-				"purl": "purl:rpm/suse/bat&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bat&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

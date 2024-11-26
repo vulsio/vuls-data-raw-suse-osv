@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-extlib",
-				"purl": "purl:rpm/suse/rubygem-extlib&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-extlib&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "open-iscsi",
-				"purl": "purl:rpm/suse/open-iscsi&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/open-iscsi&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP5",
 				"name": "tomcat10",
-				"purl": "purl:rpm/suse/tomcat10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP5"
+				"purl": "pkg:rpm/suse/tomcat10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "tomcat10",
-				"purl": "purl:rpm/suse/tomcat10&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/tomcat10&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

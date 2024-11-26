@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP6",
 				"name": "qt6-base",
-				"purl": "purl:rpm/suse/qt6-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
+				"purl": "pkg:rpm/suse/qt6-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "qt6-base",
-				"purl": "purl:rpm/suse/qt6-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/qt6-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "qt6-base-docs",
-				"purl": "purl:rpm/suse/qt6-base-docs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/qt6-base-docs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -210,7 +210,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "qt6-base",
-				"purl": "purl:rpm/suse/qt6-base&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/qt6-base&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -292,7 +292,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "qt6-base-docs",
-				"purl": "purl:rpm/suse/qt6-base-docs&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/qt6-base-docs&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

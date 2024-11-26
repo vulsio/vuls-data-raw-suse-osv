@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "texlive-specs-d",
-				"purl": "purl:rpm/suse/texlive-specs-d&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/texlive-specs-d&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

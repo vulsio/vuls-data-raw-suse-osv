@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sca-patterns-sle15",
-				"purl": "purl:rpm/suse/sca-patterns-sle15&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sca-patterns-sle15&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

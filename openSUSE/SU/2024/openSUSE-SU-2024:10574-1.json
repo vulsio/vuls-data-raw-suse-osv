@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-activesupport-4_2",
-				"purl": "purl:rpm/suse/rubygem-activesupport-4_2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-activesupport-4_2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "minicom",
-				"purl": "purl:rpm/suse/minicom&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/minicom&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

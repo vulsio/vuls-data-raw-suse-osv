@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "squidGuard",
-				"purl": "purl:rpm/suse/squidGuard&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/squidGuard&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

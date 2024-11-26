@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "conftest",
-				"purl": "purl:rpm/suse/conftest&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/conftest&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

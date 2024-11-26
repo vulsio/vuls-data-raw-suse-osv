@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "git-annex",
-				"purl": "purl:rpm/suse/git-annex&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/git-annex&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

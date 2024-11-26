@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libuv",
-				"purl": "purl:rpm/suse/libuv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libuv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

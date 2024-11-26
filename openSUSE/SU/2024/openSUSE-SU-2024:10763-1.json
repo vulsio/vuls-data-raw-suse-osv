@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "fontforge",
-				"purl": "purl:rpm/suse/fontforge&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/fontforge&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "p7zip",
-				"purl": "purl:rpm/suse/p7zip&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/p7zip&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

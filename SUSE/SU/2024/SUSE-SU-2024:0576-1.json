@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "dpdk-thunderx",
-				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "dpdk-thunderx",
-				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "dpdk-thunderx",
-				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -247,7 +247,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -278,7 +278,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "notary",
-				"purl": "purl:rpm/suse/notary&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/notary&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

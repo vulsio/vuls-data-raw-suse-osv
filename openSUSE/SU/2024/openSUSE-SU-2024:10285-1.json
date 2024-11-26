@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "qemu-linux-user",
-				"purl": "purl:rpm/suse/qemu-linux-user&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/qemu-linux-user&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

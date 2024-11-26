@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-facter",
-				"purl": "purl:rpm/suse/rubygem-facter&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-facter&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

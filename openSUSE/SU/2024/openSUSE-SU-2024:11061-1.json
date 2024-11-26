@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mpg123",
-				"purl": "purl:rpm/suse/mpg123&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mpg123&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

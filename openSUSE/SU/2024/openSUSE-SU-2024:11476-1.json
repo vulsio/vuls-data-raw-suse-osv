@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "trousers",
-				"purl": "purl:rpm/suse/trousers&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/trousers&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

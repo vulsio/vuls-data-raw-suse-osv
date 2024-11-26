@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "exempi",
-				"purl": "purl:rpm/suse/exempi&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/exempi&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gnome-remote-desktop",
-				"purl": "purl:rpm/suse/gnome-remote-desktop&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gnome-remote-desktop&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

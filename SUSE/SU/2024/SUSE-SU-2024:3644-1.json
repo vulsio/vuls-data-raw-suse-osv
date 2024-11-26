@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP2",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP3",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP4",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP5",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -121,7 +121,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/rubygem-puma&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

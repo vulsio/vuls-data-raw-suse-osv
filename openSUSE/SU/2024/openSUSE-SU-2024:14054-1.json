@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "oqs-provider",
-				"purl": "purl:rpm/suse/oqs-provider&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/oqs-provider&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

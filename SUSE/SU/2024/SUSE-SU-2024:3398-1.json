@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP6",
 				"name": "kernel-livepatch-SLE15-SP6_Update_2",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP6_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP6"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP6_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP6"
 			},
 			"ranges": [
 				{

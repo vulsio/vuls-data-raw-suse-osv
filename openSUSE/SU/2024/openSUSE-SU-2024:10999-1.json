@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libssh2_org",
-				"purl": "purl:rpm/suse/libssh2_org&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libssh2_org&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

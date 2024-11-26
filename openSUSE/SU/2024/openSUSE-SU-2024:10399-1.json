@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "filezilla",
-				"purl": "purl:rpm/suse/filezilla&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/filezilla&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

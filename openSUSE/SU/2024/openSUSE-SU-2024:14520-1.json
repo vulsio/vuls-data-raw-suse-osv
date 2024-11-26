@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "opentofu",
-				"purl": "purl:rpm/suse/opentofu&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/opentofu&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/M2XL2GIFLLA5UEYWJGZCWOIWYC4LD5JE/"
 		},
 		{
 			"type": "WEB",

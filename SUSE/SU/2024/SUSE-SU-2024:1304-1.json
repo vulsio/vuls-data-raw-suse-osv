@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "eclipse",
-				"purl": "purl:rpm/suse/eclipse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/eclipse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -109,7 +109,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "eclipse-bootstrap",
-				"purl": "purl:rpm/suse/eclipse-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/eclipse-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "eclipse-emf",
-				"purl": "purl:rpm/suse/eclipse-emf&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/eclipse-emf&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "eclipse-emf-bootstrap",
-				"purl": "purl:rpm/suse/eclipse-emf-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/eclipse-emf-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -220,7 +220,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -250,7 +250,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -310,7 +310,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -340,7 +340,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -370,7 +370,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -400,7 +400,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -430,7 +430,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -460,7 +460,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -490,7 +490,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -520,7 +520,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -550,7 +550,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -580,7 +580,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -610,7 +610,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -640,7 +640,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -670,7 +670,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -700,7 +700,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -730,7 +730,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -790,7 +790,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -820,7 +820,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-surefire&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -850,7 +850,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-surefire-plugins&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -880,7 +880,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "eclipse",
-				"purl": "purl:rpm/suse/eclipse&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/eclipse&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -941,7 +941,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "eclipse-bootstrap",
-				"purl": "purl:rpm/suse/eclipse-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/eclipse-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1002,7 +1002,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "eclipse-emf",
-				"purl": "purl:rpm/suse/eclipse-emf&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/eclipse-emf&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1063,7 +1063,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "eclipse-emf-bootstrap",
-				"purl": "purl:rpm/suse/eclipse-emf-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/eclipse-emf-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1124,7 +1124,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-surefire",
-				"purl": "purl:rpm/suse/maven-surefire&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-surefire&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1185,7 +1185,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-surefire-plugins",
-				"purl": "purl:rpm/suse/maven-surefire-plugins&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-surefire-plugins&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1246,7 +1246,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-surefire-provider-junit5",
-				"purl": "purl:rpm/suse/maven-surefire-provider-junit5&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-surefire-provider-junit5&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1307,7 +1307,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "tycho",
-				"purl": "purl:rpm/suse/tycho&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/tycho&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1368,7 +1368,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "tycho-bootstrap",
-				"purl": "purl:rpm/suse/tycho-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/tycho-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

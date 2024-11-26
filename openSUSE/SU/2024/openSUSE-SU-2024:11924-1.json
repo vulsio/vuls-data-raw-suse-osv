@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cscreen",
-				"purl": "purl:rpm/suse/cscreen&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cscreen&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

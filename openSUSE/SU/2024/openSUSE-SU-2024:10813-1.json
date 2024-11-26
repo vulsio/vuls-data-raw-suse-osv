@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "godot",
-				"purl": "purl:rpm/suse/godot&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/godot&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

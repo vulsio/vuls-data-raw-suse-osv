@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-eventlet",
-				"purl": "purl:rpm/suse/python-eventlet&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-eventlet&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

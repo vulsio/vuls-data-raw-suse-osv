@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kafka-source",
-				"purl": "purl:rpm/suse/kafka-source&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kafka-source&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

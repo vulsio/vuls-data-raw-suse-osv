@@ -26,7 +26,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ImageMagick&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

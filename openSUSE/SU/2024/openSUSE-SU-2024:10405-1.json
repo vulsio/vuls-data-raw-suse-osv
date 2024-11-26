@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "pam",
-				"purl": "purl:rpm/suse/pam&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/pam&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

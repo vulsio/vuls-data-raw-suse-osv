@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -194,7 +194,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -290,7 +290,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -322,7 +322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -354,7 +354,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -386,7 +386,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -418,7 +418,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -450,7 +450,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "apiguardian",
-				"purl": "purl:rpm/suse/apiguardian&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/apiguardian&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -484,7 +484,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "assertj-core",
-				"purl": "purl:rpm/suse/assertj-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/assertj-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -518,7 +518,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "byte-buddy",
-				"purl": "purl:rpm/suse/byte-buddy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/byte-buddy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -552,7 +552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "jopt-simple",
-				"purl": "purl:rpm/suse/jopt-simple&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/jopt-simple&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "junit5",
-				"purl": "purl:rpm/suse/junit5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/junit5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -620,7 +620,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "junit5-minimal",
-				"purl": "purl:rpm/suse/junit5-minimal&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/junit5-minimal&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -654,7 +654,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "open-test-reporting",
-				"purl": "purl:rpm/suse/open-test-reporting&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/open-test-reporting&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -688,7 +688,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -719,7 +719,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -750,7 +750,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -781,7 +781,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -812,7 +812,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -843,7 +843,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -876,7 +876,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -909,7 +909,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -942,7 +942,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -975,7 +975,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1008,7 +1008,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1041,7 +1041,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1074,7 +1074,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1107,7 +1107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1140,7 +1140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1173,7 +1173,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1206,7 +1206,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1239,7 +1239,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1272,7 +1272,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1305,7 +1305,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1338,7 +1338,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1371,7 +1371,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1404,7 +1404,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1437,7 +1437,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1470,7 +1470,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1503,7 +1503,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1536,7 +1536,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1569,7 +1569,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1602,7 +1602,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1635,7 +1635,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1668,7 +1668,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1701,7 +1701,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1734,7 +1734,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1767,7 +1767,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1800,7 +1800,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1833,7 +1833,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1866,7 +1866,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1899,7 +1899,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1932,7 +1932,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1965,7 +1965,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1998,7 +1998,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2031,7 +2031,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2064,7 +2064,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2097,7 +2097,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2130,7 +2130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2163,7 +2163,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2196,7 +2196,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2229,7 +2229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2262,7 +2262,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2295,7 +2295,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2328,7 +2328,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2361,7 +2361,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2394,7 +2394,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2427,7 +2427,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2460,7 +2460,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2493,7 +2493,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2526,7 +2526,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2559,7 +2559,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2592,7 +2592,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2625,7 +2625,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2658,7 +2658,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2691,7 +2691,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2724,7 +2724,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2757,7 +2757,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2790,7 +2790,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2823,7 +2823,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2856,7 +2856,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2889,7 +2889,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2922,7 +2922,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2955,7 +2955,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2988,7 +2988,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3021,7 +3021,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3054,7 +3054,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3087,7 +3087,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3120,7 +3120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3153,7 +3153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -3180,7 +3180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -3207,7 +3207,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3240,7 +3240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/hamcrest&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3273,7 +3273,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/jaxen&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3306,7 +3306,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/jdom&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3339,7 +3339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/junit&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3372,7 +3372,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3405,7 +3405,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/xom&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -3438,7 +3438,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "apiguardian",
-				"purl": "purl:rpm/suse/apiguardian&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/apiguardian&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3491,7 +3491,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "assertj-core",
-				"purl": "purl:rpm/suse/assertj-core&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/assertj-core&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3544,7 +3544,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "byte-buddy",
-				"purl": "purl:rpm/suse/byte-buddy&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/byte-buddy&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3597,7 +3597,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/dom4j&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3650,7 +3650,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hamcrest&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3703,7 +3703,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/jaxen&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3756,7 +3756,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/jdom&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3809,7 +3809,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "jopt-simple",
-				"purl": "purl:rpm/suse/jopt-simple&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/jopt-simple&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3862,7 +3862,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/junit&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3915,7 +3915,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "junit5",
-				"purl": "purl:rpm/suse/junit5&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/junit5&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3968,7 +3968,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "junit5-minimal",
-				"purl": "purl:rpm/suse/junit5-minimal&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/junit5-minimal&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4021,7 +4021,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/objectweb-asm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4074,7 +4074,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "open-test-reporting",
-				"purl": "purl:rpm/suse/open-test-reporting&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/open-test-reporting&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4127,7 +4127,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "saxpath",
-				"purl": "purl:rpm/suse/saxpath&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/saxpath&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4180,7 +4180,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xom&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4233,7 +4233,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "apiguardian",
-				"purl": "purl:rpm/suse/apiguardian&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/apiguardian&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4286,7 +4286,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "assertj-core",
-				"purl": "purl:rpm/suse/assertj-core&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/assertj-core&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4339,7 +4339,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "byte-buddy",
-				"purl": "purl:rpm/suse/byte-buddy&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/byte-buddy&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4392,7 +4392,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/dom4j&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4445,7 +4445,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "hamcrest",
-				"purl": "purl:rpm/suse/hamcrest&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/hamcrest&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4498,7 +4498,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "jaxen",
-				"purl": "purl:rpm/suse/jaxen&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/jaxen&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4551,7 +4551,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "jdom",
-				"purl": "purl:rpm/suse/jdom&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/jdom&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4604,7 +4604,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "jopt-simple",
-				"purl": "purl:rpm/suse/jopt-simple&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/jopt-simple&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4657,7 +4657,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "junit",
-				"purl": "purl:rpm/suse/junit&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/junit&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4710,7 +4710,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "junit5",
-				"purl": "purl:rpm/suse/junit5&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/junit5&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4763,7 +4763,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "junit5-minimal",
-				"purl": "purl:rpm/suse/junit5-minimal&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/junit5-minimal&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4816,7 +4816,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/objectweb-asm&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4869,7 +4869,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "open-test-reporting",
-				"purl": "purl:rpm/suse/open-test-reporting&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/open-test-reporting&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4922,7 +4922,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "saxpath",
-				"purl": "purl:rpm/suse/saxpath&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/saxpath&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4975,7 +4975,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "xom",
-				"purl": "purl:rpm/suse/xom&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/xom&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

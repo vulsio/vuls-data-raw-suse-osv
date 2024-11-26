@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libspf2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

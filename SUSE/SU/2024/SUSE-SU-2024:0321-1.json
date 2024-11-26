@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -194,7 +194,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -224,7 +224,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -254,7 +254,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -314,7 +314,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -344,7 +344,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -374,7 +374,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -404,7 +404,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -434,7 +434,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -464,7 +464,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -494,7 +494,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -524,7 +524,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -554,7 +554,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/java-11-openjdk&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

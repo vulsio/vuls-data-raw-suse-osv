@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "obs-service-set_version",
-				"purl": "purl:rpm/suse/obs-service-set_version&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/obs-service-set_version&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-django-registration",
-				"purl": "purl:rpm/suse/python-django-registration&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-django-registration&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

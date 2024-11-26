@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -193,7 +193,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -239,7 +239,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -285,7 +285,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -331,7 +331,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -377,7 +377,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -423,7 +423,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -469,7 +469,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -515,7 +515,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -561,7 +561,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -607,7 +607,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -653,7 +653,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -699,7 +699,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-httpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -745,7 +745,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-salt-broker-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -791,7 +791,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-squid-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -837,7 +837,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-ssh-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -883,7 +883,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-tftpd-image&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -929,7 +929,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -975,7 +975,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1021,7 +1021,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1067,7 +1067,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1113,7 +1113,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-aarch64-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1159,7 +1159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1205,7 +1205,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1251,7 +1251,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1297,7 +1297,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1343,7 +1343,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-ppc64le-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1389,7 +1389,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1435,7 +1435,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1481,7 +1481,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1527,7 +1527,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1573,7 +1573,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-s390x-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1619,7 +1619,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-httpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-httpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1665,7 +1665,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-salt-broker-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-salt-broker-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1711,7 +1711,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-squid-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-squid-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1757,7 +1757,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-ssh-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-ssh-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1803,7 +1803,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "suse-manager-5.0-x86_64-proxy-tftpd-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-proxy-tftpd-image&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -1849,7 +1849,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-aarch64-server-attestation-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -1891,7 +1891,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-aarch64-server-hub-xmlrpc-api-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -1933,7 +1933,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-aarch64-server-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-server-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-server-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -1975,7 +1975,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-aarch64-server-migration-14-16-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-aarch64-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-aarch64-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2017,7 +2017,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-ppc64le-server-attestation-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2059,7 +2059,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-ppc64le-server-hub-xmlrpc-api-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2101,7 +2101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-ppc64le-server-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-server-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-server-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2143,7 +2143,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-ppc64le-server-migration-14-16-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-ppc64le-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-ppc64le-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2185,7 +2185,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-s390x-server-attestation-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2227,7 +2227,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-s390x-server-hub-xmlrpc-api-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2269,7 +2269,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-s390x-server-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-server-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-server-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2311,7 +2311,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-s390x-server-migration-14-16-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-s390x-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-s390x-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2353,7 +2353,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-x86_64-server-attestation-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-server-attestation-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2395,7 +2395,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-x86_64-server-hub-xmlrpc-api-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-server-hub-xmlrpc-api-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2437,7 +2437,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-x86_64-server-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-server-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-server-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -2479,7 +2479,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "suse-manager-5.0-x86_64-server-migration-14-16-image",
-				"purl": "purl:rpm/suse/suse-manager-5.0-x86_64-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/suse-manager-5.0-x86_64-server-migration-14-16-image&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{

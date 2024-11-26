@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "traefik",
-				"purl": "purl:rpm/suse/traefik&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/traefik&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/2VWEFHGRWATJW5MOESA3XEER2UJZLJOD/"
 		},
 		{
 			"type": "WEB",

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

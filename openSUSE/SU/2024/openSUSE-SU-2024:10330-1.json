@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "munin",
-				"purl": "purl:rpm/suse/munin&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/munin&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ldb",
-				"purl": "purl:rpm/suse/ldb&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ldb&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

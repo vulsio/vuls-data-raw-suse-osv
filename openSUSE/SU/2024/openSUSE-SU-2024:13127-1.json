@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "icu",
-				"purl": "purl:rpm/suse/icu&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/icu&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

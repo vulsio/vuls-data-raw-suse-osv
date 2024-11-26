@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mariadb",
-				"purl": "purl:rpm/suse/mariadb&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mariadb&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

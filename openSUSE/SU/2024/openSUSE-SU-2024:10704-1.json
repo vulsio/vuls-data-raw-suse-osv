@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cryptsetup",
-				"purl": "purl:rpm/suse/cryptsetup&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cryptsetup&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

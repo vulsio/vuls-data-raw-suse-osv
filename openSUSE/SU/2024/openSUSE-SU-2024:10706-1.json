@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "csync2",
-				"purl": "purl:rpm/suse/csync2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/csync2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

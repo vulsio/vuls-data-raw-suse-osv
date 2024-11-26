@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gvfs",
-				"purl": "purl:rpm/suse/gvfs&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gvfs&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

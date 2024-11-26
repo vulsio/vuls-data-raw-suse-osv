@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kubescape",
-				"purl": "purl:rpm/suse/kubescape&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kubescape&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

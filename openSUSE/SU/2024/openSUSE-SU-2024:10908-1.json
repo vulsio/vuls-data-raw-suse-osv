@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lasem",
-				"purl": "purl:rpm/suse/lasem&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lasem&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libvorbis",
-				"purl": "purl:rpm/suse/libvorbis&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libvorbis&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

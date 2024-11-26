@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "opencv3",
-				"purl": "purl:rpm/suse/opencv3&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/opencv3&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

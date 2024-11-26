@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apache2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

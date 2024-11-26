@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cscope",
-				"purl": "purl:rpm/suse/cscope&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cscope&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

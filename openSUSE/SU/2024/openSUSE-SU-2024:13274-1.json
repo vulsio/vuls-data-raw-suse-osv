@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libvpx",
-				"purl": "purl:rpm/suse/libvpx&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libvpx&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

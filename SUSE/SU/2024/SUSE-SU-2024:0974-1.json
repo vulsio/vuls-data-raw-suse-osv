@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "jsch-agent-proxy",
-				"purl": "purl:rpm/suse/jsch-agent-proxy&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/jsch-agent-proxy&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

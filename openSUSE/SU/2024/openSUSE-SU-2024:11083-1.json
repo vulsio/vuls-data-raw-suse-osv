@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "netdata",
-				"purl": "purl:rpm/suse/netdata&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/netdata&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

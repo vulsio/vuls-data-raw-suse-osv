@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dex-oidc",
-				"purl": "purl:rpm/suse/dex-oidc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dex-oidc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

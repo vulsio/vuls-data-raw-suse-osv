@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xtrans",
-				"purl": "purl:rpm/suse/xtrans&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xtrans&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

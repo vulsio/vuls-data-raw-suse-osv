@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "poppler",
-				"purl": "purl:rpm/suse/poppler&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/poppler&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

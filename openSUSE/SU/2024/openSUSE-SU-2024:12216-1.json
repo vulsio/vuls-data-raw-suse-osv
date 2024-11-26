@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-HTTP-Daemon",
-				"purl": "purl:rpm/suse/perl-HTTP-Daemon&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-HTTP-Daemon&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

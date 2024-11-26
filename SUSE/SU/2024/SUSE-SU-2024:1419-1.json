@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-alertmanager",
-				"purl": "purl:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-alertmanager&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -176,7 +176,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -217,7 +217,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{
@@ -299,7 +299,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12-BETA",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2012-BETA"
 			},
 			"ranges": [
 				{

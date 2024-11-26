@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gradle",
-				"purl": "purl:rpm/suse/gradle&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gradle&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

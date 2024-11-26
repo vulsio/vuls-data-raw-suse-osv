@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5-LTSS",
 				"name": "curl",
-				"purl": "purl:rpm/suse/curl&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5-LTSS"
+				"purl": "pkg:rpm/suse/curl&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5-LTSS"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "curl",
-				"purl": "purl:rpm/suse/curl&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
+				"purl": "pkg:rpm/suse/curl&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{

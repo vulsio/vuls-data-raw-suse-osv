@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kate",
-				"purl": "purl:rpm/suse/kate&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kate&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

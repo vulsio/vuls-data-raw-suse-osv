@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "tinyproxy",
-				"purl": "purl:rpm/suse/tinyproxy&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/tinyproxy&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "tinyproxy",
-				"purl": "purl:rpm/suse/tinyproxy&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/tinyproxy&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

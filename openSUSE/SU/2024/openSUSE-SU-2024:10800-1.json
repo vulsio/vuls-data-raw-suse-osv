@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gnuplot",
-				"purl": "purl:rpm/suse/gnuplot&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gnuplot&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

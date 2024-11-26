@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP6",
 				"name": "postgresql15",
-				"purl": "purl:rpm/suse/postgresql15&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP6"
+				"purl": "pkg:rpm/suse/postgresql15&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP6"
 			},
 			"ranges": [
 				{

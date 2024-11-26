@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "yast2-samba-provision",
-				"purl": "purl:rpm/suse/yast2-samba-provision&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/yast2-samba-provision&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

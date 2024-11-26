@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -198,7 +198,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -225,7 +225,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -279,7 +279,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -306,7 +306,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -333,7 +333,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -360,7 +360,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -387,7 +387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -414,7 +414,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -441,7 +441,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -468,7 +468,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -495,7 +495,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/suse-build-key&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -522,7 +522,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/suse-build-key&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -549,7 +549,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.4",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=openSUSE%20Leap%20Micro%205.4"
+				"purl": "pkg:rpm/opensuse/suse-build-key&distro=openSUSE%20Leap%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -576,7 +576,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "suse-build-key",
-				"purl": "purl:rpm/suse/suse-build-key&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/suse-build-key&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

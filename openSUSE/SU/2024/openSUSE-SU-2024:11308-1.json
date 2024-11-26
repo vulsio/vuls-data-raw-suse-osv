@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rsync",
-				"purl": "purl:rpm/suse/rsync&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rsync&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

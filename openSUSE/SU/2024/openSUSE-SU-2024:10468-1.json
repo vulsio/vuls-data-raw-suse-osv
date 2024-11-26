@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "proxychains-ng",
-				"purl": "purl:rpm/suse/proxychains-ng&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/proxychains-ng&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

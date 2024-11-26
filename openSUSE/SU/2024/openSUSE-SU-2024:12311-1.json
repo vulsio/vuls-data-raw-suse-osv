@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "log4net",
-				"purl": "purl:rpm/suse/log4net&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/log4net&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "freetds",
-				"purl": "purl:rpm/suse/freetds&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/freetds&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ft2demos",
-				"purl": "purl:rpm/suse/ft2demos&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ft2demos&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

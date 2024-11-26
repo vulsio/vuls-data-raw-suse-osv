@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -161,7 +161,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "golang-github-QubitProducts-exporter_exporter",
-				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -214,7 +214,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "golang-github-boynux-squid_exporter",
-				"purl": "purl:rpm/suse/golang-github-boynux-squid_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/golang-github-boynux-squid_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -267,7 +267,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -320,7 +320,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -373,7 +373,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -426,7 +426,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/mgr-push&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -479,7 +479,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -532,7 +532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -585,7 +585,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "python-hwdata",
-				"purl": "purl:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/python-hwdata&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -638,7 +638,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "python-pyvmomi",
-				"purl": "purl:rpm/suse/python-pyvmomi&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/python-pyvmomi&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -691,7 +691,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -744,7 +744,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -797,7 +797,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -850,7 +850,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -903,7 +903,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -956,7 +956,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -1009,7 +1009,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15-BETA",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
+				"purl": "pkg:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015-BETA"
 			},
 			"ranges": [
 				{
@@ -1062,7 +1062,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -1092,7 +1092,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "golang-github-QubitProducts-exporter_exporter",
-				"purl": "purl:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/golang-github-QubitProducts-exporter_exporter&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -1122,7 +1122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/prometheus-blackbox_exporter&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -1152,7 +1152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools Beta for SLE Micro 5",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20Beta%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{

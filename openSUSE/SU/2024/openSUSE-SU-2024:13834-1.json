@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "etcd-for-k8s1.27",
-				"purl": "purl:rpm/suse/etcd-for-k8s1.27&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/etcd-for-k8s1.27&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

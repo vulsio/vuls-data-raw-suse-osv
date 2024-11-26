@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-libxml2",
-				"purl": "purl:rpm/suse/python-libxml2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-libxml2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

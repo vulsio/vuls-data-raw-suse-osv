@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "pleaser",
-				"purl": "purl:rpm/suse/pleaser&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/pleaser&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

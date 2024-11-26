@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xdg-utils",
-				"purl": "purl:rpm/suse/xdg-utils&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xdg-utils&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

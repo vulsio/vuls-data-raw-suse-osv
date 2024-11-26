@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mercurial",
-				"purl": "purl:rpm/suse/mercurial&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mercurial&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kbd",
-				"purl": "purl:rpm/suse/kbd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kbd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

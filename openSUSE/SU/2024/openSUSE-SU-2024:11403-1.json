@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "squid",
-				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/squid&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "wget",
-				"purl": "purl:rpm/suse/wget&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/wget&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

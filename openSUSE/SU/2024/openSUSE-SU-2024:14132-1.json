@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-asyncpg",
-				"purl": "purl:rpm/suse/python-asyncpg&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-asyncpg&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

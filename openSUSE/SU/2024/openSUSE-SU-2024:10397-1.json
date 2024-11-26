@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nagstamon",
-				"purl": "purl:rpm/suse/nagstamon&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nagstamon&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

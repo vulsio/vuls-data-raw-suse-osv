@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/keepalived&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

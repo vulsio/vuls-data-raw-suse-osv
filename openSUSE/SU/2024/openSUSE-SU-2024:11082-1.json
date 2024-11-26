@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "net-snmp",
-				"purl": "purl:rpm/suse/net-snmp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/net-snmp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

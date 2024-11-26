@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ansible-documentation",
-				"purl": "purl:rpm/suse/ansible-documentation&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ansible-documentation&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

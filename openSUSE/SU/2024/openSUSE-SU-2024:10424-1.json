@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libXtst&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

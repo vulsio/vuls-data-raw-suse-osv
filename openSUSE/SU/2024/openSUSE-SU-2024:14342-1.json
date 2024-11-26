@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "assimp",
-				"purl": "purl:rpm/suse/assimp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/assimp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ruby2.7",
-				"purl": "purl:rpm/suse/ruby2.7&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ruby2.7&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

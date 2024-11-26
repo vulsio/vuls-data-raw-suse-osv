@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "screen",
-				"purl": "purl:rpm/suse/screen&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/screen&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

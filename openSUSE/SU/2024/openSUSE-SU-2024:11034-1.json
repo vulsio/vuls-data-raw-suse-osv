@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lz4",
-				"purl": "purl:rpm/suse/lz4&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lz4&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

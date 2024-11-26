@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apache-commons-io",
-				"purl": "purl:rpm/suse/apache-commons-io&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apache-commons-io&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

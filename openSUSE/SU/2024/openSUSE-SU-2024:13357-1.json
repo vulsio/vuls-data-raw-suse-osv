@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-21-openjdk",
-				"purl": "purl:rpm/suse/java-21-openjdk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-21-openjdk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

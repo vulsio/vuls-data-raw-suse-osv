@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "iwd",
-				"purl": "purl:rpm/suse/iwd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/iwd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

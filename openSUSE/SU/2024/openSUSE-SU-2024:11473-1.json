@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "translate-toolkit",
-				"purl": "purl:rpm/suse/translate-toolkit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/translate-toolkit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

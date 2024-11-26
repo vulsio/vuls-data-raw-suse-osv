@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xrdp",
-				"purl": "purl:rpm/suse/xrdp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xrdp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

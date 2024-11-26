@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "traefik",
-				"purl": "purl:rpm/suse/traefik&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/traefik&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

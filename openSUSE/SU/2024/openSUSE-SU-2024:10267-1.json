@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "audiofile",
-				"purl": "purl:rpm/suse/audiofile&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/audiofile&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

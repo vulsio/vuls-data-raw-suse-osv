@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "postgresql15",
-				"purl": "purl:rpm/suse/postgresql15&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/postgresql15&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

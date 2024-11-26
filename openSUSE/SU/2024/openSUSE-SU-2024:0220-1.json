@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "caddy",
-				"purl": "purl:rpm/suse/caddy&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/caddy&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "caddy",
-				"purl": "purl:rpm/suse/caddy&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/caddy&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "qt6-networkauth",
-				"purl": "purl:rpm/suse/qt6-networkauth&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/qt6-networkauth&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "qt6-networkauth-docs",
-				"purl": "purl:rpm/suse/qt6-networkauth-docs&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/qt6-networkauth-docs&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "qt6-networkauth",
-				"purl": "purl:rpm/suse/qt6-networkauth&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/qt6-networkauth&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "qt6-networkauth-docs",
-				"purl": "purl:rpm/suse/qt6-networkauth-docs&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/qt6-networkauth-docs&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

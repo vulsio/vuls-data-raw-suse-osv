@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "x3270",
-				"purl": "purl:rpm/suse/x3270&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/x3270&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

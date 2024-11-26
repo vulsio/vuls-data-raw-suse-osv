@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "amanda",
-				"purl": "purl:rpm/suse/amanda&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/amanda&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

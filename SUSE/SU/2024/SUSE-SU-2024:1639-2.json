@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "python-asgiref",
-				"purl": "purl:rpm/suse/python-asgiref&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-asgiref&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "python-wrapt",
-				"purl": "purl:rpm/suse/python-wrapt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-wrapt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-Fabric",
-				"purl": "purl:rpm/suse/python-Fabric&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Fabric&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-PyGithub",
-				"purl": "purl:rpm/suse/python-PyGithub&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-PyGithub&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-antlr4-python3-runtime",
-				"purl": "purl:rpm/suse/python-antlr4-python3-runtime&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-antlr4-python3-runtime&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -220,7 +220,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-asgiref",
-				"purl": "purl:rpm/suse/python-asgiref&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-asgiref&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-avro",
-				"purl": "purl:rpm/suse/python-avro&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-avro&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -322,7 +322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-chardet",
-				"purl": "purl:rpm/suse/python-chardet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-chardet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -373,7 +373,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-docker",
-				"purl": "purl:rpm/suse/python-docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -424,7 +424,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-fixedint",
-				"purl": "purl:rpm/suse/python-fixedint&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-fixedint&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -475,7 +475,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-javaproperties",
-				"purl": "purl:rpm/suse/python-javaproperties&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-javaproperties&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -526,7 +526,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-jsondiff",
-				"purl": "purl:rpm/suse/python-jsondiff&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-jsondiff&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -577,7 +577,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-knack",
-				"purl": "purl:rpm/suse/python-knack&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-knack&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -628,7 +628,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-marshmallow",
-				"purl": "purl:rpm/suse/python-marshmallow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-marshmallow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -679,7 +679,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opencensus",
-				"purl": "purl:rpm/suse/python-opencensus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opencensus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -730,7 +730,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opencensus-context",
-				"purl": "purl:rpm/suse/python-opencensus-context&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opencensus-context&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -781,7 +781,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opencensus-ext-threading",
-				"purl": "purl:rpm/suse/python-opencensus-ext-threading&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opencensus-ext-threading&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -832,7 +832,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opentelemetry-api",
-				"purl": "purl:rpm/suse/python-opentelemetry-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opentelemetry-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -883,7 +883,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opentelemetry-sdk",
-				"purl": "purl:rpm/suse/python-opentelemetry-sdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opentelemetry-sdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -934,7 +934,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opentelemetry-semantic-conventions",
-				"purl": "purl:rpm/suse/python-opentelemetry-semantic-conventions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opentelemetry-semantic-conventions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -985,7 +985,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-opentelemetry-test-utils",
-				"purl": "purl:rpm/suse/python-opentelemetry-test-utils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opentelemetry-test-utils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1036,7 +1036,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-pycomposefile",
-				"purl": "purl:rpm/suse/python-pycomposefile&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pycomposefile&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1087,7 +1087,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-pydash",
-				"purl": "purl:rpm/suse/python-pydash&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pydash&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1138,7 +1138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-retrying",
-				"purl": "purl:rpm/suse/python-retrying&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-retrying&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1189,7 +1189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-semver",
-				"purl": "purl:rpm/suse/python-semver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-semver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1240,7 +1240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-strictyaml",
-				"purl": "purl:rpm/suse/python-strictyaml&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-strictyaml&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1291,7 +1291,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-vcrpy",
-				"purl": "purl:rpm/suse/python-vcrpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-vcrpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1342,7 +1342,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-Automat",
-				"purl": "purl:rpm/suse/python-Automat&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Automat&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1419,7 +1419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-Deprecated",
-				"purl": "purl:rpm/suse/python-Deprecated&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Deprecated&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1496,7 +1496,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-PyJWT",
-				"purl": "purl:rpm/suse/python-PyJWT&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-PyJWT&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1573,7 +1573,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-Pygments",
-				"purl": "purl:rpm/suse/python-Pygments&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Pygments&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1650,7 +1650,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1727,7 +1727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1804,7 +1804,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-aiosignal",
-				"purl": "purl:rpm/suse/python-aiosignal&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-aiosignal&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1881,7 +1881,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-argcomplete",
-				"purl": "purl:rpm/suse/python-argcomplete&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-argcomplete&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1958,7 +1958,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-async_timeout",
-				"purl": "purl:rpm/suse/python-async_timeout&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-async_timeout&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2035,7 +2035,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-blinker",
-				"purl": "purl:rpm/suse/python-blinker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-blinker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2112,7 +2112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-chardet",
-				"purl": "purl:rpm/suse/python-chardet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-chardet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2189,7 +2189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-constantly",
-				"purl": "purl:rpm/suse/python-constantly&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-constantly&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2266,7 +2266,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-decorator",
-				"purl": "purl:rpm/suse/python-decorator&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-decorator&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2343,7 +2343,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-fluidity-sm",
-				"purl": "purl:rpm/suse/python-fluidity-sm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-fluidity-sm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2420,7 +2420,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-frozenlist",
-				"purl": "purl:rpm/suse/python-frozenlist&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-frozenlist&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2497,7 +2497,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-humanfriendly",
-				"purl": "purl:rpm/suse/python-humanfriendly&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-humanfriendly&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2574,7 +2574,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-hyperlink",
-				"purl": "purl:rpm/suse/python-hyperlink&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-hyperlink&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2651,7 +2651,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-importlib-metadata",
-				"purl": "purl:rpm/suse/python-importlib-metadata&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-importlib-metadata&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2728,7 +2728,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-incremental",
-				"purl": "purl:rpm/suse/python-incremental&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-incremental&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2805,7 +2805,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-invoke",
-				"purl": "purl:rpm/suse/python-invoke&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-invoke&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2882,7 +2882,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-isodate",
-				"purl": "purl:rpm/suse/python-isodate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-isodate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2959,7 +2959,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-lexicon",
-				"purl": "purl:rpm/suse/python-lexicon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-lexicon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3036,7 +3036,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-multidict",
-				"purl": "purl:rpm/suse/python-multidict&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-multidict&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3113,7 +3113,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-oauthlib",
-				"purl": "purl:rpm/suse/python-oauthlib&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-oauthlib&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3190,7 +3190,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-opentelemetry-api",
-				"purl": "purl:rpm/suse/python-opentelemetry-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-opentelemetry-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3267,7 +3267,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-paramiko",
-				"purl": "purl:rpm/suse/python-paramiko&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-paramiko&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3344,7 +3344,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pathspec",
-				"purl": "purl:rpm/suse/python-pathspec&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pathspec&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3421,7 +3421,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pip",
-				"purl": "purl:rpm/suse/python-pip&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pip&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3498,7 +3498,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pkginfo",
-				"purl": "purl:rpm/suse/python-pkginfo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pkginfo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3575,7 +3575,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-portalocker",
-				"purl": "purl:rpm/suse/python-portalocker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-portalocker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3652,7 +3652,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-psutil&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3729,7 +3729,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pyparsing",
-				"purl": "purl:rpm/suse/python-pyparsing&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pyparsing&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3806,7 +3806,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-requests-oauthlib",
-				"purl": "purl:rpm/suse/python-requests-oauthlib&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-requests-oauthlib&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3883,7 +3883,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-scp",
-				"purl": "purl:rpm/suse/python-scp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-scp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -3960,7 +3960,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-service_identity",
-				"purl": "purl:rpm/suse/python-service_identity&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-service_identity&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4037,7 +4037,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-sortedcontainers",
-				"purl": "purl:rpm/suse/python-sortedcontainers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-sortedcontainers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4114,7 +4114,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-tabulate",
-				"purl": "purl:rpm/suse/python-tabulate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-tabulate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4191,7 +4191,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-tqdm",
-				"purl": "purl:rpm/suse/python-tqdm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-tqdm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4268,7 +4268,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-websocket-client",
-				"purl": "purl:rpm/suse/python-websocket-client&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-websocket-client&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4345,7 +4345,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-wrapt",
-				"purl": "purl:rpm/suse/python-wrapt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-wrapt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4422,7 +4422,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-yarl",
-				"purl": "purl:rpm/suse/python-yarl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-yarl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4499,7 +4499,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-zope.interface",
-				"purl": "purl:rpm/suse/python-zope.interface&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-zope.interface&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -4576,7 +4576,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Automat",
-				"purl": "purl:rpm/suse/python-Automat&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Automat&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4687,7 +4687,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Deprecated",
-				"purl": "purl:rpm/suse/python-Deprecated&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Deprecated&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4798,7 +4798,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Fabric",
-				"purl": "purl:rpm/suse/python-Fabric&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Fabric&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4909,7 +4909,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-PyGithub",
-				"purl": "purl:rpm/suse/python-PyGithub&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-PyGithub&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5020,7 +5020,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-PyJWT",
-				"purl": "purl:rpm/suse/python-PyJWT&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-PyJWT&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5131,7 +5131,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Pygments",
-				"purl": "purl:rpm/suse/python-Pygments&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Pygments&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5242,7 +5242,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Twisted&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5353,7 +5353,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-aiohttp&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5464,7 +5464,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-aiosignal",
-				"purl": "purl:rpm/suse/python-aiosignal&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-aiosignal&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5575,7 +5575,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-antlr4-python3-runtime",
-				"purl": "purl:rpm/suse/python-antlr4-python3-runtime&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-antlr4-python3-runtime&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5686,7 +5686,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-argcomplete",
-				"purl": "purl:rpm/suse/python-argcomplete&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-argcomplete&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5797,7 +5797,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-asgiref",
-				"purl": "purl:rpm/suse/python-asgiref&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-asgiref&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -5908,7 +5908,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-async_timeout",
-				"purl": "purl:rpm/suse/python-async_timeout&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-async_timeout&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6019,7 +6019,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-avro",
-				"purl": "purl:rpm/suse/python-avro&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-avro&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6130,7 +6130,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-blinker",
-				"purl": "purl:rpm/suse/python-blinker&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-blinker&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6241,7 +6241,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-chardet",
-				"purl": "purl:rpm/suse/python-chardet&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-chardet&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6352,7 +6352,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-constantly",
-				"purl": "purl:rpm/suse/python-constantly&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-constantly&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6463,7 +6463,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-decorator",
-				"purl": "purl:rpm/suse/python-decorator&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-decorator&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6574,7 +6574,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-distro",
-				"purl": "purl:rpm/suse/python-distro&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-distro&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6685,7 +6685,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-docker",
-				"purl": "purl:rpm/suse/python-docker&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-docker&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6796,7 +6796,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-fakeredis",
-				"purl": "purl:rpm/suse/python-fakeredis&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-fakeredis&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -6907,7 +6907,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-fixedint",
-				"purl": "purl:rpm/suse/python-fixedint&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-fixedint&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7018,7 +7018,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-fluidity-sm",
-				"purl": "purl:rpm/suse/python-fluidity-sm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-fluidity-sm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7129,7 +7129,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-frozenlist",
-				"purl": "purl:rpm/suse/python-frozenlist&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-frozenlist&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7240,7 +7240,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-httplib2",
-				"purl": "purl:rpm/suse/python-httplib2&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-httplib2&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7351,7 +7351,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-httpretty",
-				"purl": "purl:rpm/suse/python-httpretty&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-httpretty&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7462,7 +7462,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-humanfriendly",
-				"purl": "purl:rpm/suse/python-humanfriendly&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-humanfriendly&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7573,7 +7573,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-hyperlink",
-				"purl": "purl:rpm/suse/python-hyperlink&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-hyperlink&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7684,7 +7684,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-importlib-metadata",
-				"purl": "purl:rpm/suse/python-importlib-metadata&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-importlib-metadata&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7795,7 +7795,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-incremental",
-				"purl": "purl:rpm/suse/python-incremental&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-incremental&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -7906,7 +7906,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-invoke",
-				"purl": "purl:rpm/suse/python-invoke&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-invoke&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8017,7 +8017,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-isodate",
-				"purl": "purl:rpm/suse/python-isodate&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-isodate&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8128,7 +8128,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-javaproperties",
-				"purl": "purl:rpm/suse/python-javaproperties&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-javaproperties&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8239,7 +8239,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-jsondiff",
-				"purl": "purl:rpm/suse/python-jsondiff&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-jsondiff&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8350,7 +8350,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-knack",
-				"purl": "purl:rpm/suse/python-knack&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-knack&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8461,7 +8461,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-lexicon",
-				"purl": "purl:rpm/suse/python-lexicon&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-lexicon&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8572,7 +8572,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-marshmallow",
-				"purl": "purl:rpm/suse/python-marshmallow&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-marshmallow&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8683,7 +8683,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-multidict",
-				"purl": "purl:rpm/suse/python-multidict&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-multidict&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8794,7 +8794,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-oauthlib",
-				"purl": "purl:rpm/suse/python-oauthlib&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-oauthlib&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -8905,7 +8905,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opencensus",
-				"purl": "purl:rpm/suse/python-opencensus&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opencensus&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9016,7 +9016,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opencensus-context",
-				"purl": "purl:rpm/suse/python-opencensus-context&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opencensus-context&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9127,7 +9127,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opencensus-ext-threading",
-				"purl": "purl:rpm/suse/python-opencensus-ext-threading&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opencensus-ext-threading&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9238,7 +9238,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opentelemetry-api",
-				"purl": "purl:rpm/suse/python-opentelemetry-api&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-api&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9349,7 +9349,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opentelemetry-sdk",
-				"purl": "purl:rpm/suse/python-opentelemetry-sdk&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-sdk&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9460,7 +9460,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opentelemetry-semantic-conventions",
-				"purl": "purl:rpm/suse/python-opentelemetry-semantic-conventions&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-semantic-conventions&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9571,7 +9571,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-opentelemetry-test-utils",
-				"purl": "purl:rpm/suse/python-opentelemetry-test-utils&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-test-utils&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9682,7 +9682,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-paramiko",
-				"purl": "purl:rpm/suse/python-paramiko&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-paramiko&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9793,7 +9793,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pathspec",
-				"purl": "purl:rpm/suse/python-pathspec&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pathspec&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -9904,7 +9904,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pip",
-				"purl": "purl:rpm/suse/python-pip&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pip&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10015,7 +10015,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pkginfo",
-				"purl": "purl:rpm/suse/python-pkginfo&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pkginfo&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10126,7 +10126,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-portalocker",
-				"purl": "purl:rpm/suse/python-portalocker&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-portalocker&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10237,7 +10237,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-psutil&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10348,7 +10348,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pycomposefile",
-				"purl": "purl:rpm/suse/python-pycomposefile&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pycomposefile&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10459,7 +10459,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pydash",
-				"purl": "purl:rpm/suse/python-pydash&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pydash&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10570,7 +10570,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pyparsing",
-				"purl": "purl:rpm/suse/python-pyparsing&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pyparsing&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10681,7 +10681,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-redis",
-				"purl": "purl:rpm/suse/python-redis&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-redis&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10792,7 +10792,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-requests-oauthlib",
-				"purl": "purl:rpm/suse/python-requests-oauthlib&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-requests-oauthlib&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -10903,7 +10903,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-retrying",
-				"purl": "purl:rpm/suse/python-retrying&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-retrying&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11014,7 +11014,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-scp",
-				"purl": "purl:rpm/suse/python-scp&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-scp&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11125,7 +11125,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-semver",
-				"purl": "purl:rpm/suse/python-semver&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-semver&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11236,7 +11236,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-service_identity",
-				"purl": "purl:rpm/suse/python-service_identity&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-service_identity&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11347,7 +11347,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-sortedcontainers",
-				"purl": "purl:rpm/suse/python-sortedcontainers&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-sortedcontainers&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11458,7 +11458,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-sshtunnel",
-				"purl": "purl:rpm/suse/python-sshtunnel&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-sshtunnel&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11569,7 +11569,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-strictyaml",
-				"purl": "purl:rpm/suse/python-strictyaml&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-strictyaml&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11680,7 +11680,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-sure",
-				"purl": "purl:rpm/suse/python-sure&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-sure&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11791,7 +11791,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-tabulate",
-				"purl": "purl:rpm/suse/python-tabulate&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-tabulate&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -11902,7 +11902,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-tqdm",
-				"purl": "purl:rpm/suse/python-tqdm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-tqdm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12013,7 +12013,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-typing_extensions&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12124,7 +12124,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-vcrpy",
-				"purl": "purl:rpm/suse/python-vcrpy&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-vcrpy&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12235,7 +12235,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-websocket-client",
-				"purl": "purl:rpm/suse/python-websocket-client&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-websocket-client&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12346,7 +12346,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-wheel",
-				"purl": "purl:rpm/suse/python-wheel&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-wheel&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12457,7 +12457,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-wrapt",
-				"purl": "purl:rpm/suse/python-wrapt&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-wrapt&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12568,7 +12568,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-xmltodict",
-				"purl": "purl:rpm/suse/python-xmltodict&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-xmltodict&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12679,7 +12679,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-yarl",
-				"purl": "purl:rpm/suse/python-yarl&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-yarl&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12790,7 +12790,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-zipp",
-				"purl": "purl:rpm/suse/python-zipp&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-zipp&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -12901,7 +12901,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-zope.interface",
-				"purl": "purl:rpm/suse/python-zope.interface&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-zope.interface&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -13012,7 +13012,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-Automat",
-				"purl": "purl:rpm/suse/python-Automat&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-Automat&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13121,7 +13121,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-Deprecated",
-				"purl": "purl:rpm/suse/python-Deprecated&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-Deprecated&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13230,7 +13230,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-Fabric",
-				"purl": "purl:rpm/suse/python-Fabric&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-Fabric&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13339,7 +13339,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-PyGithub",
-				"purl": "purl:rpm/suse/python-PyGithub&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-PyGithub&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13448,7 +13448,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-PyJWT",
-				"purl": "purl:rpm/suse/python-PyJWT&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-PyJWT&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13557,7 +13557,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-Pygments",
-				"purl": "purl:rpm/suse/python-Pygments&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-Pygments&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13666,7 +13666,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-Twisted&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13775,7 +13775,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-aiohttp&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13884,7 +13884,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-aiosignal",
-				"purl": "purl:rpm/suse/python-aiosignal&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-aiosignal&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -13993,7 +13993,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-antlr4-python3-runtime",
-				"purl": "purl:rpm/suse/python-antlr4-python3-runtime&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-antlr4-python3-runtime&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14102,7 +14102,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-argcomplete",
-				"purl": "purl:rpm/suse/python-argcomplete&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-argcomplete&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14211,7 +14211,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-asgiref",
-				"purl": "purl:rpm/suse/python-asgiref&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-asgiref&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14320,7 +14320,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-async_timeout",
-				"purl": "purl:rpm/suse/python-async_timeout&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-async_timeout&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14429,7 +14429,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-avro",
-				"purl": "purl:rpm/suse/python-avro&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-avro&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14538,7 +14538,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-blinker",
-				"purl": "purl:rpm/suse/python-blinker&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-blinker&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14647,7 +14647,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-chardet",
-				"purl": "purl:rpm/suse/python-chardet&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-chardet&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14756,7 +14756,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-constantly",
-				"purl": "purl:rpm/suse/python-constantly&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-constantly&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14865,7 +14865,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-decorator",
-				"purl": "purl:rpm/suse/python-decorator&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-decorator&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -14974,7 +14974,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-distro",
-				"purl": "purl:rpm/suse/python-distro&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-distro&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15083,7 +15083,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-docker",
-				"purl": "purl:rpm/suse/python-docker&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-docker&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15192,7 +15192,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-fakeredis",
-				"purl": "purl:rpm/suse/python-fakeredis&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-fakeredis&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15301,7 +15301,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-fixedint",
-				"purl": "purl:rpm/suse/python-fixedint&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-fixedint&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15410,7 +15410,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-fluidity-sm",
-				"purl": "purl:rpm/suse/python-fluidity-sm&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-fluidity-sm&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15519,7 +15519,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-frozenlist",
-				"purl": "purl:rpm/suse/python-frozenlist&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-frozenlist&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15628,7 +15628,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-httplib2",
-				"purl": "purl:rpm/suse/python-httplib2&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-httplib2&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15737,7 +15737,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-httpretty",
-				"purl": "purl:rpm/suse/python-httpretty&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-httpretty&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15846,7 +15846,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-humanfriendly",
-				"purl": "purl:rpm/suse/python-humanfriendly&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-humanfriendly&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -15955,7 +15955,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-hyperlink",
-				"purl": "purl:rpm/suse/python-hyperlink&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-hyperlink&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16064,7 +16064,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-importlib-metadata",
-				"purl": "purl:rpm/suse/python-importlib-metadata&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-importlib-metadata&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16173,7 +16173,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-incremental",
-				"purl": "purl:rpm/suse/python-incremental&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-incremental&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16282,7 +16282,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-invoke",
-				"purl": "purl:rpm/suse/python-invoke&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-invoke&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16391,7 +16391,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-isodate",
-				"purl": "purl:rpm/suse/python-isodate&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-isodate&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16500,7 +16500,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-javaproperties",
-				"purl": "purl:rpm/suse/python-javaproperties&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-javaproperties&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16609,7 +16609,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-jsondiff",
-				"purl": "purl:rpm/suse/python-jsondiff&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-jsondiff&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16718,7 +16718,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-knack",
-				"purl": "purl:rpm/suse/python-knack&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-knack&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16827,7 +16827,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-lexicon",
-				"purl": "purl:rpm/suse/python-lexicon&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-lexicon&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -16936,7 +16936,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-marshmallow",
-				"purl": "purl:rpm/suse/python-marshmallow&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-marshmallow&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17045,7 +17045,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-multidict",
-				"purl": "purl:rpm/suse/python-multidict&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-multidict&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17154,7 +17154,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-oauthlib",
-				"purl": "purl:rpm/suse/python-oauthlib&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-oauthlib&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17263,7 +17263,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opencensus",
-				"purl": "purl:rpm/suse/python-opencensus&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opencensus&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17372,7 +17372,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opencensus-context",
-				"purl": "purl:rpm/suse/python-opencensus-context&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opencensus-context&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17481,7 +17481,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opencensus-ext-threading",
-				"purl": "purl:rpm/suse/python-opencensus-ext-threading&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opencensus-ext-threading&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17590,7 +17590,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opentelemetry-api",
-				"purl": "purl:rpm/suse/python-opentelemetry-api&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-api&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17699,7 +17699,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opentelemetry-sdk",
-				"purl": "purl:rpm/suse/python-opentelemetry-sdk&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-sdk&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17808,7 +17808,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opentelemetry-semantic-conventions",
-				"purl": "purl:rpm/suse/python-opentelemetry-semantic-conventions&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-semantic-conventions&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -17917,7 +17917,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-opentelemetry-test-utils",
-				"purl": "purl:rpm/suse/python-opentelemetry-test-utils&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-opentelemetry-test-utils&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18026,7 +18026,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-paramiko",
-				"purl": "purl:rpm/suse/python-paramiko&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-paramiko&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18135,7 +18135,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pathspec",
-				"purl": "purl:rpm/suse/python-pathspec&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pathspec&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18244,7 +18244,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pip",
-				"purl": "purl:rpm/suse/python-pip&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pip&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18353,7 +18353,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pkginfo",
-				"purl": "purl:rpm/suse/python-pkginfo&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pkginfo&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18462,7 +18462,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-portalocker",
-				"purl": "purl:rpm/suse/python-portalocker&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-portalocker&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18571,7 +18571,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-psutil&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18680,7 +18680,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pycomposefile",
-				"purl": "purl:rpm/suse/python-pycomposefile&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pycomposefile&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18789,7 +18789,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pydash",
-				"purl": "purl:rpm/suse/python-pydash&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pydash&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -18898,7 +18898,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pyparsing",
-				"purl": "purl:rpm/suse/python-pyparsing&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pyparsing&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19007,7 +19007,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-redis",
-				"purl": "purl:rpm/suse/python-redis&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-redis&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19116,7 +19116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-requests-oauthlib",
-				"purl": "purl:rpm/suse/python-requests-oauthlib&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-requests-oauthlib&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19225,7 +19225,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-retrying",
-				"purl": "purl:rpm/suse/python-retrying&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-retrying&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19334,7 +19334,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-scp",
-				"purl": "purl:rpm/suse/python-scp&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-scp&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19443,7 +19443,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-semver",
-				"purl": "purl:rpm/suse/python-semver&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-semver&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19552,7 +19552,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-service_identity",
-				"purl": "purl:rpm/suse/python-service_identity&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-service_identity&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19661,7 +19661,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-sortedcontainers",
-				"purl": "purl:rpm/suse/python-sortedcontainers&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-sortedcontainers&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19770,7 +19770,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-sshtunnel",
-				"purl": "purl:rpm/suse/python-sshtunnel&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-sshtunnel&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19879,7 +19879,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-strictyaml",
-				"purl": "purl:rpm/suse/python-strictyaml&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-strictyaml&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -19988,7 +19988,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-tabulate",
-				"purl": "purl:rpm/suse/python-tabulate&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-tabulate&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20097,7 +20097,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-tqdm",
-				"purl": "purl:rpm/suse/python-tqdm&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-tqdm&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20206,7 +20206,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-typing_extensions&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20315,7 +20315,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-vcrpy",
-				"purl": "purl:rpm/suse/python-vcrpy&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-vcrpy&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20424,7 +20424,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-websocket-client",
-				"purl": "purl:rpm/suse/python-websocket-client&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-websocket-client&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20533,7 +20533,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-wheel",
-				"purl": "purl:rpm/suse/python-wheel&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-wheel&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20642,7 +20642,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-wrapt",
-				"purl": "purl:rpm/suse/python-wrapt&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-wrapt&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20751,7 +20751,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-yarl",
-				"purl": "purl:rpm/suse/python-yarl&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-yarl&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20860,7 +20860,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-zipp",
-				"purl": "purl:rpm/suse/python-zipp&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-zipp&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -20969,7 +20969,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-zope.interface",
-				"purl": "purl:rpm/suse/python-zope.interface&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-zope.interface&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

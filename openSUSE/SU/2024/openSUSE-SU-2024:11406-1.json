@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ssdp-responder",
-				"purl": "purl:rpm/suse/ssdp-responder&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ssdp-responder&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

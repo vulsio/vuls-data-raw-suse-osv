@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "schismtracker",
-				"purl": "purl:rpm/suse/schismtracker&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/schismtracker&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

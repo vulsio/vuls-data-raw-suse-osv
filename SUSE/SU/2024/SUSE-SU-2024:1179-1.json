@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "gnutls",
-				"purl": "purl:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{

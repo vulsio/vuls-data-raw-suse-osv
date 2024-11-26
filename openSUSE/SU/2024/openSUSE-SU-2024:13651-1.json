@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "buildkit",
-				"purl": "purl:rpm/suse/buildkit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/buildkit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

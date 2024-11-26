@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-cryptography&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "firecracker",
-				"purl": "purl:rpm/suse/firecracker&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/firecracker&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

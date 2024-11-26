@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gd",
-				"purl": "purl:rpm/suse/gd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

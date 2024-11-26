@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gimp",
-				"purl": "purl:rpm/suse/gimp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gimp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

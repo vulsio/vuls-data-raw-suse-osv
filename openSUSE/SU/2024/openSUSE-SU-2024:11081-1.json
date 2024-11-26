@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "neovim",
-				"purl": "purl:rpm/suse/neovim&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/neovim&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

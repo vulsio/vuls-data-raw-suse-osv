@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "terraform",
-				"purl": "purl:rpm/suse/terraform&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/terraform&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

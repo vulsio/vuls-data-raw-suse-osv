@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "leptonica",
-				"purl": "purl:rpm/suse/leptonica&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/leptonica&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-websocket-extensions",
-				"purl": "purl:rpm/suse/rubygem-websocket-extensions&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-websocket-extensions&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "benji",
-				"purl": "purl:rpm/suse/benji&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/benji&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

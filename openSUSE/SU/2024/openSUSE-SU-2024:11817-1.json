@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openscad",
-				"purl": "purl:rpm/suse/openscad&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openscad&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

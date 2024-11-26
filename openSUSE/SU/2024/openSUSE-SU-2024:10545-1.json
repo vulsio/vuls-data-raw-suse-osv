@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-CGI-Simple",
-				"purl": "purl:rpm/suse/perl-CGI-Simple&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-CGI-Simple&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

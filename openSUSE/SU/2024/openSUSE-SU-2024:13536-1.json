@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "deepin-reader",
-				"purl": "purl:rpm/suse/deepin-reader&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/deepin-reader&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

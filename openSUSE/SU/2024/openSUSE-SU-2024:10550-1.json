@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "opie",
-				"purl": "purl:rpm/suse/opie&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/opie&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

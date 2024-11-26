@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xfig",
-				"purl": "purl:rpm/suse/xfig&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xfig&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

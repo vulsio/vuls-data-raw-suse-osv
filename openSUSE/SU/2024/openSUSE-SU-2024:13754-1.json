@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "crun",
-				"purl": "purl:rpm/suse/crun&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/crun&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

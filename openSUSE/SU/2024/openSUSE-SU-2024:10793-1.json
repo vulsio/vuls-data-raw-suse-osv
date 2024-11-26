@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "global",
-				"purl": "purl:rpm/suse/global&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/global&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

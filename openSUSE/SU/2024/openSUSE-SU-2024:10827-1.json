@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-bad&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

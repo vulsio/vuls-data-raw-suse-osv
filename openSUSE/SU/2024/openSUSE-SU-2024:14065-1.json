@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-django-allauth",
-				"purl": "purl:rpm/suse/python-django-allauth&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-django-allauth&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

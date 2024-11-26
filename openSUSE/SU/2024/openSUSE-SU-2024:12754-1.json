@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-11-openj9",
-				"purl": "purl:rpm/suse/java-11-openj9&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-11-openj9&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

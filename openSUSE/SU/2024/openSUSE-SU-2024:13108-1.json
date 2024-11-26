@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tcpreplay",
-				"purl": "purl:rpm/suse/tcpreplay&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tcpreplay&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

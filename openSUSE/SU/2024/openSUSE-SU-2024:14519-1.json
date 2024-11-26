@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "govulncheck-vulndb",
-				"purl": "purl:rpm/suse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/FNC2B63TAEEYGQ7XDBRHH6KDG7VDWO65/"
 		},
 		{
 			"type": "WEB",

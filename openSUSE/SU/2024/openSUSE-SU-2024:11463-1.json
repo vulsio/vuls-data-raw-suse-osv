@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tinc",
-				"purl": "purl:rpm/suse/tinc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tinc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

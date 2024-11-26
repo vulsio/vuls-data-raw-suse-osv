@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-fluentd",
-				"purl": "purl:rpm/suse/rubygem-fluentd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-fluentd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

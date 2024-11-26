@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "gnome-settings-daemon",
-				"purl": "purl:rpm/suse/gnome-settings-daemon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/gnome-settings-daemon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "gnome-settings-daemon",
-				"purl": "purl:rpm/suse/gnome-settings-daemon&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/gnome-settings-daemon&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

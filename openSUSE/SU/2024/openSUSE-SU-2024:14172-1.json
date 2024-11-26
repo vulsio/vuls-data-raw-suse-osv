@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-minitar",
-				"purl": "purl:rpm/suse/rubygem-minitar&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-minitar&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

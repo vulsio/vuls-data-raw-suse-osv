@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "weechat",
-				"purl": "purl:rpm/suse/weechat&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/weechat&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lldpd",
-				"purl": "purl:rpm/suse/lldpd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lldpd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

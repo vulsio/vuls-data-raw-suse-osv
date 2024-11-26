@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libHX",
-				"purl": "purl:rpm/suse/libHX&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libHX&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

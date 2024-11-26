@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "shadowsocks-libev",
-				"purl": "purl:rpm/suse/shadowsocks-libev&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/shadowsocks-libev&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

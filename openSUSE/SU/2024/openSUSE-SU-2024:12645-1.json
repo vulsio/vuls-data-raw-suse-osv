@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-ciscoconfparse",
-				"purl": "purl:rpm/suse/python-ciscoconfparse&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-ciscoconfparse&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

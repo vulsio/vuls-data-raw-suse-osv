@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kyverno",
-				"purl": "purl:rpm/suse/kyverno&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kyverno&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

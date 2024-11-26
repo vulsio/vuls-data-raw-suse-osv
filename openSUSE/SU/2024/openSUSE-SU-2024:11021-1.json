@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lilypond",
-				"purl": "purl:rpm/suse/lilypond&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lilypond&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

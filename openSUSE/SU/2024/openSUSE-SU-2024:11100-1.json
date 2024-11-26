@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nsd",
-				"purl": "purl:rpm/suse/nsd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nsd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

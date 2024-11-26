@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-rope",
-				"purl": "purl:rpm/suse/python-rope&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-rope&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

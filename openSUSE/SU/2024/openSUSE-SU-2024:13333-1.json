@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "exim",
-				"purl": "purl:rpm/suse/exim&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/exim&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

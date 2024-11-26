@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "koan",
-				"purl": "purl:rpm/suse/koan&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/koan&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "rust-bindgen",
-				"purl": "purl:rpm/suse/rust-bindgen&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/rust-bindgen&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -156,7 +156,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -186,7 +186,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "rust-bindgen",
-				"purl": "purl:rpm/suse/rust-bindgen&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/rust-bindgen&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -246,7 +246,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/gn&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -276,7 +276,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "rust-bindgen",
-				"purl": "purl:rpm/suse/rust-bindgen&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/rust-bindgen&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -306,7 +306,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -336,7 +336,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/gn&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -366,7 +366,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "rust-bindgen",
-				"purl": "purl:rpm/suse/rust-bindgen&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/rust-bindgen&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

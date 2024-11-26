@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "suse-module-tools",
-				"purl": "purl:rpm/suse/suse-module-tools&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/suse-module-tools&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

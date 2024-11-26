@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libcaca",
-				"purl": "purl:rpm/suse/libcaca&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libcaca&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

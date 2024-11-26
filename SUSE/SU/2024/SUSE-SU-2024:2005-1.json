@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -219,7 +219,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -250,7 +250,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -281,7 +281,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -312,7 +312,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -341,7 +341,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -370,7 +370,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -399,7 +399,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -428,7 +428,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -457,7 +457,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/nvidia-open-driver-G06-signed&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{

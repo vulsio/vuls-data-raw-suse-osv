@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "thttpd",
-				"purl": "purl:rpm/suse/thttpd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/thttpd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kernel-firmware-nvidia-gspx-G06",
-				"purl": "purl:rpm/suse/kernel-firmware-nvidia-gspx-G06&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kernel-firmware-nvidia-gspx-G06&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

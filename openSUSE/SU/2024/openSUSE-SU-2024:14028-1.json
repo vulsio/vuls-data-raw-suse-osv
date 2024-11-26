@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-openpyxl",
-				"purl": "purl:rpm/suse/python-openpyxl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-openpyxl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

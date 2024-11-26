@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-Tk",
-				"purl": "purl:rpm/suse/perl-Tk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-Tk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "erlang",
-				"purl": "purl:rpm/suse/erlang&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/erlang&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

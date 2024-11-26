@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "freexl",
-				"purl": "purl:rpm/suse/freexl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/freexl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

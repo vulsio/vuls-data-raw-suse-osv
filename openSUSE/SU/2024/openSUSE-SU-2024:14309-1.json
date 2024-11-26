@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libpcap",
-				"purl": "purl:rpm/suse/libpcap&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libpcap&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

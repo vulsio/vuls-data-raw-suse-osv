@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "jdom2",
-				"purl": "purl:rpm/suse/jdom2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/jdom2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

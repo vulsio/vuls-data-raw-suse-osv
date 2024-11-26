@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ghostscript",
-				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ghostscript&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

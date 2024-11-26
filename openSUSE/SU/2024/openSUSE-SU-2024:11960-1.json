@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "aide",
-				"purl": "purl:rpm/suse/aide&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/aide&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

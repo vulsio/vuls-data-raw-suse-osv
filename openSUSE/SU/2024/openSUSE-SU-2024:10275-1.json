@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "monit",
-				"purl": "purl:rpm/suse/monit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/monit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

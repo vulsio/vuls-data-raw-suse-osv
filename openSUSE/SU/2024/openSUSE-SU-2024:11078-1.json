@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nbdkit",
-				"purl": "purl:rpm/suse/nbdkit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nbdkit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

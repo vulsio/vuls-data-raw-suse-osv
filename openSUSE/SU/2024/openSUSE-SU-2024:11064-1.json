@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mstmp",
-				"purl": "purl:rpm/suse/mstmp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mstmp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

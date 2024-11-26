@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libXv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

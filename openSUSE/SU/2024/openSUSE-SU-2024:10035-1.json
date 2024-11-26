@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "phpPgAdmin",
-				"purl": "purl:rpm/suse/phpPgAdmin&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/phpPgAdmin&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

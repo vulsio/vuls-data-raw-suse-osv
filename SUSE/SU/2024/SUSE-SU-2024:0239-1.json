@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP1",
 				"name": "rear23a",
-				"purl": "purl:rpm/suse/rear23a&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/rear23a&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP2",
 				"name": "rear23a",
-				"purl": "purl:rpm/suse/rear23a&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/rear23a&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-Module-Metadata",
-				"purl": "purl:rpm/suse/perl-Module-Metadata&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-Module-Metadata&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

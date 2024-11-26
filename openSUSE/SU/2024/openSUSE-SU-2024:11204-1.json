@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-CherryPy",
-				"purl": "purl:rpm/suse/python-CherryPy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-CherryPy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

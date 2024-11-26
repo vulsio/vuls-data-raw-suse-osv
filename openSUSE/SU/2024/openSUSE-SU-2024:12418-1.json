@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libksba",
-				"purl": "purl:rpm/suse/libksba&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libksba&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

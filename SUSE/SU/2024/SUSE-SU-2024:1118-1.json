@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{

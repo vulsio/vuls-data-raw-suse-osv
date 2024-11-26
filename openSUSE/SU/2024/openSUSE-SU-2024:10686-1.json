@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "claws-mail",
-				"purl": "purl:rpm/suse/claws-mail&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/claws-mail&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

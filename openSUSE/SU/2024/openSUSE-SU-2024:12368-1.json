@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "unbound",
-				"purl": "purl:rpm/suse/unbound&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/unbound&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

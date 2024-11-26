@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "vsftpd",
-				"purl": "purl:rpm/suse/vsftpd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/vsftpd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mlterm",
-				"purl": "purl:rpm/suse/mlterm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mlterm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

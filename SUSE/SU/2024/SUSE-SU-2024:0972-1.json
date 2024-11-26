@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "trilead-ssh2",
-				"purl": "purl:rpm/suse/trilead-ssh2&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/trilead-ssh2&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

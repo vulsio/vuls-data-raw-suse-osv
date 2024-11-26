@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "owntone",
-				"purl": "purl:rpm/suse/owntone&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/owntone&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

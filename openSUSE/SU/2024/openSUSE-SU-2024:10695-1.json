@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "corosync",
-				"purl": "purl:rpm/suse/corosync&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/corosync&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

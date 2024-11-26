@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mgetty",
-				"purl": "purl:rpm/suse/mgetty&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mgetty&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

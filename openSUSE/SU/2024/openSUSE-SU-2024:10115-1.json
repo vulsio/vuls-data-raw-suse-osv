@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubyem-rack",
-				"purl": "purl:rpm/suse/rubyem-rack&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubyem-rack&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "qtox",
-				"purl": "purl:rpm/suse/qtox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/qtox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

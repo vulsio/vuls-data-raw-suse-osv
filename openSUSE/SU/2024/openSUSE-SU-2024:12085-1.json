@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-nokogiri",
-				"purl": "purl:rpm/suse/rubygem-nokogiri&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-nokogiri&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

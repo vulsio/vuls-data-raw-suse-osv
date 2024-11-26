@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gv",
-				"purl": "purl:rpm/suse/gv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

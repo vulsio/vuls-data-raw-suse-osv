@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "iptraf-ng",
-				"purl": "purl:rpm/suse/iptraf-ng&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/iptraf-ng&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "indent",
-				"purl": "purl:rpm/suse/indent&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/indent&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-pywbem",
-				"purl": "purl:rpm/suse/python-pywbem&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-pywbem&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

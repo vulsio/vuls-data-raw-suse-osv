@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "google-osconfig-agent",
-				"purl": "purl:rpm/suse/google-osconfig-agent&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/google-osconfig-agent&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

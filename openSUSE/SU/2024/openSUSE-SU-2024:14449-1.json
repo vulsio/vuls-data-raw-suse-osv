@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-23-openjdk",
-				"purl": "purl:rpm/suse/java-23-openjdk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-23-openjdk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

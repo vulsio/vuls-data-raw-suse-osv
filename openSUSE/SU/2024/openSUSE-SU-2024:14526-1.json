@@ -1,0 +1,58 @@
+{
+	"id": "openSUSE-SU-2024:14526-1",
+	"modified": "2024-11-25T00:00:00Z",
+	"published": "2024-11-25T00:00:00Z",
+	"related": [
+		"CVE-2024-52316"
+	],
+	"summary": "tomcat10-10.1.33-1.1 on GA media",
+	"details": "These are all security issues fixed in the tomcat10-10.1.33-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "tomcat10",
+				"purl": "pkg:rpm/opensuse/tomcat10&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "10.1.33-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"tomcat10": "10.1.33-1.1",
+						"tomcat10-admin-webapps": "10.1.33-1.1",
+						"tomcat10-doc": "10.1.33-1.1",
+						"tomcat10-docs-webapp": "10.1.33-1.1",
+						"tomcat10-el-5_0-api": "10.1.33-1.1",
+						"tomcat10-embed": "10.1.33-1.1",
+						"tomcat10-jsp-3_1-api": "10.1.33-1.1",
+						"tomcat10-jsvc": "10.1.33-1.1",
+						"tomcat10-lib": "10.1.33-1.1",
+						"tomcat10-servlet-6_0-api": "10.1.33-1.1",
+						"tomcat10-webapps": "10.1.33-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52316"
+		}
+	]
+}

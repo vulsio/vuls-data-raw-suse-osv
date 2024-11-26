@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "freerdp",
-				"purl": "purl:rpm/suse/freerdp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/freerdp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

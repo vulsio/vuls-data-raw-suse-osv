@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libproxy",
-				"purl": "purl:rpm/suse/libproxy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libproxy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

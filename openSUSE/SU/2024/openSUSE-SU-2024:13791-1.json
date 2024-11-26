@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apache-commons-configuration2",
-				"purl": "purl:rpm/suse/apache-commons-configuration2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apache-commons-configuration2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

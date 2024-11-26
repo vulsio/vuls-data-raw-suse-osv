@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openslp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

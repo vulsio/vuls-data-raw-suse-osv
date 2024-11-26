@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tmux",
-				"purl": "purl:rpm/suse/tmux&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tmux&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

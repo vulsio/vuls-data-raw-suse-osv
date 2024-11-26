@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "haproxy",
-				"purl": "purl:rpm/suse/haproxy&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/haproxy&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

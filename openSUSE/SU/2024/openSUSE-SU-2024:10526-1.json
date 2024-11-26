@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rxvt-unicode",
-				"purl": "purl:rpm/suse/rxvt-unicode&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rxvt-unicode&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

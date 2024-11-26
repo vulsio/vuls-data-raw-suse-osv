@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/amazon-ssm-agent&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

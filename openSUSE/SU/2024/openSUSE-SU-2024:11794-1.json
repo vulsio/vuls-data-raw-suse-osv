@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "exiftool",
-				"purl": "purl:rpm/suse/exiftool&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/exiftool&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

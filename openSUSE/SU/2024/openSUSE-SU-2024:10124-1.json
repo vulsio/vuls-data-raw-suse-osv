@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-dulwich",
-				"purl": "purl:rpm/suse/python-dulwich&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-dulwich&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

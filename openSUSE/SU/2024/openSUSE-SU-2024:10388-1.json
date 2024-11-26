@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "postfixadmin",
-				"purl": "purl:rpm/suse/postfixadmin&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/postfixadmin&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

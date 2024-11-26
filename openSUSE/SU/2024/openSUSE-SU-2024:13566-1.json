@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "micropython",
-				"purl": "purl:rpm/suse/micropython&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/micropython&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

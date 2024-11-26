@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openttd",
-				"purl": "purl:rpm/suse/openttd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openttd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

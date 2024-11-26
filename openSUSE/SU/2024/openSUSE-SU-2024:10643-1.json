@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/avahi&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

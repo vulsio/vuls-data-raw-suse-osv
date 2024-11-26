@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -166,7 +166,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -193,7 +193,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python3-libmount",
-				"purl": "purl:rpm/suse/python3-libmount&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python3-libmount&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/util-linux&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -305,7 +305,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/util-linux-systemd&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

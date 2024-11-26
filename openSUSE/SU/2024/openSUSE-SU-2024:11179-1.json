@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "coreutils",
-				"purl": "purl:rpm/suse/coreutils&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/coreutils&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

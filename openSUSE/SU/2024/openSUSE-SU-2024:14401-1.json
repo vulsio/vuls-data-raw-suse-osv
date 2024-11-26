@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sonivox",
-				"purl": "purl:rpm/suse/sonivox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sonivox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

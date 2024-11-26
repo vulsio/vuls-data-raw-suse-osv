@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "shotcut",
-				"purl": "purl:rpm/suse/shotcut&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/shotcut&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

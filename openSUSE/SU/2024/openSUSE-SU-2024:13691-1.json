@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-aiohttp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

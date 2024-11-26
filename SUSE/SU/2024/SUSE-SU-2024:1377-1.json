@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "apache-commons-configuration",
-				"purl": "purl:rpm/suse/apache-commons-configuration&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/apache-commons-configuration&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "apache-commons-configuration",
-				"purl": "purl:rpm/suse/apache-commons-configuration&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/apache-commons-configuration&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

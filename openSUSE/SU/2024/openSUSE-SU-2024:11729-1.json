@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zram-generator",
-				"purl": "purl:rpm/suse/zram-generator&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zram-generator&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

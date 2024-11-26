@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "prometheus-blackbox_exporter",
-				"purl": "purl:rpm/suse/prometheus-blackbox_exporter&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/prometheus-blackbox_exporter&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

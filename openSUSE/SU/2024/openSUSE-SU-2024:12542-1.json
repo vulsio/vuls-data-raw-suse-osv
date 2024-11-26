@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ovmf",
-				"purl": "purl:rpm/suse/ovmf&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ovmf&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

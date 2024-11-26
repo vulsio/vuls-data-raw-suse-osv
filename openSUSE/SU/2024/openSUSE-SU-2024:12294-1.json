@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "element-desktop",
-				"purl": "purl:rpm/suse/element-desktop&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/element-desktop&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

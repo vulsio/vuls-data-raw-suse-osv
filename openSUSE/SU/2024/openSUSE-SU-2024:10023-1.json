@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kdebase3",
-				"purl": "purl:rpm/suse/kdebase3&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kdebase3&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

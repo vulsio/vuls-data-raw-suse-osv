@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "file-roller",
-				"purl": "purl:rpm/suse/file-roller&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/file-roller&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

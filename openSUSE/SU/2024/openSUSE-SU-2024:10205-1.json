@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/firewalld&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

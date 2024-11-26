@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "gstreamer-plugins-rs",
-				"purl": "purl:rpm/suse/gstreamer-plugins-rs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-rs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "gstreamer-plugins-rs",
-				"purl": "purl:rpm/suse/gstreamer-plugins-rs&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-rs&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{

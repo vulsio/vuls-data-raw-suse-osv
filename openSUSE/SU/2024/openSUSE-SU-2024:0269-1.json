@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "trivy",
-				"purl": "purl:rpm/suse/trivy&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/trivy&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "trivy",
-				"purl": "purl:rpm/suse/trivy&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/trivy&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

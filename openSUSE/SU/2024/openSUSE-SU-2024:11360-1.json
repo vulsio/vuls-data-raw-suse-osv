@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rust1.53",
-				"purl": "purl:rpm/suse/rust1.53&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rust1.53&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

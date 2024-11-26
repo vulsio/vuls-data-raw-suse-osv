@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "parsec",
-				"purl": "purl:rpm/suse/parsec&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/parsec&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

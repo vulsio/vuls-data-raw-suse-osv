@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "elfutils",
-				"purl": "purl:rpm/suse/elfutils&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/elfutils&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

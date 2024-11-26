@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libXxf86vm",
-				"purl": "purl:rpm/suse/libXxf86vm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libXxf86vm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

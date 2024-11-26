@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "stunnel",
-				"purl": "purl:rpm/suse/stunnel&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/stunnel&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

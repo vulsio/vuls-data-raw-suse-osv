@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-starlette",
-				"purl": "purl:rpm/suse/python-starlette&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-starlette&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

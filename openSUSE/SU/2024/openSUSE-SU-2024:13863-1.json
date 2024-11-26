@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cosign",
-				"purl": "purl:rpm/suse/cosign&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cosign&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

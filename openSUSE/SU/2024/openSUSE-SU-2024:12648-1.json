@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-globalid",
-				"purl": "purl:rpm/suse/rubygem-globalid&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-globalid&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

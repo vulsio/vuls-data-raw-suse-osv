@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP6",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP6"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -222,7 +222,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/java-17-openjdk&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/java-17-openjdk&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -315,7 +315,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "java-17-openjdk",
-				"purl": "purl:rpm/suse/java-17-openjdk&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/java-17-openjdk&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

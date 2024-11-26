@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -212,7 +212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -309,7 +309,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-promu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -336,7 +336,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -363,7 +363,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -390,7 +390,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -420,7 +420,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/golang-github-prometheus-promu&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -450,7 +450,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -480,7 +480,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "wire",
-				"purl": "purl:rpm/suse/wire&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/wire&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -510,7 +510,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -540,7 +540,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "golang-github-prometheus-promu",
-				"purl": "purl:rpm/suse/golang-github-prometheus-promu&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/golang-github-prometheus-promu&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -570,7 +570,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -600,7 +600,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "wire",
-				"purl": "purl:rpm/suse/wire&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/wire&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

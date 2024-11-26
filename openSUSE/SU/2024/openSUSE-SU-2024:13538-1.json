@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "postfix",
-				"purl": "purl:rpm/suse/postfix&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/postfix&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

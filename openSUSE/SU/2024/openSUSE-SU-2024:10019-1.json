@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "archivemail",
-				"purl": "purl:rpm/suse/archivemail&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/archivemail&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

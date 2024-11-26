@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-activerecord-7.0",
-				"purl": "purl:rpm/suse/rubygem-activerecord-7.0&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-activerecord-7.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

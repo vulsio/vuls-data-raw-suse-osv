@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "soundtouch",
-				"purl": "purl:rpm/suse/soundtouch&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/soundtouch&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

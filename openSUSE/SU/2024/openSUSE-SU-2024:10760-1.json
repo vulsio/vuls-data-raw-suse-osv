@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "flac",
-				"purl": "purl:rpm/suse/flac&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/flac&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

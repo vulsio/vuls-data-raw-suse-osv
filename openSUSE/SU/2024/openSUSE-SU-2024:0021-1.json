@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "perl-Spreadsheet-ParseXLSX",
-				"purl": "purl:rpm/suse/perl-Spreadsheet-ParseXLSX&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/perl-Spreadsheet-ParseXLSX&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "perl-Spreadsheet-ParseXLSX",
-				"purl": "purl:rpm/suse/perl-Spreadsheet-ParseXLSX&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/perl-Spreadsheet-ParseXLSX&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

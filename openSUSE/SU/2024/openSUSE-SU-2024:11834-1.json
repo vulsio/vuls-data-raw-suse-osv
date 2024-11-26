@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mruby",
-				"purl": "purl:rpm/suse/mruby&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mruby&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

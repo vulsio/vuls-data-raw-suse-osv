@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "texlive-filesystem",
-				"purl": "purl:rpm/suse/texlive-filesystem&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/texlive-filesystem&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

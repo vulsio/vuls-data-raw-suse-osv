@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-PyYAML",
-				"purl": "purl:rpm/suse/python-PyYAML&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-PyYAML&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

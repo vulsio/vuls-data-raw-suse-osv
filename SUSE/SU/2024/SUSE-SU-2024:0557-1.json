@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "python-pycryptodomex",
-				"purl": "purl:rpm/suse/python-pycryptodomex&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-pycryptodomex&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "python-pycryptodomex",
-				"purl": "purl:rpm/suse/python-pycryptodomex&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/python-pycryptodomex&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-pycryptodomex",
-				"purl": "purl:rpm/suse/python-pycryptodomex&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-pycryptodomex&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

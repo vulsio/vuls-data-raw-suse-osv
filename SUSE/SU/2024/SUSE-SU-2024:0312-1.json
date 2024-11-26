@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "slurm_23_02",
-				"purl": "purl:rpm/suse/slurm_23_02&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/slurm_23_02&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{

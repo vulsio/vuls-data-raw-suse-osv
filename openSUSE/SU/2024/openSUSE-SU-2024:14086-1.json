@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-Js2Py",
-				"purl": "purl:rpm/suse/python-Js2Py&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-Js2Py&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

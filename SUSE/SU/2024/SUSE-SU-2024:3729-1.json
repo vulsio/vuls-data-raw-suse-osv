@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "apache2-mod_php8",
-				"purl": "purl:rpm/suse/apache2-mod_php8&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/apache2-mod_php8&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php8",
-				"purl": "purl:rpm/suse/php8&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php8&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php8-embed",
-				"purl": "purl:rpm/suse/php8-embed&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php8-embed&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -248,7 +248,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php8-fastcgi",
-				"purl": "purl:rpm/suse/php8-fastcgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php8-fastcgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -326,7 +326,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php8-fpm",
-				"purl": "purl:rpm/suse/php8-fpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php8-fpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -404,7 +404,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php8-test",
-				"purl": "purl:rpm/suse/php8-test&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php8-test&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -482,7 +482,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "apache2-mod_php8",
-				"purl": "purl:rpm/suse/apache2-mod_php8&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/apache2-mod_php8&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -562,7 +562,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php8",
-				"purl": "purl:rpm/suse/php8&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php8&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -642,7 +642,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php8-embed",
-				"purl": "purl:rpm/suse/php8-embed&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php8-embed&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -722,7 +722,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php8-fastcgi",
-				"purl": "purl:rpm/suse/php8-fastcgi&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php8-fastcgi&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -802,7 +802,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php8-fpm",
-				"purl": "purl:rpm/suse/php8-fpm&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php8-fpm&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -882,7 +882,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php8-test",
-				"purl": "purl:rpm/suse/php8-test&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php8-test&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

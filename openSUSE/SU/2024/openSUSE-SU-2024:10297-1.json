@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mozilla-nspr&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mobidict",
-				"purl": "purl:rpm/suse/mobidict&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mobidict&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

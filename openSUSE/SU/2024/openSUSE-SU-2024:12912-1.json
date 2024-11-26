@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "virtualbox",
-				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/virtualbox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

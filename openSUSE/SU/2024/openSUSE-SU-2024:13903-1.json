@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "teleport",
-				"purl": "purl:rpm/suse/teleport&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/teleport&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

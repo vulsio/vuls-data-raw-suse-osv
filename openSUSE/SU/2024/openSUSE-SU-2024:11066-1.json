@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "munge",
-				"purl": "purl:rpm/suse/munge&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/munge&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

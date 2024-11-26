@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "traceroute",
-				"purl": "purl:rpm/suse/traceroute&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/traceroute&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

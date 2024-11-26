@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-virtualenv",
-				"purl": "purl:rpm/suse/python-virtualenv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-virtualenv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

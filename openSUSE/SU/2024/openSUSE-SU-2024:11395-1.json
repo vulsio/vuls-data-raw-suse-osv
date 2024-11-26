@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "spamassassin",
-				"purl": "purl:rpm/suse/spamassassin&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/spamassassin&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

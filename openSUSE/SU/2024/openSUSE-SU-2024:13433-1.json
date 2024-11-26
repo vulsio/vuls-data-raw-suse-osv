@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ruby3.2-rubygem-rails-7.0",
-				"purl": "purl:rpm/suse/ruby3.2-rubygem-rails-7.0&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ruby3.2-rubygem-rails-7.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

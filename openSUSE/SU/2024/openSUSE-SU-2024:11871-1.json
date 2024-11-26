@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "usbguard",
-				"purl": "purl:rpm/suse/usbguard&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/usbguard&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

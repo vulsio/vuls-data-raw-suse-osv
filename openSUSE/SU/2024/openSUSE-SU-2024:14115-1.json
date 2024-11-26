@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "znc",
-				"purl": "purl:rpm/suse/znc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/znc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

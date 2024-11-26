@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gptfdisk",
-				"purl": "purl:rpm/suse/gptfdisk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gptfdisk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

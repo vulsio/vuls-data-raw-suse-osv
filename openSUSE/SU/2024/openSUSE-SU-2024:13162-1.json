@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ruby3.2-rubygem-loofah",
-				"purl": "purl:rpm/suse/ruby3.2-rubygem-loofah&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ruby3.2-rubygem-loofah&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

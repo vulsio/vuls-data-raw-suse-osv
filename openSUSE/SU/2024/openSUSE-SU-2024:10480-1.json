@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "unzip",
-				"purl": "purl:rpm/suse/unzip&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/unzip&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

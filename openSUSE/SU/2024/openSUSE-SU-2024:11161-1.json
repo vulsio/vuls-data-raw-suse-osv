@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl-DBI",
-				"purl": "purl:rpm/suse/perl-DBI&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl-DBI&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

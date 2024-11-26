@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "id3lib",
-				"purl": "purl:rpm/suse/id3lib&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/id3lib&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

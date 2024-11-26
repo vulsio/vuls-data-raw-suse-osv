@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "otrs",
-				"purl": "purl:rpm/suse/otrs&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/otrs&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

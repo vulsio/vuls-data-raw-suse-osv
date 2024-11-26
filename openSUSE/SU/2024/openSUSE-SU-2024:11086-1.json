@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "newlib",
-				"purl": "purl:rpm/suse/newlib&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/newlib&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

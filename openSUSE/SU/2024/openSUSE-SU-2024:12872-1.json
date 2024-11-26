@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/prometheus-postgres_exporter&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

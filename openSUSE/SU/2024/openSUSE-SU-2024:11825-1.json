@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-activemodel-6.0",
-				"purl": "purl:rpm/suse/rubygem-activemodel-6.0&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-activemodel-6.0&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

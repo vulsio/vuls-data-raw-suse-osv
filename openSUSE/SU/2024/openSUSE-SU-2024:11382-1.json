@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "shim",
-				"purl": "purl:rpm/suse/shim&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/shim&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

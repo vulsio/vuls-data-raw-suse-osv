@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zeromq&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

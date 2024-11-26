@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xorg-x11-server",
-				"purl": "purl:rpm/suse/xorg-x11-server&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xorg-x11-server&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

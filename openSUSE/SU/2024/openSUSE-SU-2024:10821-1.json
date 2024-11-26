@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "graphviz",
-				"purl": "purl:rpm/suse/graphviz&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/graphviz&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

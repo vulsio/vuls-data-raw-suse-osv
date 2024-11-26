@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libpng16",
-				"purl": "purl:rpm/suse/libpng16&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libpng16&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

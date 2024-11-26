@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "xalan-j2",
-				"purl": "purl:rpm/suse/xalan-j2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/xalan-j2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

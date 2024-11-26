@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-openapi-spec-validator",
-				"purl": "purl:rpm/suse/python-openapi-spec-validator&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-openapi-spec-validator&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

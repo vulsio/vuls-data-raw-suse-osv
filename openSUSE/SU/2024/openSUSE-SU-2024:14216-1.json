@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "orc",
-				"purl": "purl:rpm/suse/orc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/orc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "udisks",
-				"purl": "purl:rpm/suse/udisks&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/udisks&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

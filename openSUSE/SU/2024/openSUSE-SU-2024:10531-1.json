@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "links",
-				"purl": "purl:rpm/suse/links&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/links&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

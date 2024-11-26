@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cockpit",
-				"purl": "purl:rpm/suse/cockpit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cockpit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-onionshare",
-				"purl": "purl:rpm/suse/python-onionshare&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-onionshare&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

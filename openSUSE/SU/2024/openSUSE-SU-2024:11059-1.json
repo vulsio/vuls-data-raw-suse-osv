@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mozjs78",
-				"purl": "purl:rpm/suse/mozjs78&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mozjs78&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

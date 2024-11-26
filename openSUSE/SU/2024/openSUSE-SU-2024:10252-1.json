@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "audit",
-				"purl": "purl:rpm/suse/audit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/audit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

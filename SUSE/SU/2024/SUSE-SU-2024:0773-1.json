@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/postgresql-jdbc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

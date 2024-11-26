@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "qt3",
-				"purl": "purl:rpm/suse/qt3&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/qt3&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

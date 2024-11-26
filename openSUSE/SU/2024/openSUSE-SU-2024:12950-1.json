@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apache-commons-fileupload",
-				"purl": "purl:rpm/suse/apache-commons-fileupload&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apache-commons-fileupload&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

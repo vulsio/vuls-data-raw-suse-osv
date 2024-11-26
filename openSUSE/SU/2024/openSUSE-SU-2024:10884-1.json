@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "k3s",
-				"purl": "purl:rpm/suse/k3s&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/k3s&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

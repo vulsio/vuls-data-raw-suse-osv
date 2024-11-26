@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "slurm_20_02",
-				"purl": "purl:rpm/suse/slurm_20_02&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/slurm_20_02&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

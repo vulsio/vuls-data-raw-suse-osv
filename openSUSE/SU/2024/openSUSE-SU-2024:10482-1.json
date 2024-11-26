@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python3-requests",
-				"purl": "purl:rpm/suse/python3-requests&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python3-requests&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

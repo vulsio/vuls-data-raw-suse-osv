@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP6",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/htmldoc&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

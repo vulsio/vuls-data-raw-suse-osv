@@ -33,7 +33,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tor",
-				"purl": "purl:rpm/suse/tor&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tor&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

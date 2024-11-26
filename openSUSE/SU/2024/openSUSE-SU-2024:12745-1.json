@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gdb",
-				"purl": "purl:rpm/suse/gdb&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gdb&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

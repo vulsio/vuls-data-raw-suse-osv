@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nano",
-				"purl": "purl:rpm/suse/nano&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nano&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gcc7",
-				"purl": "purl:rpm/suse/gcc7&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gcc7&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

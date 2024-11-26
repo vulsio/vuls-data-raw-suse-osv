@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "postgresql95",
-				"purl": "purl:rpm/suse/postgresql95&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/postgresql95&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

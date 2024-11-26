@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "pwgen",
-				"purl": "purl:rpm/suse/pwgen&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/pwgen&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

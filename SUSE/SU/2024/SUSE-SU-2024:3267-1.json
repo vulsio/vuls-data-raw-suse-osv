@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -115,7 +115,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -179,7 +179,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -206,7 +206,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

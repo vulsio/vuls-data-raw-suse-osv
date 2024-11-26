@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dpkg",
-				"purl": "purl:rpm/suse/dpkg&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dpkg&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

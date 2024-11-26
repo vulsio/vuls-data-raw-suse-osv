@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -212,7 +212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -239,7 +239,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/Mesa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -266,7 +266,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -295,7 +295,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/Mesa-drivers&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -323,7 +323,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.5",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=openSUSE%20Leap%20Micro%205.5"
+				"purl": "pkg:rpm/opensuse/Mesa&distro=openSUSE%20Leap%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -356,7 +356,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.5",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=openSUSE%20Leap%20Micro%205.5"
+				"purl": "pkg:rpm/opensuse/Mesa-drivers&distro=openSUSE%20Leap%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -389,7 +389,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/Mesa&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -481,7 +481,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/Mesa-drivers&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

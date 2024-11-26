@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "go1.22-openssl",
-				"purl": "purl:rpm/suse/go1.22-openssl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/go1.22-openssl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "go1.22-openssl",
-				"purl": "purl:rpm/suse/go1.22-openssl&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/go1.22-openssl&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

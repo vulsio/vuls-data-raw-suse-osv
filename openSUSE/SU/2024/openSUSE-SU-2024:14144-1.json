@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-kubernetes",
-				"purl": "purl:rpm/suse/python-kubernetes&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-kubernetes&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

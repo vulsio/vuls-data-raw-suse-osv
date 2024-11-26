@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "perl",
-				"purl": "purl:rpm/suse/perl&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/perl&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

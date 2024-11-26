@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "speex",
-				"purl": "purl:rpm/suse/speex&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/speex&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

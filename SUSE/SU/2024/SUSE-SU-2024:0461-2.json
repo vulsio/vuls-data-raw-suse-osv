@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -264,7 +264,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -296,7 +296,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -328,7 +328,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -359,7 +359,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -390,7 +390,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -418,7 +418,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -447,7 +447,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -476,7 +476,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -507,7 +507,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/python-libxml2-python&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -538,7 +538,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-libxml2-python&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

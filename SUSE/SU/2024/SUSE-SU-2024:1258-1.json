@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP5",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -152,7 +152,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Pillow&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

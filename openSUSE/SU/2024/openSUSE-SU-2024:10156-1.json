@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libraw",
-				"purl": "purl:rpm/suse/libraw&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libraw&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

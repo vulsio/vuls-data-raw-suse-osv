@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "python-doc",
-				"purl": "purl:rpm/suse/python-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -137,7 +137,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -178,7 +178,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -219,7 +219,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "python-doc",
-				"purl": "purl:rpm/suse/python-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -260,7 +260,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libredwg",
-				"purl": "purl:rpm/suse/libredwg&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libredwg&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

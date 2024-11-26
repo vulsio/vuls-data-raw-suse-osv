@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP5",
 				"name": "kernel-livepatch-SLE15-SP5-RT_Update_0",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP5-RT_Update_0&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP5"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP5-RT_Update_0&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP5"
 			},
 			"ranges": [
 				{

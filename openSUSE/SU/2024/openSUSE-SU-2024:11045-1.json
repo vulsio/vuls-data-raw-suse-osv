@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "memcached",
-				"purl": "purl:rpm/suse/memcached&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/memcached&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

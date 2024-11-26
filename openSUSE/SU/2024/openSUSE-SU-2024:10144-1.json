@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-suds-jurko",
-				"purl": "purl:rpm/suse/python-suds-jurko&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-suds-jurko&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

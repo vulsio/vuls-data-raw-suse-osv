@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "phpMyAdmin",
-				"purl": "purl:rpm/suse/phpMyAdmin&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/phpMyAdmin&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

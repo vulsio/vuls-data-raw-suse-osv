@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "swtpm",
-				"purl": "purl:rpm/suse/swtpm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/swtpm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

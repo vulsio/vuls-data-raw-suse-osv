@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "openfortivpn",
-				"purl": "purl:rpm/suse/openfortivpn&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/openfortivpn&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zstd",
-				"purl": "purl:rpm/suse/zstd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zstd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

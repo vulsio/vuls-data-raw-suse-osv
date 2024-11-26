@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "SDL2",
-				"purl": "purl:rpm/suse/SDL2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/SDL2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

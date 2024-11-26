@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tnef",
-				"purl": "purl:rpm/suse/tnef&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tnef&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

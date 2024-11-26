@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lynx",
-				"purl": "purl:rpm/suse/lynx&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lynx&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

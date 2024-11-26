@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "forgejo-runner",
-				"purl": "purl:rpm/suse/forgejo-runner&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/forgejo-runner&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

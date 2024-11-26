@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "govulncheck-vulndb",
-				"purl": "purl:rpm/suse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

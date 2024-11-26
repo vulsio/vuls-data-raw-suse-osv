@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "wavpack",
-				"purl": "purl:rpm/suse/wavpack&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/wavpack&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

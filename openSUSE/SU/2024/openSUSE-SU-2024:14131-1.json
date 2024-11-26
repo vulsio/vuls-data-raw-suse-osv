@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-XStatic-jquery-ui",
-				"purl": "purl:rpm/suse/python-XStatic-jquery-ui&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-XStatic-jquery-ui&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ledger",
-				"purl": "purl:rpm/suse/ledger&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ledger&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

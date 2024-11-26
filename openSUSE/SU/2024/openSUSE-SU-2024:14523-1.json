@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/util-linux&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/JXHQWREVRCMINNOILT7P3YW7GOCJDXWZ/"
 		},
 		{
 			"type": "WEB",

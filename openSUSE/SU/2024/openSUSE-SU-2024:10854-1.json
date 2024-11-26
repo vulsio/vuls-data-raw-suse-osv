@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "icecream",
-				"purl": "purl:rpm/suse/icecream&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/icecream&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

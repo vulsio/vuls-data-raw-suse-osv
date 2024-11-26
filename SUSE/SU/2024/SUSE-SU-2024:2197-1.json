@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP4",
 				"name": "openssl-1_1-livepatches",
-				"purl": "purl:rpm/suse/openssl-1_1-livepatches&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
+				"purl": "pkg:rpm/suse/openssl-1_1-livepatches&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
 			},
 			"ranges": [
 				{

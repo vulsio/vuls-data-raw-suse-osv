@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bitwarden",
-				"purl": "purl:rpm/suse/bitwarden&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bitwarden&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

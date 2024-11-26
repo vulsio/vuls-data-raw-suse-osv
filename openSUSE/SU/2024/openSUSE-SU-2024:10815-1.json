@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gpg2",
-				"purl": "purl:rpm/suse/gpg2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gpg2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

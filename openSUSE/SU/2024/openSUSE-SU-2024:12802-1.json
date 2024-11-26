@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cmark",
-				"purl": "purl:rpm/suse/cmark&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cmark&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

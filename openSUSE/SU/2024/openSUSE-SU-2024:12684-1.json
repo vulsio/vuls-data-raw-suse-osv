@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-pywayland",
-				"purl": "purl:rpm/suse/python-pywayland&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-pywayland&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

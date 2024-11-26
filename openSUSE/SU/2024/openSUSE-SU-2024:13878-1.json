@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "jasper",
-				"purl": "purl:rpm/suse/jasper&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/jasper&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

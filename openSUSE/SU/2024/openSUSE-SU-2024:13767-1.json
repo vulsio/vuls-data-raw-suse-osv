@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kernel-source&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

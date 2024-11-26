@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "govulncheck-vulndb",
-				"purl": "purl:rpm/suse/govulncheck-vulndb&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/govulncheck-vulndb&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

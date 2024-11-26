@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "docker-compose",
-				"purl": "purl:rpm/suse/docker-compose&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/docker-compose&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

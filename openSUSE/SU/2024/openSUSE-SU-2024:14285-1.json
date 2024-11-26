@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

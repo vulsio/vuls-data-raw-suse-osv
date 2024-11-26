@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cadvisor",
-				"purl": "purl:rpm/suse/cadvisor&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cadvisor&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/roundcubemail&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

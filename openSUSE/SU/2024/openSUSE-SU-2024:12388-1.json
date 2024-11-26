@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "jettison",
-				"purl": "purl:rpm/suse/jettison&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/jettison&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

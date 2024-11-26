@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "freetype2",
-				"purl": "purl:rpm/suse/freetype2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/freetype2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

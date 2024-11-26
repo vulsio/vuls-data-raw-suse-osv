@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rsyslog",
-				"purl": "purl:rpm/suse/rsyslog&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rsyslog&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

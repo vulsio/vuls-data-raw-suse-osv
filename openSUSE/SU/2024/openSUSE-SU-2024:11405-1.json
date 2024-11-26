@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "srt",
-				"purl": "purl:rpm/suse/srt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/srt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

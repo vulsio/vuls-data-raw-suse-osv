@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "apptainer",
-				"purl": "purl:rpm/suse/apptainer&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/apptainer&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "squashfuse",
-				"purl": "purl:rpm/suse/squashfuse&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/squashfuse&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "apptainer",
-				"purl": "purl:rpm/suse/apptainer&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/apptainer&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "squashfuse",
-				"purl": "purl:rpm/suse/squashfuse&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/squashfuse&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mailman",
-				"purl": "purl:rpm/suse/mailman&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mailman&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

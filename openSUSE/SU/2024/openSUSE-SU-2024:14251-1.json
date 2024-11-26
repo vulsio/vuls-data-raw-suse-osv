@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ansible-core",
-				"purl": "purl:rpm/suse/ansible-core&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ansible-core&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

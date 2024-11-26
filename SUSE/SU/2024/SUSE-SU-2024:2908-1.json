@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP6",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Pillow&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

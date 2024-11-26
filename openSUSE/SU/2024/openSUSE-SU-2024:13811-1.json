@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-validators",
-				"purl": "purl:rpm/suse/python-validators&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-validators&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

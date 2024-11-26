@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "oniguruma",
-				"purl": "purl:rpm/suse/oniguruma&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/oniguruma&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

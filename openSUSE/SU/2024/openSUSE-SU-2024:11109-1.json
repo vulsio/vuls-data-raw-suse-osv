@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "oddjob",
-				"purl": "purl:rpm/suse/oddjob&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/oddjob&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bash",
-				"purl": "purl:rpm/suse/bash&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bash&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

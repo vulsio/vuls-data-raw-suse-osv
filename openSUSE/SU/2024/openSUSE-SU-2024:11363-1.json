@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rzsz",
-				"purl": "purl:rpm/suse/rzsz&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rzsz&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

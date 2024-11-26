@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "389-ds",
-				"purl": "purl:rpm/suse/389-ds&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/389-ds&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

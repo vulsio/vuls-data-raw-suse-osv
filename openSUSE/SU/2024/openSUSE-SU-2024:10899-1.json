@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "krb5",
-				"purl": "purl:rpm/suse/krb5&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/krb5&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

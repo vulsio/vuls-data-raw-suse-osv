@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "epiphany",
-				"purl": "purl:rpm/suse/epiphany&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/epiphany&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

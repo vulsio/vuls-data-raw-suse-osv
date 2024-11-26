@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-22-openjdk",
-				"purl": "purl:rpm/suse/java-22-openjdk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-22-openjdk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

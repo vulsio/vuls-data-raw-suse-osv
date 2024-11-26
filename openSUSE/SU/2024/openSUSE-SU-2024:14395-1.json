@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-jwt",
-				"purl": "purl:rpm/suse/java-jwt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-jwt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

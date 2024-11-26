@@ -158,7 +158,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Confidential Computing Technical Preview 15 SP6",
 				"name": "kernel-coco",
-				"purl": "purl:rpm/suse/kernel-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
+				"purl": "pkg:rpm/suse/kernel-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Confidential Computing Technical Preview 15 SP6",
 				"name": "kernel-coco_debug",
-				"purl": "purl:rpm/suse/kernel-coco_debug&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
+				"purl": "pkg:rpm/suse/kernel-coco_debug&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Confidential Computing Technical Preview 15 SP6",
 				"name": "kernel-source-coco",
-				"purl": "purl:rpm/suse/kernel-source-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
+				"purl": "pkg:rpm/suse/kernel-source-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -260,7 +260,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Confidential Computing Technical Preview 15 SP6",
 				"name": "kernel-syms-coco",
-				"purl": "purl:rpm/suse/kernel-syms-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
+				"purl": "pkg:rpm/suse/kernel-syms-coco&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Confidential%20Computing%20Technical%20Preview%2015%20SP6"
 			},
 			"ranges": [
 				{

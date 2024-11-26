@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "httrack",
-				"purl": "purl:rpm/suse/httrack&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/httrack&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

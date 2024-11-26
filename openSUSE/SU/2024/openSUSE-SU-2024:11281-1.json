@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python2-pip",
-				"purl": "purl:rpm/suse/python2-pip&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python2-pip&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

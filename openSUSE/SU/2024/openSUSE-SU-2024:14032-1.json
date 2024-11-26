@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "okteto",
-				"purl": "purl:rpm/suse/okteto&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/okteto&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

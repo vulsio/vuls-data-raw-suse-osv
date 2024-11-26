@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-Pillow&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

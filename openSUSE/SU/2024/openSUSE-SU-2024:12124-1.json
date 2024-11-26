@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "go1.18",
-				"purl": "purl:rpm/suse/go1.18&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/go1.18&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

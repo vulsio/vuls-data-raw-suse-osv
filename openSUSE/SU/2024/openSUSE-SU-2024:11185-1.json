@@ -29,7 +29,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "postgresql11",
-				"purl": "purl:rpm/suse/postgresql11&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/postgresql11&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

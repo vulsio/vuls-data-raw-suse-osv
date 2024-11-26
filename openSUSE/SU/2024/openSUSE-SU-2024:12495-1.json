@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python311",
-				"purl": "purl:rpm/suse/python311&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python311&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

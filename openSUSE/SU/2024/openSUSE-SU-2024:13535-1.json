@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zabbix",
-				"purl": "purl:rpm/suse/zabbix&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zabbix&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

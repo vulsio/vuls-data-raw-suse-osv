@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "httpcomponents-client",
-				"purl": "purl:rpm/suse/httpcomponents-client&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/httpcomponents-client&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

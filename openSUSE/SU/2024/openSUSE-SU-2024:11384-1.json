@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "singularity",
-				"purl": "purl:rpm/suse/singularity&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/singularity&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

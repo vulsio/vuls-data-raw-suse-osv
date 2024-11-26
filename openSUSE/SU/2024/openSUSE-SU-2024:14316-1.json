@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nqptp",
-				"purl": "purl:rpm/suse/nqptp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nqptp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

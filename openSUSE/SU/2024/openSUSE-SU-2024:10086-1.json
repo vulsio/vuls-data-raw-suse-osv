@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "a2ps",
-				"purl": "purl:rpm/suse/a2ps&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/a2ps&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

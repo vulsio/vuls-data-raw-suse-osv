@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP5",
 				"name": "hdf5_1_10_11-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP5",
 				"name": "hdf5_1_10_11-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP5",
 				"name": "hdf5_1_10_11-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -370,7 +370,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP5",
 				"name": "hdf5_1_10_11-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -488,7 +488,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP5",
 				"name": "hdf5_1_10_11-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -606,7 +606,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "hdf5_1_10_11-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -714,7 +714,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "hdf5_1_10_11-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -822,7 +822,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "hdf5_1_10_11-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -930,7 +930,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "hdf5_1_10_11-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1038,7 +1038,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "hdf5_1_10_11-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1146,7 +1146,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hdf5_1_10_11-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hdf5_1_10_11-gnu-hpc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1264,7 +1264,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hdf5_1_10_11-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mpich-hpc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hdf5_1_10_11-gnu-mpich-hpc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1382,7 +1382,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hdf5_1_10_11-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1500,7 +1500,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hdf5_1_10_11-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hdf5_1_10_11-gnu-openmpi3-hpc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -1618,7 +1618,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "hdf5_1_10_11-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/hdf5_1_10_11-gnu-openmpi4-hpc&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

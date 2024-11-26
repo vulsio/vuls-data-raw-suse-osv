@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "viewvc",
-				"purl": "purl:rpm/suse/viewvc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/viewvc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

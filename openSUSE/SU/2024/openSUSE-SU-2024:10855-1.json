@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "icedtea-web",
-				"purl": "purl:rpm/suse/icedtea-web&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/icedtea-web&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

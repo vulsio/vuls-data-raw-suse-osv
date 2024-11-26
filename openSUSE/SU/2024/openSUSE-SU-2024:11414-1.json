@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "supervisor",
-				"purl": "purl:rpm/suse/supervisor&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/supervisor&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

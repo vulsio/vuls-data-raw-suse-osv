@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP6",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
+				"purl": "pkg:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/libgit2&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

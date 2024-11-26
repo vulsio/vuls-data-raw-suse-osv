@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sops",
-				"purl": "purl:rpm/suse/sops&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sops&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

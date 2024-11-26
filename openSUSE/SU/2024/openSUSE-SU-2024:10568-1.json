@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "apr-util",
-				"purl": "purl:rpm/suse/apr-util&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/apr-util&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

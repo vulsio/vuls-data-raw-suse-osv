@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "bubblewrap",
-				"purl": "purl:rpm/suse/bubblewrap&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/bubblewrap&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

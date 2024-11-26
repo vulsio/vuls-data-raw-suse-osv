@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "matrix-synapse",
-				"purl": "purl:rpm/suse/matrix-synapse&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/matrix-synapse&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

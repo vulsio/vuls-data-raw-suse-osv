@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "neomutt",
-				"purl": "purl:rpm/suse/neomutt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/neomutt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-azure-identity",
-				"purl": "purl:rpm/suse/python-azure-identity&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-azure-identity&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

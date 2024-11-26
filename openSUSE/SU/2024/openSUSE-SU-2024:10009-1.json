@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nut",
-				"purl": "purl:rpm/suse/nut&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nut&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tcpdump",
-				"purl": "purl:rpm/suse/tcpdump&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tcpdump&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

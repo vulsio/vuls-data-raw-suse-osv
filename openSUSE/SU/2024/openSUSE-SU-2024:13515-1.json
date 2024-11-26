@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python-asyncssh",
-				"purl": "purl:rpm/suse/python-asyncssh&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python-asyncssh&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

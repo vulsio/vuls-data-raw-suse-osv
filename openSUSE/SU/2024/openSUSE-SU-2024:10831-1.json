@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gstreamer-rtsp-server",
-				"purl": "purl:rpm/suse/gstreamer-rtsp-server&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gstreamer-rtsp-server&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

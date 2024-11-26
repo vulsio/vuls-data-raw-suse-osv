@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cups-filters&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sox",
-				"purl": "purl:rpm/suse/sox&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sox&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

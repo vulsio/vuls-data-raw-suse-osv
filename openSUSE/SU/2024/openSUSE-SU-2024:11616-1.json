@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nodejs14",
-				"purl": "purl:rpm/suse/nodejs14&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nodejs14&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nodejs22",
-				"purl": "purl:rpm/suse/nodejs22&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nodejs22&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

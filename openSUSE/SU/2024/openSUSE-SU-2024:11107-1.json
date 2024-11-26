@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "obs-service-tar_scm",
-				"purl": "purl:rpm/suse/obs-service-tar_scm&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/obs-service-tar_scm&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

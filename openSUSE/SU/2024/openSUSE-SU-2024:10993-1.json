@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libsolv&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

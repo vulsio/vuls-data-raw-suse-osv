@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "python36",
-				"purl": "purl:rpm/suse/python36&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
+				"purl": "pkg:rpm/suse/python36&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server LTSS Extended Security 12 SP5",
 				"name": "python36-core",
-				"purl": "purl:rpm/suse/python36-core&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
+				"purl": "pkg:rpm/suse/python36-core&distro=SUSE%20Linux%20Enterprise%20Server%20LTSS%20Extended%20Security%2012%20SP5"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nova",
-				"purl": "purl:rpm/suse/nova&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nova&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

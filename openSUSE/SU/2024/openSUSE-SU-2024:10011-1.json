@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kdelibs4&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

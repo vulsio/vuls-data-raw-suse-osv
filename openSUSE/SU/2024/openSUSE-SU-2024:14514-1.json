@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "dcmtk",
-				"purl": "purl:rpm/suse/dcmtk&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/dcmtk&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

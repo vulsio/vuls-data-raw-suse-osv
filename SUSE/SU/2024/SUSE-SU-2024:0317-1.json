@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "oath-toolkit",
-				"purl": "purl:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "oath-toolkit",
-				"purl": "purl:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "openconnect",
-				"purl": "purl:rpm/suse/openconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/openconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "stoken",
-				"purl": "purl:rpm/suse/stoken&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/stoken&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "oath-toolkit",
-				"purl": "purl:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/oath-toolkit&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -191,7 +191,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "openconnect",
-				"purl": "purl:rpm/suse/openconnect&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/openconnect&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -225,7 +225,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "stoken",
-				"purl": "purl:rpm/suse/stoken&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/stoken&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "oath-toolkit",
-				"purl": "purl:rpm/suse/oath-toolkit&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/oath-toolkit&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -301,7 +301,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "openconnect",
-				"purl": "purl:rpm/suse/openconnect&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/openconnect&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "stoken",
-				"purl": "purl:rpm/suse/stoken&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/stoken&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

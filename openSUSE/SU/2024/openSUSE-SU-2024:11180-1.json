@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "polkit",
-				"purl": "purl:rpm/suse/polkit&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/polkit&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

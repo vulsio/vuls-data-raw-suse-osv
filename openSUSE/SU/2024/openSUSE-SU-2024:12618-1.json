@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mpd",
-				"purl": "purl:rpm/suse/mpd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mpd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

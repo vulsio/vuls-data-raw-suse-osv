@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "nvidia-open-driver-G06-signed",
-				"purl": "purl:rpm/suse/nvidia-open-driver-G06-signed&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/nvidia-open-driver-G06-signed&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

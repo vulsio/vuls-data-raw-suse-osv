@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "OpenImageIO",
-				"purl": "purl:rpm/suse/OpenImageIO&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/OpenImageIO&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

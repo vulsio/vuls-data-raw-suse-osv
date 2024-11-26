@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gmp",
-				"purl": "purl:rpm/suse/gmp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gmp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

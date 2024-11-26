@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "icecast",
-				"purl": "purl:rpm/suse/icecast&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/icecast&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

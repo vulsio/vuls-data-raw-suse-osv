@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sysstat",
-				"purl": "purl:rpm/suse/sysstat&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sysstat&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

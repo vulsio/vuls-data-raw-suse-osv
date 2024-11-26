@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mutt",
-				"purl": "purl:rpm/suse/mutt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mutt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lxterminal",
-				"purl": "purl:rpm/suse/lxterminal&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lxterminal&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

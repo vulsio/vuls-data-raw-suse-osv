@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tealdeer",
-				"purl": "purl:rpm/suse/tealdeer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tealdeer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

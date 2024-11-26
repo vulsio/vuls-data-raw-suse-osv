@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gstreamer&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

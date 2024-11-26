@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/git&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

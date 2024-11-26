@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "zoo",
-				"purl": "purl:rpm/suse/zoo&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/zoo&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

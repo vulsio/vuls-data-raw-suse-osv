@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/sudo&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libavif",
-				"purl": "purl:rpm/suse/libavif&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libavif&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

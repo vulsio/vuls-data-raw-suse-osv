@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "jhead",
-				"purl": "purl:rpm/suse/jhead&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/jhead&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

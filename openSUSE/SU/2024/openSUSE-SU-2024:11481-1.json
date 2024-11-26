@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "ulfius",
-				"purl": "purl:rpm/suse/ulfius&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/ulfius&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

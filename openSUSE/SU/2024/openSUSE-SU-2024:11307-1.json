@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rpmlint",
-				"purl": "purl:rpm/suse/rpmlint&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rpmlint&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

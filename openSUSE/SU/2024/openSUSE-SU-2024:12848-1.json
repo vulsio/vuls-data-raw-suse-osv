@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "irssi",
-				"purl": "purl:rpm/suse/irssi&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/irssi&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

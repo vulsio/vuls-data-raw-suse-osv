@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "vim",
-				"purl": "purl:rpm/suse/vim&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/vim&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

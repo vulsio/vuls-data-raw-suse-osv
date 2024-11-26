@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP6",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP6"
 			},
 			"ranges": [
 				{

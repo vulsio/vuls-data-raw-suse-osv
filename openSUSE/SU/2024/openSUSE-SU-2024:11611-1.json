@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/htmldoc&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

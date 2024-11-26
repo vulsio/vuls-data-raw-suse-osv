@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "fail2ban",
-				"purl": "purl:rpm/suse/fail2ban&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/fail2ban&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

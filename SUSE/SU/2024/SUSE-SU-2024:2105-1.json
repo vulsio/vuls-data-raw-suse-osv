@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "hdf5_1_10_11-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "hdf5_1_10_11-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "hdf5_1_10_11-gnu-openmpi1-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_11-gnu-openmpi1-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/hdf5_1_10_11-gnu-openmpi1-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP6",
 				"name": "php-composer2",
-				"purl": "purl:rpm/suse/php-composer2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
+				"purl": "pkg:rpm/suse/php-composer2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "php-composer2",
-				"purl": "purl:rpm/suse/php-composer2&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/php-composer2&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

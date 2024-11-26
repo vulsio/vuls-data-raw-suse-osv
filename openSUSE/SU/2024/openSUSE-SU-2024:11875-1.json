@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "seatd",
-				"purl": "purl:rpm/suse/seatd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/seatd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

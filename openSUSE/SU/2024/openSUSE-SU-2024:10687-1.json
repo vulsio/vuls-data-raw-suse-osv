@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "clojure",
-				"purl": "purl:rpm/suse/clojure&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/clojure&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

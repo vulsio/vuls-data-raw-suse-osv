@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libvirt",
-				"purl": "purl:rpm/suse/libvirt&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libvirt&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

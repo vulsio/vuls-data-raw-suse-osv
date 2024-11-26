@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rubygem-puma-4",
-				"purl": "purl:rpm/suse/rubygem-puma-4&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rubygem-puma-4&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

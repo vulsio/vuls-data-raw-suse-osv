@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "rekor",
-				"purl": "purl:rpm/suse/rekor&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/rekor&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

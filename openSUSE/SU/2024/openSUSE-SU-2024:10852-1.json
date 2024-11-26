@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "hylafax+",
-				"purl": "purl:rpm/suse/hylafax+&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/hylafax+&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

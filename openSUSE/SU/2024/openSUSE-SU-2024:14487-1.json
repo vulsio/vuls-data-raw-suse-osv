@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/glib2&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

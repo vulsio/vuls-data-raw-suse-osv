@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cronie",
-				"purl": "purl:rpm/suse/cronie&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cronie&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

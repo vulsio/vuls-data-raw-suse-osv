@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "hardlink",
-				"purl": "purl:rpm/suse/hardlink&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/hardlink&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

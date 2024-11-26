@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "containerized-data-importer",
-				"purl": "purl:rpm/suse/containerized-data-importer&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/containerized-data-importer&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP5",
 				"name": "containerized-data-importer",
-				"purl": "purl:rpm/suse/containerized-data-importer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
+				"purl": "pkg:rpm/suse/containerized-data-importer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "containerized-data-importer",
-				"purl": "purl:rpm/suse/containerized-data-importer&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/containerized-data-importer&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

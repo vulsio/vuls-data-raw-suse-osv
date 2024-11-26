@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "fossil",
-				"purl": "purl:rpm/suse/fossil&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/fossil&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

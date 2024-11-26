@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gifsicle&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

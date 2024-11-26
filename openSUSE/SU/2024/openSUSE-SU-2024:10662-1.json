@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "btrfsmaintenance",
-				"purl": "purl:rpm/suse/btrfsmaintenance&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/btrfsmaintenance&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

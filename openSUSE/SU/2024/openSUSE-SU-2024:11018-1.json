@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libzip",
-				"purl": "purl:rpm/suse/libzip&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libzip&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

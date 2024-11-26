@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -199,7 +199,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -231,7 +231,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -263,7 +263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -295,7 +295,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -327,7 +327,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -359,7 +359,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -391,7 +391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -423,7 +423,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -455,7 +455,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -487,7 +487,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -519,7 +519,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -581,7 +581,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -611,7 +611,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -643,7 +643,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/wireshark&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "docker-distribution-registry",
-				"purl": "purl:rpm/suse/docker-distribution-registry&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/docker-distribution-registry&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

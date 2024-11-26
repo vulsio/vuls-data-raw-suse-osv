@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "php8",
-				"purl": "purl:rpm/suse/php8&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/php8&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/ROEYTIBLUXYCMCC2T25PTAXMN2GIRPJV/"
 		},
 		{
 			"type": "WEB",

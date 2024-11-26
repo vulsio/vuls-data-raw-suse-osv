@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "guava",
-				"purl": "purl:rpm/suse/guava&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/guava&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{

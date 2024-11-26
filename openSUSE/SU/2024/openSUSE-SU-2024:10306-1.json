@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "tnftp",
-				"purl": "purl:rpm/suse/tnftp&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/tnftp&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "less",
-				"purl": "purl:rpm/suse/less&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/less&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

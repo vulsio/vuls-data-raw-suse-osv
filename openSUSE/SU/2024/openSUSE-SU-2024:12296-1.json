@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gdk-pixbuf",
-				"purl": "purl:rpm/suse/gdk-pixbuf&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gdk-pixbuf&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mysql-connector-java",
-				"purl": "purl:rpm/suse/mysql-connector-java&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mysql-connector-java&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

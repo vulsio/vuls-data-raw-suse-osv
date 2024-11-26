@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "emacs",
-				"purl": "purl:rpm/suse/emacs&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/emacs&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

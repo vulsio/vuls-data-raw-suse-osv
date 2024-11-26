@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python311-wxPython",
-				"purl": "purl:rpm/suse/python311-wxPython&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python311-wxPython&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "libnbd",
-				"purl": "purl:rpm/suse/libnbd&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/libnbd&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

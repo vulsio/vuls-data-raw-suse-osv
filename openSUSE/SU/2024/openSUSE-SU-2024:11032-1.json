@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "lynis",
-				"purl": "purl:rpm/suse/lynis&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/lynis&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

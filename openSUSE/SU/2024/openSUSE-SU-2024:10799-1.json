@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "gnuchess",
-				"purl": "purl:rpm/suse/gnuchess&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/gnuchess&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

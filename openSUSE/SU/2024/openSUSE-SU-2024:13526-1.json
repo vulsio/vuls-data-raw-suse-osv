@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "cppcheck",
-				"purl": "purl:rpm/suse/cppcheck&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/cppcheck&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

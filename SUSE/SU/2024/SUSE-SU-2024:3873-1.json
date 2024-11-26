@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP6",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/rubygem-bundler&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -228,7 +228,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "rubygem-bundler",
-				"purl": "purl:rpm/suse/rubygem-bundler&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/rubygem-bundler&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

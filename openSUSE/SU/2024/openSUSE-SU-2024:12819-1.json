@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "stellarium",
-				"purl": "purl:rpm/suse/stellarium&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/stellarium&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

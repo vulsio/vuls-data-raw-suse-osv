@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "java-1_8_0-openj9",
-				"purl": "purl:rpm/suse/java-1_8_0-openj9&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/java-1_8_0-openj9&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

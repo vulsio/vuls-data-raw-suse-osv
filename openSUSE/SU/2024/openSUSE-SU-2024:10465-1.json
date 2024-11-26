@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "mipv6d",
-				"purl": "purl:rpm/suse/mipv6d&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/mipv6d&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

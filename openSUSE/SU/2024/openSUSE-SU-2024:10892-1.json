@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kdump",
-				"purl": "purl:rpm/suse/kdump&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kdump&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

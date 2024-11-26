@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "guix",
-				"purl": "purl:rpm/suse/guix&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/guix&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

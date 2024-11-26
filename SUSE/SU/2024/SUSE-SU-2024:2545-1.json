@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-Django&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

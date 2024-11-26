@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/python&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

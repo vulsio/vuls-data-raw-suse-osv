@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "golang-github-lusitaniae-apache_exporter",
-				"purl": "purl:rpm/suse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/golang-github-lusitaniae-apache_exporter&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Tumbleweed",
 				"name": "kscreenlocker",
-				"purl": "purl:rpm/suse/kscreenlocker&distro=openSUSE%20Tumbleweed"
+				"purl": "pkg:rpm/opensuse/kscreenlocker&distro=openSUSE%20Tumbleweed"
 			},
 			"ranges": [
 				{

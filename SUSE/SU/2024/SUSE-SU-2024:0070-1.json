@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.5",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.5"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -151,7 +151,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -178,7 +178,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/tar&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -205,7 +205,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/tar&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.4",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=openSUSE%20Leap%20Micro%205.4"
+				"purl": "pkg:rpm/opensuse/tar&distro=openSUSE%20Leap%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/tar&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -291,7 +291,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "tar",
-				"purl": "purl:rpm/suse/tar&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/tar&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
