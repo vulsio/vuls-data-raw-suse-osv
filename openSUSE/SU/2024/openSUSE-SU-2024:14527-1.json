@@ -1,0 +1,56 @@
+{
+	"id": "openSUSE-SU-2024:14527-1",
+	"modified": "2024-11-26T00:00:00Z",
+	"published": "2024-11-26T00:00:00Z",
+	"related": [
+		"CVE-2024-49393",
+		"CVE-2024-49394"
+	],
+	"summary": "neomutt-20241114-1.1 on GA media",
+	"details": "These are all security issues fixed in the neomutt-20241114-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "neomutt",
+				"purl": "pkg:rpm/opensuse/neomutt&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20241114-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"neomutt": "20241114-1.1",
+						"neomutt-contrib": "20241114-1.1",
+						"neomutt-doc": "20241114-1.1",
+						"neomutt-lang": "20241114-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-49393"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-49394"
+		}
+	]
+}
