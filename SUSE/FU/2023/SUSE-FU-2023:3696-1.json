@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "atk",
-				"purl": "purl:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "xmlsec1",
-				"purl": "purl:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -87,7 +87,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "atk",
-				"purl": "purl:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-ESPOS",
 				"name": "atk",
-				"purl": "purl:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-ESPOS",
 				"name": "xmlsec1",
-				"purl": "purl:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "atk",
-				"purl": "purl:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/atk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "xmlsec1",
-				"purl": "purl:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{

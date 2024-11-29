@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "lz4",
-				"purl": "purl:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -262,7 +262,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -292,7 +292,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "mariadb104",
-				"purl": "purl:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -322,7 +322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "python-mysqlclient",
-				"purl": "purl:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -352,7 +352,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "lz4",
-				"purl": "purl:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -391,7 +391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -430,7 +430,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "mariadb104",
-				"purl": "purl:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -469,7 +469,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "python-mysqlclient",
-				"purl": "purl:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -508,7 +508,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "lz4",
-				"purl": "purl:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/lz4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -547,7 +547,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "mariadb104",
-				"purl": "purl:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/mariadb104&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -625,7 +625,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "python-mysqlclient",
-				"purl": "purl:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/python-mysqlclient&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{

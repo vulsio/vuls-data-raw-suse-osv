@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "postgresql10",
-				"purl": "purl:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -106,7 +106,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "postgresql12-libs",
-				"purl": "purl:rpm/suse/postgresql12-libs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql12-libs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -137,7 +137,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python-psycopg2",
-				"purl": "purl:rpm/suse/python-psycopg2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-psycopg2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -168,7 +168,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -218,7 +218,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "postgresql10",
-				"purl": "purl:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -268,7 +268,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -318,7 +318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "postgresql12-libs",
-				"purl": "purl:rpm/suse/postgresql12-libs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql12-libs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

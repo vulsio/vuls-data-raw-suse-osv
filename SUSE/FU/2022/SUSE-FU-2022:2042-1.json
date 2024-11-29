@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{

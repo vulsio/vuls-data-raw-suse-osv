@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-cryptography&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-cryptography-vectors",
-				"purl": "purl:rpm/suse/python-cryptography-vectors&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-cryptography-vectors&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

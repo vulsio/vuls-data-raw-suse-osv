@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "py26-compat-salt",
-				"purl": "purl:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -254,7 +254,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -307,7 +307,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-utils",
-				"purl": "purl:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -360,7 +360,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -413,7 +413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "subscription-matcher",
-				"purl": "purl:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -466,7 +466,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -519,7 +519,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -572,7 +572,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-frontend-libs",
-				"purl": "purl:rpm/suse/susemanager-frontend-libs&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-frontend-libs&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -625,7 +625,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -678,7 +678,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "tika-core",
-				"purl": "purl:rpm/suse/tika-core&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/tika-core&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{

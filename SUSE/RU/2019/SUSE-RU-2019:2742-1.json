@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libyui-ncurses-pkg-doc",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg-doc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg-doc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libyui-qt-pkg-doc",
-				"purl": "purl:rpm/suse/libyui-qt-pkg-doc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg-doc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -214,7 +214,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -254,7 +254,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -294,7 +294,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -334,7 +334,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -368,7 +368,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -402,7 +402,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -430,7 +430,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -457,7 +457,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP1",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{

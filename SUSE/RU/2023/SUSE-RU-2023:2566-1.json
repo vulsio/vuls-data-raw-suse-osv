@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "spacewalk-proxy",
-				"purl": "purl:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -176,7 +176,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "spacewalk-proxy-installer",
-				"purl": "purl:rpm/suse/spacewalk-proxy-installer&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-proxy-installer&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -217,7 +217,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "susemanager-build-keys",
-				"purl": "purl:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -299,7 +299,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -340,7 +340,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "branch-network-formula",
-				"purl": "purl:rpm/suse/branch-network-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/branch-network-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -419,7 +419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -498,7 +498,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "cpu-mitigations-formula",
-				"purl": "purl:rpm/suse/cpu-mitigations-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/cpu-mitigations-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -577,7 +577,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "hub-xmlrpc-api",
-				"purl": "purl:rpm/suse/hub-xmlrpc-api&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/hub-xmlrpc-api&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -656,7 +656,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "perl-Satcon",
-				"purl": "purl:rpm/suse/perl-Satcon&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/perl-Satcon&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -735,7 +735,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "python-urlgrabber",
-				"purl": "purl:rpm/suse/python-urlgrabber&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/python-urlgrabber&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -814,7 +814,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -893,7 +893,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-admin",
-				"purl": "purl:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -972,7 +972,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1051,7 +1051,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-config",
-				"purl": "purl:rpm/suse/spacewalk-config&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-config&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1130,7 +1130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1209,7 +1209,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-search",
-				"purl": "purl:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1288,7 +1288,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-setup",
-				"purl": "purl:rpm/suse/spacewalk-setup&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-setup&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1367,7 +1367,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1446,7 +1446,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "supportutils-plugin-susemanager",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1525,7 +1525,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1604,7 +1604,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager-build-keys",
-				"purl": "purl:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1683,7 +1683,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1762,7 +1762,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1841,7 +1841,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1920,7 +1920,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "susemanager-tftpsync",
-				"purl": "purl:rpm/suse/susemanager-tftpsync&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/susemanager-tftpsync&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -1999,7 +1999,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -2078,7 +2078,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "virtual-host-gatherer",
-				"purl": "purl:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{

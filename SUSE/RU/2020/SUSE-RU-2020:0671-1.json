@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/mgr-osad&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "patterns-suse-manager",
-				"purl": "purl:rpm/suse/patterns-suse-manager&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/patterns-suse-manager&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -194,7 +194,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -239,7 +239,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -329,7 +329,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -374,7 +374,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "supportutils-plugin-susemanager-proxy",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{

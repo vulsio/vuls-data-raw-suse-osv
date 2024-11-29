@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-base",
-				"purl": "purl:rpm/suse/sca-patterns-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-hae",
-				"purl": "purl:rpm/suse/sca-patterns-hae&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-hae&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-sle11",
-				"purl": "purl:rpm/suse/sca-patterns-sle11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-sle11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-sle12",
-				"purl": "purl:rpm/suse/sca-patterns-sle12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-sle12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-sle15",
-				"purl": "purl:rpm/suse/sca-patterns-sle15&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-sle15&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-patterns-suma",
-				"purl": "purl:rpm/suse/sca-patterns-suma&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-patterns-suma&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "sca-server-report",
-				"purl": "purl:rpm/suse/sca-server-report&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/sca-server-report&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-base",
-				"purl": "purl:rpm/suse/sca-patterns-base&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-base&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-hae",
-				"purl": "purl:rpm/suse/sca-patterns-hae&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-hae&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -315,7 +315,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-sle11",
-				"purl": "purl:rpm/suse/sca-patterns-sle11&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-sle11&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -348,7 +348,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-sle12",
-				"purl": "purl:rpm/suse/sca-patterns-sle12&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-sle12&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -381,7 +381,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-sle15",
-				"purl": "purl:rpm/suse/sca-patterns-sle15&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-sle15&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -414,7 +414,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-patterns-suma",
-				"purl": "purl:rpm/suse/sca-patterns-suma&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-patterns-suma&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -447,7 +447,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sca-server-report",
-				"purl": "purl:rpm/suse/sca-server-report&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sca-server-report&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

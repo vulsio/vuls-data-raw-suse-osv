@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP2",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP2",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP2",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP2",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP3",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP3",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP3",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -222,7 +222,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP3",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -300,7 +300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -348,7 +348,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -396,7 +396,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -444,7 +444,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -492,7 +492,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -540,7 +540,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -588,7 +588,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -636,7 +636,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -684,7 +684,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -743,7 +743,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -802,7 +802,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -861,7 +861,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-ncurses",
-				"purl": "purl:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -920,7 +920,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -979,7 +979,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-ncurses-rest-api",
-				"purl": "purl:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1038,7 +1038,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-qt",
-				"purl": "purl:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1097,7 +1097,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-qt-graph",
-				"purl": "purl:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1156,7 +1156,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1215,7 +1215,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-qt-rest-api",
-				"purl": "purl:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1274,7 +1274,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1333,7 +1333,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1392,7 +1392,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1451,7 +1451,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1510,7 +1510,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1558,7 +1558,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1606,7 +1606,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1654,7 +1654,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1702,7 +1702,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1750,7 +1750,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1798,7 +1798,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1846,7 +1846,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1894,7 +1894,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1942,7 +1942,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2001,7 +2001,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2060,7 +2060,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2119,7 +2119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-ncurses",
-				"purl": "purl:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2178,7 +2178,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2237,7 +2237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-ncurses-rest-api",
-				"purl": "purl:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2296,7 +2296,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-qt",
-				"purl": "purl:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2355,7 +2355,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-qt-graph",
-				"purl": "purl:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2414,7 +2414,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2473,7 +2473,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-qt-rest-api",
-				"purl": "purl:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2532,7 +2532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2591,7 +2591,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2650,7 +2650,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2709,7 +2709,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2768,7 +2768,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2816,7 +2816,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2864,7 +2864,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2912,7 +2912,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2960,7 +2960,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -3008,7 +3008,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -3056,7 +3056,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -3104,7 +3104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -3152,7 +3152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -3200,7 +3200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3259,7 +3259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3318,7 +3318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3377,7 +3377,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-ncurses",
-				"purl": "purl:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-ncurses&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3436,7 +3436,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3495,7 +3495,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-ncurses-rest-api",
-				"purl": "purl:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3554,7 +3554,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-qt",
-				"purl": "purl:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-qt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3613,7 +3613,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-qt-graph",
-				"purl": "purl:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-qt-graph&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3672,7 +3672,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3731,7 +3731,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-qt-rest-api",
-				"purl": "purl:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3790,7 +3790,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3849,7 +3849,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3908,7 +3908,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -3967,7 +3967,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -4026,7 +4026,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -4055,7 +4055,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -4084,7 +4084,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -4113,7 +4113,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -4142,7 +4142,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "PackageKit",
-				"purl": "purl:rpm/suse/PackageKit&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/PackageKit&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4201,7 +4201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "PackageKit-branding-SLE",
-				"purl": "purl:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/PackageKit-branding-SLE&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4260,7 +4260,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui",
-				"purl": "purl:rpm/suse/libyui&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4319,7 +4319,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-ncurses",
-				"purl": "purl:rpm/suse/libyui-ncurses&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-ncurses&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4378,7 +4378,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-ncurses-pkg",
-				"purl": "purl:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-ncurses-pkg&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4437,7 +4437,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-ncurses-rest-api",
-				"purl": "purl:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-ncurses-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4496,7 +4496,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-qt",
-				"purl": "purl:rpm/suse/libyui-qt&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-qt&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4555,7 +4555,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-qt-graph",
-				"purl": "purl:rpm/suse/libyui-qt-graph&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-qt-graph&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4614,7 +4614,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-qt-pkg",
-				"purl": "purl:rpm/suse/libyui-qt-pkg&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-qt-pkg&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4673,7 +4673,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-qt-rest-api",
-				"purl": "purl:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-qt-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4732,7 +4732,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libyui-rest-api",
-				"purl": "purl:rpm/suse/libyui-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libyui-rest-api&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4791,7 +4791,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4850,7 +4850,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "yast2-pkg-bindings",
-				"purl": "purl:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/yast2-pkg-bindings&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -4909,7 +4909,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{

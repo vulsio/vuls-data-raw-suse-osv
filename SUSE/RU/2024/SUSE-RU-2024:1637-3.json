@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -61,7 +61,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -208,7 +208,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -257,7 +257,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -306,7 +306,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -355,7 +355,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -404,7 +404,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -453,7 +453,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -502,7 +502,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -600,7 +600,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -649,7 +649,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -698,7 +698,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -747,7 +747,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -796,7 +796,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -845,7 +845,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -894,7 +894,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -943,7 +943,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -992,7 +992,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1041,7 +1041,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1090,7 +1090,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1139,7 +1139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1188,7 +1188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1237,7 +1237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1286,7 +1286,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1335,7 +1335,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1384,7 +1384,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1433,7 +1433,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1482,7 +1482,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1531,7 +1531,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1580,7 +1580,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1629,7 +1629,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1678,7 +1678,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1727,7 +1727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1776,7 +1776,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1825,7 +1825,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1874,7 +1874,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1923,7 +1923,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1972,7 +1972,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2021,7 +2021,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2070,7 +2070,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2119,7 +2119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2168,7 +2168,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2217,7 +2217,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2266,7 +2266,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2315,7 +2315,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2364,7 +2364,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2413,7 +2413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2462,7 +2462,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2511,7 +2511,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2560,7 +2560,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2609,7 +2609,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2658,7 +2658,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2707,7 +2707,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2756,7 +2756,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2805,7 +2805,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2854,7 +2854,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2903,7 +2903,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -2952,7 +2952,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3001,7 +3001,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3050,7 +3050,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3099,7 +3099,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3148,7 +3148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3197,7 +3197,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3246,7 +3246,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3295,7 +3295,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3344,7 +3344,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3393,7 +3393,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3442,7 +3442,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3491,7 +3491,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3540,7 +3540,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3589,7 +3589,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3638,7 +3638,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3687,7 +3687,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3736,7 +3736,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3785,7 +3785,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3834,7 +3834,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3883,7 +3883,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -3932,7 +3932,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -3961,7 +3961,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{

@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "pdsh_slurm_18_08",
-				"purl": "purl:rpm/suse/pdsh_slurm_18_08&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/pdsh_slurm_18_08&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "pdsh_slurm_20_02",
-				"purl": "purl:rpm/suse/pdsh_slurm_20_02&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/pdsh_slurm_20_02&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "pdsh_slurm_20_11",
-				"purl": "purl:rpm/suse/pdsh_slurm_20_11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/pdsh_slurm_20_11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -240,7 +240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{
@@ -296,7 +296,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{

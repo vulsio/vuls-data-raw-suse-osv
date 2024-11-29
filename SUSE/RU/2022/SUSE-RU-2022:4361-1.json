@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -178,7 +178,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -288,7 +288,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/pdsh&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -403,7 +403,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/pdsh_slurm_22_05&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -463,7 +463,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/slurm_22_05&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -523,7 +523,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/pdsh&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -583,7 +583,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/pdsh_slurm_22_05&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -643,7 +643,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/slurm_22_05&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

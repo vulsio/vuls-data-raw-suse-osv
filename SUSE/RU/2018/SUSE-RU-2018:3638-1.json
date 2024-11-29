@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-ansible",
-				"purl": "purl:rpm/suse/ardana-ansible&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-ansible&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-barbican",
-				"purl": "purl:rpm/suse/ardana-barbican&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-barbican&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -100,7 +100,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-cinder",
-				"purl": "purl:rpm/suse/ardana-cinder&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-cinder&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-cluster",
-				"purl": "purl:rpm/suse/ardana-cluster&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-cluster&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-cobbler",
-				"purl": "purl:rpm/suse/ardana-cobbler&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-cobbler&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-freezer",
-				"purl": "purl:rpm/suse/ardana-freezer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-freezer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -276,7 +276,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-glance",
-				"purl": "purl:rpm/suse/ardana-glance&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-glance&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -320,7 +320,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-input-model",
-				"purl": "purl:rpm/suse/ardana-input-model&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-input-model&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -364,7 +364,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-keystone",
-				"purl": "purl:rpm/suse/ardana-keystone&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-keystone&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -408,7 +408,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-mq",
-				"purl": "purl:rpm/suse/ardana-mq&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-mq&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -452,7 +452,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-neutron",
-				"purl": "purl:rpm/suse/ardana-neutron&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-neutron&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -496,7 +496,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-nova",
-				"purl": "purl:rpm/suse/ardana-nova&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-nova&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -540,7 +540,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-octavia",
-				"purl": "purl:rpm/suse/ardana-octavia&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-octavia&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -584,7 +584,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-osconfig",
-				"purl": "purl:rpm/suse/ardana-osconfig&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-osconfig&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -628,7 +628,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-service",
-				"purl": "purl:rpm/suse/ardana-service&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-service&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-service-ansible",
-				"purl": "purl:rpm/suse/ardana-service-ansible&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-service-ansible&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -716,7 +716,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-ses",
-				"purl": "purl:rpm/suse/ardana-ses&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-ses&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-swift",
-				"purl": "purl:rpm/suse/ardana-swift&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-swift&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -804,7 +804,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-ansible",
-				"purl": "purl:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -848,7 +848,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-barbican",
-				"purl": "purl:rpm/suse/ardana-barbican&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-barbican&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -892,7 +892,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-cinder",
-				"purl": "purl:rpm/suse/ardana-cinder&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-cinder&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -936,7 +936,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-cluster",
-				"purl": "purl:rpm/suse/ardana-cluster&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-cluster&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -980,7 +980,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-cobbler",
-				"purl": "purl:rpm/suse/ardana-cobbler&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-cobbler&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1024,7 +1024,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-freezer",
-				"purl": "purl:rpm/suse/ardana-freezer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-freezer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1068,7 +1068,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-glance",
-				"purl": "purl:rpm/suse/ardana-glance&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-glance&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1112,7 +1112,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-input-model",
-				"purl": "purl:rpm/suse/ardana-input-model&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-input-model&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1156,7 +1156,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-keystone",
-				"purl": "purl:rpm/suse/ardana-keystone&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-keystone&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1200,7 +1200,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-mq",
-				"purl": "purl:rpm/suse/ardana-mq&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-mq&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1244,7 +1244,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-neutron",
-				"purl": "purl:rpm/suse/ardana-neutron&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-neutron&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1288,7 +1288,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-nova",
-				"purl": "purl:rpm/suse/ardana-nova&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-nova&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1332,7 +1332,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-octavia",
-				"purl": "purl:rpm/suse/ardana-octavia&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-octavia&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1376,7 +1376,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-osconfig",
-				"purl": "purl:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1420,7 +1420,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-service",
-				"purl": "purl:rpm/suse/ardana-service&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-service&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1464,7 +1464,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-service-ansible",
-				"purl": "purl:rpm/suse/ardana-service-ansible&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-service-ansible&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1508,7 +1508,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-ses",
-				"purl": "purl:rpm/suse/ardana-ses&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-ses&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -1552,7 +1552,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-swift",
-				"purl": "purl:rpm/suse/ardana-swift&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-swift&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{

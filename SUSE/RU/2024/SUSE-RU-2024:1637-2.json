@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "libcrc32c",
-				"purl": "purl:rpm/suse/libcrc32c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/libcrc32c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-api-core",
-				"purl": "purl:rpm/suse/python-google-api-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-api-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-appengine-logging",
-				"purl": "purl:rpm/suse/python-google-cloud-appengine-logging&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-appengine-logging&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-artifact-registry",
-				"purl": "purl:rpm/suse/python-google-cloud-artifact-registry&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-artifact-registry&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -287,7 +287,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-audit-log",
-				"purl": "purl:rpm/suse/python-google-cloud-audit-log&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-audit-log&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -342,7 +342,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-build",
-				"purl": "purl:rpm/suse/python-google-cloud-build&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-build&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -397,7 +397,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-compute",
-				"purl": "purl:rpm/suse/python-google-cloud-compute&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-compute&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -452,7 +452,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-core",
-				"purl": "purl:rpm/suse/python-google-cloud-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -507,7 +507,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-dns",
-				"purl": "purl:rpm/suse/python-google-cloud-dns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-dns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -562,7 +562,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-domains",
-				"purl": "purl:rpm/suse/python-google-cloud-domains&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-domains&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -617,7 +617,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-iam",
-				"purl": "purl:rpm/suse/python-google-cloud-iam&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-iam&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-kms",
-				"purl": "purl:rpm/suse/python-google-cloud-kms&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-kms&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -727,7 +727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-kms-inventory",
-				"purl": "purl:rpm/suse/python-google-cloud-kms-inventory&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-kms-inventory&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -782,7 +782,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-logging",
-				"purl": "purl:rpm/suse/python-google-cloud-logging&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-logging&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -837,7 +837,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-run",
-				"purl": "purl:rpm/suse/python-google-cloud-run&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-run&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -892,7 +892,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-secret-manager",
-				"purl": "purl:rpm/suse/python-google-cloud-secret-manager&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-secret-manager&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -947,7 +947,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-service-directory",
-				"purl": "purl:rpm/suse/python-google-cloud-service-directory&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-service-directory&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1002,7 +1002,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-spanner",
-				"purl": "purl:rpm/suse/python-google-cloud-spanner&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-spanner&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1057,7 +1057,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-storage",
-				"purl": "purl:rpm/suse/python-google-cloud-storage&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-storage&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1112,7 +1112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-cloud-vpc-access",
-				"purl": "purl:rpm/suse/python-google-cloud-vpc-access&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-cloud-vpc-access&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1167,7 +1167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-crc32c",
-				"purl": "purl:rpm/suse/python-google-crc32c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-crc32c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1222,7 +1222,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-google-resumable-media",
-				"purl": "purl:rpm/suse/python-google-resumable-media&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-resumable-media&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1277,7 +1277,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-googleapis-common-protos",
-				"purl": "purl:rpm/suse/python-googleapis-common-protos&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-googleapis-common-protos&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1332,7 +1332,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-grpc-google-iam-v1",
-				"purl": "purl:rpm/suse/python-grpc-google-iam-v1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-grpc-google-iam-v1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1387,7 +1387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-grpcio-status",
-				"purl": "purl:rpm/suse/python-grpcio-status&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-grpcio-status&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1442,7 +1442,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-proto-plus",
-				"purl": "purl:rpm/suse/python-proto-plus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-proto-plus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1497,7 +1497,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP6",
 				"name": "python-sqlparse",
-				"purl": "purl:rpm/suse/python-sqlparse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-sqlparse&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1552,7 +1552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-apipkg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1596,7 +1596,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-cachetools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1640,7 +1640,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-certifi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1684,7 +1684,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-cffi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1728,7 +1728,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-charset-normalizer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1772,7 +1772,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-google-auth&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1816,7 +1816,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-idna&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1860,7 +1860,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-iniconfig&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1904,7 +1904,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1948,7 +1948,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pyOpenSSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -1992,7 +1992,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pyasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2036,7 +2036,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pyasn1-modules&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2080,7 +2080,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pycparser&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2124,7 +2124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-pytz&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2168,7 +2168,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2212,7 +2212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-rsa&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2256,7 +2256,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2300,7 +2300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP6",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP6"
 			},
 			"ranges": [
 				{
@@ -2344,7 +2344,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "libcrc32c",
-				"purl": "purl:rpm/suse/libcrc32c&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/libcrc32c&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2417,7 +2417,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-apipkg",
-				"purl": "purl:rpm/suse/python-apipkg&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-apipkg&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2490,7 +2490,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-cachetools",
-				"purl": "purl:rpm/suse/python-cachetools&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-cachetools&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2563,7 +2563,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-certifi",
-				"purl": "purl:rpm/suse/python-certifi&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-certifi&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2636,7 +2636,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-cffi&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2709,7 +2709,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-charset-normalizer",
-				"purl": "purl:rpm/suse/python-charset-normalizer&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-charset-normalizer&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2782,7 +2782,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-api-core",
-				"purl": "purl:rpm/suse/python-google-api-core&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-api-core&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2855,7 +2855,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-auth",
-				"purl": "purl:rpm/suse/python-google-auth&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-auth&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -2928,7 +2928,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-appengine-logging",
-				"purl": "purl:rpm/suse/python-google-cloud-appengine-logging&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-appengine-logging&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3001,7 +3001,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-artifact-registry",
-				"purl": "purl:rpm/suse/python-google-cloud-artifact-registry&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-artifact-registry&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3074,7 +3074,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-audit-log",
-				"purl": "purl:rpm/suse/python-google-cloud-audit-log&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-audit-log&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3147,7 +3147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-build",
-				"purl": "purl:rpm/suse/python-google-cloud-build&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-build&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3220,7 +3220,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-compute",
-				"purl": "purl:rpm/suse/python-google-cloud-compute&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-compute&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3293,7 +3293,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-core",
-				"purl": "purl:rpm/suse/python-google-cloud-core&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-core&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3366,7 +3366,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-dns",
-				"purl": "purl:rpm/suse/python-google-cloud-dns&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-dns&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3439,7 +3439,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-domains",
-				"purl": "purl:rpm/suse/python-google-cloud-domains&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-domains&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3512,7 +3512,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-iam",
-				"purl": "purl:rpm/suse/python-google-cloud-iam&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-iam&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3585,7 +3585,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-kms",
-				"purl": "purl:rpm/suse/python-google-cloud-kms&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-kms&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3658,7 +3658,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-kms-inventory",
-				"purl": "purl:rpm/suse/python-google-cloud-kms-inventory&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-kms-inventory&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3731,7 +3731,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-logging",
-				"purl": "purl:rpm/suse/python-google-cloud-logging&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-logging&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3804,7 +3804,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-run",
-				"purl": "purl:rpm/suse/python-google-cloud-run&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-run&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3877,7 +3877,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-secret-manager",
-				"purl": "purl:rpm/suse/python-google-cloud-secret-manager&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-secret-manager&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -3950,7 +3950,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-service-directory",
-				"purl": "purl:rpm/suse/python-google-cloud-service-directory&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-service-directory&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4023,7 +4023,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-spanner",
-				"purl": "purl:rpm/suse/python-google-cloud-spanner&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-spanner&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4096,7 +4096,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-storage",
-				"purl": "purl:rpm/suse/python-google-cloud-storage&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-storage&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4169,7 +4169,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-cloud-vpc-access",
-				"purl": "purl:rpm/suse/python-google-cloud-vpc-access&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-cloud-vpc-access&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4242,7 +4242,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-crc32c",
-				"purl": "purl:rpm/suse/python-google-crc32c&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-crc32c&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4315,7 +4315,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-google-resumable-media",
-				"purl": "purl:rpm/suse/python-google-resumable-media&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-google-resumable-media&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4388,7 +4388,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-googleapis-common-protos",
-				"purl": "purl:rpm/suse/python-googleapis-common-protos&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-googleapis-common-protos&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4461,7 +4461,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-grpc-google-iam-v1",
-				"purl": "purl:rpm/suse/python-grpc-google-iam-v1&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-grpc-google-iam-v1&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4534,7 +4534,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-grpcio-status",
-				"purl": "purl:rpm/suse/python-grpcio-status&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-grpcio-status&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4607,7 +4607,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-idna",
-				"purl": "purl:rpm/suse/python-idna&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-idna&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4680,7 +4680,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-iniconfig",
-				"purl": "purl:rpm/suse/python-iniconfig&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-iniconfig&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4753,7 +4753,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-proto-plus",
-				"purl": "purl:rpm/suse/python-proto-plus&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-proto-plus&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4826,7 +4826,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-py&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4899,7 +4899,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pyOpenSSL&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -4972,7 +4972,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pyasn1&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5045,7 +5045,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pyasn1-modules",
-				"purl": "purl:rpm/suse/python-pyasn1-modules&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pyasn1-modules&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5118,7 +5118,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pycparser&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5191,7 +5191,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-pytz",
-				"purl": "purl:rpm/suse/python-pytz&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-pytz&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5264,7 +5264,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-requests&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5337,7 +5337,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-rsa",
-				"purl": "purl:rpm/suse/python-rsa&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-rsa&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5410,7 +5410,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-setuptools&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5483,7 +5483,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-setuptools-wheel",
-				"purl": "purl:rpm/suse/python-setuptools-wheel&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-setuptools-wheel&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5556,7 +5556,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-sqlparse",
-				"purl": "purl:rpm/suse/python-sqlparse&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-sqlparse&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{
@@ -5629,7 +5629,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.6",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=openSUSE%20Leap%2015.6"
+				"purl": "pkg:rpm/opensuse/python-urllib3&distro=openSUSE%20Leap%2015.6"
 			},
 			"ranges": [
 				{

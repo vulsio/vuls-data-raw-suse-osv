@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "apache-commons-lang3",
-				"purl": "purl:rpm/suse/apache-commons-lang3&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/apache-commons-lang3&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -265,7 +265,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "drools",
-				"purl": "purl:rpm/suse/drools&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/drools&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -342,7 +342,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "guava",
-				"purl": "purl:rpm/suse/guava&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/guava&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -419,7 +419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "jade4j",
-				"purl": "purl:rpm/suse/jade4j&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/jade4j&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -496,7 +496,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "kie-api",
-				"purl": "purl:rpm/suse/kie-api&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/kie-api&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -573,7 +573,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "kie-soup",
-				"purl": "purl:rpm/suse/kie-soup&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/kie-soup&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -650,7 +650,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "optaplanner",
-				"purl": "purl:rpm/suse/optaplanner&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/optaplanner&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -727,7 +727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "py26-compat-salt",
-				"purl": "purl:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -804,7 +804,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "reprepro",
-				"purl": "purl:rpm/suse/reprepro&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/reprepro&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -881,7 +881,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "smdba",
-				"purl": "purl:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -958,7 +958,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1035,7 +1035,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-admin",
-				"purl": "purl:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1112,7 +1112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1189,7 +1189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1266,7 +1266,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1343,7 +1343,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1420,7 +1420,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1497,7 +1497,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "subscription-matcher",
-				"purl": "purl:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1574,7 +1574,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1651,7 +1651,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1728,7 +1728,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1805,7 +1805,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -1882,7 +1882,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "xstream",
-				"purl": "purl:rpm/suse/xstream&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/xstream&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

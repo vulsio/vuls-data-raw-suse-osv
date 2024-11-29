@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "tcl",
-				"purl": "purl:rpm/suse/tcl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/tcl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "tk",
-				"purl": "purl:rpm/suse/tk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/tk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "tk",
-				"purl": "purl:rpm/suse/tk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/tk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{

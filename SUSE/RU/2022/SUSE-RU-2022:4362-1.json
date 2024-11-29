@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -178,7 +178,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "pdsh",
-				"purl": "purl:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/pdsh&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "pdsh_slurm_22_05",
-				"purl": "purl:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/pdsh_slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -286,7 +286,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "slurm_22_05",
-				"purl": "purl:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/slurm_22_05&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -340,7 +340,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "pdsh_slurm_20_11",
-				"purl": "purl:rpm/suse/pdsh_slurm_20_11&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/pdsh_slurm_20_11&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -367,7 +367,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "pdsh_slurm_20_11",
-				"purl": "purl:rpm/suse/pdsh_slurm_20_11&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/pdsh_slurm_20_11&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

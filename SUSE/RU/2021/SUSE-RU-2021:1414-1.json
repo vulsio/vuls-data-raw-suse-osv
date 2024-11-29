@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP2",
 				"name": "boost-legacy-base",
-				"purl": "purl:rpm/suse/boost-legacy-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP2"
+				"purl": "pkg:rpm/suse/boost-legacy-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP2"
 			},
 			"ranges": [
 				{

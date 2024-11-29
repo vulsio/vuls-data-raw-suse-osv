@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -199,7 +199,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -231,7 +231,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -291,7 +291,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -324,7 +324,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -357,7 +357,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -390,7 +390,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -423,7 +423,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -456,7 +456,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -489,7 +489,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -522,7 +522,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -555,7 +555,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -588,7 +588,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -621,7 +621,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -654,7 +654,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -687,7 +687,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -720,7 +720,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -753,7 +753,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -786,7 +786,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -819,7 +819,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -852,7 +852,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -885,7 +885,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -918,7 +918,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-ESPOS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-ESPOS"
 			},
 			"ranges": [
 				{
@@ -951,7 +951,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -984,7 +984,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1017,7 +1017,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1050,7 +1050,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1083,7 +1083,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1116,7 +1116,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1149,7 +1149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP4-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1182,7 +1182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1215,7 +1215,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1248,7 +1248,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1281,7 +1281,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1314,7 +1314,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1347,7 +1347,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1380,7 +1380,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1413,7 +1413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1446,7 +1446,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1479,7 +1479,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1512,7 +1512,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1545,7 +1545,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1578,7 +1578,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1611,7 +1611,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1644,7 +1644,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1677,7 +1677,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1710,7 +1710,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1743,7 +1743,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1776,7 +1776,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1809,7 +1809,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1842,7 +1842,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP4-LTSS",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -1875,7 +1875,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1908,7 +1908,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1941,7 +1941,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1974,7 +1974,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2007,7 +2007,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2040,7 +2040,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2073,7 +2073,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2106,7 +2106,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2139,7 +2139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2172,7 +2172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2205,7 +2205,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2238,7 +2238,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2271,7 +2271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2304,7 +2304,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2337,7 +2337,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2370,7 +2370,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2403,7 +2403,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2436,7 +2436,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2469,7 +2469,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2502,7 +2502,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2535,7 +2535,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP4",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2568,7 +2568,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Proxy%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Proxy%204.3"
 			},
 			"ranges": [
 				{
@@ -2595,7 +2595,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.3",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%204.3"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Manager%20Server%204.3"
 			},
 			"ranges": [
 				{
@@ -2622,7 +2622,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-archiver&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2655,7 +2655,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-common-artifact-filters&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2688,7 +2688,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-compiler-plugin&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2721,7 +2721,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-plugin-tools&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2754,7 +2754,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/objectweb-asm&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2787,7 +2787,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/plexus-archiver&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2820,7 +2820,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/plexus-compiler&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2853,7 +2853,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-archiver",
-				"purl": "purl:rpm/suse/maven-archiver&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-archiver&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -2920,7 +2920,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-assembly-plugin",
-				"purl": "purl:rpm/suse/maven-assembly-plugin&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-assembly-plugin&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -2987,7 +2987,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-common-artifact-filters",
-				"purl": "purl:rpm/suse/maven-common-artifact-filters&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-common-artifact-filters&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3054,7 +3054,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-compiler-plugin",
-				"purl": "purl:rpm/suse/maven-compiler-plugin&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-compiler-plugin&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3121,7 +3121,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-compiler-plugin-bootstrap",
-				"purl": "purl:rpm/suse/maven-compiler-plugin-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-compiler-plugin-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3188,7 +3188,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-dependency-analyzer",
-				"purl": "purl:rpm/suse/maven-dependency-analyzer&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-dependency-analyzer&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3255,7 +3255,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-dependency-plugin",
-				"purl": "purl:rpm/suse/maven-dependency-plugin&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-dependency-plugin&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3322,7 +3322,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-dependency-tree",
-				"purl": "purl:rpm/suse/maven-dependency-tree&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-dependency-tree&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3389,7 +3389,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-enforcer",
-				"purl": "purl:rpm/suse/maven-enforcer&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-enforcer&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3456,7 +3456,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-plugin-plugin",
-				"purl": "purl:rpm/suse/maven-plugin-plugin&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-plugin-plugin&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3523,7 +3523,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-plugin-plugin-bootstrap",
-				"purl": "purl:rpm/suse/maven-plugin-plugin-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-plugin-plugin-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3590,7 +3590,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-plugin-tools",
-				"purl": "purl:rpm/suse/maven-plugin-tools&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-plugin-tools&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3657,7 +3657,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "objectweb-asm",
-				"purl": "purl:rpm/suse/objectweb-asm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/objectweb-asm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3724,7 +3724,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "plexus-archiver",
-				"purl": "purl:rpm/suse/plexus-archiver&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/plexus-archiver&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3791,7 +3791,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "plexus-compiler",
-				"purl": "purl:rpm/suse/plexus-compiler&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/plexus-compiler&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

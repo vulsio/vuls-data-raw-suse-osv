@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-ha",
-				"purl": "purl:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -362,7 +362,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -442,7 +442,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "keepalived",
-				"purl": "purl:rpm/suse/keepalived&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/keepalived&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -522,7 +522,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "kibana",
-				"purl": "purl:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -602,7 +602,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "memcached",
-				"purl": "purl:rpm/suse/memcached&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/memcached&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -682,7 +682,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "monasca-installer",
-				"purl": "purl:rpm/suse/monasca-installer&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/monasca-installer&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -762,7 +762,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-dashboard-theme-SUSE",
-				"purl": "purl:rpm/suse/openstack-dashboard-theme-SUSE&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-dashboard-theme-SUSE&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -842,7 +842,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-manila",
-				"purl": "purl:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -922,7 +922,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-manila-doc",
-				"purl": "purl:rpm/suse/openstack-manila-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-manila-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1002,7 +1002,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron-fwaas",
-				"purl": "purl:rpm/suse/openstack-neutron-fwaas&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron-fwaas&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1082,7 +1082,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron-fwaas-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-fwaas-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron-fwaas-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1162,7 +1162,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1242,7 +1242,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova-doc",
-				"purl": "purl:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1322,7 +1322,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-tempest",
-				"purl": "purl:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1402,7 +1402,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1482,7 +1482,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1562,7 +1562,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-psql2mysql",
-				"purl": "purl:rpm/suse/python-psql2mysql&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-psql2mysql&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1642,7 +1642,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1722,7 +1722,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-py",
-				"purl": "purl:rpm/suse/python-py&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-py&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1802,7 +1802,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1882,7 +1882,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-waitress",
-				"purl": "purl:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1962,7 +1962,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rabbitmq-server",
-				"purl": "purl:rpm/suse/rabbitmq-server&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rabbitmq-server&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2042,7 +2042,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "release-notes-suse-openstack-cloud",
-				"purl": "purl:rpm/suse/release-notes-suse-openstack-cloud&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/release-notes-suse-openstack-cloud&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2122,7 +2122,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-activeresource",
-				"purl": "purl:rpm/suse/rubygem-activeresource&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-activeresource&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2202,7 +2202,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-crowbar-client",
-				"purl": "purl:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2282,7 +2282,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-json-1_7",
-				"purl": "purl:rpm/suse/rubygem-json-1_7&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-json-1_7&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2362,7 +2362,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -2442,7 +2442,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "zookeeper",
-				"purl": "purl:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

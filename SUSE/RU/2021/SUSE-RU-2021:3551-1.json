@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "release-notes-susemanager-proxy",
-				"purl": "purl:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.2",
 				"name": "release-notes-susemanager-proxy",
-				"purl": "purl:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "release-notes-susemanager",
-				"purl": "purl:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{

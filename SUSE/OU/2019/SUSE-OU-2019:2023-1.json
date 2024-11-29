@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{

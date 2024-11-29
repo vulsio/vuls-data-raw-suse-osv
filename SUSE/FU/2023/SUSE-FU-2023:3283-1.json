@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+				"purl": "pkg:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP4",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
+				"purl": "pkg:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP5",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
+				"purl": "pkg:rpm/suse/cloud-init&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cloud-init&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/cloud-init&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

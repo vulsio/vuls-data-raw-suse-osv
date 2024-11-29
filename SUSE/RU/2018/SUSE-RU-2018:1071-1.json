@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-ha",
-				"purl": "purl:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

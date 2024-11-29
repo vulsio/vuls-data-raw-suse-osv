@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -156,7 +156,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP4",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-aiohttp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -211,7 +211,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-typing_extensions&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -238,7 +238,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-aiohttp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -266,7 +266,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-aiohttp",
-				"purl": "purl:rpm/suse/python-aiohttp&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-aiohttp&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -295,7 +295,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-typing_extensions",
-				"purl": "purl:rpm/suse/python-typing_extensions&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-typing_extensions&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

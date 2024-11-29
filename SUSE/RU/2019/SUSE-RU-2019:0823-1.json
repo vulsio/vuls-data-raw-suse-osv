@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "php72",
-				"purl": "purl:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "php72-memcached",
-				"purl": "purl:rpm/suse/php72-memcached&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/php72-memcached&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -267,7 +267,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -350,7 +350,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "php72",
-				"purl": "purl:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -380,7 +380,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -410,7 +410,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -441,7 +441,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "php72",
-				"purl": "purl:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/php72&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -472,7 +472,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -503,7 +503,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -532,7 +532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -561,7 +561,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -590,7 +590,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libmemcached",
-				"purl": "purl:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libmemcached&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{

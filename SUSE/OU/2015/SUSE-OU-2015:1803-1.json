@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "cross-ppc-binutils",
-				"purl": "purl:rpm/suse/cross-ppc-binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/cross-ppc-binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "cross-spu-binutils",
-				"purl": "purl:rpm/suse/cross-spu-binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/cross-spu-binutils&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -195,7 +195,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "gcc5",
-				"purl": "purl:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -256,7 +256,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "gdb",
-				"purl": "purl:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -317,7 +317,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libffi-gcc5",
-				"purl": "purl:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -378,7 +378,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -417,7 +417,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "gcc5",
-				"purl": "purl:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -456,7 +456,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "gdb",
-				"purl": "purl:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -495,7 +495,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -539,7 +539,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "gcc5",
-				"purl": "purl:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -583,7 +583,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "gdb",
-				"purl": "purl:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -627,7 +627,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "libffi-gcc5",
-				"purl": "purl:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -671,7 +671,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -715,7 +715,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "gcc5",
-				"purl": "purl:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -759,7 +759,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "gdb",
-				"purl": "purl:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/gdb&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -803,7 +803,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "libffi-gcc5",
-				"purl": "purl:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
