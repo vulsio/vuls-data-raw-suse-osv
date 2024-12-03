@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "plasma5-workspace",
-				"purl": "purl:rpm/suse/plasma5-workspace&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/plasma5-workspace&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{

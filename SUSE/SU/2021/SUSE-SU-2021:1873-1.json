@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{

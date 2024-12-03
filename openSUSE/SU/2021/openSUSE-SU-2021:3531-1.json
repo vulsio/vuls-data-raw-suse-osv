@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "busybox",
-				"purl": "purl:rpm/suse/busybox&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/busybox&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "busybox-static",
-				"purl": "purl:rpm/suse/busybox-static&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/busybox-static&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

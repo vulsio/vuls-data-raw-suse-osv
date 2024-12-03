@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "shadowsocks-libev",
-				"purl": "purl:rpm/suse/shadowsocks-libev&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/shadowsocks-libev&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

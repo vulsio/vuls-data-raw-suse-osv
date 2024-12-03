@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP2",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{

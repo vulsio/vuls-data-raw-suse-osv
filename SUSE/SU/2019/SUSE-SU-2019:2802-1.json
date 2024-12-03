@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "python3",
-				"purl": "purl:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "python3-base",
-				"purl": "purl:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python3",
-				"purl": "purl:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -115,7 +115,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python3-base",
-				"purl": "purl:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "python3-base",
-				"purl": "purl:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -176,7 +176,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "python3-base",
-				"purl": "purl:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/python3-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{

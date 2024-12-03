@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -263,7 +263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -306,7 +306,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -349,7 +349,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -392,7 +392,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -464,7 +464,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -536,7 +536,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -608,7 +608,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -680,7 +680,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -752,7 +752,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -824,7 +824,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -896,7 +896,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -968,7 +968,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -1040,7 +1040,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -1112,7 +1112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/gcc10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -1184,7 +1184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/nvptx-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{

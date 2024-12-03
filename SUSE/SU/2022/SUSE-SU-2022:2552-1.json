@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/libxml2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "libxml2-python",
-				"purl": "purl:rpm/suse/libxml2-python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/libxml2-python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libxml2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libxml2-python",
-				"purl": "purl:rpm/suse/libxml2-python&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libxml2-python&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

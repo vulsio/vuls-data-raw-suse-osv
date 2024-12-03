@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "aws-cli",
-				"purl": "purl:rpm/suse/aws-cli&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/aws-cli&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-asn1crypto",
-				"purl": "purl:rpm/suse/python-asn1crypto&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-asn1crypto&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-boto3",
-				"purl": "purl:rpm/suse/python-boto3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-boto3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-botocore",
-				"purl": "purl:rpm/suse/python-botocore&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-botocore&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-cffi&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -222,7 +222,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-cryptography&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -264,7 +264,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-pyasn1",
-				"purl": "purl:rpm/suse/python-pyasn1&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-pyasn1&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -306,7 +306,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-pycparser",
-				"purl": "purl:rpm/suse/python-pycparser&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-pycparser&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -348,7 +348,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-urllib3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

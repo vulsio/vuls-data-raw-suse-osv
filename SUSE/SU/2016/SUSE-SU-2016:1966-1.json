@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-designate",
-				"purl": "purl:rpm/suse/openstack-designate&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-designate&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-designate-doc",
-				"purl": "purl:rpm/suse/openstack-designate-doc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-designate-doc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-ironic",
-				"purl": "purl:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -186,7 +186,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-ironic-doc",
-				"purl": "purl:rpm/suse/openstack-ironic-doc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-ironic-doc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -244,7 +244,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-neutron-vpnaas",
-				"purl": "purl:rpm/suse/openstack-neutron-vpnaas&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-neutron-vpnaas&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -302,7 +302,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-neutron-vpnaas-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-vpnaas-doc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-neutron-vpnaas-doc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -360,7 +360,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-nova-docker",
-				"purl": "purl:rpm/suse/openstack-nova-docker&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-nova-docker&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -418,7 +418,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-sahara",
-				"purl": "purl:rpm/suse/openstack-sahara&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-sahara&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -476,7 +476,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-sahara-doc",
-				"purl": "purl:rpm/suse/openstack-sahara-doc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-sahara-doc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -534,7 +534,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-tempest",
-				"purl": "purl:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -592,7 +592,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-trove",
-				"purl": "purl:rpm/suse/openstack-trove&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-trove&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -650,7 +650,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openstack-trove-doc",
-				"purl": "purl:rpm/suse/openstack-trove-doc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openstack-trove-doc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{

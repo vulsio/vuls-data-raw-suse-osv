@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

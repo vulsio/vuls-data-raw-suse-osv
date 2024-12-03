@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libu2f-host",
-				"purl": "purl:rpm/suse/libu2f-host&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libu2f-host&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

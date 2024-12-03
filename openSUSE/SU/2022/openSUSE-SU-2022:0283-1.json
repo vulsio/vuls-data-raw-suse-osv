@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "apparmor",
-				"purl": "purl:rpm/suse/apparmor&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/apparmor&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "krb5",
-				"purl": "purl:rpm/suse/krb5&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/krb5&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -305,7 +305,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "krb5-mini",
-				"purl": "purl:rpm/suse/krb5-mini&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/krb5-mini&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -448,7 +448,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ldb",
-				"purl": "purl:rpm/suse/ldb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ldb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -591,7 +591,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libapparmor",
-				"purl": "purl:rpm/suse/libapparmor&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libapparmor&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -734,7 +734,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/samba&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -877,7 +877,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sssd",
-				"purl": "purl:rpm/suse/sssd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sssd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1020,7 +1020,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "talloc",
-				"purl": "purl:rpm/suse/talloc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/talloc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1163,7 +1163,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "talloc-man",
-				"purl": "purl:rpm/suse/talloc-man&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/talloc-man&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1306,7 +1306,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tdb",
-				"purl": "purl:rpm/suse/tdb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tdb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1449,7 +1449,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tevent",
-				"purl": "purl:rpm/suse/tevent&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tevent&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1592,7 +1592,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tevent-man",
-				"purl": "purl:rpm/suse/tevent-man&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tevent-man&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

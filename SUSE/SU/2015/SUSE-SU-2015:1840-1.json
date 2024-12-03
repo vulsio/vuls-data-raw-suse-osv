@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "openssh",
-				"purl": "purl:rpm/suse/openssh&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/openssh&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "openssh-askpass-gnome",
-				"purl": "purl:rpm/suse/openssh-askpass-gnome&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/openssh-askpass-gnome&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{

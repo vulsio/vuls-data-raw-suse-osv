@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "openssl-ibmca",
-				"purl": "purl:rpm/suse/openssl-ibmca&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/openssl-ibmca&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "openssl-ibmca",
-				"purl": "purl:rpm/suse/openssl-ibmca&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/openssl-ibmca&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "openssl-ibmca",
-				"purl": "purl:rpm/suse/openssl-ibmca&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/openssl-ibmca&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

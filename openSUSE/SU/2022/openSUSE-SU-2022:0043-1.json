@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/htmldoc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "systemd",
-				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/systemd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/htmldoc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -143,7 +143,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "systemd",
-				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/systemd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

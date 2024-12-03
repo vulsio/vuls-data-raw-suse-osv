@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -106,7 +106,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "gstreamer-plugins-good",
-				"purl": "purl:rpm/suse/gstreamer-plugins-good&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-good&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -318,7 +318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "gstreamer-plugins-good",
-				"purl": "purl:rpm/suse/gstreamer-plugins-good&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-good&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -377,7 +377,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP2",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -436,7 +436,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP2",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -495,7 +495,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP2",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -554,7 +554,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP2",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -585,7 +585,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP2",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -616,7 +616,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -647,7 +647,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -678,7 +678,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP2",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -706,7 +706,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -734,7 +734,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/gstreamer&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{
@@ -771,7 +771,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{

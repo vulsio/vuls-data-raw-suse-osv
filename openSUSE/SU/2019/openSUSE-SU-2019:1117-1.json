@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "unzip",
-				"purl": "purl:rpm/suse/unzip&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/unzip&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "unzip-rcc",
-				"purl": "purl:rpm/suse/unzip-rcc&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/unzip-rcc&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

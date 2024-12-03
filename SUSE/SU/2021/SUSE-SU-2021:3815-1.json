@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "netcdf_4_6_1-gnu-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "netcdf_4_6_1-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "netcdf_4_6_1-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "netcdf_4_6_1-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -243,7 +243,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "netcdf_4_6_1-gnu-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -297,7 +297,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "netcdf_4_6_1-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -351,7 +351,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "netcdf_4_6_1-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -405,7 +405,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "netcdf_4_6_1-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_6_1-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/netcdf_4_6_1-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{

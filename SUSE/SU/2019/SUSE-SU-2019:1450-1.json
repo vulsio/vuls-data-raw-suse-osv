@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "caasp-openstack-heat-templates",
-				"purl": "purl:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar",
-				"purl": "purl:rpm/suse/crowbar&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -160,7 +160,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-ha",
-				"purl": "purl:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-ha&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -209,7 +209,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "galera-python-clustercheck",
-				"purl": "purl:rpm/suse/galera-python-clustercheck&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/galera-python-clustercheck&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -307,7 +307,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-ceilometer",
-				"purl": "purl:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -356,7 +356,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-ceilometer-doc",
-				"purl": "purl:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -405,7 +405,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-heat-gbp",
-				"purl": "purl:rpm/suse/openstack-heat-gbp&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-heat-gbp&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -454,7 +454,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-PyKMIP",
-				"purl": "purl:rpm/suse/python-PyKMIP&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-PyKMIP&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -503,7 +503,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -552,7 +552,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-crowbar-client",
-				"purl": "purl:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -601,7 +601,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "crowbar",
-				"purl": "purl:rpm/suse/crowbar&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/crowbar&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -630,7 +630,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -659,7 +659,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "rubygem-crowbar-client",
-				"purl": "purl:rpm/suse/rubygem-crowbar-client&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/rubygem-crowbar-client&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

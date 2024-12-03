@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "dtc",
-				"purl": "purl:rpm/suse/dtc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/dtc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

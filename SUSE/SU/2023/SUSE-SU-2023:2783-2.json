@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-cryptography&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-psutil&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-websocket-client",
-				"purl": "purl:rpm/suse/python-websocket-client&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-websocket-client&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "irssi",
-				"purl": "purl:rpm/suse/irssi&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/irssi&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

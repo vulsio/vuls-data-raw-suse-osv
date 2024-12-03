@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libixion&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -344,7 +344,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/liborcus&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -676,7 +676,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -1008,7 +1008,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libwps&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -1340,7 +1340,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "mdds-1_4",
-				"purl": "purl:rpm/suse/mdds-1_4&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/mdds-1_4&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -1672,7 +1672,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/myspell-dictionaries&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -2004,7 +2004,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libixion&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -2336,7 +2336,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/liborcus&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -2668,7 +2668,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -3000,7 +3000,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libwps&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -3332,7 +3332,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mdds-1_4",
-				"purl": "purl:rpm/suse/mdds-1_4&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mdds-1_4&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -3664,7 +3664,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/myspell-dictionaries&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

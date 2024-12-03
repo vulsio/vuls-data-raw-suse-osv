@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libraw",
-				"purl": "purl:rpm/suse/libraw&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libraw&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

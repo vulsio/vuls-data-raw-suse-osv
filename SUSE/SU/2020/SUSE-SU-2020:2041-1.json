@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{

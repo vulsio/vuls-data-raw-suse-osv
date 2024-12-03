@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "weechat",
-				"purl": "purl:rpm/suse/weechat&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/weechat&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "weechat",
-				"purl": "purl:rpm/suse/weechat&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/weechat&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "weechat",
-				"purl": "purl:rpm/suse/weechat&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/weechat&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

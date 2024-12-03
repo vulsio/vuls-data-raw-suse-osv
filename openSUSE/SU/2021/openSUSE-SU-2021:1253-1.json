@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/nextcloud&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

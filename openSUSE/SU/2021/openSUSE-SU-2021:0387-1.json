@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "MozillaThunderbird",
-				"purl": "purl:rpm/suse/MozillaThunderbird&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/MozillaThunderbird&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

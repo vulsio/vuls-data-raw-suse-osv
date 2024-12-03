@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 12 SP5",
 				"name": "crash",
-				"purl": "purl:rpm/suse/crash&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2012%20SP5"
+				"purl": "pkg:rpm/suse/crash&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2012%20SP5"
 			},
 			"ranges": [
 				{

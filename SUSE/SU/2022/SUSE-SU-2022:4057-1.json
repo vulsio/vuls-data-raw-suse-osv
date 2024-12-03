@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-Twisted&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-Twisted&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-Twisted",
-				"purl": "purl:rpm/suse/python-Twisted&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-Twisted&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

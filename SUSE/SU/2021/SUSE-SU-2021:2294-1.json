@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "redis",
-				"purl": "purl:rpm/suse/redis&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/redis&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "redis",
-				"purl": "purl:rpm/suse/redis&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/redis&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{

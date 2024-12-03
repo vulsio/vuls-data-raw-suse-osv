@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "apache-commons-csv",
-				"purl": "purl:rpm/suse/apache-commons-csv&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/apache-commons-csv&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "apache-commons-math3",
-				"purl": "purl:rpm/suse/apache-commons-math3&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/apache-commons-math3&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "drools",
-				"purl": "purl:rpm/suse/drools&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/drools&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "jakarta-commons-validator",
-				"purl": "purl:rpm/suse/jakarta-commons-validator&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/jakarta-commons-validator&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -372,7 +372,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "jose4j",
-				"purl": "purl:rpm/suse/jose4j&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/jose4j&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -462,7 +462,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "kie-api",
-				"purl": "purl:rpm/suse/kie-api&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/kie-api&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -552,7 +552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "mvel2",
-				"purl": "purl:rpm/suse/mvel2&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/mvel2&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -642,7 +642,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "optaplanner",
-				"purl": "purl:rpm/suse/optaplanner&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/optaplanner&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -732,7 +732,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "py27-compat-salt",
-				"purl": "purl:rpm/suse/py27-compat-salt&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/py27-compat-salt&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -822,7 +822,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "python-susemanager-retail",
-				"purl": "purl:rpm/suse/python-susemanager-retail&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/python-susemanager-retail&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -912,7 +912,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "smdba",
-				"purl": "purl:rpm/suse/smdba&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/smdba&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1002,7 +1002,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1092,7 +1092,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-admin",
-				"purl": "purl:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1182,7 +1182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1272,7 +1272,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1362,7 +1362,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1452,7 +1452,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1542,7 +1542,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1632,7 +1632,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-search",
-				"purl": "purl:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1722,7 +1722,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-setup",
-				"purl": "purl:rpm/suse/spacewalk-setup&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-setup&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1812,7 +1812,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-utils",
-				"purl": "purl:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1902,7 +1902,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -1992,7 +1992,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "subscription-matcher",
-				"purl": "purl:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/subscription-matcher&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2082,7 +2082,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2172,7 +2172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager-doc-indexes",
-				"purl": "purl:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2262,7 +2262,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2352,7 +2352,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2442,7 +2442,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2532,7 +2532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2622,7 +2622,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "virtual-host-gatherer",
-				"purl": "purl:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2712,7 +2712,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "woodstox",
-				"purl": "purl:rpm/suse/woodstox&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/woodstox&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -2802,7 +2802,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "xmlpull-api",
-				"purl": "purl:rpm/suse/xmlpull-api&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/xmlpull-api&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{

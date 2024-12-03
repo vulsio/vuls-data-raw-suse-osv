@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "exiv2",
-				"purl": "purl:rpm/suse/exiv2&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/exiv2&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

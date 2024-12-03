@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "dovecot23",
-				"purl": "purl:rpm/suse/dovecot23&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/dovecot23&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

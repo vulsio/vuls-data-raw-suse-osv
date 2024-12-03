@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "influxdb",
-				"purl": "purl:rpm/suse/influxdb&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/influxdb&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -106,7 +106,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

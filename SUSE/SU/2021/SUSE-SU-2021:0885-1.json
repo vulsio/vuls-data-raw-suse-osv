@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "evolution-data-server",
-				"purl": "purl:rpm/suse/evolution-data-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/evolution-data-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

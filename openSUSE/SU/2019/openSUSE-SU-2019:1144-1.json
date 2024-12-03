@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libcaca",
-				"purl": "purl:rpm/suse/libcaca&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libcaca&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

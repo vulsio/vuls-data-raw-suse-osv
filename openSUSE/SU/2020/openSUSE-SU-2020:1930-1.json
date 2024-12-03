@@ -29,7 +29,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "u-boot",
-				"purl": "purl:rpm/suse/u-boot&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/u-boot&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

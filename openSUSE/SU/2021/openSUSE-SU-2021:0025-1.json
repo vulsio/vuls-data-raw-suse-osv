@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kitty",
-				"purl": "purl:rpm/suse/kitty&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kitty&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

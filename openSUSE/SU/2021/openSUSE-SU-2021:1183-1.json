@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "fetchmail",
-				"purl": "purl:rpm/suse/fetchmail&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/fetchmail&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

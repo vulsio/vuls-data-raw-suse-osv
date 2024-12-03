@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -112,7 +112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/gn&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -141,7 +141,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/gn&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -199,7 +199,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -228,7 +228,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "gn",
-				"purl": "purl:rpm/suse/gn&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/gn&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

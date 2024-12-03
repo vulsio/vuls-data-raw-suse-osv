@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "python-libmount",
-				"purl": "purl:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{

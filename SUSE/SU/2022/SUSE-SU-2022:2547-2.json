@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "logrotate",
-				"purl": "purl:rpm/suse/logrotate&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/logrotate&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

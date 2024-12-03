@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP4",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
+				"purl": "pkg:rpm/suse/zbar&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/zbar&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "zbar",
-				"purl": "purl:rpm/suse/zbar&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/zbar&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

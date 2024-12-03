@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mumble",
-				"purl": "purl:rpm/suse/mumble&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mumble&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "mumble",
-				"purl": "purl:rpm/suse/mumble&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/mumble&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

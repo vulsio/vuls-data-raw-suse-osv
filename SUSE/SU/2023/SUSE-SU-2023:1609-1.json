@@ -28,7 +28,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP4",
 				"name": "kernel-livepatch-SLE15-SP4-RT_Update_5",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP4-RT_Update_5&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP4-RT_Update_5&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -109,7 +109,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP4",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP4",
 				"name": "kernel-rt_debug",
-				"purl": "purl:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP4",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -220,7 +220,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP4",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
+				"purl": "pkg:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -257,7 +257,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/kernel-rt&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/kernel-rt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "kernel-rt_debug",
-				"purl": "purl:rpm/suse/kernel-rt_debug&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/kernel-rt_debug&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -358,7 +358,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/kernel-source-rt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -395,7 +395,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/kernel-syms-rt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

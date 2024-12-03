@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -453,7 +453,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "hunspell",
-				"purl": "purl:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -673,7 +673,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -893,7 +893,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1113,7 +1113,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1333,7 +1333,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1553,7 +1553,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1773,7 +1773,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1993,7 +1993,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2213,7 +2213,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2433,7 +2433,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "openCOLLADA",
-				"purl": "purl:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2653,7 +2653,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -2873,7 +2873,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -3093,7 +3093,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "hunspell",
-				"purl": "purl:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -3313,7 +3313,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -3533,7 +3533,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -3753,7 +3753,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -3973,7 +3973,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -4193,7 +4193,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -4413,7 +4413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -4633,7 +4633,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -4853,7 +4853,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -5073,7 +5073,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "openCOLLADA",
-				"purl": "purl:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -5293,7 +5293,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5353,7 +5353,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5413,7 +5413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "hunspell",
-				"purl": "purl:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5473,7 +5473,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5533,7 +5533,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5593,7 +5593,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5653,7 +5653,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5713,7 +5713,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5773,7 +5773,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5833,7 +5833,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -5894,7 +5894,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -5955,7 +5955,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "hunspell",
-				"purl": "purl:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/hunspell&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6016,7 +6016,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6077,7 +6077,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6138,7 +6138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6199,7 +6199,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6260,7 +6260,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6321,7 +6321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -6382,7 +6382,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -6592,7 +6592,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -6802,7 +6802,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7012,7 +7012,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7222,7 +7222,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7432,7 +7432,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7642,7 +7642,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7852,7 +7852,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8062,7 +8062,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8272,7 +8272,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8482,7 +8482,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "openCOLLADA",
-				"purl": "purl:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8692,7 +8692,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -8900,7 +8900,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -9108,7 +9108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -9316,7 +9316,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -9524,7 +9524,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -9732,7 +9732,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -9940,7 +9940,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -10148,7 +10148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -10356,7 +10356,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -10564,7 +10564,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -10772,7 +10772,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "openCOLLADA",
-				"purl": "purl:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/openCOLLADA&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{

@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

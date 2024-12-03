@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -145,7 +145,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -209,7 +209,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -241,7 +241,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -273,7 +273,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -300,7 +300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -332,7 +332,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -364,7 +364,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -396,7 +396,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -428,7 +428,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -460,7 +460,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -492,7 +492,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -524,7 +524,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -556,7 +556,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -588,7 +588,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -620,7 +620,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "cups-filters",
-				"purl": "purl:rpm/suse/cups-filters&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/cups-filters&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -652,7 +652,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "qpdf",
-				"purl": "purl:rpm/suse/qpdf&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/qpdf&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

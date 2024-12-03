@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "nodejs12",
-				"purl": "purl:rpm/suse/nodejs12&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/nodejs12&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

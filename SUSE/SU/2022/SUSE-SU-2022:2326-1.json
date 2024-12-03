@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP3",
 				"name": "resource-agents",
-				"purl": "purl:rpm/suse/resource-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/resource-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "resource-agents",
-				"purl": "purl:rpm/suse/resource-agents&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/resource-agents&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

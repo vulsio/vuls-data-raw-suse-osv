@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "squid",
-				"purl": "purl:rpm/suse/squid&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/squid&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

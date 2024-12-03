@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -248,7 +248,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "novnc",
-				"purl": "purl:rpm/suse/novnc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/novnc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -325,7 +325,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -402,7 +402,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -479,7 +479,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -556,7 +556,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -633,7 +633,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron-lbaas",
-				"purl": "purl:rpm/suse/openstack-neutron-lbaas&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron-lbaas&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -710,7 +710,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-neutron-lbaas-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-lbaas-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-neutron-lbaas-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -787,7 +787,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -864,7 +864,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova-doc",
-				"purl": "purl:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -941,7 +941,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-tempest",
-				"purl": "purl:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-tempest&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1018,7 +1018,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1095,7 +1095,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1172,7 +1172,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-chef",
-				"purl": "purl:rpm/suse/rubygem-chef&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-chef&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1249,7 +1249,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-easy_diff",
-				"purl": "purl:rpm/suse/rubygem-easy_diff&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-easy_diff&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1326,7 +1326,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "sleshammer",
-				"purl": "purl:rpm/suse/sleshammer&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/sleshammer&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1403,7 +1403,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1435,7 +1435,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "rubygem-chef",
-				"purl": "purl:rpm/suse/rubygem-chef&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/rubygem-chef&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1467,7 +1467,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "rubygem-easy_diff",
-				"purl": "purl:rpm/suse/rubygem-easy_diff&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/rubygem-easy_diff&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1499,7 +1499,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "sleshammer",
-				"purl": "purl:rpm/suse/sleshammer&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/sleshammer&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

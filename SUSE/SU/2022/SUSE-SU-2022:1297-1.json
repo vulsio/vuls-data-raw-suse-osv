@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "swtpm",
-				"purl": "purl:rpm/suse/swtpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/swtpm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "swtpm",
-				"purl": "purl:rpm/suse/swtpm&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/swtpm&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "swtpm",
-				"purl": "purl:rpm/suse/swtpm&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/swtpm&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

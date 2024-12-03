@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "bbswitch",
-				"purl": "purl:rpm/suse/bbswitch&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/bbswitch&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "crash",
-				"purl": "purl:rpm/suse/crash&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/crash&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -236,7 +236,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/dpdk&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -345,7 +345,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "drbd",
-				"purl": "purl:rpm/suse/drbd&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/drbd&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -454,7 +454,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "hdjmod",
-				"purl": "purl:rpm/suse/hdjmod&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/hdjmod&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -563,7 +563,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-debug",
-				"purl": "purl:rpm/suse/kernel-debug&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-debug&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-default&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -781,7 +781,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-docs&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -890,7 +890,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-kvmsmall",
-				"purl": "purl:rpm/suse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -999,7 +999,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-obs-build&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1108,7 +1108,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-obs-qa",
-				"purl": "purl:rpm/suse/kernel-obs-qa&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-obs-qa&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1217,7 +1217,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-preempt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1326,7 +1326,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-source&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1435,7 +1435,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-syms&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1544,7 +1544,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "mhvtl",
-				"purl": "purl:rpm/suse/mhvtl&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/mhvtl&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1653,7 +1653,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "openafs",
-				"purl": "purl:rpm/suse/openafs&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/openafs&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1762,7 +1762,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "pcfclock",
-				"purl": "purl:rpm/suse/pcfclock&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/pcfclock&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1871,7 +1871,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "rtl8812au",
-				"purl": "purl:rpm/suse/rtl8812au&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/rtl8812au&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1980,7 +1980,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "sysdig",
-				"purl": "purl:rpm/suse/sysdig&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/sysdig&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -2089,7 +2089,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "v4l2loopback",
-				"purl": "purl:rpm/suse/v4l2loopback&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/v4l2loopback&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -2198,7 +2198,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "vhba-kmp",
-				"purl": "purl:rpm/suse/vhba-kmp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/vhba-kmp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -2307,7 +2307,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "virtualbox",
-				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/virtualbox&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -2416,7 +2416,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "xtables-addons",
-				"purl": "purl:rpm/suse/xtables-addons&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/xtables-addons&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

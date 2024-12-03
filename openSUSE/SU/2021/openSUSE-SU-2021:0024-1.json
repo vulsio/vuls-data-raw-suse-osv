@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-notebook",
-				"purl": "purl:rpm/suse/python-notebook&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-notebook&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

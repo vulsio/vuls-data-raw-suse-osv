@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP1",
 				"name": "gimp",
-				"purl": "purl:rpm/suse/gimp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/gimp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{

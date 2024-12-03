@@ -34,7 +34,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ansible&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -141,7 +141,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ansible1",
-				"purl": "purl:rpm/suse/ansible1&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ansible1&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -248,7 +248,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-ansible",
-				"purl": "purl:rpm/suse/ardana-ansible&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-ansible&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -355,7 +355,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-cluster",
-				"purl": "purl:rpm/suse/ardana-cluster&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-cluster&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -462,7 +462,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-freezer",
-				"purl": "purl:rpm/suse/ardana-freezer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-freezer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -569,7 +569,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-input-model",
-				"purl": "purl:rpm/suse/ardana-input-model&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-input-model&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -676,7 +676,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-logging",
-				"purl": "purl:rpm/suse/ardana-logging&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-logging&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -783,7 +783,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-mq",
-				"purl": "purl:rpm/suse/ardana-mq&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-mq&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -890,7 +890,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-neutron",
-				"purl": "purl:rpm/suse/ardana-neutron&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-neutron&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -997,7 +997,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-octavia",
-				"purl": "purl:rpm/suse/ardana-octavia&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-octavia&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1104,7 +1104,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-osconfig",
-				"purl": "purl:rpm/suse/ardana-osconfig&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-osconfig&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1211,7 +1211,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "caasp-openstack-heat-templates",
-				"purl": "purl:rpm/suse/caasp-openstack-heat-templates&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/caasp-openstack-heat-templates&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1318,7 +1318,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-installation",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-installation&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-installation&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1425,7 +1425,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-operations",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-operations&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-operations&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1532,7 +1532,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-opsconsole",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-opsconsole&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-opsconsole&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1639,7 +1639,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-planning",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-planning&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-planning&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1746,7 +1746,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-security",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-security&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-security&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1853,7 +1853,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "documentation-hpe-helion-openstack-user",
-				"purl": "purl:rpm/suse/documentation-hpe-helion-openstack-user&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/documentation-hpe-helion-openstack-user&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -1960,7 +1960,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/grafana&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2067,7 +2067,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kibana",
-				"purl": "purl:rpm/suse/kibana&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kibana&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2174,7 +2174,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2281,7 +2281,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-dashboard-theme-HPE",
-				"purl": "purl:rpm/suse/openstack-dashboard-theme-HPE&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-dashboard-theme-HPE&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2388,7 +2388,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-heat-templates",
-				"purl": "purl:rpm/suse/openstack-heat-templates&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-heat-templates&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2495,7 +2495,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2602,7 +2602,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2709,7 +2709,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-monasca-agent",
-				"purl": "purl:rpm/suse/openstack-monasca-agent&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-agent&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2816,7 +2816,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-monasca-installer",
-				"purl": "purl:rpm/suse/openstack-monasca-installer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-installer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -2923,7 +2923,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3030,7 +3030,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-neutron-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-doc&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-neutron-doc&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3137,7 +3137,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-octavia-amphora-image",
-				"purl": "purl:rpm/suse/openstack-octavia-amphora-image&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-octavia-amphora-image&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3244,7 +3244,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-Django&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3351,7 +3351,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-Flask",
-				"purl": "purl:rpm/suse/python-Flask&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-Flask&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3458,7 +3458,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-GitPython",
-				"purl": "purl:rpm/suse/python-GitPython&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-GitPython&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3565,7 +3565,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3672,7 +3672,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-amqp",
-				"purl": "purl:rpm/suse/python-amqp&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-amqp&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3779,7 +3779,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-apicapi",
-				"purl": "purl:rpm/suse/python-apicapi&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-apicapi&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3886,7 +3886,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-keystoneauth1",
-				"purl": "purl:rpm/suse/python-keystoneauth1&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-keystoneauth1&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -3993,7 +3993,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-oslo.messaging",
-				"purl": "purl:rpm/suse/python-oslo.messaging&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-oslo.messaging&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4100,7 +4100,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-psutil&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4207,7 +4207,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-pyroute2",
-				"purl": "purl:rpm/suse/python-pyroute2&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-pyroute2&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4314,7 +4314,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4421,7 +4421,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-tooz",
-				"purl": "purl:rpm/suse/python-tooz&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-tooz&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4528,7 +4528,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "python-waitress",
-				"purl": "purl:rpm/suse/python-waitress&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/python-waitress&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4635,7 +4635,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "storm",
-				"purl": "purl:rpm/suse/storm&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/storm&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4742,7 +4742,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-aodh",
-				"purl": "purl:rpm/suse/venv-openstack-aodh&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-aodh&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4849,7 +4849,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-barbican",
-				"purl": "purl:rpm/suse/venv-openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -4956,7 +4956,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-ceilometer",
-				"purl": "purl:rpm/suse/venv-openstack-ceilometer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-ceilometer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5063,7 +5063,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-cinder",
-				"purl": "purl:rpm/suse/venv-openstack-cinder&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-cinder&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5170,7 +5170,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-designate",
-				"purl": "purl:rpm/suse/venv-openstack-designate&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-designate&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5277,7 +5277,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-freezer",
-				"purl": "purl:rpm/suse/venv-openstack-freezer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-freezer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5384,7 +5384,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-glance",
-				"purl": "purl:rpm/suse/venv-openstack-glance&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-glance&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5491,7 +5491,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-heat",
-				"purl": "purl:rpm/suse/venv-openstack-heat&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-heat&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5598,7 +5598,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-horizon-hpe",
-				"purl": "purl:rpm/suse/venv-openstack-horizon-hpe&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-horizon-hpe&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5705,7 +5705,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-ironic",
-				"purl": "purl:rpm/suse/venv-openstack-ironic&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-ironic&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5812,7 +5812,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-keystone",
-				"purl": "purl:rpm/suse/venv-openstack-keystone&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-keystone&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -5919,7 +5919,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-magnum",
-				"purl": "purl:rpm/suse/venv-openstack-magnum&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-magnum&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6026,7 +6026,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-manila",
-				"purl": "purl:rpm/suse/venv-openstack-manila&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-manila&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6133,7 +6133,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-monasca",
-				"purl": "purl:rpm/suse/venv-openstack-monasca&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6240,7 +6240,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-monasca-ceilometer",
-				"purl": "purl:rpm/suse/venv-openstack-monasca-ceilometer&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca-ceilometer&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6347,7 +6347,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-murano",
-				"purl": "purl:rpm/suse/venv-openstack-murano&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-murano&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6454,7 +6454,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-neutron",
-				"purl": "purl:rpm/suse/venv-openstack-neutron&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-neutron&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6561,7 +6561,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-nova",
-				"purl": "purl:rpm/suse/venv-openstack-nova&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-nova&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6668,7 +6668,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-octavia",
-				"purl": "purl:rpm/suse/venv-openstack-octavia&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-octavia&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6775,7 +6775,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-sahara",
-				"purl": "purl:rpm/suse/venv-openstack-sahara&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-sahara&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6882,7 +6882,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-swift",
-				"purl": "purl:rpm/suse/venv-openstack-swift&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-swift&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -6989,7 +6989,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-trove",
-				"purl": "purl:rpm/suse/venv-openstack-trove&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-trove&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -7096,7 +7096,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7205,7 +7205,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ansible1",
-				"purl": "purl:rpm/suse/ansible1&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ansible1&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7314,7 +7314,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-ansible",
-				"purl": "purl:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7423,7 +7423,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-cluster",
-				"purl": "purl:rpm/suse/ardana-cluster&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-cluster&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7532,7 +7532,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-freezer",
-				"purl": "purl:rpm/suse/ardana-freezer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-freezer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7641,7 +7641,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-input-model",
-				"purl": "purl:rpm/suse/ardana-input-model&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-input-model&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7750,7 +7750,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-logging",
-				"purl": "purl:rpm/suse/ardana-logging&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-logging&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7859,7 +7859,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-mq",
-				"purl": "purl:rpm/suse/ardana-mq&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-mq&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -7968,7 +7968,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-neutron",
-				"purl": "purl:rpm/suse/ardana-neutron&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-neutron&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8077,7 +8077,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-octavia",
-				"purl": "purl:rpm/suse/ardana-octavia&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-octavia&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8186,7 +8186,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-osconfig",
-				"purl": "purl:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8295,7 +8295,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "caasp-openstack-heat-templates",
-				"purl": "purl:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8404,7 +8404,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-installation",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-installation&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-installation&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8513,7 +8513,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-operations",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-operations&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-operations&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8622,7 +8622,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-opsconsole",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-opsconsole&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-opsconsole&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8731,7 +8731,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-planning",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-planning&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-planning&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8840,7 +8840,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-security",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-security&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-security&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -8949,7 +8949,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-supplement",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-supplement&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-supplement&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9058,7 +9058,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-upstream-admin",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-upstream-admin&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-upstream-admin&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9167,7 +9167,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-upstream-user",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-upstream-user&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-upstream-user&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9276,7 +9276,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "documentation-suse-openstack-cloud-user",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-user&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-user&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9385,7 +9385,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9494,7 +9494,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kibana",
-				"purl": "purl:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9603,7 +9603,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9712,7 +9712,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-heat-templates",
-				"purl": "purl:rpm/suse/openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9821,7 +9821,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -9930,7 +9930,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10039,7 +10039,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-monasca-agent",
-				"purl": "purl:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10148,7 +10148,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-monasca-installer",
-				"purl": "purl:rpm/suse/openstack-monasca-installer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-installer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10257,7 +10257,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10366,7 +10366,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-neutron-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10475,7 +10475,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-octavia-amphora-image",
-				"purl": "purl:rpm/suse/openstack-octavia-amphora-image&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-octavia-amphora-image&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10584,7 +10584,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10693,7 +10693,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-Flask",
-				"purl": "purl:rpm/suse/python-Flask&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-Flask&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10802,7 +10802,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-GitPython",
-				"purl": "purl:rpm/suse/python-GitPython&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-GitPython&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -10911,7 +10911,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11020,7 +11020,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-amqp",
-				"purl": "purl:rpm/suse/python-amqp&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-amqp&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11129,7 +11129,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-apicapi",
-				"purl": "purl:rpm/suse/python-apicapi&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-apicapi&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11238,7 +11238,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-keystoneauth1",
-				"purl": "purl:rpm/suse/python-keystoneauth1&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-keystoneauth1&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11347,7 +11347,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-oslo.messaging",
-				"purl": "purl:rpm/suse/python-oslo.messaging&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-oslo.messaging&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11456,7 +11456,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11565,7 +11565,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-pyroute2",
-				"purl": "purl:rpm/suse/python-pyroute2&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-pyroute2&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11674,7 +11674,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11783,7 +11783,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-tooz",
-				"purl": "purl:rpm/suse/python-tooz&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-tooz&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -11892,7 +11892,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "python-waitress",
-				"purl": "purl:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12001,7 +12001,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "storm",
-				"purl": "purl:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12110,7 +12110,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-aodh",
-				"purl": "purl:rpm/suse/venv-openstack-aodh&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-aodh&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12219,7 +12219,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-barbican",
-				"purl": "purl:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12328,7 +12328,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-ceilometer",
-				"purl": "purl:rpm/suse/venv-openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12437,7 +12437,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-cinder",
-				"purl": "purl:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12546,7 +12546,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-designate",
-				"purl": "purl:rpm/suse/venv-openstack-designate&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-designate&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12655,7 +12655,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-freezer",
-				"purl": "purl:rpm/suse/venv-openstack-freezer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-freezer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12764,7 +12764,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-glance",
-				"purl": "purl:rpm/suse/venv-openstack-glance&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-glance&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12873,7 +12873,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-heat",
-				"purl": "purl:rpm/suse/venv-openstack-heat&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-heat&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -12982,7 +12982,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-horizon",
-				"purl": "purl:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13091,7 +13091,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-ironic",
-				"purl": "purl:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13200,7 +13200,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-keystone",
-				"purl": "purl:rpm/suse/venv-openstack-keystone&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-keystone&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13309,7 +13309,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-magnum",
-				"purl": "purl:rpm/suse/venv-openstack-magnum&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-magnum&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13418,7 +13418,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-manila",
-				"purl": "purl:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13527,7 +13527,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-monasca",
-				"purl": "purl:rpm/suse/venv-openstack-monasca&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13636,7 +13636,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-monasca-ceilometer",
-				"purl": "purl:rpm/suse/venv-openstack-monasca-ceilometer&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca-ceilometer&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13745,7 +13745,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-murano",
-				"purl": "purl:rpm/suse/venv-openstack-murano&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-murano&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13854,7 +13854,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-neutron",
-				"purl": "purl:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -13963,7 +13963,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-nova",
-				"purl": "purl:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -14072,7 +14072,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-octavia",
-				"purl": "purl:rpm/suse/venv-openstack-octavia&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-octavia&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -14181,7 +14181,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-sahara",
-				"purl": "purl:rpm/suse/venv-openstack-sahara&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-sahara&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -14290,7 +14290,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-swift",
-				"purl": "purl:rpm/suse/venv-openstack-swift&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-swift&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -14399,7 +14399,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-trove",
-				"purl": "purl:rpm/suse/venv-openstack-trove&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-trove&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -14508,7 +14508,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14586,7 +14586,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "caasp-openstack-heat-templates",
-				"purl": "purl:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/caasp-openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14664,7 +14664,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14742,7 +14742,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "crowbar-openstack",
-				"purl": "purl:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/crowbar-openstack&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14820,7 +14820,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "documentation-suse-openstack-cloud-deployment",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-deployment&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-deployment&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14898,7 +14898,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "documentation-suse-openstack-cloud-supplement",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-supplement&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-supplement&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -14976,7 +14976,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "documentation-suse-openstack-cloud-upstream-admin",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-upstream-admin&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-upstream-admin&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15054,7 +15054,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "documentation-suse-openstack-cloud-upstream-user",
-				"purl": "purl:rpm/suse/documentation-suse-openstack-cloud-upstream-user&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/documentation-suse-openstack-cloud-upstream-user&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15132,7 +15132,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15210,7 +15210,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kibana",
-				"purl": "purl:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kibana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15288,7 +15288,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15366,7 +15366,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-heat-templates",
-				"purl": "purl:rpm/suse/openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-heat-templates&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15444,7 +15444,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15522,7 +15522,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15600,7 +15600,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-monasca-agent",
-				"purl": "purl:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15678,7 +15678,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-monasca-installer",
-				"purl": "purl:rpm/suse/openstack-monasca-installer&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-installer&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15756,7 +15756,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15834,7 +15834,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-neutron-doc",
-				"purl": "purl:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-neutron-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15912,7 +15912,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-octavia-amphora-image",
-				"purl": "purl:rpm/suse/openstack-octavia-amphora-image&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-octavia-amphora-image&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -15990,7 +15990,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16068,7 +16068,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-Flask",
-				"purl": "purl:rpm/suse/python-Flask&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-Flask&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16146,7 +16146,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16224,7 +16224,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-amqp",
-				"purl": "purl:rpm/suse/python-amqp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-amqp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16302,7 +16302,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-apicapi",
-				"purl": "purl:rpm/suse/python-apicapi&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-apicapi&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16380,7 +16380,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-keystoneauth1",
-				"purl": "purl:rpm/suse/python-keystoneauth1&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-keystoneauth1&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16458,7 +16458,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-oslo.messaging",
-				"purl": "purl:rpm/suse/python-oslo.messaging&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-oslo.messaging&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16536,7 +16536,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-psutil",
-				"purl": "purl:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-psutil&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16614,7 +16614,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-pyroute2",
-				"purl": "purl:rpm/suse/python-pyroute2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-pyroute2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16692,7 +16692,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16770,7 +16770,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-tooz",
-				"purl": "purl:rpm/suse/python-tooz&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-tooz&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16848,7 +16848,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "python-waitress",
-				"purl": "purl:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/python-waitress&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -16926,7 +16926,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-activeresource",
-				"purl": "purl:rpm/suse/rubygem-activeresource&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-activeresource&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -17004,7 +17004,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-crowbar-client",
-				"purl": "purl:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -17082,7 +17082,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-json-1_7",
-				"purl": "purl:rpm/suse/rubygem-json-1_7&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-json-1_7&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -17160,7 +17160,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -17238,7 +17238,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "storm",
-				"purl": "purl:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{

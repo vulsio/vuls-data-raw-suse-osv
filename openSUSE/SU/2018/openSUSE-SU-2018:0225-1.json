@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "redis",
-				"purl": "purl:rpm/suse/redis&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/redis&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

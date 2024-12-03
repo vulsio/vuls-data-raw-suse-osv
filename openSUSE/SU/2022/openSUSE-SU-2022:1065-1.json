@@ -29,7 +29,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-firmware",
-				"purl": "purl:rpm/suse/kernel-firmware&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-firmware&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

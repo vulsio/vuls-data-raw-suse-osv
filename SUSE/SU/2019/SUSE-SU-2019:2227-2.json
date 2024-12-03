@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "libvirt",
-				"purl": "purl:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "libvirt",
-				"purl": "purl:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "libvirt",
-				"purl": "purl:rpm/suse/libvirt&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/libvirt&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

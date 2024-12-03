@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP4",
 				"name": "python310",
-				"purl": "purl:rpm/suse/python310&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP4"
+				"purl": "pkg:rpm/suse/python310&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 3 15 SP4",
 				"name": "python310-core",
-				"purl": "purl:rpm/suse/python310-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP4"
+				"purl": "pkg:rpm/suse/python310-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%203%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python310",
-				"purl": "purl:rpm/suse/python310&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python310&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python310-core",
-				"purl": "purl:rpm/suse/python310-core&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python310-core&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python310-documentation",
-				"purl": "purl:rpm/suse/python310-documentation&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python310-documentation&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

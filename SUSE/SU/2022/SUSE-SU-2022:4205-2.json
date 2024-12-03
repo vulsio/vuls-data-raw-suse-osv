@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "net-snmp",
-				"purl": "purl:rpm/suse/net-snmp&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/net-snmp&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "net-snmp",
-				"purl": "purl:rpm/suse/net-snmp&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/net-snmp&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{

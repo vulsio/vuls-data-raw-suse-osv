@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "libvirt",
-				"purl": "purl:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/libvirt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "libvirt-python",
-				"purl": "purl:rpm/suse/libvirt-python&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/libvirt-python&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{

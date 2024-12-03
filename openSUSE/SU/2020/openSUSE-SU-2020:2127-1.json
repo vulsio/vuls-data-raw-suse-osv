@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "neomutt",
-				"purl": "purl:rpm/suse/neomutt&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/neomutt&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "neomutt",
-				"purl": "purl:rpm/suse/neomutt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/neomutt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

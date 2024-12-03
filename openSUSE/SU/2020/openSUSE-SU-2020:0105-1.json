@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libvpx",
-				"purl": "purl:rpm/suse/libvpx&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libvpx&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11-SECURITY",
 				"name": "sblim-sfcb-openssl1",
-				"purl": "purl:rpm/suse/sblim-sfcb-openssl1&distro=SUSE%20Linux%20Enterprise%20Server%2011-SECURITY"
+				"purl": "pkg:rpm/suse/sblim-sfcb-openssl1&distro=SUSE%20Linux%20Enterprise%20Server%2011-SECURITY"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "sblim-sfcb",
-				"purl": "purl:rpm/suse/sblim-sfcb&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/sblim-sfcb&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "sblim-sfcb",
-				"purl": "purl:rpm/suse/sblim-sfcb&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/sblim-sfcb&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

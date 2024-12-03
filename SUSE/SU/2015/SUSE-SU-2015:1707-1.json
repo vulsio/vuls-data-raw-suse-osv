@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libssh",
-				"purl": "purl:rpm/suse/libssh&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libssh&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{

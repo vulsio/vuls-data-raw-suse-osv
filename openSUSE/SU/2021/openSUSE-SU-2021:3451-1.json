@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "MozillaFirefox-branding-SLE",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLE&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox-branding-SLE&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

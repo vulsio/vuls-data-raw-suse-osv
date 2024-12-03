@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{

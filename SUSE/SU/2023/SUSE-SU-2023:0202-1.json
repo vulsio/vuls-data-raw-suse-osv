@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "python39-setuptools",
-				"purl": "purl:rpm/suse/python39-setuptools&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/python39-setuptools&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python39-setuptools",
-				"purl": "purl:rpm/suse/python39-setuptools&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python39-setuptools&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

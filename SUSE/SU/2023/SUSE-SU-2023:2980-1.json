@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/php7&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

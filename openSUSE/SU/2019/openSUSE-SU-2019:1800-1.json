@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "libsass",
-				"purl": "purl:rpm/suse/libsass&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/libsass&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

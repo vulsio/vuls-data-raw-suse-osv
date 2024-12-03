@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "busybox",
-				"purl": "purl:rpm/suse/busybox&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/busybox&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{

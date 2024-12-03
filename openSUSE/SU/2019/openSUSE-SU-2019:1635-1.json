@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/ansible&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/ansible&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

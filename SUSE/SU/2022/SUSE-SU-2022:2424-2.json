@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/kernel-rt&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/sudo&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/sudo&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sudo&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

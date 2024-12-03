@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "php5",
-				"purl": "purl:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -262,7 +262,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "php5",
-				"purl": "purl:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -291,7 +291,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -320,7 +320,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "php5",
-				"purl": "purl:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/php5&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -349,7 +349,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -376,7 +376,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "imap",
-				"purl": "purl:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/imap&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{

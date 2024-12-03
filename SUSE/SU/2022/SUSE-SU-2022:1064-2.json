@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "python-numpy_1_16_5-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_16_5-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/python-numpy_1_16_5-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "python-numpy_1_16_5-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_16_5-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-numpy_1_16_5-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -142,7 +142,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -198,7 +198,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.1",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Proxy%204.1"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Proxy%204.1"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -254,7 +254,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.1",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Server%204.1"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Manager%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "python2-numpy",
-				"purl": "purl:rpm/suse/python2-numpy&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/python2-numpy&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -310,7 +310,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-numpy_1_16_5-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_16_5-gnu-hpc&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-numpy_1_16_5-gnu-hpc&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

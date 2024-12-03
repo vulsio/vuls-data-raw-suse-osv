@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundle-swig",
-				"purl": "purl:rpm/suse/saltbundle-swig&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundle-swig&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-appdirs",
-				"purl": "purl:rpm/suse/saltbundlepy-appdirs&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-appdirs&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-certifi",
-				"purl": "purl:rpm/suse/saltbundlepy-certifi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-certifi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-cffi",
-				"purl": "purl:rpm/suse/saltbundlepy-cffi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-cffi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-dateutil",
-				"purl": "purl:rpm/suse/saltbundlepy-dateutil&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-dateutil&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -287,7 +287,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-editables",
-				"purl": "purl:rpm/suse/saltbundlepy-editables&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-editables&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -342,7 +342,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-exceptiongroup",
-				"purl": "purl:rpm/suse/saltbundlepy-exceptiongroup&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-exceptiongroup&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -397,7 +397,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-exceptiongroup-test",
-				"purl": "purl:rpm/suse/saltbundlepy-exceptiongroup-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-exceptiongroup-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -452,7 +452,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-flit-core",
-				"purl": "purl:rpm/suse/saltbundlepy-flit-core&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-flit-core&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -507,7 +507,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-flit-scm",
-				"purl": "purl:rpm/suse/saltbundlepy-flit-scm&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-flit-scm&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -562,7 +562,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-hatch-vcs",
-				"purl": "purl:rpm/suse/saltbundlepy-hatch-vcs&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-hatch-vcs&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -617,7 +617,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-hatch-vcs-test",
-				"purl": "purl:rpm/suse/saltbundlepy-hatch-vcs-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-hatch-vcs-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-hatchling",
-				"purl": "purl:rpm/suse/saltbundlepy-hatchling&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-hatchling&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -727,7 +727,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-iniconfig",
-				"purl": "purl:rpm/suse/saltbundlepy-iniconfig&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-iniconfig&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -782,7 +782,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-iniconfig-test",
-				"purl": "purl:rpm/suse/saltbundlepy-iniconfig-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-iniconfig-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -837,7 +837,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-lxml",
-				"purl": "purl:rpm/suse/saltbundlepy-lxml&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-lxml&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -892,7 +892,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-more-itertools",
-				"purl": "purl:rpm/suse/saltbundlepy-more-itertools&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-more-itertools&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -947,7 +947,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-packaging",
-				"purl": "purl:rpm/suse/saltbundlepy-packaging&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-packaging&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1002,7 +1002,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pathspec",
-				"purl": "purl:rpm/suse/saltbundlepy-pathspec&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pathspec&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1057,7 +1057,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pip",
-				"purl": "purl:rpm/suse/saltbundlepy-pip&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pip&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1112,7 +1112,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pluggy",
-				"purl": "purl:rpm/suse/saltbundlepy-pluggy&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pluggy&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1167,7 +1167,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pluggy-test",
-				"purl": "purl:rpm/suse/saltbundlepy-pluggy-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pluggy-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1222,7 +1222,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-py",
-				"purl": "purl:rpm/suse/saltbundlepy-py&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-py&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1277,7 +1277,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pytest",
-				"purl": "purl:rpm/suse/saltbundlepy-pytest&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pytest&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1332,7 +1332,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-setuptools-scm",
-				"purl": "purl:rpm/suse/saltbundlepy-setuptools-scm&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-setuptools-scm&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1387,7 +1387,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-tomli",
-				"purl": "purl:rpm/suse/saltbundlepy-tomli&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-tomli&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1442,7 +1442,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-typing-extensions",
-				"purl": "purl:rpm/suse/saltbundlepy-typing-extensions&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-typing-extensions&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1497,7 +1497,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-typing-extensions-test",
-				"purl": "purl:rpm/suse/saltbundlepy-typing-extensions-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-typing-extensions-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1552,7 +1552,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-wheel",
-				"purl": "purl:rpm/suse/saltbundlepy-wheel&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-wheel&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1607,7 +1607,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-wheel-test",
-				"purl": "purl:rpm/suse/saltbundlepy-wheel-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-wheel-test&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1662,7 +1662,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -1717,7 +1717,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

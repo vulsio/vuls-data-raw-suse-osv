@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "perl-Switch",
-				"purl": "purl:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "perl-Switch",
-				"purl": "purl:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP1",
 				"name": "perl-Switch",
-				"purl": "purl:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
+				"purl": "pkg:rpm/suse/perl-Switch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP1",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
 			},
 			"ranges": [
 				{

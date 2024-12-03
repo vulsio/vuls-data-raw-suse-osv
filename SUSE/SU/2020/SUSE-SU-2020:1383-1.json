@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "u-boot",
-				"purl": "purl:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "u-boot-rpi3",
-				"purl": "purl:rpm/suse/u-boot-rpi3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/u-boot-rpi3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -181,7 +181,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -223,7 +223,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -265,7 +265,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ant&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -314,7 +314,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ant-antlr&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -363,7 +363,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ant-junit&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -412,7 +412,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ant-junit5",
-				"purl": "purl:rpm/suse/ant-junit5&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ant-junit5&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -461,7 +461,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/ant&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -510,7 +510,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/ant-antlr&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -559,7 +559,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/ant-junit&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -608,7 +608,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "ant-junit5",
-				"purl": "purl:rpm/suse/ant-junit5&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/ant-junit5&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

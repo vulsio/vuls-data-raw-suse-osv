@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "ldns",
-				"purl": "purl:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "ldns",
-				"purl": "purl:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "ldns",
-				"purl": "purl:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/ldns&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{

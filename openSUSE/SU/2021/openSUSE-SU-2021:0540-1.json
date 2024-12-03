@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "bbswitch",
-				"purl": "purl:rpm/suse/bbswitch&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/bbswitch&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "crash",
-				"purl": "purl:rpm/suse/crash&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/crash&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -197,7 +197,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/dpdk&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -291,7 +291,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "drbd",
-				"purl": "purl:rpm/suse/drbd&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/drbd&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -385,7 +385,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "mhvtl",
-				"purl": "purl:rpm/suse/mhvtl&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/mhvtl&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -479,7 +479,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "msr-safe",
-				"purl": "purl:rpm/suse/msr-safe&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/msr-safe&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -573,7 +573,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "openafs",
-				"purl": "purl:rpm/suse/openafs&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/openafs&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -667,7 +667,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "pcfclock",
-				"purl": "purl:rpm/suse/pcfclock&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/pcfclock&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -761,7 +761,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "rtl8812au",
-				"purl": "purl:rpm/suse/rtl8812au&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/rtl8812au&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -855,7 +855,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "sysdig",
-				"purl": "purl:rpm/suse/sysdig&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/sysdig&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -949,7 +949,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "v4l2loopback",
-				"purl": "purl:rpm/suse/v4l2loopback&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/v4l2loopback&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1043,7 +1043,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "vhba-kmp",
-				"purl": "purl:rpm/suse/vhba-kmp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/vhba-kmp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1137,7 +1137,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "virtualbox",
-				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/virtualbox&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1231,7 +1231,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "virtualbox-kmp",
-				"purl": "purl:rpm/suse/virtualbox-kmp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/virtualbox-kmp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -1325,7 +1325,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "xtables-addons",
-				"purl": "purl:rpm/suse/xtables-addons&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/xtables-addons&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

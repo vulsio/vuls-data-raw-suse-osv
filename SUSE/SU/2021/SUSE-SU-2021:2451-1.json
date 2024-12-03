@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kernel-default&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kernel-source&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kgraft-patch-SLE12-SP3_Update_40",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -206,7 +206,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -241,7 +241,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -276,7 +276,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kgraft-patch-SLE12-SP3_Update_40",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -311,7 +311,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -346,7 +346,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -381,7 +381,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -416,7 +416,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kgraft-patch-SLE12-SP3_Update_40",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -451,7 +451,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -481,7 +481,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -516,7 +516,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_40",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -621,7 +621,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -657,7 +657,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -693,7 +693,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -729,7 +729,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kgraft-patch-SLE12-SP3_Update_40",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_40&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -765,7 +765,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -798,7 +798,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -831,7 +831,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{

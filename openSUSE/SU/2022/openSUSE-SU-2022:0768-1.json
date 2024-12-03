@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-debug",
-				"purl": "purl:rpm/suse/kernel-debug&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-debug&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-default&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-kvmsmall",
-				"purl": "purl:rpm/suse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-vanilla",
-				"purl": "purl:rpm/suse/kernel-vanilla&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-vanilla&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-zfcpdump",
-				"purl": "purl:rpm/suse/kernel-zfcpdump&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-zfcpdump&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

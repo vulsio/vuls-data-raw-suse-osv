@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-sprockets-2_12",
-				"purl": "purl:rpm/suse/rubygem-sprockets-2_12&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-sprockets-2_12&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

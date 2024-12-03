@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "python3",
-				"purl": "purl:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "python3-core",
-				"purl": "purl:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "python3-core",
-				"purl": "purl:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "python3",
-				"purl": "purl:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/python3&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "python3-core",
-				"purl": "purl:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/python3-core&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{

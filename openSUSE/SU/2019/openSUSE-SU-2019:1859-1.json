@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "znc",
-				"purl": "purl:rpm/suse/znc&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/znc&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

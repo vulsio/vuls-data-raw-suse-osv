@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -197,7 +197,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "kernel-zfcpdump",
-				"purl": "purl:rpm/suse/kernel-zfcpdump&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-zfcpdump&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -263,7 +263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -294,7 +294,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -325,7 +325,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -356,7 +356,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -387,7 +387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -414,7 +414,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -443,7 +443,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_22",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -472,7 +472,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -502,7 +502,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -530,7 +530,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -558,7 +558,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -614,7 +614,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -642,7 +642,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -670,7 +670,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dtb-aarch64",
-				"purl": "purl:rpm/suse/dtb-aarch64&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dtb-aarch64&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -771,7 +771,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-64kb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -872,7 +872,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-debug",
-				"purl": "purl:rpm/suse/kernel-debug&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-debug&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -973,7 +973,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-default&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1074,7 +1074,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-default-base&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1175,7 +1175,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-docs&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1276,7 +1276,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-kvmsmall",
-				"purl": "purl:rpm/suse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1377,7 +1377,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-obs-build&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1478,7 +1478,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-obs-qa",
-				"purl": "purl:rpm/suse/kernel-obs-qa&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-obs-qa&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1579,7 +1579,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-preempt&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1680,7 +1680,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-source&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1781,7 +1781,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-syms&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1882,7 +1882,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-zfcpdump",
-				"purl": "purl:rpm/suse/kernel-zfcpdump&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-zfcpdump&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1983,7 +1983,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "dtb-aarch64",
-				"purl": "purl:rpm/suse/dtb-aarch64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/dtb-aarch64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

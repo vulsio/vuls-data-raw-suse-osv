@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "python-libmount",
-				"purl": "purl:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "python-libmount",
-				"purl": "purl:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/python-libmount&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -165,7 +165,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/util-linux&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -203,7 +203,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/util-linux-systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{

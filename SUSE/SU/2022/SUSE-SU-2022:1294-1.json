@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "javapackages-tools",
-				"purl": "purl:rpm/suse/javapackages-tools&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/javapackages-tools&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "tomcat",
-				"purl": "purl:rpm/suse/tomcat&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/tomcat&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "javapackages-tools",
-				"purl": "purl:rpm/suse/javapackages-tools&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/javapackages-tools&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "tomcat",
-				"purl": "purl:rpm/suse/tomcat&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/tomcat&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-activerecord-4_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-4_1&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-activerecord-4_1&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

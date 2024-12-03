@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "nodejs4",
-				"purl": "purl:rpm/suse/nodejs4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/nodejs4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "nodejs4",
-				"purl": "purl:rpm/suse/nodejs4&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/nodejs4&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

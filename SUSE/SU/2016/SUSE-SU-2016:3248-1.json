@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-bigsmp",
-				"purl": "purl:rpm/suse/kernel-bigsmp&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-bigsmp&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -142,7 +142,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -185,7 +185,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -228,7 +228,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -314,7 +314,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-bigsmp",
-				"purl": "purl:rpm/suse/kernel-bigsmp&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-bigsmp&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -358,7 +358,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -402,7 +402,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -446,7 +446,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -490,7 +490,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -534,7 +534,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -578,7 +578,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -622,7 +622,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-bigsmp",
-				"purl": "purl:rpm/suse/kernel-bigsmp&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-bigsmp&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -665,7 +665,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -708,7 +708,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -751,7 +751,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -794,7 +794,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -837,7 +837,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -880,7 +880,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -923,7 +923,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -966,7 +966,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1009,7 +1009,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-pae",
-				"purl": "purl:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1052,7 +1052,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1095,7 +1095,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1138,7 +1138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1181,7 +1181,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1224,7 +1224,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-bigsmp",
-				"purl": "purl:rpm/suse/kernel-bigsmp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-bigsmp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1271,7 +1271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1318,7 +1318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1365,7 +1365,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-pae",
-				"purl": "purl:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1412,7 +1412,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1459,7 +1459,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1506,7 +1506,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1553,7 +1553,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{

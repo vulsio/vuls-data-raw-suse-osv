@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mozilla-nspr&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mozilla-nss&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

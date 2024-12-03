@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "file",
-				"purl": "purl:rpm/suse/file&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/file&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "python-magic",
-				"purl": "purl:rpm/suse/python-magic&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-magic&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP1",
 				"name": "python-magic",
-				"purl": "purl:rpm/suse/python-magic&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-magic&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
 			},
 			"ranges": [
 				{

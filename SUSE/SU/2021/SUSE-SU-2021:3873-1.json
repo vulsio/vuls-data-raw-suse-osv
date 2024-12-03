@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "netcdf_4_7_4-gnu-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -88,7 +88,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "netcdf_4_7_4-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "netcdf_4_7_4-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -210,7 +210,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "netcdf_4_7_4-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP3",
 				"name": "netcdf_4_7_4-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -332,7 +332,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "netcdf_4_7_4-gnu-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -393,7 +393,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "netcdf_4_7_4-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -454,7 +454,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "netcdf_4_7_4-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -515,7 +515,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "netcdf_4_7_4-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -576,7 +576,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "netcdf_4_7_4-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{

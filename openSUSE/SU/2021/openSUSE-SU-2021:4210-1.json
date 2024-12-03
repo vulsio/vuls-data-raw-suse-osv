@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gegl",
-				"purl": "purl:rpm/suse/gegl&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gegl&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -198,7 +198,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -236,7 +236,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -274,7 +274,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -312,7 +312,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -350,7 +350,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -388,7 +388,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -426,7 +426,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -464,7 +464,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -502,7 +502,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -544,7 +544,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -628,7 +628,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -670,7 +670,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -712,7 +712,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -754,7 +754,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -796,7 +796,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -838,7 +838,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -880,7 +880,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -922,7 +922,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -964,7 +964,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -1006,7 +1006,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1048,7 +1048,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1090,7 +1090,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1132,7 +1132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1174,7 +1174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1216,7 +1216,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1258,7 +1258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1300,7 +1300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

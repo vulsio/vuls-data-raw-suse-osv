@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "evince",
-				"purl": "purl:rpm/suse/evince&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/evince&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "evince",
-				"purl": "purl:rpm/suse/evince&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/evince&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "evince",
-				"purl": "purl:rpm/suse/evince&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/evince&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{

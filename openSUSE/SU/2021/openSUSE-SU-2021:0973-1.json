@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libqt5-qtwebengine",
-				"purl": "purl:rpm/suse/libqt5-qtwebengine&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libqt5-qtwebengine&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

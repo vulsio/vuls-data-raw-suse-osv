@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -143,7 +143,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{

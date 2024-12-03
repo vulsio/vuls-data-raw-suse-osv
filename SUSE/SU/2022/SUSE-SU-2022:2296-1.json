@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xen&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "ctdb",
-				"purl": "purl:rpm/suse/ctdb&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/ctdb&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 11 SP4",
 				"name": "ctdb",
-				"purl": "purl:rpm/suse/ctdb&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP4"
+				"purl": "pkg:rpm/suse/ctdb&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP4"
 			},
 			"ranges": [
 				{

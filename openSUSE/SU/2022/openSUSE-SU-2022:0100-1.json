@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "abcm2ps",
-				"purl": "purl:rpm/suse/abcm2ps&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/abcm2ps&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "abcm2ps",
-				"purl": "purl:rpm/suse/abcm2ps&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/abcm2ps&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

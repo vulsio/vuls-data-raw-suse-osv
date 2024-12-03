@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

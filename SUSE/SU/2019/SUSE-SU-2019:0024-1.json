@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/libgit2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/libgit2&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "libgit2",
-				"purl": "purl:rpm/suse/libgit2&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/libgit2&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

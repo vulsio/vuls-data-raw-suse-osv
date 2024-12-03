@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "shibboleth-sp",
-				"purl": "purl:rpm/suse/shibboleth-sp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/shibboleth-sp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

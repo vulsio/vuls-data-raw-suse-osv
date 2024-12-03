@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "bsh2",
-				"purl": "purl:rpm/suse/bsh2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/bsh2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "bsh2",
-				"purl": "purl:rpm/suse/bsh2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/bsh2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{

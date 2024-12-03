@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "bouncycastle",
-				"purl": "purl:rpm/suse/bouncycastle&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/bouncycastle&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

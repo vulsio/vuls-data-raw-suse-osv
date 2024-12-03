@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "pdns",
-				"purl": "purl:rpm/suse/pdns&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/pdns&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "pdns",
-				"purl": "purl:rpm/suse/pdns&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/pdns&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{

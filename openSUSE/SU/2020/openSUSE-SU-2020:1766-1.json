@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tensorflow2",
-				"purl": "purl:rpm/suse/tensorflow2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tensorflow2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tensorflow2-lite",
-				"purl": "purl:rpm/suse/tensorflow2-lite&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tensorflow2-lite&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tensorflow2_2_1_2-gnu-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_1_2-gnu-hpc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tensorflow2_2_1_2-gnu-hpc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tensorflow2_2_1_2-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_1_2-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tensorflow2_2_1_2-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

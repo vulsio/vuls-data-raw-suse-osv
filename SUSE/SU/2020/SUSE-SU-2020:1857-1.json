@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "permissions",
-				"purl": "purl:rpm/suse/permissions&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/permissions&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "permissions",
-				"purl": "purl:rpm/suse/permissions&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/permissions&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{

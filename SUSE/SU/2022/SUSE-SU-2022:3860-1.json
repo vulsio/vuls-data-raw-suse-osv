@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-actionview-4_2",
-				"purl": "purl:rpm/suse/rubygem-actionview-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-actionview-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-activesupport-4_2",
-				"purl": "purl:rpm/suse/rubygem-activesupport-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-activesupport-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "rubygem-actionview-4_2",
-				"purl": "purl:rpm/suse/rubygem-actionview-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/rubygem-actionview-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "rubygem-activesupport-4_2",
-				"purl": "purl:rpm/suse/rubygem-activesupport-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/rubygem-activesupport-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{

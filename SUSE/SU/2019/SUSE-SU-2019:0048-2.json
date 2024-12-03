@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "helm-mirror",
-				"purl": "purl:rpm/suse/helm-mirror&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/helm-mirror&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{

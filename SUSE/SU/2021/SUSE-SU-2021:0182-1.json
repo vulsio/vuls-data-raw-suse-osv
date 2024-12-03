@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP2",
 				"name": "yast2-multipath",
-				"purl": "purl:rpm/suse/yast2-multipath&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
+				"purl": "pkg:rpm/suse/yast2-multipath&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
 			},
 			"ranges": [
 				{

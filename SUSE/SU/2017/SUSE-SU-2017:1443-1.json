@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-ceilometer",
-				"purl": "purl:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-ceilometer-doc",
-				"purl": "purl:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -193,7 +193,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-cinder",
-				"purl": "purl:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -283,7 +283,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-cinder-doc",
-				"purl": "purl:rpm/suse/openstack-cinder-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-cinder-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -373,7 +373,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -463,7 +463,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-glance",
-				"purl": "purl:rpm/suse/openstack-glance&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-glance&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -553,7 +553,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-glance-doc",
-				"purl": "purl:rpm/suse/openstack-glance-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-glance-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -643,7 +643,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-heat",
-				"purl": "purl:rpm/suse/openstack-heat&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-heat&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -733,7 +733,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-heat-doc",
-				"purl": "purl:rpm/suse/openstack-heat-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-heat-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -823,7 +823,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -913,7 +913,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1003,7 +1003,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-magnum",
-				"purl": "purl:rpm/suse/openstack-magnum&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-magnum&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1093,7 +1093,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-magnum-doc",
-				"purl": "purl:rpm/suse/openstack-magnum-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-magnum-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1183,7 +1183,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-manila",
-				"purl": "purl:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1273,7 +1273,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-manila-doc",
-				"purl": "purl:rpm/suse/openstack-manila-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-manila-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1363,7 +1363,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -1453,7 +1453,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova-doc",
-				"purl": "purl:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

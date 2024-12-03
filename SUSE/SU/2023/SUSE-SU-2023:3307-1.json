@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{

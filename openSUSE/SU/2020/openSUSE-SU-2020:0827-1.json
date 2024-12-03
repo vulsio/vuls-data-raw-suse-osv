@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "adns",
-				"purl": "purl:rpm/suse/adns&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/adns&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

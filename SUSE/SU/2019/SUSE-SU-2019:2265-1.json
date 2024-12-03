@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/libsolv&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/libzypp&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/zypper&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -142,7 +142,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -206,7 +206,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -238,7 +238,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -270,7 +270,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -302,7 +302,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -334,7 +334,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -366,7 +366,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -398,7 +398,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -429,7 +429,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -460,7 +460,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -491,7 +491,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -523,7 +523,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -555,7 +555,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -587,7 +587,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -619,7 +619,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -651,7 +651,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -683,7 +683,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -715,7 +715,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -747,7 +747,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -779,7 +779,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -811,7 +811,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -843,7 +843,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -875,7 +875,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -907,7 +907,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -939,7 +939,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -971,7 +971,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -1003,7 +1003,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -1035,7 +1035,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -1067,7 +1067,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1099,7 +1099,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1131,7 +1131,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1163,7 +1163,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1195,7 +1195,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1227,7 +1227,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -1259,7 +1259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1291,7 +1291,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1323,7 +1323,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -1355,7 +1355,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{
@@ -1387,7 +1387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{
@@ -1419,7 +1419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

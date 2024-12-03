@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-bad&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "gstreamer-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-plugins-bad&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-bad&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

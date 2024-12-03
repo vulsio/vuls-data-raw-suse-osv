@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "lame",
-				"purl": "purl:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{

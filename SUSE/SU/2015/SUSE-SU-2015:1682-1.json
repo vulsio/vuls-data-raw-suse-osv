@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "java-1_7_0-openjdk-plugin",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk-plugin&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk-plugin&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "java-1_7_0-openjdk-plugin",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk-plugin&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk-plugin&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{

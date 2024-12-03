@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-ceilometer",
-				"purl": "purl:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-ceilometer&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -79,7 +79,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-ceilometer-doc",
-				"purl": "purl:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-ceilometer-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-cinder",
-				"purl": "purl:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -213,7 +213,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-cinder-doc",
-				"purl": "purl:rpm/suse/openstack-cinder-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-cinder-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-glance",
-				"purl": "purl:rpm/suse/openstack-glance&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-glance&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -347,7 +347,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-glance-doc",
-				"purl": "purl:rpm/suse/openstack-glance-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-glance-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -414,7 +414,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-heat",
-				"purl": "purl:rpm/suse/openstack-heat&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-heat&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -481,7 +481,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-heat-doc",
-				"purl": "purl:rpm/suse/openstack-heat-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-heat-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -548,7 +548,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-keystone",
-				"purl": "purl:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-keystone&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -615,7 +615,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-keystone-doc",
-				"purl": "purl:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-keystone-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -682,7 +682,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-sahara",
-				"purl": "purl:rpm/suse/openstack-sahara&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-sahara&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -749,7 +749,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-sahara-doc",
-				"purl": "purl:rpm/suse/openstack-sahara-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-sahara-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -816,7 +816,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-suse",
-				"purl": "purl:rpm/suse/openstack-suse&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-suse&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -883,7 +883,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-oslo.i18n",
-				"purl": "purl:rpm/suse/python-oslo.i18n&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-oslo.i18n&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -950,7 +950,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-oslo.utils",
-				"purl": "purl:rpm/suse/python-oslo.utils&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-oslo.utils&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -1017,7 +1017,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-oslotest",
-				"purl": "purl:rpm/suse/python-oslotest&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-oslotest&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -1084,7 +1084,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-six",
-				"purl": "purl:rpm/suse/python-six&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-six&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

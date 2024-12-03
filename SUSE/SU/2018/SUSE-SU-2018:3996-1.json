@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15",
 				"name": "rubygem-activejob-5_1",
-				"purl": "purl:rpm/suse/rubygem-activejob-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
+				"purl": "pkg:rpm/suse/rubygem-activejob-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
 			},
 			"ranges": [
 				{

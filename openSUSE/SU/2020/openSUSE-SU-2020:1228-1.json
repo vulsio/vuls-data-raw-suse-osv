@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/postgresql&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "postgresql10",
-				"purl": "purl:rpm/suse/postgresql10&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/postgresql10&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -175,7 +175,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "postgresql11",
-				"purl": "purl:rpm/suse/postgresql11&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/postgresql11&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -256,7 +256,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/postgresql12&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -337,7 +337,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "postgresql96",
-				"purl": "purl:rpm/suse/postgresql96&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/postgresql96&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

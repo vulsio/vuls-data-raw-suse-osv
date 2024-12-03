@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "graphviz",
-				"purl": "purl:rpm/suse/graphviz&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/graphviz&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP1",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/graphviz-addons&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{

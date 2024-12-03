@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "exiv2",
-				"purl": "purl:rpm/suse/exiv2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/exiv2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "exiv2",
-				"purl": "purl:rpm/suse/exiv2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/exiv2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "discount",
-				"purl": "purl:rpm/suse/discount&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/discount&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "discount",
-				"purl": "purl:rpm/suse/discount&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/discount&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

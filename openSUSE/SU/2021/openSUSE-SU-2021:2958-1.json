@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "xerces-c",
-				"purl": "purl:rpm/suse/xerces-c&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/xerces-c&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP1",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP1",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{

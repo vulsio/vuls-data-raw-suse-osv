@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "nasm",
-				"purl": "purl:rpm/suse/nasm&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/nasm&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "fmt",
-				"purl": "purl:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -131,7 +131,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "fmt",
-				"purl": "purl:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -160,7 +160,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "fmt",
-				"purl": "purl:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/fmt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -218,7 +218,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/ceph&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -247,7 +247,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "fmt",
-				"purl": "purl:rpm/suse/fmt&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/fmt&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -276,7 +276,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ceph&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ceph-test",
-				"purl": "purl:rpm/suse/ceph-test&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ceph-test&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -410,7 +410,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "fmt",
-				"purl": "purl:rpm/suse/fmt&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/fmt&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

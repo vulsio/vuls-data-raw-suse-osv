@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "python-oslo.middleware",
-				"purl": "purl:rpm/suse/python-oslo.middleware&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/python-oslo.middleware&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

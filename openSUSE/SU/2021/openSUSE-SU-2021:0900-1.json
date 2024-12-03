@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "xterm",
-				"purl": "purl:rpm/suse/xterm&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/xterm&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

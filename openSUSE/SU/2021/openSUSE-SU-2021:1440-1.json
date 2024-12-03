@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python3-libmount",
-				"purl": "purl:rpm/suse/python3-libmount&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python3-libmount&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/util-linux&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "util-linux-systemd",
-				"purl": "purl:rpm/suse/util-linux-systemd&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/util-linux-systemd&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

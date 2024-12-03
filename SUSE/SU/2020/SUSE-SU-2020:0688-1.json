@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP1",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP1",
 				"name": "kernel-rt_debug",
-				"purl": "purl:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -88,7 +88,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP1",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP1",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP1"
 			},
 			"ranges": [
 				{

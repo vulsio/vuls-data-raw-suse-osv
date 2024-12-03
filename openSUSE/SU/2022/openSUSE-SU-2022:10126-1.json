@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "mupdf",
-				"purl": "purl:rpm/suse/mupdf&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/mupdf&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "mupdf",
-				"purl": "purl:rpm/suse/mupdf&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/mupdf&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

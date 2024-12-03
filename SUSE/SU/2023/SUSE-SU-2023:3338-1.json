@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP4",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP4"
+				"purl": "pkg:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/openssl-1_0_0&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -112,7 +112,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/openssl-1_0_0&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

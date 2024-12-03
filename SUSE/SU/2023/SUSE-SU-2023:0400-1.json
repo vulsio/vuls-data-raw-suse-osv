@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "freerdp",
-				"purl": "purl:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "freerdp",
-				"purl": "purl:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

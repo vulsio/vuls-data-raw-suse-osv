@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "firefox-glib2",
-				"purl": "purl:rpm/suse/firefox-glib2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/firefox-glib2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "firefox-gtk3",
-				"purl": "purl:rpm/suse/firefox-gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/firefox-gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{

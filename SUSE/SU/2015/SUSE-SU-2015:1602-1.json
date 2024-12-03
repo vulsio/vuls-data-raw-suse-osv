@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-glanceclient",
-				"purl": "purl:rpm/suse/python-glanceclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-glanceclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-keystoneclient",
-				"purl": "purl:rpm/suse/python-keystoneclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-keystoneclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-keystonemiddleware",
-				"purl": "purl:rpm/suse/python-keystonemiddleware&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-keystonemiddleware&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-novaclient",
-				"purl": "purl:rpm/suse/python-novaclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-novaclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-swiftclient",
-				"purl": "purl:rpm/suse/python-swiftclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-swiftclient&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/lighttpd&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/lighttpd&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -100,7 +100,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/lighttpd&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/lighttpd&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

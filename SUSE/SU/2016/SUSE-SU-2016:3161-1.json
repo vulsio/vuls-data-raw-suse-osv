@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -152,7 +152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -209,7 +209,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -240,7 +240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -300,7 +300,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -329,7 +329,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -358,7 +358,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -387,7 +387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -416,7 +416,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -444,7 +444,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP2",
 				"name": "pcre",
-				"purl": "purl:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP2"
+				"purl": "pkg:rpm/suse/pcre&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP2"
 			},
 			"ranges": [
 				{

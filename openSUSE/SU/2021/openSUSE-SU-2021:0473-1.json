@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "hawk2",
-				"purl": "purl:rpm/suse/hawk2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/hawk2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

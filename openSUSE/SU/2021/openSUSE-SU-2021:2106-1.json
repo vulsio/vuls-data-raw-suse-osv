@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-distro",
-				"purl": "purl:rpm/suse/python-distro&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-distro&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

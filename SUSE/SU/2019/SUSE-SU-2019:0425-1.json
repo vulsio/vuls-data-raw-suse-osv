@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "systemd",
-				"purl": "purl:rpm/suse/systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/systemd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{

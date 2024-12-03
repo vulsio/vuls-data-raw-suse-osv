@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mp3gain",
-				"purl": "purl:rpm/suse/mp3gain&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mp3gain&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

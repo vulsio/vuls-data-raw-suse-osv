@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP3",
 				"name": "kubevirt",
-				"purl": "purl:rpm/suse/kubevirt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
+				"purl": "pkg:rpm/suse/kubevirt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
 			},
 			"ranges": [
 				{

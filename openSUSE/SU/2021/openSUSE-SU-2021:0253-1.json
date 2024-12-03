@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/cups&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

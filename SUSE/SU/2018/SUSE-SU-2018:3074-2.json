@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "postgresql-init",
-				"purl": "purl:rpm/suse/postgresql-init&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/postgresql-init&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "postgresql10",
-				"purl": "purl:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/postgresql10&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "postgresql10-libs",
-				"purl": "purl:rpm/suse/postgresql10-libs&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/postgresql10-libs&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{

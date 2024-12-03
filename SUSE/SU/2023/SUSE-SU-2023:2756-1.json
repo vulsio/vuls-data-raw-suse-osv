@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for SAP Applications 15 SP1",
 				"name": "prometheus-sap_host_exporter",
-				"purl": "purl:rpm/suse/prometheus-sap_host_exporter&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/prometheus-sap_host_exporter&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

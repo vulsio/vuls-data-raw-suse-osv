@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "blueman",
-				"purl": "purl:rpm/suse/blueman&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/blueman&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

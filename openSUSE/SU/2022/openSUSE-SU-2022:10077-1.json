@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "seamonkey",
-				"purl": "purl:rpm/suse/seamonkey&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/seamonkey&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

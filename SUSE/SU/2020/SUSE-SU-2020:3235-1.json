@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -210,7 +210,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "susemanager-build-keys",
-				"purl": "purl:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "bind-formula",
-				"purl": "purl:rpm/suse/bind-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/bind-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -327,7 +327,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "grafana-formula",
-				"purl": "purl:rpm/suse/grafana-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/grafana-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -405,7 +405,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "image-sync-formula",
-				"purl": "purl:rpm/suse/image-sync-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/image-sync-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -483,7 +483,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "prometheus-exporters-formula",
-				"purl": "purl:rpm/suse/prometheus-exporters-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/prometheus-exporters-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -561,7 +561,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "prometheus-formula",
-				"purl": "purl:rpm/suse/prometheus-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/prometheus-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -639,7 +639,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "pxe-formula",
-				"purl": "purl:rpm/suse/pxe-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/pxe-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -717,7 +717,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "py26-compat-salt",
-				"purl": "purl:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/py26-compat-salt&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -795,7 +795,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "python-susemanager-retail",
-				"purl": "purl:rpm/suse/python-susemanager-retail&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/python-susemanager-retail&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -873,7 +873,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "salt-netapi-client",
-				"purl": "purl:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -951,7 +951,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "saltboot-formula",
-				"purl": "purl:rpm/suse/saltboot-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/saltboot-formula&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1029,7 +1029,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1107,7 +1107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-admin",
-				"purl": "purl:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1185,7 +1185,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1263,7 +1263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1341,7 +1341,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1419,7 +1419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1497,7 +1497,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-search",
-				"purl": "purl:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1575,7 +1575,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1653,7 +1653,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1731,7 +1731,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager-build-keys",
-				"purl": "purl:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-build-keys&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1809,7 +1809,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager-doc-indexes",
-				"purl": "purl:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1887,7 +1887,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -1965,7 +1965,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -2043,7 +2043,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{

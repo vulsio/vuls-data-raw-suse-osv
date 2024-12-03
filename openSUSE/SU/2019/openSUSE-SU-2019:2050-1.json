@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "httpie",
-				"purl": "purl:rpm/suse/httpie&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/httpie&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "httpie",
-				"purl": "purl:rpm/suse/httpie&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/httpie&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

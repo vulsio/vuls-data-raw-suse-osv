@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "phpMyAdmin",
-				"purl": "purl:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "hdf5",
-				"purl": "purl:rpm/suse/hdf5&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/hdf5&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

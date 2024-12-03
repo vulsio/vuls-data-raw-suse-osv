@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libaom&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "vlc",
-				"purl": "purl:rpm/suse/vlc&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/vlc&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

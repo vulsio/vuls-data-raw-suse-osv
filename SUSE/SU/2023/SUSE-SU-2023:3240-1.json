@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "bluez",
-				"purl": "purl:rpm/suse/bluez&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/bluez&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "bluez",
-				"purl": "purl:rpm/suse/bluez&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/bluez&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "spamassassin",
-				"purl": "purl:rpm/suse/spamassassin&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/spamassassin&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP1",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
 			},
 			"ranges": [
 				{

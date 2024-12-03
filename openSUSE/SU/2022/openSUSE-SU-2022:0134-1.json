@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "dxflib",
-				"purl": "purl:rpm/suse/dxflib&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/dxflib&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dxflib",
-				"purl": "purl:rpm/suse/dxflib&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dxflib&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-numpy",
-				"purl": "purl:rpm/suse/python-numpy&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-numpy&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-numpy_1_17_3-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_17_3-gnu-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-numpy_1_17_3-gnu-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -133,7 +133,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dxflib",
-				"purl": "purl:rpm/suse/dxflib&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dxflib&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -161,7 +161,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-numpy",
-				"purl": "purl:rpm/suse/python-numpy&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-numpy&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -193,7 +193,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-numpy_1_17_3-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_17_3-gnu-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-numpy_1_17_3-gnu-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

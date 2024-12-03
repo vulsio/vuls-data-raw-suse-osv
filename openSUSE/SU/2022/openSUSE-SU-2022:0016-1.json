@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "watchman",
-				"purl": "purl:rpm/suse/watchman&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/watchman&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "watchman",
-				"purl": "purl:rpm/suse/watchman&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/watchman&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

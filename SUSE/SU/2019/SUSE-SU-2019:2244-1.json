@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "apache-commons-beanutils",
-				"purl": "purl:rpm/suse/apache-commons-beanutils&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/apache-commons-beanutils&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "apache-commons-beanutils",
-				"purl": "purl:rpm/suse/apache-commons-beanutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/apache-commons-beanutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{

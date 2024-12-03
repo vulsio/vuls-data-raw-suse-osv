@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "gnome-autoar",
-				"purl": "purl:rpm/suse/gnome-autoar&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/gnome-autoar&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

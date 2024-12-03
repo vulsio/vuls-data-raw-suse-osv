@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP1-LTSS",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-LTSS"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-defusedxml",
-				"purl": "purl:rpm/suse/python-defusedxml&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-defusedxml&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-freezegun",
-				"purl": "purl:rpm/suse/python-freezegun&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-freezegun&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-isodate",
-				"purl": "purl:rpm/suse/python-isodate&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-isodate&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-pkgconfig",
-				"purl": "purl:rpm/suse/python-pkgconfig&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-pkgconfig&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-python3-saml",
-				"purl": "purl:rpm/suse/python-python3-saml&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-python3-saml&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "python-xmlsec",
-				"purl": "purl:rpm/suse/python-xmlsec&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/python-xmlsec&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

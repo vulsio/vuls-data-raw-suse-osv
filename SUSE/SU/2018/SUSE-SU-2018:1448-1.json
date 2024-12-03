@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "openstack-nova-doc",
-				"purl": "purl:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/openstack-nova-doc&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{

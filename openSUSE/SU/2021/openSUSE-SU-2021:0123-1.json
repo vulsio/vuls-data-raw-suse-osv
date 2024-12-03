@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "viewvc",
-				"purl": "purl:rpm/suse/viewvc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/viewvc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

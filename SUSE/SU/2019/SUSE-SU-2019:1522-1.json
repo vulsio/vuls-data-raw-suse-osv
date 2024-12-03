@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "sqlite3",
-				"purl": "purl:rpm/suse/sqlite3&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/sqlite3&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{

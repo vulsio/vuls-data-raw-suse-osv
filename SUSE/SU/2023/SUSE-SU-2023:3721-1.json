@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

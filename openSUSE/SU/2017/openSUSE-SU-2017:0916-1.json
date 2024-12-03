@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "geotiff",
-				"purl": "purl:rpm/suse/geotiff&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/geotiff&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

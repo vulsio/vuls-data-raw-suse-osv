@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kde-cli-tools5",
-				"purl": "purl:rpm/suse/kde-cli-tools5&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kde-cli-tools5&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "munge",
-				"purl": "purl:rpm/suse/munge&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/munge&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

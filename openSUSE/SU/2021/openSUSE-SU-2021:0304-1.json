@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "screen",
-				"purl": "purl:rpm/suse/screen&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/screen&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

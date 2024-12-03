@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "osad",
-				"purl": "purl:rpm/suse/osad&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/osad&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -196,7 +196,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -256,7 +256,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -316,7 +316,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -376,7 +376,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -436,7 +436,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "spacewalk-utils",
-				"purl": "purl:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -496,7 +496,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "suseRegisterInfo",
-				"purl": "purl:rpm/suse/suseRegisterInfo&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/suseRegisterInfo&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -556,7 +556,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -616,7 +616,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -676,7 +676,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "susemanager-tftpsync",
-				"purl": "purl:rpm/suse/susemanager-tftpsync&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/susemanager-tftpsync&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{

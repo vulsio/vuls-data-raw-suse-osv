@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "go1.19",
-				"purl": "purl:rpm/suse/go1.19&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/go1.19&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "go1.19",
-				"purl": "purl:rpm/suse/go1.19&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/go1.19&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "go1.19",
-				"purl": "purl:rpm/suse/go1.19&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/go1.19&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "go1.19",
-				"purl": "purl:rpm/suse/go1.19&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/go1.19&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

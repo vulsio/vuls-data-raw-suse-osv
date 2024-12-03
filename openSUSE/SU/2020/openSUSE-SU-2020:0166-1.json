@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "e2fsprogs",
-				"purl": "purl:rpm/suse/e2fsprogs&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/e2fsprogs&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

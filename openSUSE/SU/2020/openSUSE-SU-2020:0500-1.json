@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "nagios",
-				"purl": "purl:rpm/suse/nagios&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/nagios&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

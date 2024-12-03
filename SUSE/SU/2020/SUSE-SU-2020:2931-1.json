@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4-LTSS",
 				"name": "bcm43xx-firmware",
-				"purl": "purl:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4-LTSS"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "bcm43xx-firmware",
-				"purl": "purl:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "bcm43xx-firmware",
-				"purl": "purl:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/bcm43xx-firmware&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{

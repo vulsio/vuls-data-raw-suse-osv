@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "u-boot",
-				"purl": "purl:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "u-boot-rpiarm64",
-				"purl": "purl:rpm/suse/u-boot-rpiarm64&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/u-boot-rpiarm64&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot",
-				"purl": "purl:rpm/suse/u-boot&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -181,7 +181,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-avnetultra96rev1",
-				"purl": "purl:rpm/suse/u-boot-avnetultra96rev1&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-avnetultra96rev1&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -290,7 +290,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-bananapim64",
-				"purl": "purl:rpm/suse/u-boot-bananapim64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-bananapim64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -399,7 +399,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-dragonboard410c",
-				"purl": "purl:rpm/suse/u-boot-dragonboard410c&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-dragonboard410c&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -508,7 +508,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-dragonboard820c",
-				"purl": "purl:rpm/suse/u-boot-dragonboard820c&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-dragonboard820c&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -617,7 +617,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-evb-rk3399",
-				"purl": "purl:rpm/suse/u-boot-evb-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-evb-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -726,7 +726,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-firefly-rk3399",
-				"purl": "purl:rpm/suse/u-boot-firefly-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-firefly-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -835,7 +835,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-geekbox",
-				"purl": "purl:rpm/suse/u-boot-geekbox&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-geekbox&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -944,7 +944,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-hikey",
-				"purl": "purl:rpm/suse/u-boot-hikey&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-hikey&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1053,7 +1053,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-khadas-vim",
-				"purl": "purl:rpm/suse/u-boot-khadas-vim&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-khadas-vim&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1162,7 +1162,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-khadas-vim2",
-				"purl": "purl:rpm/suse/u-boot-khadas-vim2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-khadas-vim2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1271,7 +1271,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-libretech-ac",
-				"purl": "purl:rpm/suse/u-boot-libretech-ac&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-libretech-ac&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1380,7 +1380,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-libretech-cc",
-				"purl": "purl:rpm/suse/u-boot-libretech-cc&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-libretech-cc&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1489,7 +1489,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-ls1012afrdmqspi",
-				"purl": "purl:rpm/suse/u-boot-ls1012afrdmqspi&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-ls1012afrdmqspi&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1598,7 +1598,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-mvebudb-88f3720",
-				"purl": "purl:rpm/suse/u-boot-mvebudb-88f3720&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-mvebudb-88f3720&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1707,7 +1707,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-mvebudbarmada8k",
-				"purl": "purl:rpm/suse/u-boot-mvebudbarmada8k&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-mvebudbarmada8k&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1816,7 +1816,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-mvebuespressobin-88f3720",
-				"purl": "purl:rpm/suse/u-boot-mvebuespressobin-88f3720&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-mvebuespressobin-88f3720&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1925,7 +1925,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-mvebumcbin-88f8040",
-				"purl": "purl:rpm/suse/u-boot-mvebumcbin-88f8040&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-mvebumcbin-88f8040&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2034,7 +2034,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-nanopia64",
-				"purl": "purl:rpm/suse/u-boot-nanopia64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-nanopia64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2143,7 +2143,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-odroid-c2",
-				"purl": "purl:rpm/suse/u-boot-odroid-c2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-odroid-c2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2252,7 +2252,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-odroid-c4",
-				"purl": "purl:rpm/suse/u-boot-odroid-c4&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-odroid-c4&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2361,7 +2361,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-odroid-n2",
-				"purl": "purl:rpm/suse/u-boot-odroid-n2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-odroid-n2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2470,7 +2470,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-orangepipc2",
-				"purl": "purl:rpm/suse/u-boot-orangepipc2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-orangepipc2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2579,7 +2579,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-p2371-2180",
-				"purl": "purl:rpm/suse/u-boot-p2371-2180&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-p2371-2180&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2688,7 +2688,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-p2771-0000-500",
-				"purl": "purl:rpm/suse/u-boot-p2771-0000-500&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-p2771-0000-500&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2797,7 +2797,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-p3450-0000",
-				"purl": "purl:rpm/suse/u-boot-p3450-0000&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-p3450-0000&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2906,7 +2906,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-pine64plus",
-				"purl": "purl:rpm/suse/u-boot-pine64plus&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-pine64plus&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3015,7 +3015,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-pinebook",
-				"purl": "purl:rpm/suse/u-boot-pinebook&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-pinebook&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3124,7 +3124,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-pinebook-pro-rk3399",
-				"purl": "purl:rpm/suse/u-boot-pinebook-pro-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-pinebook-pro-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3233,7 +3233,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-pineh64",
-				"purl": "purl:rpm/suse/u-boot-pineh64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-pineh64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3342,7 +3342,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-pinephone",
-				"purl": "purl:rpm/suse/u-boot-pinephone&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-pinephone&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3451,7 +3451,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-poplar",
-				"purl": "purl:rpm/suse/u-boot-poplar&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-poplar&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3560,7 +3560,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rock-pi-4-rk3399",
-				"purl": "purl:rpm/suse/u-boot-rock-pi-4-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rock-pi-4-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3669,7 +3669,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rock-pi-n10-rk3399pro",
-				"purl": "purl:rpm/suse/u-boot-rock-pi-n10-rk3399pro&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rock-pi-n10-rk3399pro&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3778,7 +3778,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rock64-rk3328",
-				"purl": "purl:rpm/suse/u-boot-rock64-rk3328&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rock64-rk3328&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3887,7 +3887,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rock960-rk3399",
-				"purl": "purl:rpm/suse/u-boot-rock960-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rock960-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3996,7 +3996,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rockpro64-rk3399",
-				"purl": "purl:rpm/suse/u-boot-rockpro64-rk3399&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rockpro64-rk3399&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -4105,7 +4105,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rpi3",
-				"purl": "purl:rpm/suse/u-boot-rpi3&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rpi3&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -4214,7 +4214,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rpi4",
-				"purl": "purl:rpm/suse/u-boot-rpi4&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rpi4&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -4323,7 +4323,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-rpiarm64",
-				"purl": "purl:rpm/suse/u-boot-rpiarm64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-rpiarm64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -4432,7 +4432,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-xilinxzynqmpvirt",
-				"purl": "purl:rpm/suse/u-boot-xilinxzynqmpvirt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-xilinxzynqmpvirt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -4541,7 +4541,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "u-boot-xilinxzynqmpzcu102rev10",
-				"purl": "purl:rpm/suse/u-boot-xilinxzynqmpzcu102rev10&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/u-boot-xilinxzynqmpzcu102rev10&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

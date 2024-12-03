@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "google-compute-engine",
-				"purl": "purl:rpm/suse/google-compute-engine&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/google-compute-engine&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

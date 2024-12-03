@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "u-boot",
-				"purl": "purl:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/u-boot&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "u-boot-rpiarm64",
-				"purl": "purl:rpm/suse/u-boot-rpiarm64&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/u-boot-rpiarm64&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{

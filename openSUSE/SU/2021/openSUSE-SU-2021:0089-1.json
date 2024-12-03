@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "open-iscsi",
-				"purl": "purl:rpm/suse/open-iscsi&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/open-iscsi&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

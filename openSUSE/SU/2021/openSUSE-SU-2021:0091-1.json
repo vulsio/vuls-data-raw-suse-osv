@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "vlc",
-				"purl": "purl:rpm/suse/vlc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/vlc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

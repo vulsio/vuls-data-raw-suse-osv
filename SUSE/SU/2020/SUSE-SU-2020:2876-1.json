@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-ansible",
-				"purl": "purl:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-ansible&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-cinder",
-				"purl": "purl:rpm/suse/ardana-cinder&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-cinder&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -194,7 +194,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-cobbler",
-				"purl": "purl:rpm/suse/ardana-cobbler&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-cobbler&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -281,7 +281,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-installer-ui",
-				"purl": "purl:rpm/suse/ardana-installer-ui&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-installer-ui&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -368,7 +368,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-opsconsole-ui",
-				"purl": "purl:rpm/suse/ardana-opsconsole-ui&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-opsconsole-ui&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -455,7 +455,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "ardana-osconfig",
-				"purl": "purl:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/ardana-osconfig&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -542,7 +542,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -629,7 +629,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "grafana-natel-discrete-panel",
-				"purl": "purl:rpm/suse/grafana-natel-discrete-panel&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/grafana-natel-discrete-panel&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -716,7 +716,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-cinder",
-				"purl": "purl:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -803,7 +803,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -890,7 +890,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-ironic",
-				"purl": "purl:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -977,7 +977,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-ironic-python-agent",
-				"purl": "purl:rpm/suse/openstack-ironic-python-agent&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-ironic-python-agent&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1064,7 +1064,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-manila",
-				"purl": "purl:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1151,7 +1151,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1238,7 +1238,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1325,7 +1325,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "python-Flask-Cors",
-				"purl": "purl:rpm/suse/python-Flask-Cors&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/python-Flask-Cors&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1412,7 +1412,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "storm",
-				"purl": "purl:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1499,7 +1499,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-cinder",
-				"purl": "purl:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1586,7 +1586,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-horizon",
-				"purl": "purl:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1673,7 +1673,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-ironic",
-				"purl": "purl:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1760,7 +1760,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-manila",
-				"purl": "purl:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1847,7 +1847,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-neutron",
-				"purl": "purl:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1934,7 +1934,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-nova",
-				"purl": "purl:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -2021,7 +2021,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "crowbar-core",
-				"purl": "purl:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/crowbar-core&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2098,7 +2098,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2175,7 +2175,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "grafana-natel-discrete-panel",
-				"purl": "purl:rpm/suse/grafana-natel-discrete-panel&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/grafana-natel-discrete-panel&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2252,7 +2252,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-cinder",
-				"purl": "purl:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-cinder&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2329,7 +2329,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-dashboard",
-				"purl": "purl:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-dashboard&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2406,7 +2406,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-ironic",
-				"purl": "purl:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-ironic&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2483,7 +2483,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-ironic-python-agent",
-				"purl": "purl:rpm/suse/openstack-ironic-python-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-ironic-python-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2560,7 +2560,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-manila",
-				"purl": "purl:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-manila&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2637,7 +2637,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2714,7 +2714,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2791,7 +2791,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "rubygem-crowbar-client",
-				"purl": "purl:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/rubygem-crowbar-client&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -2868,7 +2868,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "storm",
-				"purl": "purl:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/storm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{

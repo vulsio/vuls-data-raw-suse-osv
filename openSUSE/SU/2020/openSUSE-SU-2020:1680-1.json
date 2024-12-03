@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libproxy",
-				"purl": "purl:rpm/suse/libproxy&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libproxy&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libproxy-plugins",
-				"purl": "purl:rpm/suse/libproxy-plugins&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libproxy-plugins&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

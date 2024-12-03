@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

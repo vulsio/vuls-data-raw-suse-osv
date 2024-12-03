@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "ibutils",
-				"purl": "purl:rpm/suse/ibutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/ibutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "ibutils-ui",
-				"purl": "purl:rpm/suse/ibutils-ui&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/ibutils-ui&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "ibutils",
-				"purl": "purl:rpm/suse/ibutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/ibutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "ibutils-ui",
-				"purl": "purl:rpm/suse/ibutils-ui&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/ibutils-ui&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{

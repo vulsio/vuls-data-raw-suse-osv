@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "sphinx",
-				"purl": "purl:rpm/suse/sphinx&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/sphinx&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

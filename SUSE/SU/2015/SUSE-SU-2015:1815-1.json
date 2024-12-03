@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

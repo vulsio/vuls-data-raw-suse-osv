@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "giflib",
-				"purl": "purl:rpm/suse/giflib&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/giflib&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/ntp&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

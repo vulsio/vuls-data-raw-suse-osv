@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP5",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/apache2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/apache2&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

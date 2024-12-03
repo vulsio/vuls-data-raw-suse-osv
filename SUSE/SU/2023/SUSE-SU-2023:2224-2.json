@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "curl",
-				"purl": "purl:rpm/suse/curl&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/curl&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

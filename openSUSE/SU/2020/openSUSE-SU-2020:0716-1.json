@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cross-nvptx-gcc9",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc9&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cross-nvptx-gcc9&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gcc9",
-				"purl": "purl:rpm/suse/gcc9&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gcc9&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 12",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -112,7 +112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "kgraft-patch-SLE12_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12_Update_19&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12_Update_19&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -264,7 +264,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -303,7 +303,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -342,7 +342,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -381,7 +381,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -420,7 +420,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "kgraft-patch-SLE12_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12_Update_19&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12_Update_19&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{

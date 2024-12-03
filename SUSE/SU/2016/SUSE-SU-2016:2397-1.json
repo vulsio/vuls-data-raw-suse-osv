@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "at",
-				"purl": "purl:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "bogofilter",
-				"purl": "purl:rpm/suse/bogofilter&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/bogofilter&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -145,7 +145,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libQtWebKit4",
-				"purl": "purl:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "libbonobo",
-				"purl": "purl:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "netpbm",
-				"purl": "purl:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -277,7 +277,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "flex",
-				"purl": "purl:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -354,7 +354,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libQtWebKit4",
-				"purl": "purl:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -387,7 +387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "libbonobo",
-				"purl": "purl:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -420,7 +420,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "mdbtools",
-				"purl": "purl:rpm/suse/mdbtools&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/mdbtools&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -453,7 +453,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "netpbm",
-				"purl": "purl:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -486,7 +486,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -519,7 +519,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP1",
 				"name": "sgmltool",
-				"purl": "purl:rpm/suse/sgmltool&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
+				"purl": "pkg:rpm/suse/sgmltool&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -552,7 +552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "at",
-				"purl": "purl:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -601,7 +601,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "cyrus-imapd",
-				"purl": "purl:rpm/suse/cyrus-imapd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/cyrus-imapd&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -650,7 +650,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "flex",
-				"purl": "purl:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -699,7 +699,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -748,7 +748,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "libQtWebKit4",
-				"purl": "purl:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -797,7 +797,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "libbonobo",
-				"purl": "purl:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -846,7 +846,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "netpbm",
-				"purl": "purl:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -895,7 +895,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -944,7 +944,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "at",
-				"purl": "purl:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/at&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -993,7 +993,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "cyrus-imapd",
-				"purl": "purl:rpm/suse/cyrus-imapd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/cyrus-imapd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1042,7 +1042,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "flex",
-				"purl": "purl:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/flex&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1091,7 +1091,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1140,7 +1140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "libQtWebKit4",
-				"purl": "purl:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/libQtWebKit4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1189,7 +1189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "libbonobo",
-				"purl": "purl:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/libbonobo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1238,7 +1238,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "netpbm",
-				"purl": "purl:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/netpbm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1287,7 +1287,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -1336,7 +1336,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "bogofilter",
-				"purl": "purl:rpm/suse/bogofilter&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/bogofilter&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{

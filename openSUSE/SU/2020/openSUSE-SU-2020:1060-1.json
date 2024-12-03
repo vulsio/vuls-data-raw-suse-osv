@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "cacti",
-				"purl": "purl:rpm/suse/cacti&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/cacti&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "cacti-spine",
-				"purl": "purl:rpm/suse/cacti-spine&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/cacti-spine&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cacti",
-				"purl": "purl:rpm/suse/cacti&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cacti&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cacti-spine",
-				"purl": "purl:rpm/suse/cacti-spine&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cacti-spine&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "cacti",
-				"purl": "purl:rpm/suse/cacti&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/cacti&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "cacti-spine",
-				"purl": "purl:rpm/suse/cacti-spine&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/cacti-spine&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

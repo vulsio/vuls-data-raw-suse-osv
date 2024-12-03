@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "sox",
-				"purl": "purl:rpm/suse/sox&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/sox&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{

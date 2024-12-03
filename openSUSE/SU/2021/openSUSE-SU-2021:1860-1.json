@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libwebp",
-				"purl": "purl:rpm/suse/libwebp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libwebp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

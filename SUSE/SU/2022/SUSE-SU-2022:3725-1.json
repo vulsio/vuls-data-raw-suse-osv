@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "icinga2",
-				"purl": "purl:rpm/suse/icinga2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/icinga2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{

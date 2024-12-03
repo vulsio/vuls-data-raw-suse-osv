@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP1",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP2",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -194,7 +194,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -290,7 +290,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -322,7 +322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -354,7 +354,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -386,7 +386,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/libunwind&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -418,7 +418,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{

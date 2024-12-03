@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/git&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

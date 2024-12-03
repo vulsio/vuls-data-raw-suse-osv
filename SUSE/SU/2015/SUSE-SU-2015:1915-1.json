@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "apache-commons-logging",
-				"purl": "purl:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -316,7 +316,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "flute",
-				"purl": "purl:rpm/suse/flute&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/flute&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -465,7 +465,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "graphite2",
-				"purl": "purl:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -614,7 +614,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -763,7 +763,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libabw",
-				"purl": "purl:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -912,7 +912,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libbase",
-				"purl": "purl:rpm/suse/libbase&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libbase&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1061,7 +1061,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libcdr",
-				"purl": "purl:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1210,7 +1210,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libe-book",
-				"purl": "purl:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1359,7 +1359,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1508,7 +1508,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libfonts",
-				"purl": "purl:rpm/suse/libfonts&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libfonts&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1657,7 +1657,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libformula",
-				"purl": "purl:rpm/suse/libformula&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libformula&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1806,7 +1806,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libfreehand",
-				"purl": "purl:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -1955,7 +1955,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libgltf",
-				"purl": "purl:rpm/suse/libgltf&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libgltf&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2104,7 +2104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2253,7 +2253,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "liblangtag",
-				"purl": "purl:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2402,7 +2402,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "liblayout",
-				"purl": "purl:rpm/suse/liblayout&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/liblayout&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2551,7 +2551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libloader",
-				"purl": "purl:rpm/suse/libloader&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libloader&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2700,7 +2700,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libmspub",
-				"purl": "purl:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2849,7 +2849,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -2998,7 +2998,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libodfgen",
-				"purl": "purl:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3147,7 +3147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3296,7 +3296,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libpagemaker",
-				"purl": "purl:rpm/suse/libpagemaker&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libpagemaker&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3445,7 +3445,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3594,7 +3594,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libreoffice-share-linker",
-				"purl": "purl:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3743,7 +3743,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libreoffice-voikko",
-				"purl": "purl:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -3892,7 +3892,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "librepository",
-				"purl": "purl:rpm/suse/librepository&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/librepository&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4041,7 +4041,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "librevenge",
-				"purl": "purl:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4190,7 +4190,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libserializer",
-				"purl": "purl:rpm/suse/libserializer&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libserializer&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4339,7 +4339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4488,7 +4488,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libvoikko",
-				"purl": "purl:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4637,7 +4637,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4786,7 +4786,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "malaga-suomi",
-				"purl": "purl:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -4935,7 +4935,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -5084,7 +5084,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "pentaho-libxml",
-				"purl": "purl:rpm/suse/pentaho-libxml&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/pentaho-libxml&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -5233,7 +5233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "pentaho-reporting-flow-engine",
-				"purl": "purl:rpm/suse/pentaho-reporting-flow-engine&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/pentaho-reporting-flow-engine&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -5382,7 +5382,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "sac",
-				"purl": "purl:rpm/suse/sac&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/sac&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -5531,7 +5531,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5595,7 +5595,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "graphite2",
-				"purl": "purl:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5659,7 +5659,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5723,7 +5723,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libabw",
-				"purl": "purl:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5787,7 +5787,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libcdr",
-				"purl": "purl:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5851,7 +5851,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libe-book",
-				"purl": "purl:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5915,7 +5915,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -5979,7 +5979,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libfreehand",
-				"purl": "purl:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6043,7 +6043,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6107,7 +6107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "liblangtag",
-				"purl": "purl:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6171,7 +6171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libmspub",
-				"purl": "purl:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6235,7 +6235,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6299,7 +6299,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libodfgen",
-				"purl": "purl:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6363,7 +6363,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6427,7 +6427,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "librevenge",
-				"purl": "purl:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6491,7 +6491,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6555,7 +6555,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libvoikko",
-				"purl": "purl:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6619,7 +6619,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6683,7 +6683,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "malaga-suomi",
-				"purl": "purl:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -6747,7 +6747,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12",
 				"name": "apache-commons-logging",
-				"purl": "purl:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Server%2012"
+				"purl": "pkg:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Server%2012"
 			},
 			"ranges": [
 				{
@@ -6776,7 +6776,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12",
 				"name": "graphite2",
-				"purl": "purl:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Server%2012"
+				"purl": "pkg:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Server%2012"
 			},
 			"ranges": [
 				{
@@ -6805,7 +6805,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "apache-commons-logging",
-				"purl": "purl:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -6834,7 +6834,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "graphite2",
-				"purl": "purl:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/graphite2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -6863,7 +6863,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "apache-commons-logging",
-				"purl": "purl:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/apache-commons-logging&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7010,7 +7010,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/cmis-client&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7157,7 +7157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "flute",
-				"purl": "purl:rpm/suse/flute&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/flute&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7304,7 +7304,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7451,7 +7451,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libabw",
-				"purl": "purl:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libabw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7598,7 +7598,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libbase",
-				"purl": "purl:rpm/suse/libbase&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libbase&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7745,7 +7745,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libcdr",
-				"purl": "purl:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libcdr&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -7892,7 +7892,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libe-book",
-				"purl": "purl:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libe-book&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8039,7 +8039,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libetonyek",
-				"purl": "purl:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libetonyek&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8186,7 +8186,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libfonts",
-				"purl": "purl:rpm/suse/libfonts&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libfonts&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8333,7 +8333,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libformula",
-				"purl": "purl:rpm/suse/libformula&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libformula&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8480,7 +8480,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libfreehand",
-				"purl": "purl:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libfreehand&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8627,7 +8627,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libgltf",
-				"purl": "purl:rpm/suse/libgltf&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libgltf&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8774,7 +8774,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -8921,7 +8921,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "liblangtag",
-				"purl": "purl:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9068,7 +9068,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "liblayout",
-				"purl": "purl:rpm/suse/liblayout&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/liblayout&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9215,7 +9215,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libloader",
-				"purl": "purl:rpm/suse/libloader&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libloader&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9362,7 +9362,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libmspub",
-				"purl": "purl:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libmspub&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9509,7 +9509,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9656,7 +9656,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libodfgen",
-				"purl": "purl:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libodfgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9803,7 +9803,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -9950,7 +9950,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libpagemaker",
-				"purl": "purl:rpm/suse/libpagemaker&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libpagemaker&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10097,7 +10097,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10244,7 +10244,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libreoffice-share-linker",
-				"purl": "purl:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10391,7 +10391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libreoffice-voikko",
-				"purl": "purl:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10538,7 +10538,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "librepository",
-				"purl": "purl:rpm/suse/librepository&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/librepository&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10685,7 +10685,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "librevenge",
-				"purl": "purl:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/librevenge&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10832,7 +10832,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libserializer",
-				"purl": "purl:rpm/suse/libserializer&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libserializer&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -10979,7 +10979,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libvisio",
-				"purl": "purl:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libvisio&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11126,7 +11126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libvoikko",
-				"purl": "purl:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11273,7 +11273,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11420,7 +11420,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "malaga-suomi",
-				"purl": "purl:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/malaga-suomi&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11567,7 +11567,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11714,7 +11714,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "pentaho-libxml",
-				"purl": "purl:rpm/suse/pentaho-libxml&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/pentaho-libxml&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -11861,7 +11861,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "pentaho-reporting-flow-engine",
-				"purl": "purl:rpm/suse/pentaho-reporting-flow-engine&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/pentaho-reporting-flow-engine&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -12008,7 +12008,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "sac",
-				"purl": "purl:rpm/suse/sac&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/sac&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{

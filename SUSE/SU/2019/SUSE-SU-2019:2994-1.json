@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "ceph-iscsi",
-				"purl": "purl:rpm/suse/ceph-iscsi&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/ceph-iscsi&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "ses-manual_en",
-				"purl": "purl:rpm/suse/ses-manual_en&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/ses-manual_en&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

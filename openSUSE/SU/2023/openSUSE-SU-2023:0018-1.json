@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "apptainer",
-				"purl": "purl:rpm/suse/apptainer&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/apptainer&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

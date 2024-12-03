@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "csync2",
-				"purl": "purl:rpm/suse/csync2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/csync2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

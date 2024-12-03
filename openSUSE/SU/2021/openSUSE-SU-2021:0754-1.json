@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "exim",
-				"purl": "purl:rpm/suse/exim&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/exim&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

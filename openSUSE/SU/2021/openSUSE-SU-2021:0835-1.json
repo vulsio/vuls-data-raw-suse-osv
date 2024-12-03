@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "nginx",
-				"purl": "purl:rpm/suse/nginx&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/nginx&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

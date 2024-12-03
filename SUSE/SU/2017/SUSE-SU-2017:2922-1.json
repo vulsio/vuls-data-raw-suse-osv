@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "ceph-test",
-				"purl": "purl:rpm/suse/ceph-test&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/ceph-test&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

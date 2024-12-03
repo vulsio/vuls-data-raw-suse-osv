@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -141,7 +141,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-proxy",
-				"purl": "purl:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -227,7 +227,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-proxy-installer",
-				"purl": "purl:rpm/suse/spacewalk-proxy-installer&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-proxy-installer&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -270,7 +270,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{
@@ -313,7 +313,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.0",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Proxy%203.0"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Proxy%203.0"
 			},
 			"ranges": [
 				{

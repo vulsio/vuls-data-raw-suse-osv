@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP4",
 				"name": "sbd",
-				"purl": "purl:rpm/suse/sbd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/sbd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "sbd",
-				"purl": "purl:rpm/suse/sbd&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/sbd&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

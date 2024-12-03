@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "libhts",
-				"purl": "purl:rpm/suse/libhts&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/libhts&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "libhts",
-				"purl": "purl:rpm/suse/libhts&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/libhts&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libhts",
-				"purl": "purl:rpm/suse/libhts&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libhts&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libhts",
-				"purl": "purl:rpm/suse/libhts&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libhts&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

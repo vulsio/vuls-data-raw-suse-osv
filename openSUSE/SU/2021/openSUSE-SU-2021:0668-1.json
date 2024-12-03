@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "bind",
-				"purl": "purl:rpm/suse/bind&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/bind&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "libwmf",
-				"purl": "purl:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libwmf",
-				"purl": "purl:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "libwmf",
-				"purl": "purl:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "libwmf",
-				"purl": "purl:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/libwmf&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{

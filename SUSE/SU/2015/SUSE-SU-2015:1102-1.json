@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "calamari-clients",
-				"purl": "purl:rpm/suse/calamari-clients&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/calamari-clients&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "ceph-deploy",
-				"purl": "purl:rpm/suse/ceph-deploy&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/ceph-deploy&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-djangorestframework",
-				"purl": "purl:rpm/suse/python-djangorestframework&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-djangorestframework&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "mozilla-nspr",
-				"purl": "purl:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/mozilla-nspr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -142,7 +142,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

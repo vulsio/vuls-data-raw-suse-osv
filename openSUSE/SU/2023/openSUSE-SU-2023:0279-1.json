@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "python-bugzilla",
-				"purl": "purl:rpm/suse/python-bugzilla&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-bugzilla&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-bugzilla",
-				"purl": "purl:rpm/suse/python-bugzilla&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-bugzilla&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

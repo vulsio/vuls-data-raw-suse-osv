@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{

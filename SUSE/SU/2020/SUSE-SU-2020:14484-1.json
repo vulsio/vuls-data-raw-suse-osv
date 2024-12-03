@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{

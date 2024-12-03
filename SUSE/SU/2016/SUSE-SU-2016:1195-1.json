@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "python-backports.ssl_match_hostname",
-				"purl": "purl:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "python-tornado",
-				"purl": "purl:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "python-backports.ssl_match_hostname",
-				"purl": "purl:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "python-tornado",
-				"purl": "purl:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "python-backports.ssl_match_hostname",
-				"purl": "purl:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -152,7 +152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12",
 				"name": "python-tornado",
-				"purl": "purl:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
+				"purl": "pkg:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "python-backports.ssl_match_hostname",
-				"purl": "purl:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-backports.ssl_match_hostname&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -208,7 +208,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP1",
 				"name": "python-tornado",
-				"purl": "purl:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-tornado&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{

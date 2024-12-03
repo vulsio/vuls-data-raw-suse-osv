@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ovmf",
-				"purl": "purl:rpm/suse/ovmf&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ovmf&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

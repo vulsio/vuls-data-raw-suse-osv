@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "python-singledispatch",
-				"purl": "purl:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
 				"name": "python-singledispatch",
-				"purl": "purl:rpm/suse/python-singledispatch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+				"purl": "pkg:rpm/suse/python-singledispatch&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
 			},
 			"ranges": [
 				{
@@ -158,7 +158,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 12 SP2",
 				"name": "python-singledispatch",
-				"purl": "purl:rpm/suse/python-singledispatch&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
+				"purl": "pkg:rpm/suse/python-singledispatch&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 12 SP2",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -218,7 +218,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "python-singledispatch",
-				"purl": "purl:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "python-singledispatch",
-				"purl": "purl:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/python-singledispatch&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

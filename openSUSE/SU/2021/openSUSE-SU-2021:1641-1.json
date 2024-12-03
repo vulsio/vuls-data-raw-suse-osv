@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "djvulibre",
-				"purl": "purl:rpm/suse/djvulibre&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/djvulibre&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

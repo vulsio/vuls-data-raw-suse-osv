@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "installation-images-SMO",
-				"purl": "purl:rpm/suse/installation-images-SMO&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/installation-images-SMO&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "installation-images-SMO",
-				"purl": "purl:rpm/suse/installation-images-SMO&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/installation-images-SMO&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{

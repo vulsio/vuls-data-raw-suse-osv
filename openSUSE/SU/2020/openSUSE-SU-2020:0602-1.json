@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/webkit2gtk3&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

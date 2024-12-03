@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libbsd",
-				"purl": "purl:rpm/suse/libbsd&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libbsd&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

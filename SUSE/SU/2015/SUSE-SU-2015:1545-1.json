@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12",
 				"name": "conntrack-tools",
-				"purl": "purl:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
+				"purl": "pkg:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12",
 				"name": "libnetfilter_cthelper",
-				"purl": "purl:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
+				"purl": "pkg:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12",
 				"name": "libnetfilter_cttimeout",
-				"purl": "purl:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
+				"purl": "pkg:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libnetfilter_cthelper",
-				"purl": "purl:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -129,7 +129,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "libnetfilter_cttimeout",
-				"purl": "purl:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "conntrack-tools",
-				"purl": "purl:rpm/suse/conntrack-tools&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/conntrack-tools&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "libnetfilter_cthelper",
-				"purl": "purl:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/libnetfilter_cthelper&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -217,7 +217,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "libnetfilter_cttimeout",
-				"purl": "purl:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/libnetfilter_cttimeout&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{

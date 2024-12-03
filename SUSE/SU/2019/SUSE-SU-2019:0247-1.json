@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "lua53",
-				"purl": "purl:rpm/suse/lua53&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/lua53&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{

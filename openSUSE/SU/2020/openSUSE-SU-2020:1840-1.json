@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "tiff",
-				"purl": "purl:rpm/suse/tiff&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/tiff&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

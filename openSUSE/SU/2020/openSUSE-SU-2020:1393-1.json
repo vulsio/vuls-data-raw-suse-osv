@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-Flask-Cors",
-				"purl": "purl:rpm/suse/python-Flask-Cors&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-Flask-Cors&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-Flask-Cors",
-				"purl": "purl:rpm/suse/python-Flask-Cors&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-Flask-Cors&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

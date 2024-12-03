@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "calamares",
-				"purl": "purl:rpm/suse/calamares&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/calamares&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "calamares",
-				"purl": "purl:rpm/suse/calamares&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/calamares&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

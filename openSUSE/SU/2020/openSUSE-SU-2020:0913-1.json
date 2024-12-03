@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libunbound-devel-mini",
-				"purl": "purl:rpm/suse/libunbound-devel-mini&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libunbound-devel-mini&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "unbound",
-				"purl": "purl:rpm/suse/unbound&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/unbound&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

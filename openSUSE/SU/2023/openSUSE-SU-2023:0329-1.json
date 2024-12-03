@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "sox",
-				"purl": "purl:rpm/suse/sox&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/sox&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "sox",
-				"purl": "purl:rpm/suse/sox&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/sox&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

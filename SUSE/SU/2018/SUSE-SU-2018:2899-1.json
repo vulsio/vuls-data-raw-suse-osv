@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Subscription Management Tool 11 SP3",
 				"name": "smt",
-				"purl": "purl:rpm/suse/smt&distro=Subscription%20Management%20Tool%2011%20SP3"
+				"purl": "pkg:rpm/suse/smt&distro=Subscription%20Management%20Tool%2011%20SP3"
 			},
 			"ranges": [
 				{

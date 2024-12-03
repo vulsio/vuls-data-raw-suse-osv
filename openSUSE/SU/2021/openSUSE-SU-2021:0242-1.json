@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-rt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-rt_debug",
-				"purl": "purl:rpm/suse/kernel-rt_debug&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-rt_debug&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-source-rt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -230,7 +230,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-syms-rt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

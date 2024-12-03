@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "sddm",
-				"purl": "purl:rpm/suse/sddm&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/sddm&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "sddm",
-				"purl": "purl:rpm/suse/sddm&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/sddm&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

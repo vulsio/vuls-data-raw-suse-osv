@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "nghttp2",
-				"purl": "purl:rpm/suse/nghttp2&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/nghttp2&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "nghttp2-python",
-				"purl": "purl:rpm/suse/nghttp2-python&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/nghttp2-python&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

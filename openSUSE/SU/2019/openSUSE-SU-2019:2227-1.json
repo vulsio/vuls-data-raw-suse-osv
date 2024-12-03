@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-numpy",
-				"purl": "purl:rpm/suse/python-numpy&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-numpy&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-numpy_1_16_1-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_16_1-gnu-hpc&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-numpy_1_16_1-gnu-hpc&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

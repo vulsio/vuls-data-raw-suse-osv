@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "postgresql94",
-				"purl": "purl:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "postgresql94",
-				"purl": "purl:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "postgresql94",
-				"purl": "purl:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -204,7 +204,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -237,7 +237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "postgresql94",
-				"purl": "purl:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -270,7 +270,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -303,7 +303,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "postgresql94",
-				"purl": "purl:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/postgresql94&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -336,7 +336,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "postgresql94-libs",
-				"purl": "purl:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/postgresql94-libs&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

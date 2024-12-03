@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12",
 				"name": "compat-openssl098",
-				"purl": "purl:rpm/suse/compat-openssl098&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
+				"purl": "pkg:rpm/suse/compat-openssl098&distro=SUSE%20Linux%20Enterprise%20Desktop%2012"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 12",
 				"name": "compat-openssl098",
-				"purl": "purl:rpm/suse/compat-openssl098&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
+				"purl": "pkg:rpm/suse/compat-openssl098&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
 			},
 			"ranges": [
 				{

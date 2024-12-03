@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "texlive",
-				"purl": "purl:rpm/suse/texlive&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/texlive&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "texlive-filesystem",
-				"purl": "purl:rpm/suse/texlive-filesystem&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/texlive-filesystem&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

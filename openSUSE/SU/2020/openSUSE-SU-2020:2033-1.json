@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/slurm&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

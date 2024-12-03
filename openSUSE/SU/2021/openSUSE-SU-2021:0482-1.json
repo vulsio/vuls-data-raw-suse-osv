@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "evolution-data-server",
-				"purl": "purl:rpm/suse/evolution-data-server&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/evolution-data-server&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "evolution-ews",
-				"purl": "purl:rpm/suse/evolution-ews&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/evolution-ews&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

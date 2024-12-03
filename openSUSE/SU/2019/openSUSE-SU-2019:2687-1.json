@@ -28,7 +28,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/java-1_8_0-openjdk&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

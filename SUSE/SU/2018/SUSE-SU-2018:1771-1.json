@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "mariadb",
-				"purl": "purl:rpm/suse/mariadb&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/mariadb&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -60,7 +60,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "xtrabackup",
-				"purl": "purl:rpm/suse/xtrabackup&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/xtrabackup&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "mariadb",
-				"purl": "purl:rpm/suse/mariadb&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/mariadb&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "xtrabackup",
-				"purl": "purl:rpm/suse/xtrabackup&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/xtrabackup&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -225,7 +225,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "mariadb",
-				"purl": "purl:rpm/suse/mariadb&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/mariadb&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "mariadb-connector-c",
-				"purl": "purl:rpm/suse/mariadb-connector-c&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/mariadb-connector-c&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -291,7 +291,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "xtrabackup",
-				"purl": "purl:rpm/suse/xtrabackup&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/xtrabackup&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{

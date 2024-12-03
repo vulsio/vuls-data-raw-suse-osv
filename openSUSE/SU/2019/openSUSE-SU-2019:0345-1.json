@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "file",
-				"purl": "purl:rpm/suse/file&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/file&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "python-magic",
-				"purl": "purl:rpm/suse/python-magic&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/python-magic&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

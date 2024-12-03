@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "python-rpyc",
-				"purl": "purl:rpm/suse/python-rpyc&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-rpyc&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "python-rpyc-test",
-				"purl": "purl:rpm/suse/python-rpyc-test&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-rpyc-test&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

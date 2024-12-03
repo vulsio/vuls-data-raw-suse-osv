@@ -26,7 +26,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP3",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP3",
 				"name": "kernel-rt_debug",
-				"purl": "purl:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-rt_debug&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP3",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Real Time Module 15 SP3",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms-rt&distro=SUSE%20Real%20Time%20Module%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -197,7 +197,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{

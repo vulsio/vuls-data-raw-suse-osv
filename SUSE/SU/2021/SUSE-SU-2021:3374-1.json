@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_22",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_22",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -176,7 +176,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_22",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_22&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -203,7 +203,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -230,7 +230,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -257,7 +257,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -311,7 +311,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -338,7 +338,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -365,7 +365,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_17",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -392,7 +392,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -419,7 +419,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -446,7 +446,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -473,7 +473,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -500,7 +500,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_17",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -527,7 +527,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -554,7 +554,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -581,7 +581,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -608,7 +608,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -635,7 +635,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_17",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -662,7 +662,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -689,7 +689,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -716,7 +716,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -743,7 +743,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -770,7 +770,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_17",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -797,7 +797,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_21",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_21&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -824,7 +824,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_20",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_20&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -851,7 +851,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_19",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_19&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -878,7 +878,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -905,7 +905,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_17",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -932,7 +932,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_26",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -959,7 +959,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_25",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -986,7 +986,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_24",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1013,7 +1013,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_26",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1040,7 +1040,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_25",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1067,7 +1067,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_24",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1094,7 +1094,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_26",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_26&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1121,7 +1121,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_25",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_25&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1148,7 +1148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP1",
 				"name": "kernel-livepatch-SLE15-SP1_Update_24",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP1_Update_24&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1175,7 +1175,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1202,7 +1202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1229,7 +1229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1256,7 +1256,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1283,7 +1283,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1310,7 +1310,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1337,7 +1337,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1364,7 +1364,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1391,7 +1391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1418,7 +1418,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1445,7 +1445,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1472,7 +1472,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1499,7 +1499,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1526,7 +1526,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1553,7 +1553,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1580,7 +1580,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1607,7 +1607,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1634,7 +1634,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1661,7 +1661,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1688,7 +1688,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1715,7 +1715,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1742,7 +1742,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1769,7 +1769,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1796,7 +1796,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1823,7 +1823,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1850,7 +1850,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1877,7 +1877,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1904,7 +1904,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1931,7 +1931,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1958,7 +1958,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1985,7 +1985,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_17",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_17&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2012,7 +2012,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_16",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_16&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2039,7 +2039,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_15",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_15&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2066,7 +2066,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_14",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2093,7 +2093,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_13",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_13&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2120,7 +2120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2147,7 +2147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_4",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2174,7 +2174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_3",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2201,7 +2201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_2",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2228,7 +2228,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_1",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2255,7 +2255,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_4",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2282,7 +2282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_3",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2309,7 +2309,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_2",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2336,7 +2336,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_1",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2363,7 +2363,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_4",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2390,7 +2390,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_3",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2417,7 +2417,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_2",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2444,7 +2444,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_1",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2471,7 +2471,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_4",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_4&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2498,7 +2498,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_3",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_3&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2525,7 +2525,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_2",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_2&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2552,7 +2552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_1",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_1&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{

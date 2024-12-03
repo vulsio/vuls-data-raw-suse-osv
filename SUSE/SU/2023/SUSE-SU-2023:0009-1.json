@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for SAP Applications 15 SP2",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for SAP Applications 15 SP3",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for SAP Applications 15 SP4",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Linux%20Enterprise%20Module%20for%20SAP%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.3",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
+				"purl": "pkg:rpm/suse/saphanabootstrap-formula&distro=SUSE%20Manager%20Server%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/saphanabootstrap-formula&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "saphanabootstrap-formula",
-				"purl": "purl:rpm/suse/saphanabootstrap-formula&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/saphanabootstrap-formula&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

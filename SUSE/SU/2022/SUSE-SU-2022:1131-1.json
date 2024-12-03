@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP1"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Installer Updates 15 SP1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP1"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Installer%20Updates%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -65,7 +65,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -137,7 +137,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -173,7 +173,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -209,7 +209,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -245,7 +245,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -281,7 +281,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -317,7 +317,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -353,7 +353,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -389,7 +389,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -425,7 +425,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -461,7 +461,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -497,7 +497,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -533,7 +533,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -569,7 +569,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -605,7 +605,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/libsolv&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -641,7 +641,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/libzypp&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -677,7 +677,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/zypper&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

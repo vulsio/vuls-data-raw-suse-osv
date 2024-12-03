@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "golang-packaging",
-				"purl": "purl:rpm/suse/golang-packaging&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/golang-packaging&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:ManagerTools:Update",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
+				"purl": "pkg:rpm/suse/prometheus-postgres_exporter&distro=SUSE:EL-9:Update:Products:ManagerTools:Update"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "golang-github-prometheus-node_exporter",
-				"purl": "purl:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-node_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -129,7 +129,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "prometheus-postgres_exporter",
-				"purl": "purl:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/prometheus-postgres_exporter&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

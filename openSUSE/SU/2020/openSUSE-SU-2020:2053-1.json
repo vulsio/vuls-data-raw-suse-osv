@@ -33,7 +33,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "wpa_supplicant",
-				"purl": "purl:rpm/suse/wpa_supplicant&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/wpa_supplicant&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

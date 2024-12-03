@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-bigmem",
-				"purl": "purl:rpm/suse/kernel-bigmem&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-bigmem&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -186,7 +186,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-pae",
-				"purl": "purl:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -236,7 +236,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-ppc64",
-				"purl": "purl:rpm/suse/kernel-ppc64&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-ppc64&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -286,7 +286,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -336,7 +336,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -386,7 +386,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -436,7 +436,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -486,7 +486,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-bigmem",
-				"purl": "purl:rpm/suse/kernel-bigmem&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-bigmem&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -536,7 +536,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -586,7 +586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-ec2",
-				"purl": "purl:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-ec2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -636,7 +636,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-pae",
-				"purl": "purl:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-pae&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -686,7 +686,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-ppc64",
-				"purl": "purl:rpm/suse/kernel-ppc64&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-ppc64&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -736,7 +736,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -786,7 +786,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -836,7 +836,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-trace",
-				"purl": "purl:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-trace&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -886,7 +886,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "kernel-xen",
-				"purl": "purl:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

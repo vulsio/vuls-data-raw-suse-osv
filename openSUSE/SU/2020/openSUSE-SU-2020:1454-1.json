@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libetpan",
-				"purl": "purl:rpm/suse/libetpan&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libetpan&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

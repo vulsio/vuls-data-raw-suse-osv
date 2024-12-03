@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "puppet",
-				"purl": "purl:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "puppet",
-				"purl": "purl:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
 				"name": "puppet",
-				"purl": "purl:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+				"purl": "pkg:rpm/suse/puppet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
 			},
 			"ranges": [
 				{

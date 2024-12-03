@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP3",
 				"name": "kernel-livepatch-SLE15-SP3_Update_30",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP3_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP3_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -151,7 +151,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -191,7 +191,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -231,7 +231,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -311,7 +311,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -351,7 +351,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -391,7 +391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -431,7 +431,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -471,7 +471,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -511,7 +511,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -591,7 +591,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -631,7 +631,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -671,7 +671,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -711,7 +711,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -751,7 +751,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -788,7 +788,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -825,7 +825,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -862,7 +862,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -899,7 +899,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -936,7 +936,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -973,7 +973,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1010,7 +1010,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-64kb&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1051,7 +1051,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1092,7 +1092,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1133,7 +1133,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1174,7 +1174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1215,7 +1215,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1256,7 +1256,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1297,7 +1297,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1338,7 +1338,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "kernel-zfcpdump",
-				"purl": "purl:rpm/suse/kernel-zfcpdump&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kernel-zfcpdump&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1379,7 +1379,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1417,7 +1417,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1455,7 +1455,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1493,7 +1493,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1531,7 +1531,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1569,7 +1569,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1607,7 +1607,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1645,7 +1645,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1677,7 +1677,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1709,7 +1709,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1741,7 +1741,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1773,7 +1773,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1806,7 +1806,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1839,7 +1839,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1872,7 +1872,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1905,7 +1905,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "kernel-zfcpdump",
-				"purl": "purl:rpm/suse/kernel-zfcpdump&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/kernel-zfcpdump&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1938,7 +1938,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -1966,7 +1966,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -1994,7 +1994,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -2022,7 +2022,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -2050,7 +2050,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-64kb",
-				"purl": "purl:rpm/suse/kernel-64kb&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-64kb&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2090,7 +2090,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2130,7 +2130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-default-base&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2170,7 +2170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-docs&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2210,7 +2210,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-obs-build&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2250,7 +2250,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-preempt&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2290,7 +2290,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-source&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2330,7 +2330,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/kernel-syms&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2370,7 +2370,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "dtb-aarch64",
-				"purl": "purl:rpm/suse/dtb-aarch64&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/dtb-aarch64&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

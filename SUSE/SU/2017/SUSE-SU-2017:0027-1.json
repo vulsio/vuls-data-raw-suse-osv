@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "gstreamer-0_10-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "gstreamer-0_10-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP2",
 				"name": "gstreamer-0_10-plugins-bad",
-				"purl": "purl:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP2"
+				"purl": "pkg:rpm/suse/gstreamer-0_10-plugins-bad&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP2"
 			},
 			"ranges": [
 				{

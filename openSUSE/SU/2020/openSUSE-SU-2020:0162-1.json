@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "ucl",
-				"purl": "purl:rpm/suse/ucl&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/ucl&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

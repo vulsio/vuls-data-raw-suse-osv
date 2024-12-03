@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "fossil",
-				"purl": "purl:rpm/suse/fossil&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/fossil&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

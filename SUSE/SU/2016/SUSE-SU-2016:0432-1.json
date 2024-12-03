@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 2.1",
 				"name": "rubygem-activemodel-4_2",
-				"purl": "purl:rpm/suse/rubygem-activemodel-4_2&distro=SUSE%20Enterprise%20Storage%202.1"
+				"purl": "pkg:rpm/suse/rubygem-activemodel-4_2&distro=SUSE%20Enterprise%20Storage%202.1"
 			},
 			"ranges": [
 				{

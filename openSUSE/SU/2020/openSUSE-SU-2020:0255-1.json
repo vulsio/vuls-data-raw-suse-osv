@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libsolv",
-				"purl": "purl:rpm/suse/libsolv&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libsolv&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libzypp&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/zypper&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

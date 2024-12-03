@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/git&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -181,7 +181,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/git&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

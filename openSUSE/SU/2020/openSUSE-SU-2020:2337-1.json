@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "blosc",
-				"purl": "purl:rpm/suse/blosc&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/blosc&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "blosc",
-				"purl": "purl:rpm/suse/blosc&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/blosc&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "blosc",
-				"purl": "purl:rpm/suse/blosc&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/blosc&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "blosc",
-				"purl": "purl:rpm/suse/blosc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/blosc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

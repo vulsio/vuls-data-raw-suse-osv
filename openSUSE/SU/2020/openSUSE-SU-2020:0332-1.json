@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gd",
-				"purl": "purl:rpm/suse/gd&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gd&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

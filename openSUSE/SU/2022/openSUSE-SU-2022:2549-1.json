@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/kernel-default&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/kernel-default-base&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "gnome-autoar",
-				"purl": "purl:rpm/suse/gnome-autoar&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/gnome-autoar&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

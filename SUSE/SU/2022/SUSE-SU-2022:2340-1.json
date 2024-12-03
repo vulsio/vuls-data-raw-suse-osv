@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -129,7 +129,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -219,7 +219,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -279,7 +279,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -309,7 +309,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -339,7 +339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -369,7 +369,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.1",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Manager%20Proxy%204.1"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Manager%20Proxy%204.1"
 			},
 			"ranges": [
 				{
@@ -399,7 +399,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -429,7 +429,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.1",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Manager%20Server%204.1"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Manager%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -459,7 +459,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -489,7 +489,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/fwupdate&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -519,7 +519,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/fwupdate&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -549,7 +549,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "fwupdate",
-				"purl": "purl:rpm/suse/fwupdate&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/fwupdate&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

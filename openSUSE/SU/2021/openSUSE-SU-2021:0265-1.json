@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "privoxy",
-				"purl": "purl:rpm/suse/privoxy&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/privoxy&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

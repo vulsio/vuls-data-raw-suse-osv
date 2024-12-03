@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "bind-formula",
-				"purl": "purl:rpm/suse/bind-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/bind-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "grafana-formula",
-				"purl": "purl:rpm/suse/grafana-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/grafana-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "postgresql-jdbc",
-				"purl": "purl:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/postgresql-jdbc&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "prometheus-exporters-formula",
-				"purl": "purl:rpm/suse/prometheus-exporters-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/prometheus-exporters-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -265,7 +265,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "prometheus-formula",
-				"purl": "purl:rpm/suse/prometheus-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/prometheus-formula&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -328,7 +328,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "salt-netapi-client",
-				"purl": "purl:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -391,7 +391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-admin",
-				"purl": "purl:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-admin&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -454,7 +454,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -517,7 +517,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -580,7 +580,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -643,7 +643,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -706,7 +706,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -769,7 +769,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager-sls",
-				"purl": "purl:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager-sls&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{

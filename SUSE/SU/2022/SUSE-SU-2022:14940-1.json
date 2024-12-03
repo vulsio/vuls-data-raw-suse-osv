@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "dnsmasq",
-				"purl": "purl:rpm/suse/dnsmasq&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/dnsmasq&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{

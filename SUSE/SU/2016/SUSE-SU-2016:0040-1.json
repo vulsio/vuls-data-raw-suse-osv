@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

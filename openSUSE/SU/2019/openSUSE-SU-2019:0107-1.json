@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "pdns-recursor",
-				"purl": "purl:rpm/suse/pdns-recursor&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/pdns-recursor&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

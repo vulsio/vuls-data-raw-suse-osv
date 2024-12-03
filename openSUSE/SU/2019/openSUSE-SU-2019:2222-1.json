@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "ghostscript",
-				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/ghostscript&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "ghostscript-mini",
-				"purl": "purl:rpm/suse/ghostscript-mini&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/ghostscript-mini&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

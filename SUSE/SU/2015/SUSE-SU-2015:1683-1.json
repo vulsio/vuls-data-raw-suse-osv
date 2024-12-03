@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 11 SP3",
 				"name": "conntrack-tools",
-				"purl": "purl:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP3"
+				"purl": "pkg:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 11 SP4",
 				"name": "conntrack-tools",
-				"purl": "purl:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP4"
+				"purl": "pkg:rpm/suse/conntrack-tools&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2011%20SP4"
 			},
 			"ranges": [
 				{

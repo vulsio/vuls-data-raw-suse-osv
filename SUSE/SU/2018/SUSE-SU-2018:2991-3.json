@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "openslp",
-				"purl": "purl:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/openslp&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{

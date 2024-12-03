@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "apache2-mod_perl",
-				"purl": "purl:rpm/suse/apache2-mod_perl&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/apache2-mod_perl&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "apache2-mod_perl",
-				"purl": "purl:rpm/suse/apache2-mod_perl&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/apache2-mod_perl&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

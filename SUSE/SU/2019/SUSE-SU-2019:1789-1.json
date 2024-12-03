@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-proxy",
-				"purl": "purl:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -85,7 +85,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -121,7 +121,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -223,7 +223,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager-doc-indexes",
-				"purl": "purl:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager-doc-indexes&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -274,7 +274,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{
@@ -325,7 +325,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.0",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%20Module%204.0"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%20Module%204.0"
 			},
 			"ranges": [
 				{

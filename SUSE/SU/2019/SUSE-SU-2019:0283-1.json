@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "LibVNCServer",
-				"purl": "purl:rpm/suse/LibVNCServer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/LibVNCServer&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "LibVNCServer",
-				"purl": "purl:rpm/suse/LibVNCServer&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/LibVNCServer&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{

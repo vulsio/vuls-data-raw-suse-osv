@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP3",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP3"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP3",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -198,7 +198,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-base&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -239,7 +239,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-doc",
-				"purl": "purl:rpm/suse/python-doc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-doc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-base&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -362,7 +362,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-doc",
-				"purl": "purl:rpm/suse/python-doc&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-doc&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

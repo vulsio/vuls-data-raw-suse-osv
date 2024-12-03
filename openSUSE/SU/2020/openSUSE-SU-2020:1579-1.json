@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cifs-utils",
-				"purl": "purl:rpm/suse/cifs-utils&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cifs-utils&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cmis-client",
-				"purl": "purl:rpm/suse/cmis-client&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cmis-client&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -352,7 +352,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libixion&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -692,7 +692,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libmwaw&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -1032,7 +1032,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/liborcus&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -1372,7 +1372,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -1712,7 +1712,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mdds-1_5",
-				"purl": "purl:rpm/suse/mdds-1_5&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mdds-1_5&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -2052,7 +2052,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/myspell-dictionaries&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -2392,7 +2392,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "spdlog",
-				"purl": "purl:rpm/suse/spdlog&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/spdlog&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

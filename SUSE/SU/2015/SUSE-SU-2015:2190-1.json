@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "rubygem-rack-1_4",
-				"purl": "purl:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "rubygem-rack-1_4",
-				"purl": "purl:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 2",
 				"name": "rubygem-rack-1_4",
-				"purl": "purl:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Enterprise%20Storage%202"
+				"purl": "pkg:rpm/suse/rubygem-rack-1_4&distro=SUSE%20Enterprise%20Storage%202"
 			},
 			"ranges": [
 				{

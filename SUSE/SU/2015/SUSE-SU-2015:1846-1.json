@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-swift",
-				"purl": "purl:rpm/suse/openstack-swift&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-swift&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-swift-doc",
-				"purl": "purl:rpm/suse/openstack-swift-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-swift-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

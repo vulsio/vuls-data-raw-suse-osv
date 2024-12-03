@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -196,7 +196,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -288,7 +288,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -334,7 +334,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -380,7 +380,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -426,7 +426,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -472,7 +472,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -518,7 +518,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -564,7 +564,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "sbt",
-				"purl": "purl:rpm/suse/sbt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/sbt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -592,7 +592,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "sbt-bootstrap",
-				"purl": "purl:rpm/suse/sbt-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/sbt-bootstrap&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -620,7 +620,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -666,7 +666,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -712,7 +712,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -758,7 +758,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -804,7 +804,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -850,7 +850,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -896,7 +896,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -942,7 +942,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -988,7 +988,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1034,7 +1034,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1080,7 +1080,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1126,7 +1126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -1172,7 +1172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1218,7 +1218,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1264,7 +1264,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1310,7 +1310,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1356,7 +1356,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1402,7 +1402,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1448,7 +1448,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1494,7 +1494,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1540,7 +1540,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1586,7 +1586,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1632,7 +1632,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1678,7 +1678,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1724,7 +1724,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1770,7 +1770,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1816,7 +1816,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1862,7 +1862,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1908,7 +1908,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1954,7 +1954,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -2000,7 +2000,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2046,7 +2046,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2092,7 +2092,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2138,7 +2138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2184,7 +2184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2230,7 +2230,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -2276,7 +2276,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2322,7 +2322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2368,7 +2368,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2414,7 +2414,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2460,7 +2460,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2506,7 +2506,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -2552,7 +2552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2598,7 +2598,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/maven-resolver&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2644,7 +2644,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/xmvn&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2690,7 +2690,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/xmvn-connector&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2736,7 +2736,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/xmvn-mojo&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2782,7 +2782,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/xmvn-tools&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -2828,7 +2828,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/maven&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2885,7 +2885,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/maven-resolver&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2942,7 +2942,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "sbt",
-				"purl": "purl:rpm/suse/sbt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/sbt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2999,7 +2999,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "sbt-bootstrap",
-				"purl": "purl:rpm/suse/sbt-bootstrap&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/sbt-bootstrap&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3056,7 +3056,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xmvn&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3113,7 +3113,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xmvn-connector&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3170,7 +3170,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xmvn-mojo&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3227,7 +3227,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xmvn-parent",
-				"purl": "purl:rpm/suse/xmvn-parent&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xmvn-parent&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3284,7 +3284,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/xmvn-tools&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3341,7 +3341,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven",
-				"purl": "purl:rpm/suse/maven&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3398,7 +3398,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "maven-resolver",
-				"purl": "purl:rpm/suse/maven-resolver&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/maven-resolver&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3455,7 +3455,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "sbt",
-				"purl": "purl:rpm/suse/sbt&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/sbt&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3512,7 +3512,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "sbt-bootstrap",
-				"purl": "purl:rpm/suse/sbt-bootstrap&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/sbt-bootstrap&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3569,7 +3569,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xmvn",
-				"purl": "purl:rpm/suse/xmvn&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xmvn&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3626,7 +3626,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xmvn-connector",
-				"purl": "purl:rpm/suse/xmvn-connector&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xmvn-connector&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3683,7 +3683,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xmvn-mojo",
-				"purl": "purl:rpm/suse/xmvn-mojo&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xmvn-mojo&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3740,7 +3740,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xmvn-parent",
-				"purl": "purl:rpm/suse/xmvn-parent&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xmvn-parent&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3797,7 +3797,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "xmvn-tools",
-				"purl": "purl:rpm/suse/xmvn-tools&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/xmvn-tools&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

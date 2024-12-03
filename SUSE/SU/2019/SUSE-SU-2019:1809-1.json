@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP4",
 				"name": "fence-agents",
-				"purl": "purl:rpm/suse/fence-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/fence-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{

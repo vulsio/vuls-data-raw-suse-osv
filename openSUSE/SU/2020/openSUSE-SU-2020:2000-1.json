@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "rmt-server",
-				"purl": "purl:rpm/suse/rmt-server&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/rmt-server&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

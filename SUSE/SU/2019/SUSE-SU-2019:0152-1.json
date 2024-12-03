@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "rubygem-activejob-4_2",
-				"purl": "purl:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "rubygem-activejob-4_2",
-				"purl": "purl:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "rubygem-activejob-4_2",
-				"purl": "purl:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/rubygem-activejob-4_2&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

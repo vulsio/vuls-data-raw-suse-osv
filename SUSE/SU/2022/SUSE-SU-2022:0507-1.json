@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/cobbler&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{

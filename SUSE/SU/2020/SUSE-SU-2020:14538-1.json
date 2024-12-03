@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -166,7 +166,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -204,7 +204,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -318,7 +318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -356,7 +356,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP1",
 				"name": "cluster-fs",
-				"purl": "purl:rpm/suse/cluster-fs&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/cluster-fs&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP1",
 				"name": "cluster-network",
-				"purl": "purl:rpm/suse/cluster-network&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/cluster-network&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP1",
 				"name": "drbd",
-				"purl": "purl:rpm/suse/drbd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/drbd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{

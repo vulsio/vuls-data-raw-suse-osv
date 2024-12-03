@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "apache2-mod_security2",
-				"purl": "purl:rpm/suse/apache2-mod_security2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/apache2-mod_security2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "apache2-mod_security2",
-				"purl": "purl:rpm/suse/apache2-mod_security2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/apache2-mod_security2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "nginx",
-				"purl": "purl:rpm/suse/nginx&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/nginx&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

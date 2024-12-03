@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "libseccomp",
-				"purl": "purl:rpm/suse/libseccomp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/libseccomp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libseccomp",
-				"purl": "purl:rpm/suse/libseccomp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libseccomp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{

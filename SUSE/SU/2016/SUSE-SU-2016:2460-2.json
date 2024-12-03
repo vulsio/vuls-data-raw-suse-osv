@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{

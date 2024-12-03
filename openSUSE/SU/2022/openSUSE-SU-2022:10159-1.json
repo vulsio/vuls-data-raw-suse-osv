@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "v4l2loopback",
-				"purl": "purl:rpm/suse/v4l2loopback&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/v4l2loopback&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/dpdk&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

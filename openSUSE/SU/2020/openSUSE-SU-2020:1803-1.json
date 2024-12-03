@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "spice-gtk",
-				"purl": "purl:rpm/suse/spice-gtk&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/spice-gtk&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

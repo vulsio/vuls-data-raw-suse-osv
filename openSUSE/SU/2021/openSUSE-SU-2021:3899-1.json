@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "aaa_base",
-				"purl": "purl:rpm/suse/aaa_base&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/aaa_base&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

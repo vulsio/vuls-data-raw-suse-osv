@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "deepsea",
-				"purl": "purl:rpm/suse/deepsea&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/deepsea&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

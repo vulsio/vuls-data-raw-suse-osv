@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "slurm",
-				"purl": "purl:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/slurm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{

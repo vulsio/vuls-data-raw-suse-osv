@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "python-defusedxml",
-				"purl": "purl:rpm/suse/python-defusedxml&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/python-defusedxml&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "python-pysaml2",
-				"purl": "purl:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/python-pysaml2&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "rubygem-rack",
-				"purl": "purl:rpm/suse/rubygem-rack&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/rubygem-rack&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

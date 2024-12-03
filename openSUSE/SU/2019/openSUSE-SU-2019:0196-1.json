@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "LibVNCServer",
-				"purl": "purl:rpm/suse/LibVNCServer&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/LibVNCServer&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

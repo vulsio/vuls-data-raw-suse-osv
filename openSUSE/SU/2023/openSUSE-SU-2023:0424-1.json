@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "deepin-compressor",
-				"purl": "purl:rpm/suse/deepin-compressor&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/deepin-compressor&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "deepin-compressor",
-				"purl": "purl:rpm/suse/deepin-compressor&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/deepin-compressor&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

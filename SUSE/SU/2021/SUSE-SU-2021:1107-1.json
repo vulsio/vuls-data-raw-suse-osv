@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP2",
 				"name": "fwupd",
-				"purl": "purl:rpm/suse/fwupd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/fwupd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{

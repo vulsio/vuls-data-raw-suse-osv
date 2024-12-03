@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "release-notes-susemanager-proxy",
-				"purl": "purl:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager-proxy&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-proxy",
-				"purl": "purl:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -165,7 +165,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "release-notes-susemanager",
-				"purl": "purl:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -214,7 +214,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -263,7 +263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

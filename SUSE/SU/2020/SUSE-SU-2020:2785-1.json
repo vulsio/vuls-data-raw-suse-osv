@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "pdns",
-				"purl": "purl:rpm/suse/pdns&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/pdns&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

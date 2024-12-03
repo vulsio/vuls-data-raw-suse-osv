@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "linuxptp",
-				"purl": "purl:rpm/suse/linuxptp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/linuxptp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

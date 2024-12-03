@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "velocity",
-				"purl": "purl:rpm/suse/velocity&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/velocity&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{

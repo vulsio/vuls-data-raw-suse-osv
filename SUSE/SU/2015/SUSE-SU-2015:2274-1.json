@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-rack",
-				"purl": "purl:rpm/suse/rubygem-rack&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-rack&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

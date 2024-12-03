@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -141,7 +141,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "java-1_7_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{

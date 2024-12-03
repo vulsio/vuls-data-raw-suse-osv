@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "gpg2",
-				"purl": "purl:rpm/suse/gpg2&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/gpg2&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

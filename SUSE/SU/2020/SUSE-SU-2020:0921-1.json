@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "exiv2",
-				"purl": "purl:rpm/suse/exiv2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/exiv2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

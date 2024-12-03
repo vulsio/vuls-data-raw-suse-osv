@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{

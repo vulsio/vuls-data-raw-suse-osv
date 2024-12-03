@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "vlc",
-				"purl": "purl:rpm/suse/vlc&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/vlc&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

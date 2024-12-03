@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "ledger",
-				"purl": "purl:rpm/suse/ledger&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/ledger&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

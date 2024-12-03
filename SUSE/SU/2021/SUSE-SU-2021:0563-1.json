@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -238,7 +238,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

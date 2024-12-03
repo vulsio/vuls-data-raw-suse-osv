@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python-numpy",
-				"purl": "purl:rpm/suse/python-numpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-numpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP1",
 				"name": "python-numpy_1_16_1-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_16_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-numpy_1_16_1-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP1",
 				"name": "python-numpy",
-				"purl": "purl:rpm/suse/python-numpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-numpy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
 			},
 			"ranges": [
 				{

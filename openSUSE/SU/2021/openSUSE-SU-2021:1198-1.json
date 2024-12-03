@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "openexr",
-				"purl": "purl:rpm/suse/openexr&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/openexr&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

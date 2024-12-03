@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -348,7 +348,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -516,7 +516,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "gamin-devel",
-				"purl": "purl:rpm/suse/gamin-devel&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/gamin-devel&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -684,7 +684,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "gnutls",
-				"purl": "purl:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -852,7 +852,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "ldb",
-				"purl": "purl:rpm/suse/ldb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/ldb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1020,7 +1020,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "libnettle",
-				"purl": "purl:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1188,7 +1188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "libtasn1",
-				"purl": "purl:rpm/suse/libtasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/libtasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1356,7 +1356,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "p11-kit",
-				"purl": "purl:rpm/suse/p11-kit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/p11-kit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1524,7 +1524,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1692,7 +1692,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "talloc",
-				"purl": "purl:rpm/suse/talloc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/talloc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -1860,7 +1860,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "talloc-man",
-				"purl": "purl:rpm/suse/talloc-man&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/talloc-man&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -2028,7 +2028,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "tdb",
-				"purl": "purl:rpm/suse/tdb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/tdb&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -2196,7 +2196,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "tevent",
-				"purl": "purl:rpm/suse/tevent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/tevent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -2364,7 +2364,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "tevent-man",
-				"purl": "purl:rpm/suse/tevent-man&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/tevent-man&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -2532,7 +2532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2569,7 +2569,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2606,7 +2606,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2643,7 +2643,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "gnutls",
-				"purl": "purl:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/gnutls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2680,7 +2680,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "libnettle",
-				"purl": "purl:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2717,7 +2717,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "libtasn1",
-				"purl": "purl:rpm/suse/libtasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/libtasn1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2754,7 +2754,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "p11-kit",
-				"purl": "purl:rpm/suse/p11-kit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/p11-kit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -2791,7 +2791,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -2818,7 +2818,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -2846,7 +2846,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -2874,7 +2874,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
 			},
 			"ranges": [
 				{

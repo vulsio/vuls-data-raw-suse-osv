@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/java-11-openjdk&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

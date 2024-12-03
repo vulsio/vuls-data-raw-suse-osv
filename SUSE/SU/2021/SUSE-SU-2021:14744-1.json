@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS",
 				"name": "spice",
-				"purl": "purl:rpm/suse/spice&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
+				"purl": "pkg:rpm/suse/spice&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS"
 			},
 			"ranges": [
 				{

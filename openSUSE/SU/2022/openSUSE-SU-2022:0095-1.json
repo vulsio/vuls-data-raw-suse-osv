@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "openSUSE-build-key",
-				"purl": "purl:rpm/suse/openSUSE-build-key&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/openSUSE-build-key&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

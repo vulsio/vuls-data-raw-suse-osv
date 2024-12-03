@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "freeradius-server",
-				"purl": "purl:rpm/suse/freeradius-server&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/freeradius-server&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

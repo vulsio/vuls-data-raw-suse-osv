@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/re2c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/re2c&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/re2c&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/re2c&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/re2c&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "re2c",
-				"purl": "purl:rpm/suse/re2c&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/re2c&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

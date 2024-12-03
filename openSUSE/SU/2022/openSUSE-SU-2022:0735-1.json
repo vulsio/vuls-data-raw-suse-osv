@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "zsh",
-				"purl": "purl:rpm/suse/zsh&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/zsh&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

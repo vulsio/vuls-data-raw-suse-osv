@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "nautilus",
-				"purl": "purl:rpm/suse/nautilus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/nautilus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "nautilus",
-				"purl": "purl:rpm/suse/nautilus&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/nautilus&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "nautilus",
-				"purl": "purl:rpm/suse/nautilus&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/nautilus&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

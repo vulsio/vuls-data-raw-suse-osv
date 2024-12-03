@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "expat",
-				"purl": "purl:rpm/suse/expat&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/expat&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

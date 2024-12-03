@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "transfig",
-				"purl": "purl:rpm/suse/transfig&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/transfig&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

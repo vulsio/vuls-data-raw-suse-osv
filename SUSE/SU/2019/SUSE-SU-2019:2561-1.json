@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015"
+				"purl": "pkg:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP1",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP1"
+				"purl": "pkg:rpm/suse/openssl-1_0_0&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/openssl-1_0_0&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

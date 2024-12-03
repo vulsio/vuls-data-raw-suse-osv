@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/salt&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

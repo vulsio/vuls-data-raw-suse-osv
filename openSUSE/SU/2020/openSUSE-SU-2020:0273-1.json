@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "proftpd",
-				"purl": "purl:rpm/suse/proftpd&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/proftpd&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "proftpd",
-				"purl": "purl:rpm/suse/proftpd&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/proftpd&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "proftpd",
-				"purl": "purl:rpm/suse/proftpd&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/proftpd&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

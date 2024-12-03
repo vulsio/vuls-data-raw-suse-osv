@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

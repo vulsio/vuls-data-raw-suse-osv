@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP4",
 				"name": "aws-nitro-enclaves-cli",
-				"purl": "purl:rpm/suse/aws-nitro-enclaves-cli&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
+				"purl": "pkg:rpm/suse/aws-nitro-enclaves-cli&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "aws-nitro-enclaves-cli",
-				"purl": "purl:rpm/suse/aws-nitro-enclaves-cli&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/aws-nitro-enclaves-cli&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

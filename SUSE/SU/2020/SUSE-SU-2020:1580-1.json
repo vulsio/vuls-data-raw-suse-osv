@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "texlive",
-				"purl": "purl:rpm/suse/texlive&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/texlive&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -280,7 +280,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "texlive-filesystem",
-				"purl": "purl:rpm/suse/texlive-filesystem&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/texlive-filesystem&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

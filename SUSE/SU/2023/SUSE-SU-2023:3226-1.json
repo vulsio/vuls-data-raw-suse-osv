@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/gstreamer-plugins-ugly&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP2",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP2",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "postgresql13",
-				"purl": "purl:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/postgresql13&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{

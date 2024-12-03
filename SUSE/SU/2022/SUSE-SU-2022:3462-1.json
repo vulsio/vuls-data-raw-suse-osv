@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "slurm_18_08",
-				"purl": "purl:rpm/suse/slurm_18_08&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/slurm_18_08&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "slurm_18_08",
-				"purl": "purl:rpm/suse/slurm_18_08&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/slurm_18_08&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "slurm_18_08",
-				"purl": "purl:rpm/suse/slurm_18_08&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/slurm_18_08&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "slurm_18_08",
-				"purl": "purl:rpm/suse/slurm_18_08&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/slurm_18_08&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

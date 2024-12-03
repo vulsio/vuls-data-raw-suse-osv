@@ -30,7 +30,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "dwarves",
-				"purl": "purl:rpm/suse/dwarves&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/dwarves&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "elfutils",
-				"purl": "purl:rpm/suse/elfutils&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/elfutils&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

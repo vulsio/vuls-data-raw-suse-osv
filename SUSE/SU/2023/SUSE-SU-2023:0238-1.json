@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_28",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_30",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_31",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_28",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -121,7 +121,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_30",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_31",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -175,7 +175,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_28",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_28&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_30",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_30&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_31",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_31&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{

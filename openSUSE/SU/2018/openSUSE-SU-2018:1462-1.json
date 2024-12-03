@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "pdns",
-				"purl": "purl:rpm/suse/pdns&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/pdns&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{

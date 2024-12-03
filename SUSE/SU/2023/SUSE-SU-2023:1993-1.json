@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -60,7 +60,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/avahi-glib2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/avahi&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/avahi-glib2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

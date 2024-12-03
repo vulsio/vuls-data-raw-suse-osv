@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

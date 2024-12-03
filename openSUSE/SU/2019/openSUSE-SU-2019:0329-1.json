@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "obs-service-tar_scm",
-				"purl": "purl:rpm/suse/obs-service-tar_scm&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/obs-service-tar_scm&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

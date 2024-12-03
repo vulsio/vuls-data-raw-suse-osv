@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libsass",
-				"purl": "purl:rpm/suse/libsass&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libsass&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libsass",
-				"purl": "purl:rpm/suse/libsass&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libsass&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

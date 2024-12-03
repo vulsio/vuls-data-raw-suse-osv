@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "sane-backends",
-				"purl": "purl:rpm/suse/sane-backends&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/sane-backends&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{

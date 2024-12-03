@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "runc",
-				"purl": "purl:rpm/suse/runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{

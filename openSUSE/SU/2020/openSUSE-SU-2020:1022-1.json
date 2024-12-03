@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/ant&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -61,7 +61,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/ant-antlr&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/ant-junit&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "ant-junit5",
-				"purl": "purl:rpm/suse/ant-junit5&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/ant-junit5&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

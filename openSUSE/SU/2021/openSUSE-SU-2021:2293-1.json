@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "jdom2",
-				"purl": "purl:rpm/suse/jdom2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/jdom2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

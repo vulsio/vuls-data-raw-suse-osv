@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:WebYast 1.3",
 				"name": "ruby",
-				"purl": "purl:rpm/suse/ruby&distro=SUSE%20WebYast%201.3"
+				"purl": "pkg:rpm/suse/ruby&distro=SUSE%20WebYast%201.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "xstream",
-				"purl": "purl:rpm/suse/xstream&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/xstream&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{

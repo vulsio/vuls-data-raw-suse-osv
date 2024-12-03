@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "perl-DBD-SQLite",
-				"purl": "purl:rpm/suse/perl-DBD-SQLite&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/perl-DBD-SQLite&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

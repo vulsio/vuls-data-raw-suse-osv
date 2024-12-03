@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "python-SQLAlchemy",
-				"purl": "purl:rpm/suse/python-SQLAlchemy&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/python-SQLAlchemy&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

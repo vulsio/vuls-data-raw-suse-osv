@@ -29,7 +29,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

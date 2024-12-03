@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{

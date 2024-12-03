@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15",
 				"name": "resource-agents",
-				"purl": "purl:rpm/suse/resource-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
+				"purl": "pkg:rpm/suse/resource-agents&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
 			},
 			"ranges": [
 				{

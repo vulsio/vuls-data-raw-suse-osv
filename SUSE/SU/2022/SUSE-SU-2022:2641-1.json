@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "xscreensaver",
-				"purl": "purl:rpm/suse/xscreensaver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/xscreensaver&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "xscreensaver",
-				"purl": "purl:rpm/suse/xscreensaver&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/xscreensaver&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-setuptools-test",
-				"purl": "purl:rpm/suse/python-setuptools-test&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-setuptools-test&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-setuptools-wheel",
-				"purl": "purl:rpm/suse/python-setuptools-wheel&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-setuptools-wheel&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/python-setuptools&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-setuptools&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-setuptools-test",
-				"purl": "purl:rpm/suse/python-setuptools-test&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-setuptools-test&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -211,7 +211,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-setuptools-wheel",
-				"purl": "purl:rpm/suse/python-setuptools-wheel&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-setuptools-wheel&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

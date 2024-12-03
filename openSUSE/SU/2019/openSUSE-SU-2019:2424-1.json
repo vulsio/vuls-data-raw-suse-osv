@@ -32,7 +32,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "re2",
-				"purl": "purl:rpm/suse/re2&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/re2&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

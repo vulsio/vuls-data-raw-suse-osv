@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-psutil",
-				"purl": "purl:rpm/suse/saltbundlepy-psutil&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-psutil&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

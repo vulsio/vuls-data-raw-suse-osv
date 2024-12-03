@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "adcli",
-				"purl": "purl:rpm/suse/adcli&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/adcli&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "sssd",
-				"purl": "purl:rpm/suse/sssd&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/sssd&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

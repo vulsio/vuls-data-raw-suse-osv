@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP5",
 				"name": "kgraft-patch-SLE12-SP5_Update_18",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP5_Update_18&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_11",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_11&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_11&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_11",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_11&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_11&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15 SP2",
 				"name": "kernel-livepatch-SLE15-SP2_Update_12",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15-SP2_Update_12&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015%20SP2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 2.1",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Enterprise%20Storage%202.1"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Enterprise%20Storage%202.1"
 			},
 			"ranges": [
 				{

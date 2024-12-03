@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-Babel",
-				"purl": "purl:rpm/suse/python-Babel&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-Babel&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-Babel-doc",
-				"purl": "purl:rpm/suse/python-Babel-doc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-Babel-doc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

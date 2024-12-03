@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "gegl",
-				"purl": "purl:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP2",
 				"name": "gegl",
-				"purl": "purl:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "gegl",
-				"purl": "purl:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/gegl&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{

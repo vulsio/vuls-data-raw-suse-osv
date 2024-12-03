@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "python-ipython",
-				"purl": "purl:rpm/suse/python-ipython&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-ipython&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "python-ipython-test",
-				"purl": "purl:rpm/suse/python-ipython-test&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-ipython-test&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-ipython",
-				"purl": "purl:rpm/suse/python-ipython&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-ipython&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-ipython-test",
-				"purl": "purl:rpm/suse/python-ipython-test&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-ipython-test&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

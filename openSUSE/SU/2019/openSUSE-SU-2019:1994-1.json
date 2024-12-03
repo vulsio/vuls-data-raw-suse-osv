@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "schismtracker",
-				"purl": "purl:rpm/suse/schismtracker&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/schismtracker&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "schismtracker",
-				"purl": "purl:rpm/suse/schismtracker&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/schismtracker&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

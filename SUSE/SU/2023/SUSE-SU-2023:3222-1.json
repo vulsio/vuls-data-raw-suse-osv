@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "apache2-mod_wsgi",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "apache2-mod_wsgi",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
 				"name": "apache2-mod_wsgi",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.2",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.2"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.3",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.3"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Manager%20Proxy%20Module%204.3"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/apache2-mod_wsgi-python3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -228,7 +228,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "apache2-mod_wsgi",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/apache2-mod_wsgi&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -256,7 +256,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "apache2-mod_wsgi-python3",
-				"purl": "purl:rpm/suse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/apache2-mod_wsgi-python3&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

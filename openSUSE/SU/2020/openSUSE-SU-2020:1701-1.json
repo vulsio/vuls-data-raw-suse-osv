@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "bind",
-				"purl": "purl:rpm/suse/bind&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/bind&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libuv",
-				"purl": "purl:rpm/suse/libuv&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libuv&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -129,7 +129,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "sysuser-tools",
-				"purl": "purl:rpm/suse/sysuser-tools&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/sysuser-tools&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

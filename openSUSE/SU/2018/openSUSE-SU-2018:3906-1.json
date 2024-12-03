@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "SDL2_image",
-				"purl": "purl:rpm/suse/SDL2_image&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/SDL2_image&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

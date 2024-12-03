@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "libmirage",
-				"purl": "purl:rpm/suse/libmirage&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/libmirage&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "libmirage",
-				"purl": "purl:rpm/suse/libmirage&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/libmirage&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -112,7 +112,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "perl-Authen-SASL",
-				"purl": "purl:rpm/suse/perl-Authen-SASL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/perl-Authen-SASL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "perl-Net-SMTP-SSL",
-				"purl": "purl:rpm/suse/perl-Net-SMTP-SSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/perl-Net-SMTP-SSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/git&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "perl-Authen-SASL",
-				"purl": "purl:rpm/suse/perl-Authen-SASL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/perl-Authen-SASL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -264,7 +264,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "perl-Net-SMTP-SSL",
-				"purl": "purl:rpm/suse/perl-Net-SMTP-SSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/perl-Net-SMTP-SSL&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{

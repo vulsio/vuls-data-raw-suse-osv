@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "jabberd",
-				"purl": "purl:rpm/suse/jabberd&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/jabberd&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -58,7 +58,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "osad",
-				"purl": "purl:rpm/suse/osad&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/osad&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "rhnpush",
-				"purl": "purl:rpm/suse/rhnpush&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/rhnpush&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -196,7 +196,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalk-proxy",
-				"purl": "purl:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-proxy&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -288,7 +288,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -334,7 +334,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "spacewalksd",
-				"purl": "purl:rpm/suse/spacewalksd&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/spacewalksd&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -380,7 +380,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -426,7 +426,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "zypp-plugin-spacewalk",
-				"purl": "purl:rpm/suse/zypp-plugin-spacewalk&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/zypp-plugin-spacewalk&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{

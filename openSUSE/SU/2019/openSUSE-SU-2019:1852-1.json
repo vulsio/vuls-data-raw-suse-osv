@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "aubio",
-				"purl": "purl:rpm/suse/aubio&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/aubio&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "python-aubio",
-				"purl": "purl:rpm/suse/python-aubio&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/python-aubio&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

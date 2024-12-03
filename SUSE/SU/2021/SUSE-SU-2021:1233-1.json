@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "system-user-grafana",
-				"purl": "purl:rpm/suse/system-user-grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/system-user-grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "system-user-grafana",
-				"purl": "purl:rpm/suse/system-user-grafana&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/system-user-grafana&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

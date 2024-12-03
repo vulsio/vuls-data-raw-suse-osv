@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12-LTSS",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012-LTSS"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{

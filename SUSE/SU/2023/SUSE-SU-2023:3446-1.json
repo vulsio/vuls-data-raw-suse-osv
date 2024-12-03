@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/xen&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{

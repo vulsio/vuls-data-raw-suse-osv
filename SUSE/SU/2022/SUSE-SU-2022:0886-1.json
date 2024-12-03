@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{

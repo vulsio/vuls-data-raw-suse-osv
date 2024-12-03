@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_38",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_37",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_38",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_37",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -121,7 +121,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kgraft-patch-SLE12-SP3_Update_38",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kgraft-patch-SLE12-SP3_Update_37",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -175,7 +175,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kgraft-patch-SLE12-SP3_Update_38",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_38&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "kgraft-patch-SLE12-SP3_Update_37",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_37&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{

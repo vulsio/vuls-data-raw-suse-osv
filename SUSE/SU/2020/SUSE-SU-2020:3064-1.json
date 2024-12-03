@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 12",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Manager%20Client%20Tools%2012"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Manager%20Client%20Tools%2012"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 12 SP2",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -145,7 +145,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.2",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Manager%20Proxy%203.2"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Manager%20Proxy%203.2"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -199,7 +199,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/zeromq&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

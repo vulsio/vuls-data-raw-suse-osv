@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "srt",
-				"purl": "purl:rpm/suse/srt&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/srt&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openssl",
-				"purl": "purl:rpm/suse/openssl&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openssl&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "openssl",
-				"purl": "purl:rpm/suse/openssl&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/openssl&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "openssl",
-				"purl": "purl:rpm/suse/openssl&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/openssl&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{

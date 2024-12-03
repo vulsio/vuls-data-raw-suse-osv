@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/icu73_2&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -165,7 +165,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -195,7 +195,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -226,7 +226,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -255,7 +255,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/icu73_2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/icu73_2&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -316,7 +316,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "icu73_2",
-				"purl": "purl:rpm/suse/icu73_2&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/icu73_2&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

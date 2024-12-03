@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "subversion",
-				"purl": "purl:rpm/suse/subversion&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/subversion&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

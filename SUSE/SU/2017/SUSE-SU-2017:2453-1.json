@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "salt-netapi-client",
-				"purl": "purl:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "smdba",
-				"purl": "purl:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -225,7 +225,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -296,7 +296,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-config",
-				"purl": "purl:rpm/suse/spacewalk-config&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-config&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -367,7 +367,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -438,7 +438,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-search",
-				"purl": "purl:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -509,7 +509,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-setup-jabberd",
-				"purl": "purl:rpm/suse/spacewalk-setup-jabberd&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-setup-jabberd&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -580,7 +580,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -651,7 +651,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -722,7 +722,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -793,7 +793,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -864,7 +864,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{
@@ -935,7 +935,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.0",
 				"name": "virtual-host-gatherer",
-				"purl": "purl:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%203.0"
+				"purl": "pkg:rpm/suse/virtual-host-gatherer&distro=SUSE%20Manager%20Server%203.0"
 			},
 			"ranges": [
 				{

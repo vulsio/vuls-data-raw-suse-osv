@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -224,7 +224,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -261,7 +261,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -298,7 +298,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -335,7 +335,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -372,7 +372,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -409,7 +409,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -446,7 +446,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -483,7 +483,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -520,7 +520,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -557,7 +557,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -594,7 +594,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-devel-doc&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -631,7 +631,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -668,7 +668,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -700,7 +700,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -732,7 +732,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -764,7 +764,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/libqt4-sql-plugins&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

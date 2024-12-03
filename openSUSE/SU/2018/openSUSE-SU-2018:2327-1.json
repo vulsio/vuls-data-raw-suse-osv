@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "python-Django",
-				"purl": "purl:rpm/suse/python-Django&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/python-Django&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

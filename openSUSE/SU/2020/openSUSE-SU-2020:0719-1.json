@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/dom4j&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

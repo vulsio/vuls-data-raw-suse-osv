@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015"
+				"purl": "pkg:rpm/suse/apache2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015"
 			},
 			"ranges": [
 				{

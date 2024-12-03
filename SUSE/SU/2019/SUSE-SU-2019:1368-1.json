@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "system-user-root",
-				"purl": "purl:rpm/suse/system-user-root&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/system-user-root&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "suse-sles12sp3-image",
-				"purl": "purl:rpm/suse/suse-sles12sp3-image&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/suse-sles12sp3-image&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{

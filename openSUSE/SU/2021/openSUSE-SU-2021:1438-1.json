@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "apache2",
-				"purl": "purl:rpm/suse/apache2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/apache2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

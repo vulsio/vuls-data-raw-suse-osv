@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "openssl-1_1",
-				"purl": "purl:rpm/suse/openssl-1_1&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/openssl-1_1&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

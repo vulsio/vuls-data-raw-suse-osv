@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Manager%20Proxy%20Module%204.2"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Manager%20Proxy%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/grub2&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/grub2&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -166,7 +166,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/grub2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

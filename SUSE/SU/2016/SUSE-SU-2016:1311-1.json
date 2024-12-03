@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "yast2-ntp-client",
-				"purl": "purl:rpm/suse/yast2-ntp-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/yast2-ntp-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -183,7 +183,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -211,7 +211,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "ntp",
-				"purl": "purl:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/ntp&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{

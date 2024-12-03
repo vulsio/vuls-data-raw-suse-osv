@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/postgresql&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

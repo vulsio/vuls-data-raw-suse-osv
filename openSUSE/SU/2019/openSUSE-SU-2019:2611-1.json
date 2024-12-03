@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libidn2",
-				"purl": "purl:rpm/suse/libidn2&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libidn2&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

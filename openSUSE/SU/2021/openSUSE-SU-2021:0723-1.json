@@ -32,7 +32,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "virtualbox",
-				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/virtualbox&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "virtualbox-kmp",
-				"purl": "purl:rpm/suse/virtualbox-kmp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/virtualbox-kmp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

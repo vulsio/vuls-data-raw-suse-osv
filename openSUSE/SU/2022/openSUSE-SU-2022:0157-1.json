@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "zxing-cpp",
-				"purl": "purl:rpm/suse/zxing-cpp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/zxing-cpp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

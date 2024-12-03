@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "libraw",
-				"purl": "purl:rpm/suse/libraw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/libraw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libraw",
-				"purl": "purl:rpm/suse/libraw&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libraw&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

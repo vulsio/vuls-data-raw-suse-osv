@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015"
+				"purl": "pkg:rpm/suse/kernel-default&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 15",
 				"name": "kernel-livepatch-SLE15_Update_5",
-				"purl": "purl:rpm/suse/kernel-livepatch-SLE15_Update_5&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015"
+				"purl": "pkg:rpm/suse/kernel-livepatch-SLE15_Update_5&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2015"
 			},
 			"ranges": [
 				{

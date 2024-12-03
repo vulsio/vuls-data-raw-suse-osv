@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "mariadb",
-				"purl": "purl:rpm/suse/mariadb&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/mariadb&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

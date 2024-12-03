@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6-LTSS",
 				"name": "rubygem-puma",
-				"purl": "purl:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%206-LTSS"
+				"purl": "pkg:rpm/suse/rubygem-puma&distro=SUSE%20OpenStack%20Cloud%206-LTSS"
 			},
 			"ranges": [
 				{

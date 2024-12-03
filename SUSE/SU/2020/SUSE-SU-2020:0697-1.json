@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "cni",
-				"purl": "purl:rpm/suse/cni&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/cni&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "cni-plugins",
-				"purl": "purl:rpm/suse/cni-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/cni-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "conmon",
-				"purl": "purl:rpm/suse/conmon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/conmon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "fuse-overlayfs",
-				"purl": "purl:rpm/suse/fuse-overlayfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/fuse-overlayfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "cni",
-				"purl": "purl:rpm/suse/cni&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/cni&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "cni-plugins",
-				"purl": "purl:rpm/suse/cni-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/cni-plugins&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{

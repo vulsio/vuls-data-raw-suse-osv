@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "multimon-ng",
-				"purl": "purl:rpm/suse/multimon-ng&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/multimon-ng&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "multimon-ng",
-				"purl": "purl:rpm/suse/multimon-ng&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/multimon-ng&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

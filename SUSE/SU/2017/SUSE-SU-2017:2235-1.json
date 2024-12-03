@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -118,7 +118,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "firefox-gcc5",
-				"purl": "purl:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -223,7 +223,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "firefox-libffi-gcc5",
-				"purl": "purl:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -258,7 +258,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -293,7 +293,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -331,7 +331,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -369,7 +369,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "firefox-gcc5",
-				"purl": "purl:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -407,7 +407,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "firefox-libffi-gcc5",
-				"purl": "purl:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -445,197 +445,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "3.29.5-47.3.2"
-						}
-					]
-				}
-			],
-			"ecosystem_specific": {
-				"binaries": [
-					{
-						"MozillaFirefox": "52.2.0esr-72.5.2",
-						"MozillaFirefox-branding-SLED": "52-24.3.44",
-						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
-						"firefox-libffi4": "5.3.1+r233831-7.1",
-						"firefox-libstdc++6": "5.3.1+r233831-7.1",
-						"libfreebl3": "3.29.5-47.3.2",
-						"libfreebl3-32bit": "3.29.5-47.3.2",
-						"libsoftokn3": "3.29.5-47.3.2",
-						"libsoftokn3-32bit": "3.29.5-47.3.2",
-						"mozilla-nss": "3.29.5-47.3.2",
-						"mozilla-nss-32bit": "3.29.5-47.3.2",
-						"mozilla-nss-tools": "3.29.5-47.3.2"
-					}
-				]
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
-				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "52.2.0esr-72.5.2"
-						}
-					]
-				}
-			],
-			"ecosystem_specific": {
-				"binaries": [
-					{
-						"MozillaFirefox": "52.2.0esr-72.5.2",
-						"MozillaFirefox-branding-SLED": "52-24.3.44",
-						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
-						"firefox-libffi4": "5.3.1+r233831-7.1",
-						"firefox-libstdc++6": "5.3.1+r233831-7.1",
-						"libfreebl3": "3.29.5-47.3.2",
-						"libfreebl3-32bit": "3.29.5-47.3.2",
-						"libsoftokn3": "3.29.5-47.3.2",
-						"libsoftokn3-32bit": "3.29.5-47.3.2",
-						"mozilla-nss": "3.29.5-47.3.2",
-						"mozilla-nss-32bit": "3.29.5-47.3.2",
-						"mozilla-nss-tools": "3.29.5-47.3.2"
-					}
-				]
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
-				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "52-24.3.44"
-						}
-					]
-				}
-			],
-			"ecosystem_specific": {
-				"binaries": [
-					{
-						"MozillaFirefox": "52.2.0esr-72.5.2",
-						"MozillaFirefox-branding-SLED": "52-24.3.44",
-						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
-						"firefox-libffi4": "5.3.1+r233831-7.1",
-						"firefox-libstdc++6": "5.3.1+r233831-7.1",
-						"libfreebl3": "3.29.5-47.3.2",
-						"libfreebl3-32bit": "3.29.5-47.3.2",
-						"libsoftokn3": "3.29.5-47.3.2",
-						"libsoftokn3-32bit": "3.29.5-47.3.2",
-						"mozilla-nss": "3.29.5-47.3.2",
-						"mozilla-nss-32bit": "3.29.5-47.3.2",
-						"mozilla-nss-tools": "3.29.5-47.3.2"
-					}
-				]
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
-				"name": "firefox-gcc5",
-				"purl": "purl:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "5.3.1+r233831-7.1"
-						}
-					]
-				}
-			],
-			"ecosystem_specific": {
-				"binaries": [
-					{
-						"MozillaFirefox": "52.2.0esr-72.5.2",
-						"MozillaFirefox-branding-SLED": "52-24.3.44",
-						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
-						"firefox-libffi4": "5.3.1+r233831-7.1",
-						"firefox-libstdc++6": "5.3.1+r233831-7.1",
-						"libfreebl3": "3.29.5-47.3.2",
-						"libfreebl3-32bit": "3.29.5-47.3.2",
-						"libsoftokn3": "3.29.5-47.3.2",
-						"libsoftokn3-32bit": "3.29.5-47.3.2",
-						"mozilla-nss": "3.29.5-47.3.2",
-						"mozilla-nss-32bit": "3.29.5-47.3.2",
-						"mozilla-nss-tools": "3.29.5-47.3.2"
-					}
-				]
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
-				"name": "firefox-libffi-gcc5",
-				"purl": "purl:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "5.3.1+r233831-7.1"
-						}
-					]
-				}
-			],
-			"ecosystem_specific": {
-				"binaries": [
-					{
-						"MozillaFirefox": "52.2.0esr-72.5.2",
-						"MozillaFirefox-branding-SLED": "52-24.3.44",
-						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
-						"firefox-libffi4": "5.3.1+r233831-7.1",
-						"firefox-libstdc++6": "5.3.1+r233831-7.1",
-						"libfreebl3": "3.29.5-47.3.2",
-						"libfreebl3-32bit": "3.29.5-47.3.2",
-						"libsoftokn3": "3.29.5-47.3.2",
-						"libsoftokn3-32bit": "3.29.5-47.3.2",
-						"mozilla-nss": "3.29.5-47.3.2",
-						"mozilla-nss-32bit": "3.29.5-47.3.2",
-						"mozilla-nss-tools": "3.29.5-47.3.2"
-					}
-				]
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
-				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -671,9 +481,199 @@
 		},
 		{
 			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
+				"name": "MozillaFirefox",
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "52.2.0esr-72.5.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "52.2.0esr-72.5.2",
+						"MozillaFirefox-branding-SLED": "52-24.3.44",
+						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
+						"firefox-libffi4": "5.3.1+r233831-7.1",
+						"firefox-libstdc++6": "5.3.1+r233831-7.1",
+						"libfreebl3": "3.29.5-47.3.2",
+						"libfreebl3-32bit": "3.29.5-47.3.2",
+						"libsoftokn3": "3.29.5-47.3.2",
+						"libsoftokn3-32bit": "3.29.5-47.3.2",
+						"mozilla-nss": "3.29.5-47.3.2",
+						"mozilla-nss-32bit": "3.29.5-47.3.2",
+						"mozilla-nss-tools": "3.29.5-47.3.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
+				"name": "MozillaFirefox-branding-SLED",
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "52-24.3.44"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "52.2.0esr-72.5.2",
+						"MozillaFirefox-branding-SLED": "52-24.3.44",
+						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
+						"firefox-libffi4": "5.3.1+r233831-7.1",
+						"firefox-libstdc++6": "5.3.1+r233831-7.1",
+						"libfreebl3": "3.29.5-47.3.2",
+						"libfreebl3-32bit": "3.29.5-47.3.2",
+						"libsoftokn3": "3.29.5-47.3.2",
+						"libsoftokn3-32bit": "3.29.5-47.3.2",
+						"mozilla-nss": "3.29.5-47.3.2",
+						"mozilla-nss-32bit": "3.29.5-47.3.2",
+						"mozilla-nss-tools": "3.29.5-47.3.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
+				"name": "firefox-gcc5",
+				"purl": "pkg:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.3.1+r233831-7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "52.2.0esr-72.5.2",
+						"MozillaFirefox-branding-SLED": "52-24.3.44",
+						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
+						"firefox-libffi4": "5.3.1+r233831-7.1",
+						"firefox-libstdc++6": "5.3.1+r233831-7.1",
+						"libfreebl3": "3.29.5-47.3.2",
+						"libfreebl3-32bit": "3.29.5-47.3.2",
+						"libsoftokn3": "3.29.5-47.3.2",
+						"libsoftokn3-32bit": "3.29.5-47.3.2",
+						"mozilla-nss": "3.29.5-47.3.2",
+						"mozilla-nss-32bit": "3.29.5-47.3.2",
+						"mozilla-nss-tools": "3.29.5-47.3.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
+				"name": "firefox-libffi-gcc5",
+				"purl": "pkg:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.3.1+r233831-7.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "52.2.0esr-72.5.2",
+						"MozillaFirefox-branding-SLED": "52-24.3.44",
+						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
+						"firefox-libffi4": "5.3.1+r233831-7.1",
+						"firefox-libstdc++6": "5.3.1+r233831-7.1",
+						"libfreebl3": "3.29.5-47.3.2",
+						"libfreebl3-32bit": "3.29.5-47.3.2",
+						"libsoftokn3": "3.29.5-47.3.2",
+						"libsoftokn3-32bit": "3.29.5-47.3.2",
+						"mozilla-nss": "3.29.5-47.3.2",
+						"mozilla-nss-32bit": "3.29.5-47.3.2",
+						"mozilla-nss-tools": "3.29.5-47.3.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
+				"name": "mozilla-nss",
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.29.5-47.3.2"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"MozillaFirefox": "52.2.0esr-72.5.2",
+						"MozillaFirefox-branding-SLED": "52-24.3.44",
+						"MozillaFirefox-translations": "52.2.0esr-72.5.2",
+						"firefox-libffi4": "5.3.1+r233831-7.1",
+						"firefox-libstdc++6": "5.3.1+r233831-7.1",
+						"libfreebl3": "3.29.5-47.3.2",
+						"libfreebl3-32bit": "3.29.5-47.3.2",
+						"libsoftokn3": "3.29.5-47.3.2",
+						"libsoftokn3-32bit": "3.29.5-47.3.2",
+						"mozilla-nss": "3.29.5-47.3.2",
+						"mozilla-nss-32bit": "3.29.5-47.3.2",
+						"mozilla-nss-tools": "3.29.5-47.3.2"
+					}
+				]
+			}
+		},
+		{
+			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -714,7 +714,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -755,7 +755,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "firefox-gcc5",
-				"purl": "purl:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -796,7 +796,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "firefox-libffi-gcc5",
-				"purl": "purl:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -837,7 +837,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -878,7 +878,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -919,7 +919,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "MozillaFirefox-branding-SLED",
-				"purl": "purl:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/MozillaFirefox-branding-SLED&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -960,7 +960,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "firefox-gcc5",
-				"purl": "purl:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/firefox-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1001,7 +1001,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "firefox-libffi-gcc5",
-				"purl": "purl:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/firefox-libffi-gcc5&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1042,7 +1042,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/mozilla-nss&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

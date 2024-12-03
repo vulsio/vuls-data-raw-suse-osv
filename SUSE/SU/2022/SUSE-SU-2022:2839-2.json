@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

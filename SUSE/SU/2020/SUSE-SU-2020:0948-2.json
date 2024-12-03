@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Certifications 15 SP3",
 				"name": "gmp",
-				"purl": "purl:rpm/suse/gmp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
+				"purl": "pkg:rpm/suse/gmp&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Certifications 15 SP3",
 				"name": "libnettle",
-				"purl": "purl:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libnettle&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
 			},
 			"ranges": [
 				{

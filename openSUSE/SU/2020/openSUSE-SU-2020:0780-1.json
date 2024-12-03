@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libcroco",
-				"purl": "purl:rpm/suse/libcroco&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libcroco&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

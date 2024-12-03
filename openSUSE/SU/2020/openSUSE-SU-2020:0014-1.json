@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "php7-imagick",
-				"purl": "purl:rpm/suse/php7-imagick&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/php7-imagick&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "php7-imagick",
-				"purl": "purl:rpm/suse/php7-imagick&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/php7-imagick&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "php7-imagick",
-				"purl": "purl:rpm/suse/php7-imagick&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/php7-imagick&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

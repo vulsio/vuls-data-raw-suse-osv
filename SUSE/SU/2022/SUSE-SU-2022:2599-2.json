@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/xen&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

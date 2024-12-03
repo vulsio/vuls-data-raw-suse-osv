@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP1",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP1",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
+				"purl": "pkg:rpm/suse/tidy&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
 			},
 			"ranges": [
 				{

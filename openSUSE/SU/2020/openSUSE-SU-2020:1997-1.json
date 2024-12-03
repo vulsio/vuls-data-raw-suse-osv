@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "blueman",
-				"purl": "purl:rpm/suse/blueman&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/blueman&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "blueman",
-				"purl": "purl:rpm/suse/blueman&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/blueman&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "squirrel",
-				"purl": "purl:rpm/suse/squirrel&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/squirrel&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "squirrel",
-				"purl": "purl:rpm/suse/squirrel&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/squirrel&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

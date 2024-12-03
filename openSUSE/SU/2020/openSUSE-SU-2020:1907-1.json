@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libunwind",
-				"purl": "purl:rpm/suse/libunwind&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libunwind&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "zeromq",
-				"purl": "purl:rpm/suse/zeromq&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/zeromq&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

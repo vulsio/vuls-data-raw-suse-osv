@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP4",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -100,7 +100,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
+				"purl": "pkg:rpm/suse/wireshark&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/wireshark&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -160,7 +160,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/wireshark&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

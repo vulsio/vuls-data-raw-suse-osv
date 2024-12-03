@@ -26,7 +26,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "java-11-openjdk",
-				"purl": "purl:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/java-11-openjdk&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{

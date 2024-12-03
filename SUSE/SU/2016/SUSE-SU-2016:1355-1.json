@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-Pillow&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

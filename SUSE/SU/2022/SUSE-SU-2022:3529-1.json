@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 12",
 				"name": "sendmail",
-				"purl": "purl:rpm/suse/sendmail&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
+				"purl": "pkg:rpm/suse/sendmail&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
 			},
 			"ranges": [
 				{

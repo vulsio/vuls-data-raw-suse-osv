@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -159,7 +159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -190,7 +190,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/dbus-1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -221,7 +221,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/dbus-1-x11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -252,7 +252,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/dbus-1&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -281,7 +281,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/dbus-1-x11&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -310,7 +310,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/dbus-1&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/dbus-1-x11&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -376,7 +376,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "dbus-1",
-				"purl": "purl:rpm/suse/dbus-1&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/dbus-1&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -409,7 +409,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "dbus-1-x11",
-				"purl": "purl:rpm/suse/dbus-1-x11&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/dbus-1-x11&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

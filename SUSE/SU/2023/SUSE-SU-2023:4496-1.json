@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "frozen",
-				"purl": "purl:rpm/suse/frozen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/frozen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -187,7 +187,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -362,7 +362,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -537,7 +537,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -712,7 +712,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "mdds-2_1",
-				"purl": "purl:rpm/suse/mdds-2_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/mdds-2_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -887,7 +887,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "frozen",
-				"purl": "purl:rpm/suse/frozen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/frozen&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1067,7 +1067,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1247,7 +1247,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1427,7 +1427,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1607,7 +1607,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "mdds-2_1",
-				"purl": "purl:rpm/suse/mdds-2_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/mdds-2_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -1787,7 +1787,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -1906,7 +1906,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2025,7 +2025,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -2144,7 +2144,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -2263,7 +2263,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -2382,7 +2382,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP5",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -2501,7 +2501,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "frozen",
-				"purl": "purl:rpm/suse/frozen&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/frozen&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2681,7 +2681,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libixion&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2861,7 +2861,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/liborcus&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3041,7 +3041,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3221,7 +3221,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "mdds-2_1",
-				"purl": "purl:rpm/suse/mdds-2_1&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/mdds-2_1&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -3401,7 +3401,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "frozen",
-				"purl": "purl:rpm/suse/frozen&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/frozen&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3581,7 +3581,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/libixion&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3761,7 +3761,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/liborcus&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -3941,7 +3941,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/libreoffice&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -4121,7 +4121,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "mdds-2_1",
-				"purl": "purl:rpm/suse/mdds-2_1&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/mdds-2_1&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

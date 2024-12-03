@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "libcontainers-common",
-				"purl": "purl:rpm/suse/libcontainers-common&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/libcontainers-common&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "fuse-overlayfs",
-				"purl": "purl:rpm/suse/fuse-overlayfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/fuse-overlayfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "fuse3",
-				"purl": "purl:rpm/suse/fuse3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/fuse3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -137,7 +137,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{

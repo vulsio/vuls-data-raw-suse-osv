@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/dpdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "dpdk-thunderx",
-				"purl": "purl:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/dpdk-thunderx&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dpdk",
-				"purl": "purl:rpm/suse/dpdk&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dpdk&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dpdk-thunderx",
-				"purl": "purl:rpm/suse/dpdk-thunderx&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dpdk-thunderx&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

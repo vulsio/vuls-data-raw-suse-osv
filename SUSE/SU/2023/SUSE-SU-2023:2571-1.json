@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -141,7 +141,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -207,7 +207,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -240,7 +240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.4",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Micro%205.4"
 			},
 			"ranges": [
 				{
@@ -273,7 +273,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -308,7 +308,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -343,7 +343,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -378,7 +378,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -413,7 +413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -442,7 +442,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -471,7 +471,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -500,7 +500,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -527,7 +527,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP5",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -554,7 +554,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -588,7 +588,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Transactional Server 15 SP4",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Transactional%20Server%2015%20SP4"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Transactional%20Server%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -615,7 +615,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -644,7 +644,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -673,7 +673,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -702,7 +702,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -731,7 +731,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -789,7 +789,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -818,7 +818,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -847,7 +847,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -876,7 +876,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -905,7 +905,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -934,7 +934,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -963,7 +963,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -992,7 +992,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -1021,7 +1021,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -1050,7 +1050,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1079,7 +1079,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -1108,7 +1108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1137,7 +1137,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1166,7 +1166,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -1195,7 +1195,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1224,7 +1224,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -1253,7 +1253,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1282,7 +1282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -1311,7 +1311,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1340,7 +1340,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1369,7 +1369,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -1398,7 +1398,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1427,7 +1427,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1456,7 +1456,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -1485,7 +1485,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1516,7 +1516,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1547,7 +1547,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -1578,7 +1578,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -1607,7 +1607,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -1636,7 +1636,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -1665,7 +1665,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -1694,7 +1694,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -1723,7 +1723,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -1752,7 +1752,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -1781,7 +1781,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -1810,7 +1810,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/python-jmespath&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -1839,7 +1839,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/python-ply&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -1868,7 +1868,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/python-simplejson&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -1897,7 +1897,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/python-jmespath&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -1930,7 +1930,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/python-ply&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -1963,7 +1963,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/python-simplejson&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -1996,7 +1996,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/salt&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -2029,7 +2029,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-jmespath&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2074,7 +2074,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-ply&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2119,7 +2119,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-simplejson&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2164,7 +2164,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/salt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2209,7 +2209,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-jmespath",
-				"purl": "purl:rpm/suse/python-jmespath&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-jmespath&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -2239,7 +2239,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-ply",
-				"purl": "purl:rpm/suse/python-ply&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-ply&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -2269,7 +2269,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "python-simplejson",
-				"purl": "purl:rpm/suse/python-simplejson&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/python-simplejson&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

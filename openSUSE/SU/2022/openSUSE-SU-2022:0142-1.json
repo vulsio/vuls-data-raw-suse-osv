@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "libxls",
-				"purl": "purl:rpm/suse/libxls&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/libxls&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libxls",
-				"purl": "purl:rpm/suse/libxls&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libxls&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

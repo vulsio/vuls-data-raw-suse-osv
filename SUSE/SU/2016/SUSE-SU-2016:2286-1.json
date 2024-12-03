@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 2.1",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Manager%20Proxy%202.1"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Manager%20Proxy%202.1"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Point of Sale 11 SP3",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Point%20of%20Sale%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-LTSS",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{

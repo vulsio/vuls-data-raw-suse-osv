@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "python-waitress",
-				"purl": "purl:rpm/suse/python-waitress&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/python-waitress&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

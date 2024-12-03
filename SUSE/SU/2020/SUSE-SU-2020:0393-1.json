@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "fontforge",
-				"purl": "purl:rpm/suse/fontforge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/fontforge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "fontforge",
-				"purl": "purl:rpm/suse/fontforge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/fontforge&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{

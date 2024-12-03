@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "libtomcrypt",
-				"purl": "purl:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "libtomcrypt",
-				"purl": "purl:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "libtomcrypt",
-				"purl": "purl:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/libtomcrypt&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

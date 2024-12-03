@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "Mesa",
-				"purl": "purl:rpm/suse/Mesa&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/Mesa&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "Mesa-drivers",
-				"purl": "purl:rpm/suse/Mesa-drivers&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/Mesa-drivers&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

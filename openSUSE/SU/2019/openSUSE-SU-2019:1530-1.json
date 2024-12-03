@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libpng16",
-				"purl": "purl:rpm/suse/libpng16&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libpng16&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libpng16",
-				"purl": "purl:rpm/suse/libpng16&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libpng16&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

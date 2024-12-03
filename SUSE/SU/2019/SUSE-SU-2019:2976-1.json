@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "bash",
-				"purl": "purl:rpm/suse/bash&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/bash&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "bash",
-				"purl": "purl:rpm/suse/bash&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/bash&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{

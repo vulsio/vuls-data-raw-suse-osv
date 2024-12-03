@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "tor",
-				"purl": "purl:rpm/suse/tor&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/tor&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/libaom&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/libaom&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libaom&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libaom&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

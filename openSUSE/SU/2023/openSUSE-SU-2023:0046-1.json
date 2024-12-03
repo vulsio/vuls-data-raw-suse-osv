@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "postgresql12-timescaledb",
-				"purl": "purl:rpm/suse/postgresql12-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/postgresql12-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "postgresql13-timescaledb",
-				"purl": "purl:rpm/suse/postgresql13-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/postgresql13-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "postgresql14-timescaledb",
-				"purl": "purl:rpm/suse/postgresql14-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/postgresql14-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "postgresql15-timescaledb",
-				"purl": "purl:rpm/suse/postgresql15-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/postgresql15-timescaledb&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "postgresql12-timescaledb",
-				"purl": "purl:rpm/suse/postgresql12-timescaledb&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/postgresql12-timescaledb&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "postgresql13-timescaledb",
-				"purl": "purl:rpm/suse/postgresql13-timescaledb&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/postgresql13-timescaledb&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "postgresql14-timescaledb",
-				"purl": "purl:rpm/suse/postgresql14-timescaledb&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/postgresql14-timescaledb&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -222,7 +222,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "postgresql15-timescaledb",
-				"purl": "purl:rpm/suse/postgresql15-timescaledb&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/postgresql15-timescaledb&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

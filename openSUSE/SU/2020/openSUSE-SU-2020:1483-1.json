@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "perl-DBI",
-				"purl": "purl:rpm/suse/perl-DBI&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/perl-DBI&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

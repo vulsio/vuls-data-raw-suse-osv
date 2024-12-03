@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-Jinja2",
-				"purl": "purl:rpm/suse/python-Jinja2&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-Jinja2&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-Jinja2",
-				"purl": "purl:rpm/suse/python-Jinja2&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-Jinja2&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

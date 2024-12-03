@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python39-pip",
-				"purl": "purl:rpm/suse/python39-pip&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python39-pip&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

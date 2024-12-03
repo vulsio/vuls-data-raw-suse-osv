@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "poppler",
-				"purl": "purl:rpm/suse/poppler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/poppler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "poppler",
-				"purl": "purl:rpm/suse/poppler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/poppler&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "poppler-qt5",
-				"purl": "purl:rpm/suse/poppler-qt5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/poppler-qt5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "poppler",
-				"purl": "purl:rpm/suse/poppler&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/poppler&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -146,7 +146,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "poppler-qt5",
-				"purl": "purl:rpm/suse/poppler-qt5&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/poppler-qt5&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -187,7 +187,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "poppler-qt6",
-				"purl": "purl:rpm/suse/poppler-qt6&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/poppler-qt6&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP5",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP5",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/samba&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

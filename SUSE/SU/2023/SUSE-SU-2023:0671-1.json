@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/qemu&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -193,7 +193,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -269,7 +269,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qemu-linux-user",
-				"purl": "purl:rpm/suse/qemu-linux-user&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qemu-linux-user&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -345,7 +345,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qemu-testsuite",
-				"purl": "purl:rpm/suse/qemu-testsuite&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qemu-testsuite&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

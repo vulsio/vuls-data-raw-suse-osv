@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP1",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
+				"purl": "pkg:rpm/suse/php7&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
 			},
 			"ranges": [
 				{

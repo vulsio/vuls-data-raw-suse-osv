@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "file-roller",
-				"purl": "purl:rpm/suse/file-roller&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/file-roller&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

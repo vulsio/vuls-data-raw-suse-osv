@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf",
-				"purl": "purl:rpm/suse/netcdf&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf-openmpi2",
-				"purl": "purl:rpm/suse/netcdf-openmpi2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf-openmpi2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -205,7 +205,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf-openmpi3",
-				"purl": "purl:rpm/suse/netcdf-openmpi3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf-openmpi3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -294,7 +294,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf-openmpi4",
-				"purl": "purl:rpm/suse/netcdf-openmpi4&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf-openmpi4&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -383,7 +383,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -472,7 +472,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mpich-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-mpich-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -561,7 +561,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-mvapich2-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -650,7 +650,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -739,7 +739,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-openmpi3-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -828,7 +828,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf_4_7_4-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf_4_7_4-gnu-openmpi4-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

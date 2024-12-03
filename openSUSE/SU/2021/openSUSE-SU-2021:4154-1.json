@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "p11-kit",
-				"purl": "purl:rpm/suse/p11-kit&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/p11-kit&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

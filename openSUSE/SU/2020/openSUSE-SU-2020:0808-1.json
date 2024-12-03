@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "varnish",
-				"purl": "purl:rpm/suse/varnish&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/varnish&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

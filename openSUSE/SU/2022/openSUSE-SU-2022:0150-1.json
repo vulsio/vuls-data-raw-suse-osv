@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "seamonkey",
-				"purl": "purl:rpm/suse/seamonkey&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/seamonkey&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "aide",
-				"purl": "purl:rpm/suse/aide&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/aide&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "seamonkey",
-				"purl": "purl:rpm/suse/seamonkey&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/seamonkey&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "aide",
-				"purl": "purl:rpm/suse/aide&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/aide&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

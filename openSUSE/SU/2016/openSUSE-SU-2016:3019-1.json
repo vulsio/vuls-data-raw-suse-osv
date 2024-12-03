@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "MozillaThunderbird",
-				"purl": "purl:rpm/suse/MozillaThunderbird&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/MozillaThunderbird&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

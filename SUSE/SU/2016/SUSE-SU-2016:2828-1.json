@@ -23,7 +23,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -65,7 +65,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXfixes",
-				"purl": "purl:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXi",
-				"purl": "purl:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXrender",
-				"purl": "purl:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -191,7 +191,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -275,7 +275,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP2",
 				"name": "libXvMC",
-				"purl": "purl:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -317,7 +317,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -352,7 +352,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXfixes",
-				"purl": "purl:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -387,7 +387,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXi",
-				"purl": "purl:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -422,7 +422,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXrender",
-				"purl": "purl:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -457,7 +457,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -492,7 +492,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -527,7 +527,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "libXvMC",
-				"purl": "purl:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -562,7 +562,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -595,7 +595,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXfixes",
-				"purl": "purl:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -628,7 +628,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXi",
-				"purl": "purl:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -661,7 +661,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXrender",
-				"purl": "purl:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -694,7 +694,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -727,7 +727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP2",
 				"name": "libXvMC",
-				"purl": "purl:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -793,7 +793,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -835,7 +835,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXfixes",
-				"purl": "purl:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -877,7 +877,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXi",
-				"purl": "purl:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -919,7 +919,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXrender",
-				"purl": "purl:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -961,7 +961,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1003,7 +1003,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1045,7 +1045,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "libXvMC",
-				"purl": "purl:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1087,7 +1087,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1129,7 +1129,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXfixes",
-				"purl": "purl:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXfixes&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1171,7 +1171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXi",
-				"purl": "purl:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXi&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1213,7 +1213,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXrender",
-				"purl": "purl:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXrender&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1255,7 +1255,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXtst",
-				"purl": "purl:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXtst&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1297,7 +1297,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXv",
-				"purl": "purl:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXv&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -1339,7 +1339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "libXvMC",
-				"purl": "purl:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/libXvMC&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{

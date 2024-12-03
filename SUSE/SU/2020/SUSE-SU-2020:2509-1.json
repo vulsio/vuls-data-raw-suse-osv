@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP4",
 				"name": "kgraft-patch-SLE12-SP4_Update_14",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP4_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP4_Update_14&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP4"
 			},
 			"ranges": [
 				{

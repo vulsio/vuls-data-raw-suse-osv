@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mozilla-nss",
-				"purl": "purl:rpm/suse/mozilla-nss&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mozilla-nss&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

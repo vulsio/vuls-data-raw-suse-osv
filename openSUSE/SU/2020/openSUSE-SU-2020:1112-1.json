@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "knot",
-				"purl": "purl:rpm/suse/knot&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/knot&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

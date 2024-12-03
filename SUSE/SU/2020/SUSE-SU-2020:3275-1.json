@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "ucode-intel",
-				"purl": "purl:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "ucode-intel",
-				"purl": "purl:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "ucode-intel",
-				"purl": "purl:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/ucode-intel&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{

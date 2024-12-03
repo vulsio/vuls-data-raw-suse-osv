@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "flac",
-				"purl": "purl:rpm/suse/flac&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/flac&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

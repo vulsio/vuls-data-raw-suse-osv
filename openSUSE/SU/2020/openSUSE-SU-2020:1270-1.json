@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gettext-csharp",
-				"purl": "purl:rpm/suse/gettext-csharp&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gettext-csharp&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gettext-java",
-				"purl": "purl:rpm/suse/gettext-java&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gettext-java&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -82,7 +82,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gettext-runtime",
-				"purl": "purl:rpm/suse/gettext-runtime&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gettext-runtime&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gettext-runtime-mini",
-				"purl": "purl:rpm/suse/gettext-runtime-mini&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gettext-runtime-mini&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

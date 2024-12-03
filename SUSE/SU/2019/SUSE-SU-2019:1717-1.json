@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "gvfs",
-				"purl": "purl:rpm/suse/gvfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/gvfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "gvfs",
-				"purl": "purl:rpm/suse/gvfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/gvfs&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

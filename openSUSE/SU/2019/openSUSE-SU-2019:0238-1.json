@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/ansible&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

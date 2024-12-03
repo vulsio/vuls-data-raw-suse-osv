@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "flatpak",
-				"purl": "purl:rpm/suse/flatpak&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/flatpak&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

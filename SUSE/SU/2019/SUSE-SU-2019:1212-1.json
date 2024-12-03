@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15",
 				"name": "jakarta-commons-fileupload",
-				"purl": "purl:rpm/suse/jakarta-commons-fileupload&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015"
+				"purl": "pkg:rpm/suse/jakarta-commons-fileupload&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015"
 			},
 			"ranges": [
 				{

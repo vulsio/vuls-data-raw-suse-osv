@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "hdf5_1_10_8-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "hdf5_1_10_8-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -186,7 +186,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "hdf5_1_10_8-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -268,7 +268,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "hdf5_1_10_8-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -350,7 +350,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "hdf5_1_10_8-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -432,7 +432,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "hdf5_1_10_8-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -514,7 +514,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "hdf5_1_10_8-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -596,7 +596,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "hdf5_1_10_8-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi2-hpc&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{

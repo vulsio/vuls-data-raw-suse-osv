@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "clamav",
-				"purl": "purl:rpm/suse/clamav&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/clamav&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

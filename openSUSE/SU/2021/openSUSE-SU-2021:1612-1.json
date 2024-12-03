@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "log4j12",
-				"purl": "purl:rpm/suse/log4j12&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/log4j12&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "log4j12-mini",
-				"purl": "purl:rpm/suse/log4j12-mini&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/log4j12-mini&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

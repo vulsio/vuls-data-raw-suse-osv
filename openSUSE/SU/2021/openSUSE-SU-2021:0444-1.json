@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libmysofa",
-				"purl": "purl:rpm/suse/libmysofa&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libmysofa&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

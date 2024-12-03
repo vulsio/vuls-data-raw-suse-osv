@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 3.1",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Manager%20Proxy%203.1"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Manager%20Proxy%203.1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{

@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

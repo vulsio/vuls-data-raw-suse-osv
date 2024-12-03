@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "nim",
-				"purl": "purl:rpm/suse/nim&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/nim&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "nim",
-				"purl": "purl:rpm/suse/nim&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/nim&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

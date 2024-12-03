@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "tomcat",
-				"purl": "purl:rpm/suse/tomcat&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/tomcat&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

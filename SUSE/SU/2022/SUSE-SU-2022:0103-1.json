@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "python-Django1",
-				"purl": "purl:rpm/suse/python-Django1&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/python-Django1&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "python-Django1",
-				"purl": "purl:rpm/suse/python-Django1&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/python-Django1&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{

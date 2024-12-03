@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "elasticsearch",
-				"purl": "purl:rpm/suse/elasticsearch&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/elasticsearch&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "kafka",
-				"purl": "purl:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "logstash",
-				"purl": "purl:rpm/suse/logstash&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/logstash&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -165,7 +165,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-monasca-agent",
-				"purl": "purl:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-monasca-persister-java",
-				"purl": "purl:rpm/suse/openstack-monasca-persister-java&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-persister-java&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -267,7 +267,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "openstack-monasca-thresh",
-				"purl": "purl:rpm/suse/openstack-monasca-thresh&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-thresh&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -318,7 +318,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-barbican",
-				"purl": "purl:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -369,7 +369,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-cinder",
-				"purl": "purl:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-cinder&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -420,7 +420,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-designate",
-				"purl": "purl:rpm/suse/venv-openstack-designate&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-designate&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -471,7 +471,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-glance",
-				"purl": "purl:rpm/suse/venv-openstack-glance&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-glance&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -522,7 +522,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-heat",
-				"purl": "purl:rpm/suse/venv-openstack-heat&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-heat&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -573,7 +573,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-horizon",
-				"purl": "purl:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-horizon&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -624,7 +624,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-ironic",
-				"purl": "purl:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-ironic&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -675,7 +675,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-keystone",
-				"purl": "purl:rpm/suse/venv-openstack-keystone&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-keystone&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -726,7 +726,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-magnum",
-				"purl": "purl:rpm/suse/venv-openstack-magnum&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-magnum&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -777,7 +777,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-manila",
-				"purl": "purl:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-manila&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -828,7 +828,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-monasca",
-				"purl": "purl:rpm/suse/venv-openstack-monasca&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -879,7 +879,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-monasca-ceilometer",
-				"purl": "purl:rpm/suse/venv-openstack-monasca-ceilometer&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-monasca-ceilometer&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -930,7 +930,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-neutron",
-				"purl": "purl:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-neutron&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -981,7 +981,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-nova",
-				"purl": "purl:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-nova&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1032,7 +1032,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-octavia",
-				"purl": "purl:rpm/suse/venv-openstack-octavia&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-octavia&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1083,7 +1083,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-sahara",
-				"purl": "purl:rpm/suse/venv-openstack-sahara&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-sahara&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1134,7 +1134,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "venv-openstack-swift",
-				"purl": "purl:rpm/suse/venv-openstack-swift&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/venv-openstack-swift&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1185,7 +1185,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 9",
 				"name": "zookeeper",
-				"purl": "purl:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%209"
+				"purl": "pkg:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%209"
 			},
 			"ranges": [
 				{
@@ -1236,7 +1236,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "elasticsearch",
-				"purl": "purl:rpm/suse/elasticsearch&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/elasticsearch&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1270,7 +1270,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "kafka",
-				"purl": "purl:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1304,7 +1304,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "logstash",
-				"purl": "purl:rpm/suse/logstash&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/logstash&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1338,7 +1338,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-monasca-agent",
-				"purl": "purl:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-agent&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1372,7 +1372,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-monasca-persister-java",
-				"purl": "purl:rpm/suse/openstack-monasca-persister-java&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-persister-java&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1406,7 +1406,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "openstack-monasca-thresh",
-				"purl": "purl:rpm/suse/openstack-monasca-thresh&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/openstack-monasca-thresh&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{
@@ -1440,7 +1440,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 9",
 				"name": "zookeeper",
-				"purl": "purl:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
+				"purl": "pkg:rpm/suse/zookeeper&distro=SUSE%20OpenStack%20Cloud%20Crowbar%209"
 			},
 			"ranges": [
 				{

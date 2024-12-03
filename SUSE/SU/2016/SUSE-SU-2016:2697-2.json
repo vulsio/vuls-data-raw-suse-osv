@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "bind",
-				"purl": "purl:rpm/suse/bind&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/bind&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{

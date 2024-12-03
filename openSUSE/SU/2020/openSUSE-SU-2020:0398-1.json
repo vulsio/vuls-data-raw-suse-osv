@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cni",
-				"purl": "purl:rpm/suse/cni&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cni&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cni-plugins",
-				"purl": "purl:rpm/suse/cni-plugins&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cni-plugins&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "conmon",
-				"purl": "purl:rpm/suse/conmon&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/conmon&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "fuse-overlayfs",
-				"purl": "purl:rpm/suse/fuse-overlayfs&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/fuse-overlayfs&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

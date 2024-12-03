@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libraw",
-				"purl": "purl:rpm/suse/libraw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libraw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{

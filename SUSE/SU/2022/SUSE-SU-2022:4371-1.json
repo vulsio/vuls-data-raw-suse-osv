@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "busybox",
-				"purl": "purl:rpm/suse/busybox&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/busybox&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "busybox",
-				"purl": "purl:rpm/suse/busybox&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/busybox&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "busybox-links",
-				"purl": "purl:rpm/suse/busybox-links&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/busybox-links&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

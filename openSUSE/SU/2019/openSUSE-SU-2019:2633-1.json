@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cloud-init",
-				"purl": "purl:rpm/suse/cloud-init&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cloud-init&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

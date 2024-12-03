@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "memcached",
-				"purl": "purl:rpm/suse/memcached&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/memcached&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{

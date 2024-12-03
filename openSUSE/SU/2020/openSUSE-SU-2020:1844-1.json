@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "xen",
-				"purl": "purl:rpm/suse/xen&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/xen&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

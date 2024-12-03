@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP2",
 				"name": "evolution-data-server",
-				"purl": "purl:rpm/suse/evolution-data-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/evolution-data-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP2",
 				"name": "evolution-ews",
-				"purl": "purl:rpm/suse/evolution-ews&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/evolution-ews&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{

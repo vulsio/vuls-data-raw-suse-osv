@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "python-pip-wheel",
-				"purl": "purl:rpm/suse/python-pip-wheel&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/python-pip-wheel&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "python-pip-wheel",
-				"purl": "purl:rpm/suse/python-pip-wheel&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/python-pip-wheel&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "python-pip-wheel",
-				"purl": "purl:rpm/suse/python-pip-wheel&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/python-pip-wheel&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{

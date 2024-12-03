@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "prboom-plus",
-				"purl": "purl:rpm/suse/prboom-plus&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/prboom-plus&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

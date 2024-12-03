@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "grub2",
-				"purl": "purl:rpm/suse/grub2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/grub2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

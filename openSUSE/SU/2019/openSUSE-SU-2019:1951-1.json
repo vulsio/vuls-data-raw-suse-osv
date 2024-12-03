@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "dkgpg",
-				"purl": "purl:rpm/suse/dkgpg&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/dkgpg&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libTMCG",
-				"purl": "purl:rpm/suse/libTMCG&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libTMCG&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "dkgpg",
-				"purl": "purl:rpm/suse/dkgpg&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/dkgpg&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libTMCG",
-				"purl": "purl:rpm/suse/libTMCG&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libTMCG&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

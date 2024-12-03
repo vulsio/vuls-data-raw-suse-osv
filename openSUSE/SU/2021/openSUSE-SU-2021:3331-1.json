@@ -31,7 +31,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rust-cbindgen",
-				"purl": "purl:rpm/suse/rust-cbindgen&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rust-cbindgen&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

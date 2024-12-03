@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 12",
 				"name": "cups154",
-				"purl": "purl:rpm/suse/cups154&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
+				"purl": "pkg:rpm/suse/cups154&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
 			},
 			"ranges": [
 				{

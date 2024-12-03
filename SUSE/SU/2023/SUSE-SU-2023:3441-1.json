@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP4",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP4"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP5",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -79,7 +79,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -109,7 +109,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -199,7 +199,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -289,7 +289,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -319,7 +319,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -349,7 +349,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/java-1_8_0-ibm&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -379,7 +379,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/java-1_8_0-ibm&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -413,7 +413,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "java-1_8_0-ibm",
-				"purl": "purl:rpm/suse/java-1_8_0-ibm&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/java-1_8_0-ibm&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

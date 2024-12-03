@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sssd",
-				"purl": "purl:rpm/suse/sssd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sssd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP2",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -134,7 +134,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -324,7 +324,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -419,7 +419,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/samba&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

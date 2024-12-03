@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.2",
 				"name": "xstream",
-				"purl": "purl:rpm/suse/xstream&distro=SUSE%20Manager%20Server%20Module%204.2"
+				"purl": "pkg:rpm/suse/xstream&distro=SUSE%20Manager%20Server%20Module%204.2"
 			},
 			"ranges": [
 				{

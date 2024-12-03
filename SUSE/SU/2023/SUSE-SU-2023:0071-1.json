@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-barbican",
-				"purl": "purl:rpm/suse/openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-barbican-doc",
-				"purl": "purl:rpm/suse/openstack-barbican-doc&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-barbican-doc&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "venv-openstack-barbican",
-				"purl": "purl:rpm/suse/venv-openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/venv-openstack-barbican&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-barbican",
-				"purl": "purl:rpm/suse/openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -148,7 +148,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-barbican-doc",
-				"purl": "purl:rpm/suse/openstack-barbican-doc&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-barbican-doc&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "venv-openstack-barbican",
-				"purl": "purl:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/venv-openstack-barbican&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -216,7 +216,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-barbican",
-				"purl": "purl:rpm/suse/openstack-barbican&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-barbican&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-barbican-doc",
-				"purl": "purl:rpm/suse/openstack-barbican-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-barbican-doc&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{

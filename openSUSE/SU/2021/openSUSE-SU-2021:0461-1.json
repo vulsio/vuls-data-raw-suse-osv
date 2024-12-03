@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tor",
-				"purl": "purl:rpm/suse/tor&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tor&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

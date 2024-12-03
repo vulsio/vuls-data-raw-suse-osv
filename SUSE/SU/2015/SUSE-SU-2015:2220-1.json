@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "openstack-neutron",
-				"purl": "purl:rpm/suse/openstack-neutron&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/openstack-neutron&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "openstack-nova",
-				"purl": "purl:rpm/suse/openstack-nova&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/openstack-nova&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-python-memcached",
-				"purl": "purl:rpm/suse/python-python-memcached&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-python-memcached&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{

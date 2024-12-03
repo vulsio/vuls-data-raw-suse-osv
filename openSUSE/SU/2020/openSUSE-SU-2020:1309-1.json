@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

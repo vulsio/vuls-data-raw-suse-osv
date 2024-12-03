@@ -32,7 +32,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "java-1_7_0-ibm",
-				"purl": "purl:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_0-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{

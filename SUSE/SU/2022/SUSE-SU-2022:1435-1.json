@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.1",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Proxy%20Module%204.1"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Proxy%20Module%204.1"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy Module 4.2",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Proxy%20Module%204.2"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Manager%20Proxy%20Module%204.2"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -153,7 +153,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/firewalld&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -181,7 +181,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/golang-github-prometheus-prometheus&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -209,7 +209,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "firewalld",
-				"purl": "purl:rpm/suse/firewalld&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/firewalld&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -275,7 +275,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "golang-github-prometheus-prometheus",
-				"purl": "purl:rpm/suse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/golang-github-prometheus-prometheus&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

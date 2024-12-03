@@ -27,7 +27,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf",
-				"purl": "purl:rpm/suse/netcdf&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -61,7 +61,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "netcdf-openmpi",
-				"purl": "purl:rpm/suse/netcdf-openmpi&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/netcdf-openmpi&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

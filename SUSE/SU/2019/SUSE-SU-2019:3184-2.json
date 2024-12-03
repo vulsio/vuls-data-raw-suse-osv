@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP1",
 				"name": "ffmpeg",
-				"purl": "purl:rpm/suse/ffmpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/ffmpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

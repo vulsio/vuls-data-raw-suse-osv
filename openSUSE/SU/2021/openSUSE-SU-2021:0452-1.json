@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "connman",
-				"purl": "purl:rpm/suse/connman&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/connman&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

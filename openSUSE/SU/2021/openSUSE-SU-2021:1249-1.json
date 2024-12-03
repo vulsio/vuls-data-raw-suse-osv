@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/gifsicle&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/gifsicle&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -117,7 +117,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gifsicle",
-				"purl": "purl:rpm/suse/gifsicle&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gifsicle&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

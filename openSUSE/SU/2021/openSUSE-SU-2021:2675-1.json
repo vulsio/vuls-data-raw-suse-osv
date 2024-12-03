@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ansible",
-				"purl": "purl:rpm/suse/ansible&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ansible&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dracut-saltboot&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mgr-cfg",
-				"purl": "purl:rpm/suse/mgr-cfg&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mgr-cfg&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -262,7 +262,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mgr-custom-info",
-				"purl": "purl:rpm/suse/mgr-custom-info&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mgr-custom-info&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -344,7 +344,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mgr-osad&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -426,7 +426,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mgr-push&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -508,7 +508,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/mgr-virtualization&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -590,7 +590,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rhnlib&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -754,7 +754,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/spacewalk-client-tools&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -836,7 +836,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/spacewalk-koan&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -918,7 +918,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "spacewalk-oscap",
-				"purl": "purl:rpm/suse/spacewalk-oscap&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/spacewalk-oscap&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1000,7 +1000,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "suseRegisterInfo",
-				"purl": "purl:rpm/suse/suseRegisterInfo&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/suseRegisterInfo&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1082,7 +1082,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/uyuni-common-libs&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

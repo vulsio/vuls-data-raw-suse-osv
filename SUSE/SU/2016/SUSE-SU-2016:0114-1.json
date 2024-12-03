@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP1",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 12",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2012"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2012"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -228,7 +228,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{
@@ -255,7 +255,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 2",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20Enterprise%20Storage%202"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20Enterprise%20Storage%202"
 			},
 			"ranges": [
 				{

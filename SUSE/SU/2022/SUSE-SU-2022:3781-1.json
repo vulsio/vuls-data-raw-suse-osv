@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP3",
 				"name": "container-suseconnect",
-				"purl": "purl:rpm/suse/container-suseconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
+				"purl": "pkg:rpm/suse/container-suseconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP4",
 				"name": "container-suseconnect",
-				"purl": "purl:rpm/suse/container-suseconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP4"
+				"purl": "pkg:rpm/suse/container-suseconnect&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "container-suseconnect",
-				"purl": "purl:rpm/suse/container-suseconnect&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/container-suseconnect&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

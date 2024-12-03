@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "graphviz",
-				"purl": "purl:rpm/suse/graphviz&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/graphviz&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "graphviz-addons",
-				"purl": "purl:rpm/suse/graphviz-addons&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/graphviz-addons&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

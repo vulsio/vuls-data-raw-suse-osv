@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "disruptor",
-				"purl": "purl:rpm/suse/disruptor&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/disruptor&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "jakarta-servlet",
-				"purl": "purl:rpm/suse/jakarta-servlet&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/jakarta-servlet&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "log4j",
-				"purl": "purl:rpm/suse/log4j&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/log4j&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

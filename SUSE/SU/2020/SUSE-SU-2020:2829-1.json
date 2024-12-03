@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP1",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 15 SP2",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP2"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -133,7 +133,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -163,7 +163,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "nodejs10",
-				"purl": "purl:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/nodejs10&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{

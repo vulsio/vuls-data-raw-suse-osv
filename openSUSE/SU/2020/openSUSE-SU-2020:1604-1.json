@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "zabbix",
-				"purl": "purl:rpm/suse/zabbix&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/zabbix&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "zabbix",
-				"purl": "purl:rpm/suse/zabbix&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/zabbix&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "zabbix",
-				"purl": "purl:rpm/suse/zabbix&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/zabbix&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "zabbix",
-				"purl": "purl:rpm/suse/zabbix&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/zabbix&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

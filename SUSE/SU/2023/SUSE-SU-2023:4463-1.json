@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libnbd",
-				"purl": "purl:rpm/suse/libnbd&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libnbd&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "libnbd",
-				"purl": "purl:rpm/suse/libnbd&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/libnbd&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Studio Onsite 1.3",
 				"name": "openldap2-client",
-				"purl": "purl:rpm/suse/openldap2-client&distro=SUSE%20Studio%20Onsite%201.3"
+				"purl": "pkg:rpm/suse/openldap2-client&distro=SUSE%20Studio%20Onsite%201.3"
 			},
 			"ranges": [
 				{

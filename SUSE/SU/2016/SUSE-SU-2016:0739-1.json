@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-trove",
-				"purl": "purl:rpm/suse/openstack-trove&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-trove&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "openstack-trove-doc",
-				"purl": "purl:rpm/suse/openstack-trove-doc&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/openstack-trove-doc&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

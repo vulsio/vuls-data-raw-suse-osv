@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "go1.15",
-				"purl": "purl:rpm/suse/go1.15&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/go1.15&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

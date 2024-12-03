@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "jakarta-commons-fileupload",
-				"purl": "purl:rpm/suse/jakarta-commons-fileupload&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/jakarta-commons-fileupload&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

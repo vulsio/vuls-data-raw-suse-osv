@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ghostscript",
-				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ghostscript&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libspectre",
-				"purl": "purl:rpm/suse/libspectre&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libspectre&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

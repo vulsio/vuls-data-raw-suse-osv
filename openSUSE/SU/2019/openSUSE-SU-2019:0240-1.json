@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "pspp",
-				"purl": "purl:rpm/suse/pspp&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/pspp&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "spread-sheet-widget",
-				"purl": "purl:rpm/suse/spread-sheet-widget&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/spread-sheet-widget&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

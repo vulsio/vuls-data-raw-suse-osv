@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP4",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP4",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
+				"purl": "pkg:rpm/suse/colord&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "colord",
-				"purl": "purl:rpm/suse/colord&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/colord&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "extra-cmake-modules",
-				"purl": "purl:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -100,7 +100,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kcoreaddons",
-				"purl": "purl:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -188,7 +188,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "extra-cmake-modules",
-				"purl": "purl:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -276,7 +276,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "kcoreaddons",
-				"purl": "purl:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -320,7 +320,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -364,7 +364,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "extra-cmake-modules",
-				"purl": "purl:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -408,7 +408,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -452,7 +452,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "kcoreaddons",
-				"purl": "purl:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -496,7 +496,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -540,7 +540,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "extra-cmake-modules",
-				"purl": "purl:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/extra-cmake-modules&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -584,7 +584,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -628,7 +628,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "kcoreaddons",
-				"purl": "purl:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/kcoreaddons&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -672,7 +672,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/polkit-qt5-1&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -716,7 +716,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "extra-cmake-modules",
-				"purl": "purl:rpm/suse/extra-cmake-modules&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/extra-cmake-modules&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/kauth&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -804,7 +804,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "kcoreaddons",
-				"purl": "purl:rpm/suse/kcoreaddons&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/kcoreaddons&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -848,7 +848,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "polkit-qt5-1",
-				"purl": "purl:rpm/suse/polkit-qt5-1&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/polkit-qt5-1&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "GraphicsMagick",
-				"purl": "purl:rpm/suse/GraphicsMagick&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/GraphicsMagick&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

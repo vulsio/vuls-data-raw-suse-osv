@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "xorg-x11-server",
-				"purl": "purl:rpm/suse/xorg-x11-server&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/xorg-x11-server&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

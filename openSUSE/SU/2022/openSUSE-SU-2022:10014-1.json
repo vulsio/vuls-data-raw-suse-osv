@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "bazel-skylib1.0.3",
-				"purl": "purl:rpm/suse/bazel-skylib1.0.3&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/bazel-skylib1.0.3&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -127,7 +127,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "bazel3.7",
-				"purl": "purl:rpm/suse/bazel3.7&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/bazel3.7&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "tensorflow2",
-				"purl": "purl:rpm/suse/tensorflow2&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/tensorflow2&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -233,7 +233,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "tensorflow2-lite",
-				"purl": "purl:rpm/suse/tensorflow2-lite&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/tensorflow2-lite&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -286,7 +286,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "tensorflow2_2_6_0-gnu-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_6_0-gnu-hpc&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/tensorflow2_2_6_0-gnu-hpc&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -339,7 +339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "tensorflow2_2_6_0-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_6_0-gnu-openmpi2-hpc&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/tensorflow2_2_6_0-gnu-openmpi2-hpc&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -392,7 +392,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "bazel-skylib1.0.3",
-				"purl": "purl:rpm/suse/bazel-skylib1.0.3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/bazel-skylib1.0.3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -445,7 +445,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "bazel3.7",
-				"purl": "purl:rpm/suse/bazel3.7&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/bazel3.7&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -498,7 +498,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tensorflow2",
-				"purl": "purl:rpm/suse/tensorflow2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tensorflow2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -551,7 +551,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tensorflow2-lite",
-				"purl": "purl:rpm/suse/tensorflow2-lite&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tensorflow2-lite&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -604,7 +604,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tensorflow2_2_6_0-gnu-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_6_0-gnu-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tensorflow2_2_6_0-gnu-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -657,7 +657,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "tensorflow2_2_6_0-gnu-openmpi2-hpc",
-				"purl": "purl:rpm/suse/tensorflow2_2_6_0-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/tensorflow2_2_6_0-gnu-openmpi2-hpc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

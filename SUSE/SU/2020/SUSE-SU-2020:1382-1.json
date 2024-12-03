@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "dom4j",
-				"purl": "purl:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/dom4j&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

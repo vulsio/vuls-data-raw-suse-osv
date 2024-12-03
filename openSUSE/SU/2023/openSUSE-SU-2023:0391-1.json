@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "libtorrent-rasterbar",
-				"purl": "purl:rpm/suse/libtorrent-rasterbar&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/libtorrent-rasterbar&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "qbittorrent",
-				"purl": "purl:rpm/suse/qbittorrent&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/qbittorrent&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "libtorrent-rasterbar",
-				"purl": "purl:rpm/suse/libtorrent-rasterbar&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/libtorrent-rasterbar&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP5",
 				"name": "qbittorrent",
-				"purl": "purl:rpm/suse/qbittorrent&distro=SUSE%20Package%20Hub%2015%20SP5"
+				"purl": "pkg:rpm/suse/qbittorrent&distro=SUSE%20Package%20Hub%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -140,7 +140,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "libtorrent-rasterbar",
-				"purl": "purl:rpm/suse/libtorrent-rasterbar&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/libtorrent-rasterbar&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qbittorrent",
-				"purl": "purl:rpm/suse/qbittorrent&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qbittorrent&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -204,7 +204,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "libtorrent-rasterbar",
-				"purl": "purl:rpm/suse/libtorrent-rasterbar&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/libtorrent-rasterbar&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -236,7 +236,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "qbittorrent",
-				"purl": "purl:rpm/suse/qbittorrent&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/qbittorrent&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

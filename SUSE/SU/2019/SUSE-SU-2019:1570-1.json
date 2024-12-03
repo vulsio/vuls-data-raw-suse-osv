@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "doxygen",
-				"purl": "purl:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/doxygen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{

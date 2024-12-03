@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libqt4",
-				"purl": "purl:rpm/suse/libqt4&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libqt4&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -60,7 +60,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libqt4-devel-doc",
-				"purl": "purl:rpm/suse/libqt4-devel-doc&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libqt4-devel-doc&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libqt4-sql-plugins",
-				"purl": "purl:rpm/suse/libqt4-sql-plugins&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libqt4-sql-plugins&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

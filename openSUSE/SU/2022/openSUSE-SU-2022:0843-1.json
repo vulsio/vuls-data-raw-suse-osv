@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rust&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rust1.58",
-				"purl": "purl:rpm/suse/rust1.58&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rust1.58&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rust1.59",
-				"purl": "purl:rpm/suse/rust1.59&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rust1.59&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

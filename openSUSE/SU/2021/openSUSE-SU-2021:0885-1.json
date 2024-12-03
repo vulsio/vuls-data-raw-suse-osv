@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libopenmpt",
-				"purl": "purl:rpm/suse/libopenmpt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libopenmpt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

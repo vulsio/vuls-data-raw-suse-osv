@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/openvswitch&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/openvswitch&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

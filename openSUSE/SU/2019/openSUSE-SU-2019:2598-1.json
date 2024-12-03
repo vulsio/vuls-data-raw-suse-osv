@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "strongswan",
-				"purl": "purl:rpm/suse/strongswan&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/strongswan&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

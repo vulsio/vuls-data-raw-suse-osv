@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "xmlsec1",
-				"purl": "purl:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -87,7 +87,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libepubgen",
-				"purl": "purl:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -250,7 +250,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "liblangtag",
-				"purl": "purl:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/liblangtag&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -413,7 +413,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -576,7 +576,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libnumbertext",
-				"purl": "purl:rpm/suse/libnumbertext&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libnumbertext&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -739,7 +739,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -902,7 +902,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libstaroffice",
-				"purl": "purl:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -1065,7 +1065,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -1228,7 +1228,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -1391,7 +1391,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "xmlsec1",
-				"purl": "purl:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/xmlsec1&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{

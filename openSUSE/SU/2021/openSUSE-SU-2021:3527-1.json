@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "wireguard-tools",
-				"purl": "purl:rpm/suse/wireguard-tools&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/wireguard-tools&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "nemo-extensions",
-				"purl": "purl:rpm/suse/nemo-extensions&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/nemo-extensions&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

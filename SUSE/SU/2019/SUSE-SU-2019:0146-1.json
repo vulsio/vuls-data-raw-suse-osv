@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -83,7 +83,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -115,7 +115,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -149,7 +149,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -205,7 +205,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -239,7 +239,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -273,7 +273,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -304,7 +304,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -335,7 +335,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -366,7 +366,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -397,7 +397,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -424,7 +424,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -451,7 +451,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "webkit2gtk3",
-				"purl": "purl:rpm/suse/webkit2gtk3&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/webkit2gtk3&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

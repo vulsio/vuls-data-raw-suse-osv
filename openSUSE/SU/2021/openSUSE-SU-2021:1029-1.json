@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "icinga2",
-				"purl": "purl:rpm/suse/icinga2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/icinga2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

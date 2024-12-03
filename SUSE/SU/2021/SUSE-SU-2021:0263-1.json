@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform",
-				"purl": "purl:rpm/suse/terraform&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-aws",
-				"purl": "purl:rpm/suse/terraform-provider-aws&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-aws&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-azurerm",
-				"purl": "purl:rpm/suse/terraform-provider-azurerm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-azurerm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-external",
-				"purl": "purl:rpm/suse/terraform-provider-external&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-external&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -160,7 +160,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-google",
-				"purl": "purl:rpm/suse/terraform-provider-google&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-google&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -197,7 +197,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-helm",
-				"purl": "purl:rpm/suse/terraform-provider-helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -234,7 +234,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-kubernetes",
-				"purl": "purl:rpm/suse/terraform-provider-kubernetes&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-kubernetes&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-local",
-				"purl": "purl:rpm/suse/terraform-provider-local&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-local&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -308,7 +308,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-null",
-				"purl": "purl:rpm/suse/terraform-provider-null&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-null&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -345,7 +345,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-random",
-				"purl": "purl:rpm/suse/terraform-provider-random&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-random&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -382,7 +382,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "terraform-provider-tls",
-				"purl": "purl:rpm/suse/terraform-provider-tls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/terraform-provider-tls&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{

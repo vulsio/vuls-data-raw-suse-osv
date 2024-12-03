@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "sccache",
-				"purl": "purl:rpm/suse/sccache&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/sccache&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "sccache",
-				"purl": "purl:rpm/suse/sccache&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/sccache&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "sccache",
-				"purl": "purl:rpm/suse/sccache&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/sccache&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "sccache",
-				"purl": "purl:rpm/suse/sccache&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/sccache&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

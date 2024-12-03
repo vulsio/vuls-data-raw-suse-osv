@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -112,7 +112,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -143,7 +143,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -205,7 +205,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP4",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP5",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -259,7 +259,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-LTSS",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -290,7 +290,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2-BCL",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -352,7 +352,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -383,7 +383,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP4",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -414,7 +414,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP4",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -445,7 +445,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -476,7 +476,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -507,7 +507,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "java-1_7_1-ibm",
-				"purl": "purl:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/java-1_7_1-ibm&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

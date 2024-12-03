@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "glusterfs",
-				"purl": "purl:rpm/suse/glusterfs&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/glusterfs&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/containerd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/docker&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "docker-kubic",
-				"purl": "purl:rpm/suse/docker-kubic&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/docker-kubic&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -131,7 +131,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "runc",
-				"purl": "purl:rpm/suse/runc&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/runc&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "Botan",
-				"purl": "purl:rpm/suse/Botan&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/Botan&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

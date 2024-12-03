@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "qt6-svg",
-				"purl": "purl:rpm/suse/qt6-svg&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/qt6-svg&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "qt6-svg-docs",
-				"purl": "purl:rpm/suse/qt6-svg-docs&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/qt6-svg-docs&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qt6-svg",
-				"purl": "purl:rpm/suse/qt6-svg&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qt6-svg&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "qt6-svg-docs",
-				"purl": "purl:rpm/suse/qt6-svg-docs&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/qt6-svg-docs&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

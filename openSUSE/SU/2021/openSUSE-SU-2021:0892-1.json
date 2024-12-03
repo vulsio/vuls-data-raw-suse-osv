@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libjpeg-turbo",
-				"purl": "purl:rpm/suse/libjpeg-turbo&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libjpeg-turbo&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libjpeg62-turbo",
-				"purl": "purl:rpm/suse/libjpeg62-turbo&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libjpeg62-turbo&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

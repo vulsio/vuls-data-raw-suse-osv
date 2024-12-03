@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3 NonFree",
 				"name": "opera",
-				"purl": "purl:rpm/suse/opera&distro=openSUSE%20Leap%2015.3%20NonFree"
+				"purl": "pkg:rpm/opensuse/opera&distro=openSUSE%20Leap%2015.3%20NonFree"
 			},
 			"ranges": [
 				{

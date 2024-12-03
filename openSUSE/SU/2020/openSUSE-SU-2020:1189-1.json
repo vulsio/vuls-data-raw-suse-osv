@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "pipewire",
-				"purl": "purl:rpm/suse/pipewire&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/pipewire&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

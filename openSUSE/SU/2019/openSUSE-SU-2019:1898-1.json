@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "kconfig",
-				"purl": "purl:rpm/suse/kconfig&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/kconfig&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -60,7 +60,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "kdelibs4-apidocs",
-				"purl": "purl:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

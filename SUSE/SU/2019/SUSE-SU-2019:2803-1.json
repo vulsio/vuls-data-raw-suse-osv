@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "graphite-web",
-				"purl": "purl:rpm/suse/graphite-web&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/graphite-web&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

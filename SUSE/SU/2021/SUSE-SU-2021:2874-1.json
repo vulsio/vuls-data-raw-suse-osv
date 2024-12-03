@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP2",
 				"name": "MozillaThunderbird",
-				"purl": "purl:rpm/suse/MozillaThunderbird&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/MozillaThunderbird&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP3",
 				"name": "MozillaThunderbird",
-				"purl": "purl:rpm/suse/MozillaThunderbird&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/MozillaThunderbird&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{

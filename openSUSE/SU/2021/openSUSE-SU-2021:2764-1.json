@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libsndfile",
-				"purl": "purl:rpm/suse/libsndfile&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libsndfile&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libsndfile-progs",
-				"purl": "purl:rpm/suse/libsndfile-progs&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libsndfile-progs&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

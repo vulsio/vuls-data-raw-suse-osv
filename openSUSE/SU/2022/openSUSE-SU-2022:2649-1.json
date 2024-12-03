@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "pcre2",
-				"purl": "purl:rpm/suse/pcre2&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/pcre2&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

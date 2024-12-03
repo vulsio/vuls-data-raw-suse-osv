@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/libspf2&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libspf2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libspf2",
-				"purl": "purl:rpm/suse/libspf2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libspf2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

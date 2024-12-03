@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "fontforge",
-				"purl": "purl:rpm/suse/fontforge&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/fontforge&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

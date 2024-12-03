@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/nextcloud&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/nextcloud&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "nextcloud",
-				"purl": "purl:rpm/suse/nextcloud&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/nextcloud&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

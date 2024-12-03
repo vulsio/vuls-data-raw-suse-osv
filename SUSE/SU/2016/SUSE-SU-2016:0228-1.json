@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12",
 				"name": "apache-commons-collections",
-				"purl": "purl:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%2012"
+				"purl": "pkg:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%2012"
 			},
 			"ranges": [
 				{
@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "apache-commons-collections",
-				"purl": "purl:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{
@@ -65,7 +65,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1",
 				"name": "apache-commons-collections",
-				"purl": "purl:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
+				"purl": "pkg:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP1",
 				"name": "apache-commons-collections",
-				"purl": "purl:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
+				"purl": "pkg:rpm/suse/apache-commons-collections&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP1"
 			},
 			"ranges": [
 				{

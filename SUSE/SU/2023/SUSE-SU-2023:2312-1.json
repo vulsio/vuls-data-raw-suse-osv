@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -184,7 +184,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -213,7 +213,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/go1.18-openssl&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/go1.18-openssl&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "go1.18-openssl",
-				"purl": "purl:rpm/suse/go1.18-openssl&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/go1.18-openssl&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

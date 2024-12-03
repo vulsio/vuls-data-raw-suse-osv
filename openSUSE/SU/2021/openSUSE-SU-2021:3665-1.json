@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "drbd-utils",
-				"purl": "purl:rpm/suse/drbd-utils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/drbd-utils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

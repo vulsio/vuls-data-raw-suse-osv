@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015"
+				"purl": "pkg:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP1",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
+				"purl": "pkg:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP2",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
+				"purl": "pkg:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 15 SP3",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
+				"purl": "pkg:rpm/suse/amazon-ssm-agent&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/amazon-ssm-agent&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "amazon-ssm-agent",
-				"purl": "purl:rpm/suse/amazon-ssm-agent&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/amazon-ssm-agent&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

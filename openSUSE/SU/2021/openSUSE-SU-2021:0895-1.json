@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libaom&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

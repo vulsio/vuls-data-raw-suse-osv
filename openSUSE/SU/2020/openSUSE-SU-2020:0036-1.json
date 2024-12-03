@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "rubygem-excon",
-				"purl": "purl:rpm/suse/rubygem-excon&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/rubygem-excon&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

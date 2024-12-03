@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Toolchain 12",
 				"name": "cross-nvptx-gcc12",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Toolchain%2012"
+				"purl": "pkg:rpm/suse/cross-nvptx-gcc12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Toolchain%2012"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Toolchain 12",
 				"name": "gcc12",
-				"purl": "purl:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Toolchain%2012"
+				"purl": "pkg:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Toolchain%2012"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP5",
 				"name": "gcc12",
-				"purl": "purl:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
+				"purl": "pkg:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP5"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP5",
 				"name": "gcc12",
-				"purl": "purl:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
+				"purl": "pkg:rpm/suse/gcc12&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP5"
 			},
 			"ranges": [
 				{

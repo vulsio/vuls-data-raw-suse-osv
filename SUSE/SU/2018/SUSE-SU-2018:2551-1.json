@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

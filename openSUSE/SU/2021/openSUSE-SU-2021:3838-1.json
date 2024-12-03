@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ruby2.5",
-				"purl": "purl:rpm/suse/ruby2.5&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ruby2.5&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

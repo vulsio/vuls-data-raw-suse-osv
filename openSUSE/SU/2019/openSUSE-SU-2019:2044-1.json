@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "fuse-overlayfs",
-				"purl": "purl:rpm/suse/fuse-overlayfs&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/fuse-overlayfs&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "fuse3",
-				"purl": "purl:rpm/suse/fuse3&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/fuse3&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libcontainers-common",
-				"purl": "purl:rpm/suse/libcontainers-common&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libcontainers-common&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/slirp4netns&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

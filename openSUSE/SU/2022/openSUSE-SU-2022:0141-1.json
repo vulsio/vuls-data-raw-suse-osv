@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "autotrace",
-				"purl": "purl:rpm/suse/autotrace&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/autotrace&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "autotrace",
-				"purl": "purl:rpm/suse/autotrace&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/autotrace&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "permissions",
-				"purl": "purl:rpm/suse/permissions&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/permissions&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "autotrace",
-				"purl": "purl:rpm/suse/autotrace&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/autotrace&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "permissions",
-				"purl": "purl:rpm/suse/permissions&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/permissions&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

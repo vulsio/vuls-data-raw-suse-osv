@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "php7-pear",
-				"purl": "purl:rpm/suse/php7-pear&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/php7-pear&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

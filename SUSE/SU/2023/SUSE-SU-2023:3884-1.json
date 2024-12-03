@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundle-libsodium",
-				"purl": "purl:rpm/suse/saltbundle-libsodium&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundle-libsodium&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundle-zeromq",
-				"purl": "purl:rpm/suse/saltbundle-zeromq&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundle-zeromq&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy",
-				"purl": "purl:rpm/suse/saltbundlepy&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -181,7 +181,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-cffi",
-				"purl": "purl:rpm/suse/saltbundlepy-cffi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-cffi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -237,7 +237,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-core",
-				"purl": "purl:rpm/suse/saltbundlepy-core&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-core&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -293,7 +293,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-cryptography",
-				"purl": "purl:rpm/suse/saltbundlepy-cryptography&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-cryptography&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -349,7 +349,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-cryptography-vectors",
-				"purl": "purl:rpm/suse/saltbundlepy-cryptography-vectors&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-cryptography-vectors&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -405,7 +405,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-cython",
-				"purl": "purl:rpm/suse/saltbundlepy-cython&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-cython&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -461,7 +461,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-kiwi",
-				"purl": "purl:rpm/suse/saltbundlepy-kiwi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-kiwi&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -517,7 +517,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-lxml",
-				"purl": "purl:rpm/suse/saltbundlepy-lxml&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-lxml&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -573,7 +573,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pycparser",
-				"purl": "purl:rpm/suse/saltbundlepy-pycparser&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pycparser&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -629,7 +629,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pytz",
-				"purl": "purl:rpm/suse/saltbundlepy-pytz&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pytz&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -685,7 +685,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pyxattr",
-				"purl": "purl:rpm/suse/saltbundlepy-pyxattr&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pyxattr&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -741,7 +741,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-pyzmq",
-				"purl": "purl:rpm/suse/saltbundlepy-pyzmq&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-pyzmq&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -797,7 +797,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "saltbundlepy-rpm-macros",
-				"purl": "purl:rpm/suse/saltbundlepy-rpm-macros&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/saltbundlepy-rpm-macros&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -853,7 +853,7 @@
 			"package": {
 				"ecosystem": "SUSE:EL-9:Update:Products:SaltBundle:Update",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE:EL-9:Update:Products:SaltBundle:Update"
 			},
 			"ranges": [
 				{
@@ -909,7 +909,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for RHEL, Liberty and Clones 9-CLIENT-TOOLS",
 				"name": "venv-salt-minion",
-				"purl": "purl:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/venv-salt-minion&distro=SUSE%20Manager%20Client%20Tools%20for%20RHEL,%20Liberty%20and%20Clones%209-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

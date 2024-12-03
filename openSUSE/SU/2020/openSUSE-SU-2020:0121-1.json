@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "aubio",
-				"purl": "purl:rpm/suse/aubio&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/aubio&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-aubio",
-				"purl": "purl:rpm/suse/python-aubio&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-aubio&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

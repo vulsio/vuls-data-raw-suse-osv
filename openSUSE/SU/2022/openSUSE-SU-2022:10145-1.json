@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "gdcm",
-				"purl": "purl:rpm/suse/gdcm&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/gdcm&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "orthanc",
-				"purl": "purl:rpm/suse/orthanc&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/orthanc&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -91,7 +91,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "orthanc-gdcm",
-				"purl": "purl:rpm/suse/orthanc-gdcm&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/orthanc-gdcm&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "orthanc-webviewer",
-				"purl": "purl:rpm/suse/orthanc-webviewer&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/orthanc-webviewer&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -169,7 +169,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "gdcm",
-				"purl": "purl:rpm/suse/gdcm&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/gdcm&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -208,7 +208,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "orthanc",
-				"purl": "purl:rpm/suse/orthanc&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/orthanc&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -247,7 +247,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "orthanc-gdcm",
-				"purl": "purl:rpm/suse/orthanc-gdcm&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/orthanc-gdcm&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -286,7 +286,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "orthanc-webviewer",
-				"purl": "purl:rpm/suse/orthanc-webviewer&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/orthanc-webviewer&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

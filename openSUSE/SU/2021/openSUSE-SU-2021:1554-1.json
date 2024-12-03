@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "glib-networking",
-				"purl": "purl:rpm/suse/glib-networking&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/glib-networking&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

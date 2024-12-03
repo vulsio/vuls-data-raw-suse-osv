@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "permissions",
-				"purl": "purl:rpm/suse/permissions&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/permissions&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

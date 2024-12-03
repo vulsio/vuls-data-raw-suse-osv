@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "openvpn",
-				"purl": "purl:rpm/suse/openvpn&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/openvpn&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

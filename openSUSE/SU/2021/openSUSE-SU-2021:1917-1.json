@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libxml2",
-				"purl": "purl:rpm/suse/libxml2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libxml2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-libxml2-python",
-				"purl": "purl:rpm/suse/python-libxml2-python&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-libxml2-python&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

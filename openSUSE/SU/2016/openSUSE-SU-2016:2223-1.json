@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "karchive",
-				"purl": "purl:rpm/suse/karchive&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/karchive&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{

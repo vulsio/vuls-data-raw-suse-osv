@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "Botan",
-				"purl": "purl:rpm/suse/Botan&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/Botan&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "Botan",
-				"purl": "purl:rpm/suse/Botan&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/Botan&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

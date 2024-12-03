@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP4",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -129,7 +129,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -157,7 +157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -185,7 +185,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -214,7 +214,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -243,7 +243,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -271,7 +271,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/openjpeg&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -300,7 +300,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/openjpeg&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -331,7 +331,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "openjpeg",
-				"purl": "purl:rpm/suse/openjpeg&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/openjpeg&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

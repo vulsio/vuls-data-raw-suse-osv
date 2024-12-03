@@ -26,7 +26,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-default-base&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

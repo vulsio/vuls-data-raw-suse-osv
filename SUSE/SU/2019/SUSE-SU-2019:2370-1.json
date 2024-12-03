@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 12",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{
@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/python-urllib3&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

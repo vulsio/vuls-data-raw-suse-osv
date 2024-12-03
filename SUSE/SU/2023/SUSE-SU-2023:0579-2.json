@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc",
-				"purl": "purl:rpm/suse/glibc&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-devel",
-				"purl": "purl:rpm/suse/glibc-devel&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-devel&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -56,7 +56,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-html",
-				"purl": "purl:rpm/suse/glibc-html&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-html&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -76,7 +76,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-i18ndata",
-				"purl": "purl:rpm/suse/glibc-i18ndata&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-i18ndata&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-info",
-				"purl": "purl:rpm/suse/glibc-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-locale",
-				"purl": "purl:rpm/suse/glibc-locale&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-locale&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "glibc-profile",
-				"purl": "purl:rpm/suse/glibc-profile&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/glibc-profile&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{
@@ -156,7 +156,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-LTSS-EXTREME-CORE",
 				"name": "nscd",
-				"purl": "purl:rpm/suse/nscd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
+				"purl": "pkg:rpm/suse/nscd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-LTSS-EXTREME-CORE"
 			},
 			"ranges": [
 				{

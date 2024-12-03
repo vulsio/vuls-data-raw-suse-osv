@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libass",
-				"purl": "purl:rpm/suse/libass&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libass&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

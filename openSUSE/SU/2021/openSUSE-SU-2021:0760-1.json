@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "lz4",
-				"purl": "purl:rpm/suse/lz4&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/lz4&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "lz4-test",
-				"purl": "purl:rpm/suse/lz4-test&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/lz4-test&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "hostapd",
-				"purl": "purl:rpm/suse/hostapd&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/hostapd&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

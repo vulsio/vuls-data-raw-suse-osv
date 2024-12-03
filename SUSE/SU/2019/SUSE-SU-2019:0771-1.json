@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "gd",
-				"purl": "purl:rpm/suse/gd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/gd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15",
 				"name": "gd",
-				"purl": "purl:rpm/suse/gd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
+				"purl": "pkg:rpm/suse/gd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015"
 			},
 			"ranges": [
 				{

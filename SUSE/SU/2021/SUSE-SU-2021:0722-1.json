@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP4",
 				"name": "crmsh",
-				"purl": "purl:rpm/suse/crmsh&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/crmsh&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP5",
 				"name": "crmsh",
-				"purl": "purl:rpm/suse/crmsh&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/crmsh&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

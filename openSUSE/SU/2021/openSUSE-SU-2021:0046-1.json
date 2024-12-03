@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/cobbler&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

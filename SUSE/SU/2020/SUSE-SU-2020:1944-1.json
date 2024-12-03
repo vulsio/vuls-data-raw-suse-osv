@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "ant",
-				"purl": "purl:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -54,7 +54,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "ant-antlr",
-				"purl": "purl:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant-antlr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP2",
 				"name": "ant-junit",
-				"purl": "purl:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
+				"purl": "pkg:rpm/suse/ant-junit&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP2"
 			},
 			"ranges": [
 				{

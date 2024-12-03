@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "cacti",
-				"purl": "purl:rpm/suse/cacti&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/cacti&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP1",
 				"name": "cacti-spine",
-				"purl": "purl:rpm/suse/cacti-spine&distro=SUSE%20Package%20Hub%2015%20SP1"
+				"purl": "pkg:rpm/suse/cacti-spine&distro=SUSE%20Package%20Hub%2015%20SP1"
 			},
 			"ranges": [
 				{

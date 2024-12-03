@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "jq",
-				"purl": "purl:rpm/suse/jq&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/jq&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

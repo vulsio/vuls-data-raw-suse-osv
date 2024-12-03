@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ncurses",
-				"purl": "purl:rpm/suse/ncurses&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ncurses&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

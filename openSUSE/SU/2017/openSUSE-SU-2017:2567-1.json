@@ -26,7 +26,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "openjpeg2",
-				"purl": "purl:rpm/suse/openjpeg2&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/openjpeg2&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "openjpeg2",
-				"purl": "purl:rpm/suse/openjpeg2&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/openjpeg2&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{

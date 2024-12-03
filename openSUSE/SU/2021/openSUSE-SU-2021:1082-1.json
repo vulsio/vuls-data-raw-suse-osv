@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "systemd",
-				"purl": "purl:rpm/suse/systemd&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/systemd&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "systemd-mini",
-				"purl": "purl:rpm/suse/systemd-mini&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/systemd-mini&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

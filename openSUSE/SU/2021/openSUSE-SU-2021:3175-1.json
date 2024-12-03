@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "grafana-piechart-panel",
-				"purl": "purl:rpm/suse/grafana-piechart-panel&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/grafana-piechart-panel&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

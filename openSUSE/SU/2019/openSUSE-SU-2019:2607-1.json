@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "openafs",
-				"purl": "purl:rpm/suse/openafs&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/openafs&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

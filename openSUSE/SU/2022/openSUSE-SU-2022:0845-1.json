@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "augeas",
-				"purl": "purl:rpm/suse/augeas&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/augeas&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "chrony",
-				"purl": "purl:rpm/suse/chrony&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/chrony&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

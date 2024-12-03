@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -57,7 +57,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "imlib2",
-				"purl": "purl:rpm/suse/imlib2&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/imlib2&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "mosh",
-				"purl": "purl:rpm/suse/mosh&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/mosh&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "ninja",
-				"purl": "purl:rpm/suse/ninja&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/ninja&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "perl-Switch",
-				"purl": "purl:rpm/suse/perl-Switch&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/perl-Switch&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -237,7 +237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "protobuf",
-				"purl": "purl:rpm/suse/protobuf&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/protobuf&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

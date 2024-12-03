@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15",
 				"name": "rubygem-activerecord-5_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
+				"purl": "pkg:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP1",
 				"name": "rubygem-activerecord-5_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP2",
 				"name": "rubygem-activerecord-5_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
+				"purl": "pkg:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 15 SP3",
 				"name": "rubygem-activerecord-5_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
+				"purl": "pkg:rpm/suse/rubygem-activerecord-5_1&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2015%20SP3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/htmldoc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

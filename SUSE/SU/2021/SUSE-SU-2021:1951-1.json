@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Transactional Server 15 SP3",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Transactional%20Server%2015%20SP3"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Transactional%20Server%2015%20SP3"
 			},
 			"ranges": [
 				{

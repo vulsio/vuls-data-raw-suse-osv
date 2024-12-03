@@ -22,7 +22,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "dcraw",
-				"purl": "purl:rpm/suse/dcraw&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/dcraw&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

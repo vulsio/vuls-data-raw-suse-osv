@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "git",
-				"purl": "purl:rpm/suse/git&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/git&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "perl-Authen-SASL",
-				"purl": "purl:rpm/suse/perl-Authen-SASL&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/perl-Authen-SASL&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -104,7 +104,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "perl-Net-SMTP-SSL",
-				"purl": "purl:rpm/suse/perl-Net-SMTP-SSL&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/perl-Net-SMTP-SSL&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

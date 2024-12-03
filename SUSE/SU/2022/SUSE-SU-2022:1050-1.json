@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "release-notes-susemanager",
-				"purl": "purl:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/release-notes-susemanager&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{

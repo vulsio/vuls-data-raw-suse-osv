@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP4",
 				"name": "flatpak",
-				"purl": "purl:rpm/suse/flatpak&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/flatpak&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "flatpak",
-				"purl": "purl:rpm/suse/flatpak&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/flatpak&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

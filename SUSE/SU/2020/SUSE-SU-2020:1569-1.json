@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP1",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP1"
+				"purl": "pkg:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{

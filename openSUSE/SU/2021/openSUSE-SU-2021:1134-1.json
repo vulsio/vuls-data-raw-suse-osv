@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-CairoSVG",
-				"purl": "purl:rpm/suse/python-CairoSVG&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-CairoSVG&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -53,7 +53,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-Pillow",
-				"purl": "purl:rpm/suse/python-Pillow&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-Pillow&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

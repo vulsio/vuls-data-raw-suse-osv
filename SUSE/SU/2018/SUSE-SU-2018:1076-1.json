@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "gnome-documents",
-				"purl": "purl:rpm/suse/gnome-documents&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/gnome-documents&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -469,7 +469,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libepubgen",
-				"purl": "purl:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -696,7 +696,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -923,7 +923,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -1150,7 +1150,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -1377,7 +1377,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libqxp",
-				"purl": "purl:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -1604,7 +1604,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -1831,7 +1831,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libstaroffice",
-				"purl": "purl:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2058,7 +2058,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2285,7 +2285,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 12 SP3",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2512,7 +2512,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2563,7 +2563,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libepubgen",
-				"purl": "purl:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2614,7 +2614,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2665,7 +2665,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2716,7 +2716,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2767,7 +2767,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libqxp",
-				"purl": "purl:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2818,7 +2818,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2869,7 +2869,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12 SP3",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2920,7 +2920,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2956,7 +2956,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP3",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -2992,7 +2992,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "boost",
-				"purl": "purl:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/boost&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -3213,7 +3213,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "gnome-documents",
-				"purl": "purl:rpm/suse/gnome-documents&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/gnome-documents&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -3434,7 +3434,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libepubgen",
-				"purl": "purl:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libepubgen&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -3655,7 +3655,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libixion",
-				"purl": "purl:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libixion&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -3876,7 +3876,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libmwaw",
-				"purl": "purl:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libmwaw&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -4097,7 +4097,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "liborcus",
-				"purl": "purl:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/liborcus&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -4318,7 +4318,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libqxp",
-				"purl": "purl:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libqxp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -4539,7 +4539,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -4760,7 +4760,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libstaroffice",
-				"purl": "purl:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libstaroffice&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -4981,7 +4981,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "libwps",
-				"purl": "purl:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/libwps&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{
@@ -5202,7 +5202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP3",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP3"
 			},
 			"ranges": [
 				{

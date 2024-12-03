@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "SDL2",
-				"purl": "purl:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -64,7 +64,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "ffmpeg",
-				"purl": "purl:rpm/suse/ffmpeg&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/ffmpeg&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "lame",
-				"purl": "purl:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -174,7 +174,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "twolame",
-				"purl": "purl:rpm/suse/twolame&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/twolame&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "SDL2",
-				"purl": "purl:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -284,7 +284,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "ffmpeg",
-				"purl": "purl:rpm/suse/ffmpeg&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/ffmpeg&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -339,7 +339,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "lame",
-				"purl": "purl:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/lame&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -394,7 +394,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "twolame",
-				"purl": "purl:rpm/suse/twolame&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/twolame&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{

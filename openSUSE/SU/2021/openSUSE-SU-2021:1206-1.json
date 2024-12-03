@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-cffi",
-				"purl": "purl:rpm/suse/python-cffi&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-cffi&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-cryptography",
-				"purl": "purl:rpm/suse/python-cryptography&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-cryptography&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python-pyOpenSSL",
-				"purl": "purl:rpm/suse/python-pyOpenSSL&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python-pyOpenSSL&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

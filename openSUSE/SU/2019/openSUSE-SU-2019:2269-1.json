@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "openssl-1_0_0",
-				"purl": "purl:rpm/suse/openssl-1_0_0&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/openssl-1_0_0&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

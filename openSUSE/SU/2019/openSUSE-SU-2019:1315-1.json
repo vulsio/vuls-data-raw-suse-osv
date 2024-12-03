@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "jasper",
-				"purl": "purl:rpm/suse/jasper&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/jasper&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

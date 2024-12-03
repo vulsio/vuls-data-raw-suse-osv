@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP2",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -128,7 +128,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP1",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP2",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -182,7 +182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP1",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -212,7 +212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP1",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -242,7 +242,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP2",
 				"name": "python",
-				"purl": "purl:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP2"
+				"purl": "pkg:rpm/suse/python&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -272,7 +272,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Python 2 15 SP2",
 				"name": "python-base",
-				"purl": "purl:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP2"
+				"purl": "pkg:rpm/suse/python-base&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Python%202%2015%20SP2"
 			},
 			"ranges": [
 				{

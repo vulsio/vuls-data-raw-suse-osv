@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "c-ares",
-				"purl": "purl:rpm/suse/c-ares&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/c-ares&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "c-ares-tests",
-				"purl": "purl:rpm/suse/c-ares-tests&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/c-ares-tests&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

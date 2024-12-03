@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "cross-nvptx-gcc10",
-				"purl": "purl:rpm/suse/cross-nvptx-gcc10&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/cross-nvptx-gcc10&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -95,7 +95,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gcc10",
-				"purl": "purl:rpm/suse/gcc10&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gcc10&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -178,7 +178,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "nvptx-tools",
-				"purl": "purl:rpm/suse/nvptx-tools&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/nvptx-tools&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

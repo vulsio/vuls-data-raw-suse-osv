@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "php7",
-				"purl": "purl:rpm/suse/php7&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/php7&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -100,7 +100,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "php7-test",
-				"purl": "purl:rpm/suse/php7-test&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/php7-test&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -187,7 +187,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "tidy",
-				"purl": "purl:rpm/suse/tidy&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/tidy&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

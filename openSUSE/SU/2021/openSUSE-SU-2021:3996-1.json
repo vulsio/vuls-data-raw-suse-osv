@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ImageMagick&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

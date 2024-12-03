@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "jetty-minimal",
-				"purl": "purl:rpm/suse/jetty-minimal&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/jetty-minimal&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "jetty-websocket",
-				"purl": "purl:rpm/suse/jetty-websocket&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/jetty-websocket&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

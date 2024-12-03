@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15",
 				"name": "freerdp",
-				"purl": "purl:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
+				"purl": "pkg:rpm/suse/freerdp&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015"
 			},
 			"ranges": [
 				{

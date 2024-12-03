@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "opencv",
-				"purl": "purl:rpm/suse/opencv&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/opencv&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "mosquitto",
-				"purl": "purl:rpm/suse/mosquitto&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/mosquitto&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "crmsh",
-				"purl": "purl:rpm/suse/crmsh&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/crmsh&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

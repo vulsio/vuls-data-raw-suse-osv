@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "ntfs-3g_ntfsprogs",
-				"purl": "purl:rpm/suse/ntfs-3g_ntfsprogs&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/ntfs-3g_ntfsprogs&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

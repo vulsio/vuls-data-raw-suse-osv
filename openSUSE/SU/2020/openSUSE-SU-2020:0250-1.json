@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "enigmail",
-				"purl": "purl:rpm/suse/enigmail&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/enigmail&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

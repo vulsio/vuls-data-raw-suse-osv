@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "re2",
-				"purl": "purl:rpm/suse/re2&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/re2&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "re2",
-				"purl": "purl:rpm/suse/re2&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/re2&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{

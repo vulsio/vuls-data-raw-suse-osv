@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "sudo",
-				"purl": "purl:rpm/suse/sudo&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/sudo&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

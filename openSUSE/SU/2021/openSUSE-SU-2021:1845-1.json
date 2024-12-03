@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/avahi&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/avahi-glib2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

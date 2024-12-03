@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 12",
 				"name": "python-numpy_1_13_3-gnu-hpc",
-				"purl": "purl:rpm/suse/python-numpy_1_13_3-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
+				"purl": "pkg:rpm/suse/python-numpy_1_13_3-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2012"
 			},
 			"ranges": [
 				{

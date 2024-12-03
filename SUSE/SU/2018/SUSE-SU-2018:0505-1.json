@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{

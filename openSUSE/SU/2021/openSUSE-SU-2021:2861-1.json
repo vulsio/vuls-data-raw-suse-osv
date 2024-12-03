@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "spectre-meltdown-checker",
-				"purl": "purl:rpm/suse/spectre-meltdown-checker&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/spectre-meltdown-checker&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

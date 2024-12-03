@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libzypp",
-				"purl": "purl:rpm/suse/libzypp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libzypp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "yast2-installation",
-				"purl": "purl:rpm/suse/yast2-installation&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/yast2-installation&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -80,7 +80,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "zypper",
-				"purl": "purl:rpm/suse/zypper&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/zypper&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

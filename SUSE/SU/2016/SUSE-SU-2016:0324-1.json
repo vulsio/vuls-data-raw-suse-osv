@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "google-carlito-fonts",
-				"purl": "purl:rpm/suse/google-carlito-fonts&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/google-carlito-fonts&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -440,7 +440,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -651,7 +651,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libreoffice-share-linker",
-				"purl": "purl:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -862,7 +862,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libreoffice-voikko",
-				"purl": "purl:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1073,7 +1073,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "libvoikko",
-				"purl": "purl:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1284,7 +1284,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1495,7 +1495,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "mythes",
-				"purl": "purl:rpm/suse/mythes&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/mythes&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1706,7 +1706,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "python-importlib",
-				"purl": "purl:rpm/suse/python-importlib&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/python-importlib&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -1917,7 +1917,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "google-carlito-fonts",
-				"purl": "purl:rpm/suse/google-carlito-fonts&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/google-carlito-fonts&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -2124,7 +2124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "hyphen",
-				"purl": "purl:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/hyphen&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -2331,7 +2331,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "libreoffice",
-				"purl": "purl:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -2538,7 +2538,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "libreoffice-share-linker",
-				"purl": "purl:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice-share-linker&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -2745,7 +2745,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "libreoffice-voikko",
-				"purl": "purl:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/libreoffice-voikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -2952,7 +2952,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "libvoikko",
-				"purl": "purl:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/libvoikko&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -3159,7 +3159,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "myspell-dictionaries",
-				"purl": "purl:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/myspell-dictionaries&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -3366,7 +3366,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "mythes",
-				"purl": "purl:rpm/suse/mythes&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/mythes&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -3573,7 +3573,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "python-importlib",
-				"purl": "purl:rpm/suse/python-importlib&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/python-importlib&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{

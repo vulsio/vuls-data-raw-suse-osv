@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "ffmpeg-4",
-				"purl": "purl:rpm/suse/ffmpeg-4&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/ffmpeg-4&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

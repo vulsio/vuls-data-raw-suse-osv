@@ -32,7 +32,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "sqlite3",
-				"purl": "purl:rpm/suse/sqlite3&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/sqlite3&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

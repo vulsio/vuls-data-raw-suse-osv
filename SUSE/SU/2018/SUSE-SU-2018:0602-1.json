@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Advanced Systems Management 12",
 				"name": "rubygem-puppet",
-				"purl": "purl:rpm/suse/rubygem-puppet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
+				"purl": "pkg:rpm/suse/rubygem-puppet&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Advanced%20Systems%20Management%2012"
 			},
 			"ranges": [
 				{

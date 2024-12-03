@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP3",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/podman&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -151,7 +151,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

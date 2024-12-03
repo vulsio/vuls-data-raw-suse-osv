@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libu2f-host",
-				"purl": "purl:rpm/suse/libu2f-host&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libu2f-host&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "pam_u2f",
-				"purl": "purl:rpm/suse/pam_u2f&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/pam_u2f&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

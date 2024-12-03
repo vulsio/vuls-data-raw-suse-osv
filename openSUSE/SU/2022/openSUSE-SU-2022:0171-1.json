@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rust1.55",
-				"purl": "purl:rpm/suse/rust1.55&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rust1.55&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

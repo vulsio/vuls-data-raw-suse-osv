@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/containerd&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -62,7 +62,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/docker&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "docker-runc",
-				"purl": "purl:rpm/suse/docker-runc&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/docker-runc&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -154,7 +154,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "go",
-				"purl": "purl:rpm/suse/go&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/go&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "go1.11",
-				"purl": "purl:rpm/suse/go1.11&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/go1.11&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -246,7 +246,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "go1.12",
-				"purl": "purl:rpm/suse/go1.12&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/go1.12&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -292,7 +292,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "golang-github-docker-libnetwork",
-				"purl": "purl:rpm/suse/golang-github-docker-libnetwork&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/golang-github-docker-libnetwork&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

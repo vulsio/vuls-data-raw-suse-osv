@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -123,7 +123,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP1",
 				"name": "postgresql",
-				"purl": "purl:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{

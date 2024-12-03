@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "rubygem-actionpack-3_2",
-				"purl": "purl:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Lifecycle Management Server 1.3",
 				"name": "rubygem-actionpack-3_2",
-				"purl": "purl:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Lifecycle%20Management%20Server%201.3"
+				"purl": "pkg:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Lifecycle%20Management%20Server%201.3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Studio Onsite 1.3",
 				"name": "rubygem-actionpack-3_2",
-				"purl": "purl:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Studio%20Onsite%201.3"
+				"purl": "pkg:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20Studio%20Onsite%201.3"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "SUSE:WebYast 1.3",
 				"name": "rubygem-actionpack-3_2",
-				"purl": "purl:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20WebYast%201.3"
+				"purl": "pkg:rpm/suse/rubygem-actionpack-3_2&distro=SUSE%20WebYast%201.3"
 			},
 			"ranges": [
 				{

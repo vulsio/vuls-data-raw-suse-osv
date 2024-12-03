@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.3",
 				"name": "fdo-client",
-				"purl": "purl:rpm/suse/fdo-client&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
+				"purl": "pkg:rpm/suse/fdo-client&distro=SUSE%20Linux%20Enterprise%20Micro%205.3"
 			},
 			"ranges": [
 				{
@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "fdo-client",
-				"purl": "purl:rpm/suse/fdo-client&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/fdo-client&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{

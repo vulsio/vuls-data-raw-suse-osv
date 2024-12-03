@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 2.1",
 				"name": "rubygem-rails-html-sanitizer",
-				"purl": "purl:rpm/suse/rubygem-rails-html-sanitizer&distro=SUSE%20Enterprise%20Storage%202.1"
+				"purl": "pkg:rpm/suse/rubygem-rails-html-sanitizer&distro=SUSE%20Enterprise%20Storage%202.1"
 			},
 			"ranges": [
 				{

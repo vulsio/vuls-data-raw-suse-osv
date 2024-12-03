@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "jsoup",
-				"purl": "purl:rpm/suse/jsoup&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/jsoup&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "jsoup",
-				"purl": "purl:rpm/suse/jsoup&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/jsoup&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "jsoup",
-				"purl": "purl:rpm/suse/jsoup&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/jsoup&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -94,7 +94,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "jsoup",
-				"purl": "purl:rpm/suse/jsoup&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/jsoup&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

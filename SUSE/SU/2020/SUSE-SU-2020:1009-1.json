@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.2",
 				"name": "quartz",
-				"purl": "purl:rpm/suse/quartz&distro=SUSE%20Manager%20Server%203.2"
+				"purl": "pkg:rpm/suse/quartz&distro=SUSE%20Manager%20Server%203.2"
 			},
 			"ranges": [
 				{

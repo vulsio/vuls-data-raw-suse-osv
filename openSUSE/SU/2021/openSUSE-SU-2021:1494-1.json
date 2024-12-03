@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "hylafax+",
-				"purl": "purl:rpm/suse/hylafax+&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/hylafax+&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -38,7 +38,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "hylafax+",
-				"purl": "purl:rpm/suse/hylafax+&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/hylafax+&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

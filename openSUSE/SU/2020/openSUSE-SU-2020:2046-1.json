@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "dash",
-				"purl": "purl:rpm/suse/dash&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/dash&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

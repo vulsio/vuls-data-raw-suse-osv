@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libmspack",
-				"purl": "purl:rpm/suse/libmspack&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libmspack&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -90,7 +90,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "jabberd",
-				"purl": "purl:rpm/suse/jabberd&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/jabberd&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "osad",
-				"purl": "purl:rpm/suse/osad&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/osad&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -244,7 +244,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "rhnpush",
-				"purl": "purl:rpm/suse/rhnpush&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/rhnpush&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -321,7 +321,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "salt-netapi-client",
-				"purl": "purl:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/salt-netapi-client&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -398,7 +398,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "smdba",
-				"purl": "purl:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/smdba&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -475,7 +475,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -552,7 +552,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-backend",
-				"purl": "purl:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-backend&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -629,7 +629,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-branding",
-				"purl": "purl:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-branding&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -706,7 +706,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-certs-tools",
-				"purl": "purl:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-certs-tools&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -783,7 +783,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-java",
-				"purl": "purl:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-java&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -860,7 +860,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-search",
-				"purl": "purl:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-search&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -937,7 +937,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-utils",
-				"purl": "purl:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-utils&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -1014,7 +1014,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "spacewalk-web",
-				"purl": "purl:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/spacewalk-web&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -1091,7 +1091,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager",
-				"purl": "purl:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -1168,7 +1168,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-docs_en",
-				"purl": "purl:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-docs_en&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -1245,7 +1245,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-schema",
-				"purl": "purl:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-schema&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{
@@ -1322,7 +1322,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 3.1",
 				"name": "susemanager-sync-data",
-				"purl": "purl:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.1"
+				"purl": "pkg:rpm/suse/susemanager-sync-data&distro=SUSE%20Manager%20Server%203.1"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "caribou",
-				"purl": "purl:rpm/suse/caribou&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/caribou&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

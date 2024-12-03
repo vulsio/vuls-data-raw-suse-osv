@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "p7zip",
-				"purl": "purl:rpm/suse/p7zip&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/p7zip&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server Module 4.1",
 				"name": "snakeyaml",
-				"purl": "purl:rpm/suse/snakeyaml&distro=SUSE%20Manager%20Server%20Module%204.1"
+				"purl": "pkg:rpm/suse/snakeyaml&distro=SUSE%20Manager%20Server%20Module%204.1"
 			},
 			"ranges": [
 				{

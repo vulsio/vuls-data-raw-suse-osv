@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libpcap",
-				"purl": "purl:rpm/suse/libpcap&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libpcap&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

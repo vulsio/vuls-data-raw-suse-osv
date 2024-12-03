@@ -97,7 +97,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP3",
 				"name": "chromium",
-				"purl": "purl:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012%20SP3"
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2012%20SP3"
 			},
 			"ranges": [
 				{

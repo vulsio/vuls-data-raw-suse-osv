@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
+				"purl": "pkg:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
 			},
 			"ranges": [
 				{
@@ -46,7 +46,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15",
 				"name": "docker-runc",
-				"purl": "purl:rpm/suse/docker-runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
+				"purl": "pkg:rpm/suse/docker-runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15",
 				"name": "golang-github-docker-libnetwork",
-				"purl": "purl:rpm/suse/golang-github-docker-libnetwork&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
+				"purl": "pkg:rpm/suse/golang-github-docker-libnetwork&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -170,7 +170,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "docker-runc",
-				"purl": "purl:rpm/suse/docker-runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/docker-runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -232,7 +232,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "golang-github-docker-libnetwork",
-				"purl": "purl:rpm/suse/golang-github-docker-libnetwork&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/golang-github-docker-libnetwork&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{

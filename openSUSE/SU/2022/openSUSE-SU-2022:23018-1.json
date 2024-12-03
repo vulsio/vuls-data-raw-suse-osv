@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "conmon",
-				"purl": "purl:rpm/suse/conmon&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/conmon&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libcontainers-common",
-				"purl": "purl:rpm/suse/libcontainers-common&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libcontainers-common&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "libseccomp",
-				"purl": "purl:rpm/suse/libseccomp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/libseccomp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "podman",
-				"purl": "purl:rpm/suse/podman&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/podman&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "python-suds-jurko",
-				"purl": "purl:rpm/suse/python-suds-jurko&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/python-suds-jurko&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{

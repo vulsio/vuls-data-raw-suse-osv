@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "hdf5_1_10_8-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "hdf5_1_10_8-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -248,7 +248,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "hdf5_1_10_8-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -366,7 +366,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "hdf5_1_10_8-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -484,7 +484,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for HPC 15 SP4",
 				"name": "hdf5_1_10_8-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20HPC%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -602,7 +602,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5",
-				"purl": "purl:rpm/suse/hdf5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -671,7 +671,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5_1_10_8-gnu-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -740,7 +740,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5_1_10_8-gnu-mpich-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mpich-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -809,7 +809,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5_1_10_8-gnu-mvapich2-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-mvapich2-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -878,7 +878,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5_1_10_8-gnu-openmpi3-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi3-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -947,7 +947,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "hdf5_1_10_8-gnu-openmpi4-hpc",
-				"purl": "purl:rpm/suse/hdf5_1_10_8-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/hdf5_1_10_8-gnu-openmpi4-hpc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{

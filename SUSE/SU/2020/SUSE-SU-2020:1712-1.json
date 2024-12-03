@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP4",
 				"name": "xawtv",
-				"purl": "purl:rpm/suse/xawtv&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/xawtv&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 12 SP5",
 				"name": "xawtv",
-				"purl": "purl:rpm/suse/xawtv&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/xawtv&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

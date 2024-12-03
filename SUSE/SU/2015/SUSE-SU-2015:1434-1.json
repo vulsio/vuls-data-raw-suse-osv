@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-glanceclient",
-				"purl": "purl:rpm/suse/python-glanceclient&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-glanceclient&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -45,7 +45,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-keystoneclient",
-				"purl": "purl:rpm/suse/python-keystoneclient&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-keystoneclient&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -78,7 +78,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-keystonemiddleware",
-				"purl": "purl:rpm/suse/python-keystonemiddleware&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-keystonemiddleware&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-novaclient",
-				"purl": "purl:rpm/suse/python-novaclient&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-novaclient&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -144,7 +144,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-openstackclient",
-				"purl": "purl:rpm/suse/python-openstackclient&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-openstackclient&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

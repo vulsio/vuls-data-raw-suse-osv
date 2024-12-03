@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gcc7",
-				"purl": "purl:rpm/suse/gcc7&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gcc7&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

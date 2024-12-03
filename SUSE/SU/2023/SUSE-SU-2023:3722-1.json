@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "rust1.72",
-				"purl": "purl:rpm/suse/rust1.72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/rust1.72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/rust&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP5",
 				"name": "rust1.72",
-				"purl": "purl:rpm/suse/rust1.72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
+				"purl": "pkg:rpm/suse/rust1.72&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP5"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/rust&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "rust1.72",
-				"purl": "purl:rpm/suse/rust1.72&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/rust1.72&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "rust",
-				"purl": "purl:rpm/suse/rust&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/rust&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{
@@ -222,7 +222,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.5",
 				"name": "rust1.72",
-				"purl": "purl:rpm/suse/rust1.72&distro=openSUSE%20Leap%2015.5"
+				"purl": "pkg:rpm/opensuse/rust1.72&distro=openSUSE%20Leap%2015.5"
 			},
 			"ranges": [
 				{

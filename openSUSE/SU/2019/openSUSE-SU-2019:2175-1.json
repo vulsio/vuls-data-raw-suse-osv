@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "shadow",
-				"purl": "purl:rpm/suse/shadow&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/shadow&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "util-linux",
-				"purl": "purl:rpm/suse/util-linux&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/util-linux&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

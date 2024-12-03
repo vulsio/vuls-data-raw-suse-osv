@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-monasca",
-				"purl": "purl:rpm/suse/ardana-monasca&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-monasca&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "ardana-spark",
-				"purl": "purl:rpm/suse/ardana-spark&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/ardana-spark&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "kafka",
-				"purl": "purl:rpm/suse/kafka&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/kafka&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "openstack-monasca-api",
-				"purl": "purl:rpm/suse/openstack-monasca-api&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-api&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-monasca",
-				"purl": "purl:rpm/suse/ardana-monasca&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-monasca&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -167,7 +167,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "ardana-spark",
-				"purl": "purl:rpm/suse/ardana-spark&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/ardana-spark&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -198,7 +198,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "kafka",
-				"purl": "purl:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -229,7 +229,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 8",
 				"name": "openstack-monasca-api",
-				"purl": "purl:rpm/suse/openstack-monasca-api&distro=SUSE%20OpenStack%20Cloud%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-api&distro=SUSE%20OpenStack%20Cloud%208"
 			},
 			"ranges": [
 				{
@@ -260,7 +260,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "kafka",
-				"purl": "purl:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/kafka&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -289,7 +289,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "openstack-monasca-api",
-				"purl": "purl:rpm/suse/openstack-monasca-api&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/openstack-monasca-api&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{

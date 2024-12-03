@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:HPE Helion OpenStack 8",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=HPE%20Helion%20OpenStack%208"
+				"purl": "pkg:rpm/suse/glib2&distro=HPE%20Helion%20OpenStack%208"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud Crowbar 8",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20OpenStack%20Cloud%20Crowbar%208"
 			},
 			"ranges": [
 				{
@@ -88,7 +88,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-LTSS",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP3-BCL",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP3-BCL"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 5",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Enterprise%20Storage%205"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Enterprise%20Storage%205"
 			},
 			"ranges": [
 				{

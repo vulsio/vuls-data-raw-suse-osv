@@ -37,7 +37,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 11 SP4",
 				"name": "kernel-rt",
-				"purl": "purl:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 11 SP4",
 				"name": "kernel-rt_trace",
-				"purl": "purl:rpm/suse/kernel-rt_trace&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-rt_trace&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 11 SP4",
 				"name": "kernel-source-rt",
-				"purl": "purl:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-source-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -139,7 +139,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 11 SP4",
 				"name": "kernel-syms-rt",
-				"purl": "purl:rpm/suse/kernel-syms-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
+				"purl": "pkg:rpm/suse/kernel-syms-rt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2011%20SP4"
 			},
 			"ranges": [
 				{

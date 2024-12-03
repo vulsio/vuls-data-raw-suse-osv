@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -88,7 +88,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -164,7 +164,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -202,7 +202,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.0",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Manager%20Proxy%204.0"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Manager%20Proxy%204.0"
 			},
 			"ranges": [
 				{
@@ -240,7 +240,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.0",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.0"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.0"
 			},
 			"ranges": [
 				{
@@ -278,7 +278,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.0",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Manager%20Server%204.0"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Manager%20Server%204.0"
 			},
 			"ranges": [
 				{
@@ -316,7 +316,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "postgresql12",
-				"purl": "purl:rpm/suse/postgresql12&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/postgresql12&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

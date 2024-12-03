@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP3",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 11 SP4",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -68,7 +68,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP3",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Desktop 11 SP4",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Desktop%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP1-LTSS",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -152,7 +152,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP1-TERADATA",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-TERADATA"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP1-TERADATA"
 			},
 			"ranges": [
 				{
@@ -180,7 +180,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP2-LTSS",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -208,7 +208,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -237,7 +237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-TERADATA",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-TERADATA"
 			},
 			"ranges": [
 				{
@@ -266,7 +266,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP3",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP3"
 			},
 			"ranges": [
 				{
@@ -295,7 +295,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4"
 			},
 			"ranges": [
 				{
@@ -324,7 +324,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 11 SP4",
 				"name": "xorg-x11-libX11",
-				"purl": "purl:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
+				"purl": "pkg:rpm/suse/xorg-x11-libX11&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2011%20SP4"
 			},
 			"ranges": [
 				{

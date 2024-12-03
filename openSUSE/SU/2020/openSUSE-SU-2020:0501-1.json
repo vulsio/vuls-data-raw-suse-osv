@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gmp",
-				"purl": "purl:rpm/suse/gmp&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gmp&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -63,7 +63,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gnutls",
-				"purl": "purl:rpm/suse/gnutls&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gnutls&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -114,7 +114,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libnettle",
-				"purl": "purl:rpm/suse/libnettle&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libnettle&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

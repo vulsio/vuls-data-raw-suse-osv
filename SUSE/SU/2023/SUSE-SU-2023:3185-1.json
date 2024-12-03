@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "pipewire",
-				"purl": "purl:rpm/suse/pipewire&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/pipewire&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

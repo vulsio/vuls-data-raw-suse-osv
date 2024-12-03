@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -48,7 +48,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -111,7 +111,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-ESPOS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-ESPOS"
 			},
 			"ranges": [
 				{
@@ -175,7 +175,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -212,7 +212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -249,7 +249,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -286,7 +286,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -323,7 +323,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -360,7 +360,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015-LTSS"
 			},
 			"ranges": [
 				{
@@ -397,7 +397,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -434,7 +434,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -471,7 +471,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -508,7 +508,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -545,7 +545,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015"
 			},
 			"ranges": [
 				{
@@ -582,7 +582,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -619,7 +619,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -656,7 +656,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.1",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Manager%20Proxy%204.1"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Manager%20Proxy%204.1"
 			},
 			"ranges": [
 				{
@@ -693,7 +693,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -730,7 +730,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.1",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Manager%20Server%204.1"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Manager%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -767,7 +767,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -795,7 +795,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -832,7 +832,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/cups&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -869,7 +869,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cups&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -911,7 +911,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cups",
-				"purl": "purl:rpm/suse/cups&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cups&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

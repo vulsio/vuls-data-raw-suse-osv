@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "libmaxminddb",
-				"purl": "purl:rpm/suse/libmaxminddb&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/libmaxminddb&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "spandsp",
-				"purl": "purl:rpm/suse/spandsp&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/spandsp&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -150,7 +150,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "wireshark",
-				"purl": "purl:rpm/suse/wireshark&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/wireshark&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

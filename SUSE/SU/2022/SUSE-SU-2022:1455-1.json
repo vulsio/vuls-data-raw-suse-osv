@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP2",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -88,7 +88,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.0",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
+				"purl": "pkg:rpm/suse/glib2&distro=SUSE%20Linux%20Enterprise%20Micro%205.0"
 			},
 			"ranges": [
 				{
@@ -119,7 +119,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "glib2",
-				"purl": "purl:rpm/suse/glib2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/glib2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "ldb",
-				"purl": "purl:rpm/suse/ldb&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/ldb&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/samba&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{

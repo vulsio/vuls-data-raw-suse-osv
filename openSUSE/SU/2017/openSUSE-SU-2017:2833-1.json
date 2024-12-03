@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "jq",
-				"purl": "purl:rpm/suse/jq&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/jq&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{

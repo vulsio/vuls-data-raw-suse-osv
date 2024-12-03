@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Live Patching 12 SP3",
 				"name": "kgraft-patch-SLE12-SP3_Update_7",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP3_Update_7&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP3"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP3_Update_7&distro=SUSE%20Linux%20Enterprise%20Live%20Patching%2012%20SP3"
 			},
 			"ranges": [
 				{

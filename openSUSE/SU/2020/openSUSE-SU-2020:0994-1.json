@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/slirp4netns&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

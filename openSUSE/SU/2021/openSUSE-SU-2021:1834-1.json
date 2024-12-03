@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ceph&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ceph-test",
-				"purl": "purl:rpm/suse/ceph-test&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ceph-test&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

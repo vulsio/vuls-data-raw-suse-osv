@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "bird",
-				"purl": "purl:rpm/suse/bird&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/bird&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

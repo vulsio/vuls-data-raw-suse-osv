@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/grafana&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "grafana-piechart-panel",
-				"purl": "purl:rpm/suse/grafana-piechart-panel&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/grafana-piechart-panel&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "grafana-status-panel",
-				"purl": "purl:rpm/suse/grafana-status-panel&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/grafana-status-panel&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

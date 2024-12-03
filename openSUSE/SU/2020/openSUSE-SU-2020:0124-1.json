@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "apt-cacher-ng",
-				"purl": "purl:rpm/suse/apt-cacher-ng&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/apt-cacher-ng&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

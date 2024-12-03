@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "live555",
-				"purl": "purl:rpm/suse/live555&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/live555&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "live555",
-				"purl": "purl:rpm/suse/live555&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/live555&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

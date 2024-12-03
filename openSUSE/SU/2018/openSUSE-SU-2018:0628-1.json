@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "go1.8",
-				"purl": "purl:rpm/suse/go1.8&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/go1.8&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

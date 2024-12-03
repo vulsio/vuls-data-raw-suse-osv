@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "grilo",
-				"purl": "purl:rpm/suse/grilo&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/grilo&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

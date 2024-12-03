@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "pkgconf",
-				"purl": "purl:rpm/suse/pkgconf&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/pkgconf&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

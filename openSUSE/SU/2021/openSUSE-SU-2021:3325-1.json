@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rabbitmq-server",
-				"purl": "purl:rpm/suse/rabbitmq-server&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rabbitmq-server&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

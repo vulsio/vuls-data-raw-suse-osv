@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-urllib3",
-				"purl": "purl:rpm/suse/python-urllib3&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-urllib3&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-urllib3-test",
-				"purl": "purl:rpm/suse/python-urllib3-test&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-urllib3-test&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

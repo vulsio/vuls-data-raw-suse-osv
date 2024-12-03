@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "uyuni-storage-setup",
-				"purl": "purl:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 5.0",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Proxy%205.0"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Proxy%205.0"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "uyuni-storage-setup",
-				"purl": "purl:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -105,7 +105,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server Extension 5.0",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Retail%20Branch%20Server%20Extension%205.0"
 			},
 			"ranges": [
 				{
@@ -136,7 +136,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "uyuni-storage-setup",
-				"purl": "purl:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/uyuni-storage-setup&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{
@@ -171,7 +171,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 5.0",
 				"name": "uyuni-tools",
-				"purl": "purl:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Server%205.0"
+				"purl": "pkg:rpm/suse/uyuni-tools&distro=SUSE%20Manager%20Server%205.0"
 			},
 			"ranges": [
 				{

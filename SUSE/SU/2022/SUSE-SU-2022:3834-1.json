@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-Flask-Security",
-				"purl": "purl:rpm/suse/python-Flask-Security&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-Flask-Security&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "python-Flask-Security",
-				"purl": "purl:rpm/suse/python-Flask-Security&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/python-Flask-Security&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

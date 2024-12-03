@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "virtualbox",
-				"purl": "purl:rpm/suse/virtualbox&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/virtualbox&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

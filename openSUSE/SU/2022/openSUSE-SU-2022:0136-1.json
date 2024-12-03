@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "civetweb",
-				"purl": "purl:rpm/suse/civetweb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/civetweb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -55,7 +55,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -86,7 +86,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "civetweb",
-				"purl": "purl:rpm/suse/civetweb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/civetweb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "MozillaFirefox",
-				"purl": "purl:rpm/suse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/MozillaFirefox&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

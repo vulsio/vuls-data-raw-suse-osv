@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 7",
 				"name": "nodejs6",
-				"purl": "purl:rpm/suse/nodejs6&distro=SUSE%20OpenStack%20Cloud%207"
+				"purl": "pkg:rpm/suse/nodejs6&distro=SUSE%20OpenStack%20Cloud%207"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Web and Scripting 12",
 				"name": "nodejs6",
-				"purl": "purl:rpm/suse/nodejs6&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
+				"purl": "pkg:rpm/suse/nodejs6&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Web%20and%20Scripting%2012"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 4",
 				"name": "nodejs6",
-				"purl": "purl:rpm/suse/nodejs6&distro=SUSE%20Enterprise%20Storage%204"
+				"purl": "pkg:rpm/suse/nodejs6&distro=SUSE%20Enterprise%20Storage%204"
 			},
 			"ranges": [
 				{

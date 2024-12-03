@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "jettison",
-				"purl": "purl:rpm/suse/jettison&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/jettison&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

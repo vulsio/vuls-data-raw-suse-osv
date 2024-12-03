@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP3",
 				"name": "frr",
-				"purl": "purl:rpm/suse/frr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/frr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -50,7 +50,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Server Applications 15 SP4",
 				"name": "frr",
-				"purl": "purl:rpm/suse/frr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
+				"purl": "pkg:rpm/suse/frr&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Server%20Applications%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -87,7 +87,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "frr",
-				"purl": "purl:rpm/suse/frr&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/frr&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -124,7 +124,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "frr",
-				"purl": "purl:rpm/suse/frr&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/frr&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

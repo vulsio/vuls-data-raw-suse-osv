@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "mosquitto",
-				"purl": "purl:rpm/suse/mosquitto&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/mosquitto&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

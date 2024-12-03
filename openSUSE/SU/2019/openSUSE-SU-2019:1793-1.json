@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "teeworlds",
-				"purl": "purl:rpm/suse/teeworlds&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/teeworlds&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

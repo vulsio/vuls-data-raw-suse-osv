@@ -20,7 +20,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-debug",
-				"purl": "purl:rpm/suse/kernel-debug&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-debug&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -65,7 +65,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-default",
-				"purl": "purl:rpm/suse/kernel-default&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-default&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -110,7 +110,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-default-base",
-				"purl": "purl:rpm/suse/kernel-default-base&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-default-base&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-docs",
-				"purl": "purl:rpm/suse/kernel-docs&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-docs&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-kvmsmall",
-				"purl": "purl:rpm/suse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-kvmsmall&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -245,7 +245,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-obs-build",
-				"purl": "purl:rpm/suse/kernel-obs-build&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-obs-build&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -290,7 +290,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-obs-qa",
-				"purl": "purl:rpm/suse/kernel-obs-qa&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-obs-qa&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -335,7 +335,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-preempt",
-				"purl": "purl:rpm/suse/kernel-preempt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-preempt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -380,7 +380,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-source",
-				"purl": "purl:rpm/suse/kernel-source&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-source&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -425,7 +425,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kernel-syms",
-				"purl": "purl:rpm/suse/kernel-syms&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kernel-syms&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

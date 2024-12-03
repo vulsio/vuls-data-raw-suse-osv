@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libX11",
-				"purl": "purl:rpm/suse/libX11&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libX11&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -96,7 +96,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "libxcb",
-				"purl": "purl:rpm/suse/libxcb&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/libxcb&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

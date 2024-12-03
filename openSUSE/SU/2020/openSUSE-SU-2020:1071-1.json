@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "vino",
-				"purl": "purl:rpm/suse/vino&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/vino&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

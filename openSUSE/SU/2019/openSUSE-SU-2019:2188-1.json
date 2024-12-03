@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "fish3",
-				"purl": "purl:rpm/suse/fish3&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/fish3&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

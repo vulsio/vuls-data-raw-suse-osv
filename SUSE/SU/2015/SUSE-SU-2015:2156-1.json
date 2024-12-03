@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/python-requests&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

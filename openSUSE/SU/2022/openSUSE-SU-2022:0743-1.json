@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cyrus-sasl",
-				"purl": "purl:rpm/suse/cyrus-sasl&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cyrus-sasl&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -75,7 +75,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cyrus-sasl-bdb",
-				"purl": "purl:rpm/suse/cyrus-sasl-bdb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cyrus-sasl-bdb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -138,7 +138,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cyrus-sasl-saslauthd",
-				"purl": "purl:rpm/suse/cyrus-sasl-saslauthd&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cyrus-sasl-saslauthd&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -201,7 +201,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cyrus-sasl-saslauthd-bdb",
-				"purl": "purl:rpm/suse/cyrus-sasl-saslauthd-bdb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cyrus-sasl-saslauthd-bdb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

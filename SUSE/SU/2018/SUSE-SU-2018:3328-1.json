@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP1-LTSS",
 				"name": "kgraft-patch-SLE12-SP1_Update_32",
-				"purl": "purl:rpm/suse/kgraft-patch-SLE12-SP1_Update_32&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/kgraft-patch-SLE12-SP1_Update_32&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP1-LTSS"
 			},
 			"ranges": [
 				{

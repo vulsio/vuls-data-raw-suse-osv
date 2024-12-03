@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP1",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
+				"purl": "pkg:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability Extension 12 SP2",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
+				"purl": "pkg:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20Extension%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12",
 				"name": "lighttpd",
-				"purl": "purl:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
+				"purl": "pkg:rpm/suse/lighttpd&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012"
 			},
 			"ranges": [
 				{

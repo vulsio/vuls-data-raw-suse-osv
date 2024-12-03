@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rubygem-activerecord-5_1",
-				"purl": "purl:rpm/suse/rubygem-activerecord-5_1&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rubygem-activerecord-5_1&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

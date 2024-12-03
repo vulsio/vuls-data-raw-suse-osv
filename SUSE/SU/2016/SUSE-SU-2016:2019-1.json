@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-bson-1_11",
-				"purl": "purl:rpm/suse/rubygem-bson-1_11&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-bson-1_11&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-easy_diff",
-				"purl": "purl:rpm/suse/rubygem-easy_diff&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-easy_diff&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -72,7 +72,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-redcarpet",
-				"purl": "purl:rpm/suse/rubygem-redcarpet&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-redcarpet&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{
@@ -102,7 +102,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 5",
 				"name": "rubygem-sprockets-2_11",
-				"purl": "purl:rpm/suse/rubygem-sprockets-2_11&distro=SUSE%20OpenStack%20Cloud%205"
+				"purl": "pkg:rpm/suse/rubygem-sprockets-2_11&distro=SUSE%20OpenStack%20Cloud%205"
 			},
 			"ranges": [
 				{

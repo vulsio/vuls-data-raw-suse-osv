@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "kdeconnect-kde",
-				"purl": "purl:rpm/suse/kdeconnect-kde&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/kdeconnect-kde&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

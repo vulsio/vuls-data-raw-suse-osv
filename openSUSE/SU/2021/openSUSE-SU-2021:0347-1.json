@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/salt&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

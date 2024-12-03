@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for Raspberry Pi 12 SP2",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%20for%20Raspberry%20Pi%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -73,7 +73,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 12 SP2",
 				"name": "openvswitch-dpdk",
-				"purl": "purl:rpm/suse/openvswitch-dpdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch-dpdk&distro=SUSE%20Linux%20Enterprise%20Server%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -103,7 +103,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "openvswitch",
-				"purl": "purl:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -133,7 +133,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 12 SP2",
 				"name": "openvswitch-dpdk",
-				"purl": "purl:rpm/suse/openvswitch-dpdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
+				"purl": "pkg:rpm/suse/openvswitch-dpdk&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2012%20SP2"
 			},
 			"ranges": [
 				{

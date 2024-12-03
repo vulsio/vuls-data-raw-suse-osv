@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "icingaweb2",
-				"purl": "purl:rpm/suse/icingaweb2&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/icingaweb2&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -49,7 +49,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "icingaweb2",
-				"purl": "purl:rpm/suse/icingaweb2&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/icingaweb2&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "yaml-cpp",
-				"purl": "purl:rpm/suse/yaml-cpp&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/yaml-cpp&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

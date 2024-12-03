@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "atftp",
-				"purl": "purl:rpm/suse/atftp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/atftp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

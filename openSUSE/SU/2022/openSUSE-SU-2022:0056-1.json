@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "connman",
-				"purl": "purl:rpm/suse/connman&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/connman&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "connman",
-				"purl": "purl:rpm/suse/connman&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/connman&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -107,7 +107,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-azure",
-				"purl": "purl:rpm/suse/kernel-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -147,7 +147,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-source-azure",
-				"purl": "purl:rpm/suse/kernel-source-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-source-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -187,7 +187,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-syms-azure",
-				"purl": "purl:rpm/suse/kernel-syms-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-syms-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -227,7 +227,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "connman",
-				"purl": "purl:rpm/suse/connman&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/connman&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -268,7 +268,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-azure",
-				"purl": "purl:rpm/suse/kernel-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -308,7 +308,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-source-azure",
-				"purl": "purl:rpm/suse/kernel-source-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-source-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -348,7 +348,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "kernel-syms-azure",
-				"purl": "purl:rpm/suse/kernel-syms-azure&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/kernel-syms-azure&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

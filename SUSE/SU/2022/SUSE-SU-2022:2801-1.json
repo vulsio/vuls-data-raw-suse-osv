@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "cifs-utils",
-				"purl": "purl:rpm/suse/cifs-utils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/cifs-utils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.2",
 				"name": "cifs-utils",
-				"purl": "purl:rpm/suse/cifs-utils&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
+				"purl": "pkg:rpm/suse/cifs-utils&distro=SUSE%20Linux%20Enterprise%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cifs-utils",
-				"purl": "purl:rpm/suse/cifs-utils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cifs-utils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

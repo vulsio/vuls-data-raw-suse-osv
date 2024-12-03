@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "phpMyAdmin",
-				"purl": "purl:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP3",
 				"name": "phpMyAdmin",
-				"purl": "purl:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/phpMyAdmin&distro=SUSE%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "phpMyAdmin",
-				"purl": "purl:rpm/suse/phpMyAdmin&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/phpMyAdmin&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

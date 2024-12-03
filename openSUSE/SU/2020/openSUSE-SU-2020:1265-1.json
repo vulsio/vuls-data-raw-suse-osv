@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python3",
-				"purl": "purl:rpm/suse/python3&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python3&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python3-base",
-				"purl": "purl:rpm/suse/python3-base&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python3-base&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "python3-doc",
-				"purl": "purl:rpm/suse/python3-doc&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/python3-doc&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

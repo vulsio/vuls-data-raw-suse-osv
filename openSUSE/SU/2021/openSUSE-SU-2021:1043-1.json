@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "qemu",
-				"purl": "purl:rpm/suse/qemu&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/qemu&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -84,7 +84,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "qemu-linux-user",
-				"purl": "purl:rpm/suse/qemu-linux-user&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/qemu-linux-user&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -143,7 +143,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "qemu-testsuite",
-				"purl": "purl:rpm/suse/qemu-testsuite&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/qemu-testsuite&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

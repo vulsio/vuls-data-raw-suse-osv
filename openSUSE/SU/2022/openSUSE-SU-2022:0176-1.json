@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "unbound",
-				"purl": "purl:rpm/suse/unbound&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/unbound&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for CAP 15",
 				"name": "cf-cli",
-				"purl": "purl:rpm/suse/cf-cli&distro=SUSE%20Linux%20Enterprise%20Module%20for%20CAP%2015"
+				"purl": "pkg:rpm/suse/cf-cli&distro=SUSE%20Linux%20Enterprise%20Module%20for%20CAP%2015"
 			},
 			"ranges": [
 				{

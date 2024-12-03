@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Studio Onsite 1.3",
 				"name": "curl",
-				"purl": "purl:rpm/suse/curl&distro=SUSE%20Studio%20Onsite%201.3"
+				"purl": "pkg:rpm/suse/curl&distro=SUSE%20Studio%20Onsite%201.3"
 			},
 			"ranges": [
 				{

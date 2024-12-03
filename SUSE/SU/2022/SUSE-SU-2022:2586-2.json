@@ -16,7 +16,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "ldb",
-				"purl": "purl:rpm/suse/ldb&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/ldb&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{
@@ -44,7 +44,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "samba",
-				"purl": "purl:rpm/suse/samba&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/samba&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

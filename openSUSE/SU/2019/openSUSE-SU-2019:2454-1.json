@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.0",
 				"name": "libtomcrypt",
-				"purl": "purl:rpm/suse/libtomcrypt&distro=openSUSE%20Leap%2015.0"
+				"purl": "pkg:rpm/opensuse/libtomcrypt&distro=openSUSE%20Leap%2015.0"
 			},
 			"ranges": [
 				{

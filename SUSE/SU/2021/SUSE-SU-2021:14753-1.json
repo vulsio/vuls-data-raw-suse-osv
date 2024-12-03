@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "golang-github-wrouesnel-postgres_exporter",
-				"purl": "purl:rpm/suse/golang-github-wrouesnel-postgres_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/golang-github-wrouesnel-postgres_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-cfg",
-				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-cfg&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -142,7 +142,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-custom-info",
-				"purl": "purl:rpm/suse/mgr-custom-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-custom-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -207,7 +207,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -272,7 +272,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-osad&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -337,7 +337,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-push&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -402,7 +402,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-virtualization&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -467,7 +467,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -532,7 +532,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -597,7 +597,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -662,7 +662,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -727,7 +727,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-koan&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -792,7 +792,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacewalk-oscap",
-				"purl": "purl:rpm/suse/spacewalk-oscap&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-oscap&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -857,7 +857,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "spacewalk-remote-utils",
-				"purl": "purl:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -922,7 +922,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -987,7 +987,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "suseRegisterInfo",
-				"purl": "purl:rpm/suse/suseRegisterInfo&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/suseRegisterInfo&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1052,7 +1052,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP3-CLIENT-TOOLS",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP3-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1117,7 +1117,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "golang-github-wrouesnel-postgres_exporter",
-				"purl": "purl:rpm/suse/golang-github-wrouesnel-postgres_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/golang-github-wrouesnel-postgres_exporter&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1182,7 +1182,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-cfg",
-				"purl": "purl:rpm/suse/mgr-cfg&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-cfg&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1247,7 +1247,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-custom-info",
-				"purl": "purl:rpm/suse/mgr-custom-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-custom-info&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1312,7 +1312,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-daemon",
-				"purl": "purl:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-daemon&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1377,7 +1377,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-osad",
-				"purl": "purl:rpm/suse/mgr-osad&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-osad&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1442,7 +1442,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-push",
-				"purl": "purl:rpm/suse/mgr-push&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-push&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1507,7 +1507,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "mgr-virtualization",
-				"purl": "purl:rpm/suse/mgr-virtualization&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/mgr-virtualization&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1572,7 +1572,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "rhnlib",
-				"purl": "purl:rpm/suse/rhnlib&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/rhnlib&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1637,7 +1637,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "salt",
-				"purl": "purl:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/salt&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1702,7 +1702,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1767,7 +1767,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1832,7 +1832,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacewalk-koan",
-				"purl": "purl:rpm/suse/spacewalk-koan&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-koan&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1897,7 +1897,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacewalk-oscap",
-				"purl": "purl:rpm/suse/spacewalk-oscap&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-oscap&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -1962,7 +1962,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "spacewalk-remote-utils",
-				"purl": "purl:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/spacewalk-remote-utils&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -2027,7 +2027,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "supportutils-plugin-susemanager-client",
-				"purl": "purl:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-susemanager-client&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -2092,7 +2092,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "suseRegisterInfo",
-				"purl": "purl:rpm/suse/suseRegisterInfo&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/suseRegisterInfo&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{
@@ -2157,7 +2157,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 11 SP4-CLIENT-TOOLS",
 				"name": "uyuni-common-libs",
-				"purl": "purl:rpm/suse/uyuni-common-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
+				"purl": "pkg:rpm/suse/uyuni-common-libs&distro=SUSE%20Linux%20Enterprise%20Server%2011%20SP4-CLIENT-TOOLS"
 			},
 			"ranges": [
 				{

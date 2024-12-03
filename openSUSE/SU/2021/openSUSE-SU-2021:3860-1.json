@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "speex",
-				"purl": "purl:rpm/suse/speex&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/speex&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "json-c",
-				"purl": "purl:rpm/suse/json-c&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/json-c&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "gnuhealth",
-				"purl": "purl:rpm/suse/gnuhealth&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/gnuhealth&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "runc",
-				"purl": "purl:rpm/suse/runc&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/runc&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

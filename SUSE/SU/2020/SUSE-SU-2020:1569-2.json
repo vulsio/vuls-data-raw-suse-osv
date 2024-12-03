@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 15 SP2",
 				"name": "java-1_8_0-openjdk",
-				"purl": "purl:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP2"
+				"purl": "pkg:rpm/suse/java-1_8_0-openjdk&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2015%20SP2"
 			},
 			"ranges": [
 				{

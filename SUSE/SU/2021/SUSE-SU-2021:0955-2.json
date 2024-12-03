@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Certifications 15 SP3",
 				"name": "openssl-1_1",
-				"purl": "purl:rpm/suse/openssl-1_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
+				"purl": "pkg:rpm/suse/openssl-1_1&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Certifications%2015%20SP3"
 			},
 			"ranges": [
 				{

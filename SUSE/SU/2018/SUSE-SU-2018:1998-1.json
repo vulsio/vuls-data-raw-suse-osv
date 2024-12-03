@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15",
 				"name": "mercurial",
-				"purl": "purl:rpm/suse/mercurial&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
+				"purl": "pkg:rpm/suse/mercurial&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015"
 			},
 			"ranges": [
 				{

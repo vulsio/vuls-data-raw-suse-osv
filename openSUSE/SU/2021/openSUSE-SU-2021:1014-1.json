@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "roundcubemail",
-				"purl": "purl:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/roundcubemail&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

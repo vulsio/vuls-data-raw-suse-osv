@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP3",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
+				"purl": "pkg:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP4",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP4"
+				"purl": "pkg:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -71,7 +71,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -98,7 +98,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/helm&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -125,7 +125,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/helm&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -155,7 +155,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "helm",
-				"purl": "purl:rpm/suse/helm&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/helm&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

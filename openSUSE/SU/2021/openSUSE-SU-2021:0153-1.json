@@ -24,7 +24,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "wavpack",
-				"purl": "purl:rpm/suse/wavpack&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/wavpack&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

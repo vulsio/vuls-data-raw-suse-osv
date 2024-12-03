@@ -21,7 +21,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP3",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -51,7 +51,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -81,7 +81,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -108,7 +108,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -135,7 +135,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP3",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -162,7 +162,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Package Hub 15 SP4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -189,7 +189,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-ESPOS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-ESPOS"
 			},
 			"ranges": [
 				{
@@ -220,7 +220,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -251,7 +251,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-ESPOS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-ESPOS"
 			},
 			"ranges": [
 				{
@@ -282,7 +282,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -313,7 +313,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-BCL",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-BCL"
 			},
 			"ranges": [
 				{
@@ -344,7 +344,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -375,7 +375,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-BCL",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-BCL"
 			},
 			"ranges": [
 				{
@@ -406,7 +406,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -437,7 +437,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -468,7 +468,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -499,7 +499,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.1",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Manager%20Proxy%204.1"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Manager%20Proxy%204.1"
 			},
 			"ranges": [
 				{
@@ -530,7 +530,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Retail Branch Server 4.1",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Manager%20Retail%20Branch%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -561,7 +561,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.1",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Manager%20Server%204.1"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Manager%20Server%204.1"
 			},
 			"ranges": [
 				{
@@ -592,7 +592,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{
@@ -623,7 +623,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/binutils&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -654,7 +654,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -707,7 +707,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-aarch64-binutils",
-				"purl": "purl:rpm/suse/cross-aarch64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-aarch64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -760,7 +760,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-arm-binutils",
-				"purl": "purl:rpm/suse/cross-arm-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-arm-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -813,7 +813,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-avr-binutils",
-				"purl": "purl:rpm/suse/cross-avr-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-avr-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -866,7 +866,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-epiphany-binutils",
-				"purl": "purl:rpm/suse/cross-epiphany-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-epiphany-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -919,7 +919,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-hppa-binutils",
-				"purl": "purl:rpm/suse/cross-hppa-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-hppa-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -972,7 +972,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-hppa64-binutils",
-				"purl": "purl:rpm/suse/cross-hppa64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-hppa64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1025,7 +1025,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-i386-binutils",
-				"purl": "purl:rpm/suse/cross-i386-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-i386-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1078,7 +1078,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-ia64-binutils",
-				"purl": "purl:rpm/suse/cross-ia64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-ia64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1131,7 +1131,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-m68k-binutils",
-				"purl": "purl:rpm/suse/cross-m68k-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-m68k-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1184,7 +1184,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-mips-binutils",
-				"purl": "purl:rpm/suse/cross-mips-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-mips-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1237,7 +1237,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-ppc-binutils",
-				"purl": "purl:rpm/suse/cross-ppc-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-ppc-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1290,7 +1290,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-ppc64-binutils",
-				"purl": "purl:rpm/suse/cross-ppc64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-ppc64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1343,7 +1343,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-ppc64le-binutils",
-				"purl": "purl:rpm/suse/cross-ppc64le-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-ppc64le-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1396,7 +1396,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-riscv64-binutils",
-				"purl": "purl:rpm/suse/cross-riscv64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-riscv64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1449,7 +1449,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-rx-binutils",
-				"purl": "purl:rpm/suse/cross-rx-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-rx-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1502,7 +1502,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-s390-binutils",
-				"purl": "purl:rpm/suse/cross-s390-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-s390-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1555,7 +1555,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-s390x-binutils",
-				"purl": "purl:rpm/suse/cross-s390x-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-s390x-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1608,7 +1608,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-sparc-binutils",
-				"purl": "purl:rpm/suse/cross-sparc-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-sparc-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1661,7 +1661,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-sparc64-binutils",
-				"purl": "purl:rpm/suse/cross-sparc64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-sparc64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1714,7 +1714,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-spu-binutils",
-				"purl": "purl:rpm/suse/cross-spu-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-spu-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1767,7 +1767,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "cross-x86_64-binutils",
-				"purl": "purl:rpm/suse/cross-x86_64-binutils&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/cross-x86_64-binutils&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -1820,7 +1820,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "binutils",
-				"purl": "purl:rpm/suse/binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1873,7 +1873,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-aarch64-binutils",
-				"purl": "purl:rpm/suse/cross-aarch64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-aarch64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1926,7 +1926,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-arm-binutils",
-				"purl": "purl:rpm/suse/cross-arm-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-arm-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -1979,7 +1979,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-avr-binutils",
-				"purl": "purl:rpm/suse/cross-avr-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-avr-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2032,7 +2032,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-epiphany-binutils",
-				"purl": "purl:rpm/suse/cross-epiphany-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-epiphany-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2085,7 +2085,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-hppa-binutils",
-				"purl": "purl:rpm/suse/cross-hppa-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-hppa-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2138,7 +2138,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-hppa64-binutils",
-				"purl": "purl:rpm/suse/cross-hppa64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-hppa64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2191,7 +2191,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-i386-binutils",
-				"purl": "purl:rpm/suse/cross-i386-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-i386-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2244,7 +2244,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-ia64-binutils",
-				"purl": "purl:rpm/suse/cross-ia64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-ia64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2297,7 +2297,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-m68k-binutils",
-				"purl": "purl:rpm/suse/cross-m68k-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-m68k-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2350,7 +2350,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-mips-binutils",
-				"purl": "purl:rpm/suse/cross-mips-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-mips-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2403,7 +2403,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-ppc-binutils",
-				"purl": "purl:rpm/suse/cross-ppc-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-ppc-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2456,7 +2456,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-ppc64-binutils",
-				"purl": "purl:rpm/suse/cross-ppc64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-ppc64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2509,7 +2509,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-ppc64le-binutils",
-				"purl": "purl:rpm/suse/cross-ppc64le-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-ppc64le-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2562,7 +2562,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-riscv64-binutils",
-				"purl": "purl:rpm/suse/cross-riscv64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-riscv64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2615,7 +2615,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-rx-binutils",
-				"purl": "purl:rpm/suse/cross-rx-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-rx-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2668,7 +2668,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-s390-binutils",
-				"purl": "purl:rpm/suse/cross-s390-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-s390-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2721,7 +2721,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-s390x-binutils",
-				"purl": "purl:rpm/suse/cross-s390x-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-s390x-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2774,7 +2774,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-sparc-binutils",
-				"purl": "purl:rpm/suse/cross-sparc-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-sparc-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2827,7 +2827,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-sparc64-binutils",
-				"purl": "purl:rpm/suse/cross-sparc64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-sparc64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2880,7 +2880,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-spu-binutils",
-				"purl": "purl:rpm/suse/cross-spu-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-spu-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -2933,7 +2933,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cross-x86_64-binutils",
-				"purl": "purl:rpm/suse/cross-x86_64-binutils&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cross-x86_64-binutils&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

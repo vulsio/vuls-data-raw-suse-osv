@@ -18,7 +18,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "libaom",
-				"purl": "purl:rpm/suse/libaom&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/libaom&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{
@@ -59,7 +59,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15",
 				"name": "vlc",
-				"purl": "purl:rpm/suse/vlc&distro=SUSE%20Package%20Hub%2015"
+				"purl": "pkg:rpm/suse/vlc&distro=SUSE%20Package%20Hub%2015"
 			},
 			"ranges": [
 				{

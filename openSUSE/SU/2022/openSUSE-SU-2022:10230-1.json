@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "cherrytree",
-				"purl": "purl:rpm/suse/cherrytree&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/cherrytree&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "cherrytree",
-				"purl": "purl:rpm/suse/cherrytree&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/cherrytree&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/containerd&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -41,7 +41,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -70,7 +70,7 @@
 			"package": {
 				"ecosystem": "SUSE:OpenStack Cloud 6",
 				"name": "runc",
-				"purl": "purl:rpm/suse/runc&distro=SUSE%20OpenStack%20Cloud%206"
+				"purl": "pkg:rpm/suse/runc&distro=SUSE%20OpenStack%20Cloud%206"
 			},
 			"ranges": [
 				{
@@ -99,7 +99,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "containerd",
-				"purl": "purl:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/containerd&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -130,7 +130,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "docker",
-				"purl": "purl:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/docker&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -161,7 +161,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "rubygem-docker-api",
-				"purl": "purl:rpm/suse/rubygem-docker-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/rubygem-docker-api&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -192,7 +192,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "rubygem-excon",
-				"purl": "purl:rpm/suse/rubygem-excon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/rubygem-excon&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -223,7 +223,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "runc",
-				"purl": "purl:rpm/suse/runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/runc&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{

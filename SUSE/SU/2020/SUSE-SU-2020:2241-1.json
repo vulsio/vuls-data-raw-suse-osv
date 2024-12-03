@@ -14,7 +14,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP1",
 				"name": "xorg-x11-server",
-				"purl": "purl:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
+				"purl": "pkg:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP1",
 				"name": "xorg-x11-server",
-				"purl": "purl:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
+				"purl": "pkg:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -69,7 +69,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Workstation Extension 15 SP1",
 				"name": "xorg-x11-server",
-				"purl": "purl:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
+				"purl": "pkg:rpm/suse/xorg-x11-server&distro=SUSE%20Linux%20Enterprise%20Workstation%20Extension%2015%20SP1"
 			},
 			"ranges": [
 				{

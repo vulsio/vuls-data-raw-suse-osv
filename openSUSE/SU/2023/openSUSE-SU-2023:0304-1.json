@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP4",
 				"name": "exim",
-				"purl": "purl:rpm/suse/exim&distro=SUSE%20Package%20Hub%2015%20SP4"
+				"purl": "pkg:rpm/suse/exim&distro=SUSE%20Package%20Hub%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "exim",
-				"purl": "purl:rpm/suse/exim&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/exim&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

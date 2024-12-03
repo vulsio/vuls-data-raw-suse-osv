@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 12",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2012"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Public Cloud 12",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Public%20Cloud%2012"
 			},
 			"ranges": [
 				{
@@ -66,7 +66,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Software Development Kit 12",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Linux%20Enterprise%20Software%20Development%20Kit%2012"
 			},
 			"ranges": [
 				{
@@ -93,7 +93,7 @@
 			"package": {
 				"ecosystem": "SUSE:Cloud Compute Node for SUSE Linux Enterprise 12 5",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Cloud%20Compute%20Node%20for%20SUSE%20Linux%20Enterprise%2012%205"
 			},
 			"ranges": [
 				{
@@ -120,7 +120,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 1.0",
 				"name": "python-setuptools",
-				"purl": "purl:rpm/suse/python-setuptools&distro=SUSE%20Enterprise%20Storage%201.0"
+				"purl": "pkg:rpm/suse/python-setuptools&distro=SUSE%20Enterprise%20Storage%201.0"
 			},
 			"ranges": [
 				{

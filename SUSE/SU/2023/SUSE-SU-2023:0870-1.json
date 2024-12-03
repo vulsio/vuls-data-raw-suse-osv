@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Micro 5.1",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
+				"purl": "pkg:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Micro%205.1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/slirp4netns&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.3",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=openSUSE%20Leap%20Micro%205.3"
+				"purl": "pkg:rpm/opensuse/slirp4netns&distro=openSUSE%20Leap%20Micro%205.3"
 			},
 			"ranges": [
 				{

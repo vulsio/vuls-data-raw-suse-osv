@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "perl-YAML-LibYAML",
-				"purl": "purl:rpm/suse/perl-YAML-LibYAML&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/perl-YAML-LibYAML&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

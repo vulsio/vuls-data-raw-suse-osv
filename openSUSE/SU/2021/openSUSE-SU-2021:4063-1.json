@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "icu.691",
-				"purl": "purl:rpm/suse/icu.691&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/icu.691&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap Micro 5.2",
 				"name": "curl",
-				"purl": "purl:rpm/suse/curl&distro=openSUSE%20Leap%20Micro%205.2"
+				"purl": "pkg:rpm/opensuse/curl&distro=openSUSE%20Leap%20Micro%205.2"
 			},
 			"ranges": [
 				{

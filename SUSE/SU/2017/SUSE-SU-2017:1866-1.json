@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Legacy 12",
 				"name": "compat-libgcrypt11",
-				"purl": "purl:rpm/suse/compat-libgcrypt11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
+				"purl": "pkg:rpm/suse/compat-libgcrypt11&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Legacy%2012"
 			},
 			"ranges": [
 				{

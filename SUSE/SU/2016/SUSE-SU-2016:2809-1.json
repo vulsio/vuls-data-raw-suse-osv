@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 3",
 				"name": "ceph",
-				"purl": "purl:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%203"
+				"purl": "pkg:rpm/suse/ceph&distro=SUSE%20Enterprise%20Storage%203"
 			},
 			"ranges": [
 				{

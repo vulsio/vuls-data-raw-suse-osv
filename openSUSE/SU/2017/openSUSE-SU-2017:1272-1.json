@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -92,7 +92,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "kdelibs4-apidocs",
-				"purl": "purl:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -132,7 +132,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "kauth",
-				"purl": "purl:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/kauth&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -172,7 +172,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "kdelibs4",
-				"purl": "purl:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/kdelibs4&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{
@@ -212,7 +212,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP2",
 				"name": "kdelibs4-apidocs",
-				"purl": "purl:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2012%20SP2"
+				"purl": "pkg:rpm/suse/kdelibs4-apidocs&distro=SUSE%20Package%20Hub%2012%20SP2"
 			},
 			"ranges": [
 				{

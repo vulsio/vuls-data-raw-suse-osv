@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "pcp",
-				"purl": "purl:rpm/suse/pcp&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/pcp&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

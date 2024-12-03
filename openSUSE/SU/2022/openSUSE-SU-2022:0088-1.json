@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12 SP1",
 				"name": "htmldoc",
-				"purl": "purl:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2012%20SP1"
+				"purl": "pkg:rpm/suse/htmldoc&distro=SUSE%20Package%20Hub%2012%20SP1"
 			},
 			"ranges": [
 				{
@@ -40,7 +40,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ghostscript",
-				"purl": "purl:rpm/suse/ghostscript&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ghostscript&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

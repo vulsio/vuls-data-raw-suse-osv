@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "alpine",
-				"purl": "purl:rpm/suse/alpine&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/alpine&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

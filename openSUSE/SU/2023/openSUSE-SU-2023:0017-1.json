@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 12",
 				"name": "SDL2",
-				"purl": "purl:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012"
+				"purl": "pkg:rpm/suse/SDL2&distro=SUSE%20Package%20Hub%2012"
 			},
 			"ranges": [
 				{

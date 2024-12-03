@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "tpm2-tss-engine",
-				"purl": "purl:rpm/suse/tpm2-tss-engine&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/tpm2-tss-engine&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

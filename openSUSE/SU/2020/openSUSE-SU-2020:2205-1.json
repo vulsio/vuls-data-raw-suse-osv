@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "rpmlint",
-				"purl": "purl:rpm/suse/rpmlint&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/rpmlint&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -36,7 +36,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "rpmlint-tests",
-				"purl": "purl:rpm/suse/rpmlint-tests&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/rpmlint-tests&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

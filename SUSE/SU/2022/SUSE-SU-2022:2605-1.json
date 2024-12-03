@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability GEO Extension 12 SP4",
 				"name": "booth",
-				"purl": "purl:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20GEO%20Extension%2012%20SP4"
+				"purl": "pkg:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20GEO%20Extension%2012%20SP4"
 			},
 			"ranges": [
 				{
@@ -39,7 +39,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Availability GEO Extension 12 SP5",
 				"name": "booth",
-				"purl": "purl:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20GEO%20Extension%2012%20SP5"
+				"purl": "pkg:rpm/suse/booth&distro=SUSE%20Linux%20Enterprise%20High%20Availability%20GEO%20Extension%2012%20SP5"
 			},
 			"ranges": [
 				{

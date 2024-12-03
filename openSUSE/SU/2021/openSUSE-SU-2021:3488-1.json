@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "go1.17",
-				"purl": "purl:rpm/suse/go1.17&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/go1.17&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

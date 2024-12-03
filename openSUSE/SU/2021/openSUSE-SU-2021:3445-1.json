@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "python-rpm",
-				"purl": "purl:rpm/suse/python-rpm&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/python-rpm&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rpm",
-				"purl": "purl:rpm/suse/rpm&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rpm&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -77,7 +77,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "rpm-ndb",
-				"purl": "purl:rpm/suse/rpm-ndb&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/rpm-ndb&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

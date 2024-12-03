@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "OpenIPMI",
-				"purl": "purl:rpm/suse/OpenIPMI&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/OpenIPMI&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

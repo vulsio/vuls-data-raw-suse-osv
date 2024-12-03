@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "avahi",
-				"purl": "purl:rpm/suse/avahi&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/avahi&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -67,7 +67,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "avahi-glib2",
-				"purl": "purl:rpm/suse/avahi-glib2&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/avahi-glib2&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -122,7 +122,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "avahi-mono",
-				"purl": "purl:rpm/suse/avahi-mono&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/avahi-mono&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{
@@ -177,7 +177,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.2",
 				"name": "avahi-qt4",
-				"purl": "purl:rpm/suse/avahi-qt4&distro=openSUSE%20Leap%2015.2"
+				"purl": "pkg:rpm/opensuse/avahi-qt4&distro=openSUSE%20Leap%2015.2"
 			},
 			"ranges": [
 				{

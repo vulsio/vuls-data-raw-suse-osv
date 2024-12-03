@@ -25,7 +25,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 6",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Enterprise%20Storage%206"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Enterprise%20Storage%206"
 			},
 			"ranges": [
 				{

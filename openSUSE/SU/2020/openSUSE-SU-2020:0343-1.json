@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "librsvg",
-				"purl": "purl:rpm/suse/librsvg&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/librsvg&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

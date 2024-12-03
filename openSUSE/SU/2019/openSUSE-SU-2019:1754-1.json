@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-requests",
-				"purl": "purl:rpm/suse/python-requests&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-requests&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -42,7 +42,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "python-requests-test",
-				"purl": "purl:rpm/suse/python-requests-test&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/python-requests-test&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

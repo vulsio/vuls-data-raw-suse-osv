@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "openssh",
-				"purl": "purl:rpm/suse/openssh&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/openssh&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
@@ -43,7 +43,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "openssh-askpass-gnome",
-				"purl": "purl:rpm/suse/openssh-askpass-gnome&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/openssh-askpass-gnome&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{

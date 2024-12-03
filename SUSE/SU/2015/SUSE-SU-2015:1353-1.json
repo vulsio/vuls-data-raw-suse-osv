@@ -19,7 +19,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager 2.1",
 				"name": "oracle-update",
-				"purl": "purl:rpm/suse/oracle-update&distro=SUSE%20Manager%202.1"
+				"purl": "pkg:rpm/suse/oracle-update&distro=SUSE%20Manager%202.1"
 			},
 			"ranges": [
 				{

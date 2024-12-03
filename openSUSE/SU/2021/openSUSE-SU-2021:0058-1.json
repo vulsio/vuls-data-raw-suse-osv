@@ -17,7 +17,7 @@
 			"package": {
 				"ecosystem": "SUSE:Package Hub 15 SP2",
 				"name": "cobbler",
-				"purl": "purl:rpm/suse/cobbler&distro=SUSE%20Package%20Hub%2015%20SP2"
+				"purl": "pkg:rpm/suse/cobbler&distro=SUSE%20Package%20Hub%2015%20SP2"
 			},
 			"ranges": [
 				{

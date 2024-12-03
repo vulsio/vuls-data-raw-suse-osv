@@ -13,7 +13,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Desktop Applications 15 SP3",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/ImageMagick&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Desktop%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -47,7 +47,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Development Tools 15 SP3",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
+				"purl": "pkg:rpm/suse/ImageMagick&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Development%20Tools%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -74,7 +74,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/ImageMagick&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -116,7 +116,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "ImageMagick",
-				"purl": "purl:rpm/suse/ImageMagick&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/ImageMagick&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

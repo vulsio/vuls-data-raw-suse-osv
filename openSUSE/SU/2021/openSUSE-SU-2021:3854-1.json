@@ -32,7 +32,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "poppler",
-				"purl": "purl:rpm/suse/poppler&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/poppler&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

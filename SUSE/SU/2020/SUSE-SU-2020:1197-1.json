@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Containers 15 SP1",
 				"name": "slirp4netns",
-				"purl": "purl:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
+				"purl": "pkg:rpm/suse/slirp4netns&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Containers%2015%20SP1"
 			},
 			"ranges": [
 				{

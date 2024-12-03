@@ -15,7 +15,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -52,7 +52,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "grafana",
-				"purl": "purl:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/grafana&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -89,7 +89,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/spacecmd&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -126,7 +126,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "spacewalk-client-tools",
-				"purl": "purl:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/spacewalk-client-tools&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -163,7 +163,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -200,7 +200,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools 15",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015"
+				"purl": "pkg:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%2015"
 			},
 			"ranges": [
 				{
@@ -237,7 +237,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/dracut-saltboot&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -265,7 +265,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Client Tools for SLE Micro 5",
 				"name": "uyuni-proxy-systemd-services",
-				"purl": "purl:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
+				"purl": "pkg:rpm/suse/uyuni-proxy-systemd-services&distro=SUSE%20Manager%20Client%20Tools%20for%20SLE%20Micro%205"
 			},
 			"ranges": [
 				{
@@ -293,7 +293,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Module for Basesystem 15 SP4",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Module%20for%20Basesystem%2015%20SP4"
 			},
 			"ranges": [
 				{
@@ -320,7 +320,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP1-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -347,7 +347,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP2-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -374,7 +374,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-ESPOS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-ESPOS"
 			},
 			"ranges": [
 				{
@@ -401,7 +401,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise High Performance Computing 15 SP3-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20High%20Performance%20Computing%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -428,7 +428,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Real Time 15 SP3",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Real%20Time%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -455,7 +455,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP1-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP1-LTSS"
 			},
 			"ranges": [
 				{
@@ -482,7 +482,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP2-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP2-LTSS"
 			},
 			"ranges": [
 				{
@@ -509,7 +509,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server 15 SP3-LTSS",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%2015%20SP3-LTSS"
 			},
 			"ranges": [
 				{
@@ -536,7 +536,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP1",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP1"
 			},
 			"ranges": [
 				{
@@ -563,7 +563,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP2",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP2"
 			},
 			"ranges": [
 				{
@@ -590,7 +590,7 @@
 			"package": {
 				"ecosystem": "SUSE:Linux Enterprise Server for SAP Applications 15 SP3",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Linux%20Enterprise%20Server%20for%20SAP%20Applications%2015%20SP3"
 			},
 			"ranges": [
 				{
@@ -617,7 +617,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Proxy 4.2",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Proxy%204.2"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Proxy%204.2"
 			},
 			"ranges": [
 				{
@@ -644,7 +644,7 @@
 			"package": {
 				"ecosystem": "SUSE:Manager Server 4.2",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Server%204.2"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Manager%20Server%204.2"
 			},
 			"ranges": [
 				{
@@ -671,7 +671,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Enterprise%20Storage%207"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Enterprise%20Storage%207"
 			},
 			"ranges": [
 				{
@@ -698,7 +698,7 @@
 			"package": {
 				"ecosystem": "SUSE:Enterprise Storage 7.1",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Enterprise%20Storage%207.1"
+				"purl": "pkg:rpm/suse/supportutils-plugin-salt&distro=SUSE%20Enterprise%20Storage%207.1"
 			},
 			"ranges": [
 				{
@@ -725,7 +725,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "dracut-saltboot",
-				"purl": "purl:rpm/suse/dracut-saltboot&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/dracut-saltboot&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -754,7 +754,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "spacecmd",
-				"purl": "purl:rpm/suse/spacecmd&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/spacecmd&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{
@@ -783,7 +783,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.4",
 				"name": "supportutils-plugin-salt",
-				"purl": "purl:rpm/suse/supportutils-plugin-salt&distro=openSUSE%20Leap%2015.4"
+				"purl": "pkg:rpm/opensuse/supportutils-plugin-salt&distro=openSUSE%20Leap%2015.4"
 			},
 			"ranges": [
 				{

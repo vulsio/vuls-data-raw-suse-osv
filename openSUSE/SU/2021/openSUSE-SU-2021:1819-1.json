@@ -12,7 +12,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gstreamer",
-				"purl": "purl:rpm/suse/gstreamer&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gstreamer&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -101,7 +101,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gstreamer-plugins-base",
-				"purl": "purl:rpm/suse/gstreamer-plugins-base&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-base&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -190,7 +190,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gstreamer-plugins-good",
-				"purl": "purl:rpm/suse/gstreamer-plugins-good&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-good&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{
@@ -279,7 +279,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.3",
 				"name": "gstreamer-plugins-ugly",
-				"purl": "purl:rpm/suse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.3"
+				"purl": "pkg:rpm/opensuse/gstreamer-plugins-ugly&distro=openSUSE%20Leap%2015.3"
 			},
 			"ranges": [
 				{

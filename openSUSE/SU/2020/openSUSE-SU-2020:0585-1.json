@@ -9,7 +9,7 @@
 			"package": {
 				"ecosystem": "openSUSE:Leap 15.1",
 				"name": "resource-agents",
-				"purl": "purl:rpm/suse/resource-agents&distro=openSUSE%20Leap%2015.1"
+				"purl": "pkg:rpm/opensuse/resource-agents&distro=openSUSE%20Leap%2015.1"
 			},
 			"ranges": [
 				{
