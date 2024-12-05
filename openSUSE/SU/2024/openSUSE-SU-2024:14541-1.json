@@ -1,0 +1,73 @@
+{
+	"id": "openSUSE-SU-2024:14541-1",
+	"modified": "2024-12-04T00:00:00Z",
+	"published": "2024-12-04T00:00:00Z",
+	"related": [
+		"CVE-2024-37302",
+		"CVE-2024-37303",
+		"CVE-2024-52805",
+		"CVE-2024-52815",
+		"CVE-2024-53863",
+		"CVE-2024-53867"
+	],
+	"summary": "matrix-synapse-1.120.2-1.1 on GA media",
+	"details": "These are all security issues fixed in the matrix-synapse-1.120.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "matrix-synapse",
+				"purl": "pkg:rpm/opensuse/matrix-synapse&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.120.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"matrix-synapse": "1.120.2-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-37302"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-37303"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52805"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52815"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-53863"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-53867"
+		}
+	]
+}
