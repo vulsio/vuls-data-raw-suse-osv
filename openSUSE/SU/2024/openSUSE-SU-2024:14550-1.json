@@ -1,0 +1,52 @@
+{
+	"id": "openSUSE-SU-2024:14550-1",
+	"modified": "2024-12-05T00:00:00Z",
+	"published": "2024-12-05T00:00:00Z",
+	"related": [
+		"CVE-2024-21538"
+	],
+	"summary": "jupyter-nbclassic-1.1.0-2.1 on GA media",
+	"details": "These are all security issues fixed in the jupyter-nbclassic-1.1.0-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-nbclassic",
+				"purl": "pkg:rpm/opensuse/python-nbclassic&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.0-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"jupyter-nbclassic": "1.1.0-2.1",
+						"python310-nbclassic": "1.1.0-2.1",
+						"python311-nbclassic": "1.1.0-2.1",
+						"python312-nbclassic": "1.1.0-2.1",
+						"python313-nbclassic": "1.1.0-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-21538"
+		}
+	]
+}
