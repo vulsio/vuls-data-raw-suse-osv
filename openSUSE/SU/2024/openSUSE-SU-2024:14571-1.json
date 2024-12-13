@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2024:14571-1",
+	"modified": "2024-12-12T00:00:00Z",
+	"published": "2024-12-12T00:00:00Z",
+	"related": [
+		"CVE-2024-23653"
+	],
+	"summary": "docker-stable-24.0.9_ce-4.1 on GA media",
+	"details": "These are all security issues fixed in the docker-stable-24.0.9_ce-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "docker-stable",
+				"purl": "pkg:rpm/opensuse/docker-stable&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "24.0.9_ce-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"docker-stable": "24.0.9_ce-4.1",
+						"docker-stable-bash-completion": "24.0.9_ce-4.1",
+						"docker-stable-buildx": "0.19.2-4.1",
+						"docker-stable-fish-completion": "24.0.9_ce-4.1",
+						"docker-stable-rootless-extras": "24.0.9_ce-4.1",
+						"docker-stable-zsh-completion": "24.0.9_ce-4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-23653"
+		}
+	]
+}
