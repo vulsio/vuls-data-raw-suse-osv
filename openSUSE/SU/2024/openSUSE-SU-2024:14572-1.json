@@ -1900,7 +1900,8 @@
 	],
 	"references": [
 		{
-			"type": "ADVISORY"
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/3HI2RC7AJAHY74Q6MK7GNGWU6TITB22V/"
 		},
 		{
 			"type": "WEB",

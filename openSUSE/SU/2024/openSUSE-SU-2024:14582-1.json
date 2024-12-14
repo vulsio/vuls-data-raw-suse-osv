@@ -1,0 +1,49 @@
+{
+	"id": "openSUSE-SU-2024:14582-1",
+	"modified": "2024-12-13T00:00:00Z",
+	"published": "2024-12-13T00:00:00Z",
+	"related": [
+		"CVE-2024-54661"
+	],
+	"summary": "socat-1.8.0.2-1.1 on GA media",
+	"details": "These are all security issues fixed in the socat-1.8.0.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "socat",
+				"purl": "pkg:rpm/opensuse/socat&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.8.0.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"socat": "1.8.0.2-1.1",
+						"socat-extra": "1.8.0.2-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-54661"
+		}
+	]
+}
