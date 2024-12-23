@@ -1,0 +1,63 @@
+{
+	"id": "openSUSE-SU-2024:14608-1",
+	"modified": "2024-12-22T00:00:00Z",
+	"published": "2024-12-22T00:00:00Z",
+	"related": [
+		"CVE-2024-12678",
+		"CVE-2024-25131",
+		"CVE-2024-43803",
+		"CVE-2024-9779"
+	],
+	"summary": "govulncheck-vulndb-0.0.20241220T214820-1.1 on GA media",
+	"details": "These are all security issues fixed in the govulncheck-vulndb-0.0.20241220T214820-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "govulncheck-vulndb",
+				"purl": "pkg:rpm/opensuse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.0.20241220T214820-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"govulncheck-vulndb": "0.0.20241220T214820-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-12678"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-25131"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-43803"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-9779"
+		}
+	]
+}
