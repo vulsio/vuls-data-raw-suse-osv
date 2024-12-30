@@ -1,0 +1,69 @@
+{
+	"id": "openSUSE-SU-2024:14611-1",
+	"modified": "2024-12-29T00:00:00Z",
+	"published": "2024-12-29T00:00:00Z",
+	"related": [
+		"CVE-2024-40896"
+	],
+	"summary": "libQt6Pdf6-6.8.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the libQt6Pdf6-6.8.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "qt6-webengine",
+				"purl": "pkg:rpm/opensuse/qt6-webengine&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.8.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libQt6Pdf6": "6.8.1-2.1",
+						"libQt6PdfQuick6": "6.8.1-2.1",
+						"libQt6PdfWidgets6": "6.8.1-2.1",
+						"libQt6WebEngineCore6": "6.8.1-2.1",
+						"libQt6WebEngineQuick6": "6.8.1-2.1",
+						"libQt6WebEngineWidgets6": "6.8.1-2.1",
+						"qt6-pdf-devel": "6.8.1-2.1",
+						"qt6-pdf-imports": "6.8.1-2.1",
+						"qt6-pdf-private-devel": "6.8.1-2.1",
+						"qt6-pdfquick-devel": "6.8.1-2.1",
+						"qt6-pdfquick-private-devel": "6.8.1-2.1",
+						"qt6-pdfwidgets-devel": "6.8.1-2.1",
+						"qt6-pdfwidgets-private-devel": "6.8.1-2.1",
+						"qt6-webengine": "6.8.1-2.1",
+						"qt6-webengine-examples": "6.8.1-2.1",
+						"qt6-webengine-imports": "6.8.1-2.1",
+						"qt6-webenginecore-devel": "6.8.1-2.1",
+						"qt6-webenginecore-private-devel": "6.8.1-2.1",
+						"qt6-webenginequick-devel": "6.8.1-2.1",
+						"qt6-webenginequick-private-devel": "6.8.1-2.1",
+						"qt6-webenginewidgets-devel": "6.8.1-2.1",
+						"qt6-webenginewidgets-private-devel": "6.8.1-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-40896"
+		}
+	]
+}
