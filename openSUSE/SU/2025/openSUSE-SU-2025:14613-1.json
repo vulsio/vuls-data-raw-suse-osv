@@ -1,0 +1,56 @@
+{
+	"id": "openSUSE-SU-2025:14613-1",
+	"modified": "2025-01-01T00:00:00Z",
+	"published": "2025-01-01T00:00:00Z",
+	"related": [
+		"CVE-2024-45337",
+		"CVE-2024-45338"
+	],
+	"summary": "velero-1.15.1-1.1 on GA media",
+	"details": "These are all security issues fixed in the velero-1.15.1-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "velero",
+				"purl": "pkg:rpm/opensuse/velero&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.15.1-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"velero": "1.15.1-1.1",
+						"velero-bash-completion": "1.15.1-1.1",
+						"velero-fish-completion": "1.15.1-1.1",
+						"velero-zsh-completion": "1.15.1-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45337"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45338"
+		}
+	]
+}
