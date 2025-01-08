@@ -1,0 +1,81 @@
+{
+	"id": "openSUSE-SU-2025:14619-1",
+	"modified": "2025-01-07T00:00:00Z",
+	"published": "2025-01-07T00:00:00Z",
+	"related": [
+		"CVE-2025-0237",
+		"CVE-2025-0238",
+		"CVE-2025-0239",
+		"CVE-2025-0240",
+		"CVE-2025-0241",
+		"CVE-2025-0242",
+		"CVE-2025-0243"
+	],
+	"summary": "firefox-esr-128.6.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the firefox-esr-128.6.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "firefox-esr",
+				"purl": "pkg:rpm/opensuse/firefox-esr&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "128.6.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"firefox-esr": "128.6.0-1.1",
+						"firefox-esr-branding-upstream": "128.6.0-1.1",
+						"firefox-esr-translations-common": "128.6.0-1.1",
+						"firefox-esr-translations-other": "128.6.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0237"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0238"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0239"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0240"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0241"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0242"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0243"
+		}
+	]
+}
