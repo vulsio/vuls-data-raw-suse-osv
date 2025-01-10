@@ -1,0 +1,108 @@
+{
+	"id": "openSUSE-SU-2025:14624-1",
+	"modified": "2025-01-09T00:00:00Z",
+	"published": "2025-01-09T00:00:00Z",
+	"related": [
+		"CVE-2024-25133",
+		"CVE-2024-28892",
+		"CVE-2024-45387",
+		"CVE-2024-54148",
+		"CVE-2024-55196",
+		"CVE-2024-55947",
+		"CVE-2024-56362",
+		"CVE-2024-56513",
+		"CVE-2024-56514",
+		"CVE-2025-21609",
+		"CVE-2025-21613",
+		"CVE-2025-21614",
+		"CVE-2025-22130"
+	],
+	"summary": "govulncheck-vulndb-0.0.20250108T191942-1.1 on GA media",
+	"details": "These are all security issues fixed in the govulncheck-vulndb-0.0.20250108T191942-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "govulncheck-vulndb",
+				"purl": "pkg:rpm/opensuse/govulncheck-vulndb&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.0.20250108T191942-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"govulncheck-vulndb": "0.0.20250108T191942-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-25133"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-28892"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45387"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-54148"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-55196"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-55947"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-56362"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-56513"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-56514"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-21609"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-21613"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-21614"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-22130"
+		}
+	]
+}
