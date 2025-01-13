@@ -1,0 +1,54 @@
+{
+	"id": "openSUSE-SU-2025:14631-1",
+	"modified": "2025-01-12T00:00:00Z",
+	"published": "2025-01-12T00:00:00Z",
+	"related": [
+		"CVE-2024-11614"
+	],
+	"summary": "dpdk-23.11.1-4.1 on GA media",
+	"details": "These are all security issues fixed in the dpdk-23.11.1-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "dpdk",
+				"purl": "pkg:rpm/opensuse/dpdk&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "23.11.1-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"dpdk": "23.11.1-4.1",
+						"dpdk-devel": "23.11.1-4.1",
+						"dpdk-devel-static": "23.11.1-4.1",
+						"dpdk-doc": "23.11.1-4.1",
+						"dpdk-examples": "23.11.1-4.1",
+						"dpdk-tools": "23.11.1-4.1",
+						"libdpdk-24": "23.11.1-4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-11614"
+		}
+	]
+}
