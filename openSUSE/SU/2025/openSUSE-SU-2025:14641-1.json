@@ -1,0 +1,55 @@
+{
+	"id": "openSUSE-SU-2025:14641-1",
+	"modified": "2025-01-13T00:00:00Z",
+	"published": "2025-01-13T00:00:00Z",
+	"related": [
+		"CVE-2024-45337",
+		"CVE-2024-45338"
+	],
+	"summary": "rclone-1.69.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the rclone-1.69.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "rclone",
+				"purl": "pkg:rpm/opensuse/rclone&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.69.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"rclone": "1.69.0-1.1",
+						"rclone-bash-completion": "1.69.0-1.1",
+						"rclone-zsh-completion": "1.69.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45337"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45338"
+		}
+	]
+}
