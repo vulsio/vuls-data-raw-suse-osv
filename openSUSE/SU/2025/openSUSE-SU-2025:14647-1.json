@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2025:14647-1",
+	"modified": "2025-01-14T00:00:00Z",
+	"published": "2025-01-14T00:00:00Z",
+	"related": [
+		"CVE-2021-28957"
+	],
+	"summary": "python311-translate-toolkit-3.14.5-1.1 on GA media",
+	"details": "These are all security issues fixed in the python311-translate-toolkit-3.14.5-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "translate-toolkit",
+				"purl": "pkg:rpm/opensuse/translate-toolkit&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.14.5-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python311-translate-toolkit": "3.14.5-1.1",
+						"python312-translate-toolkit": "3.14.5-1.1",
+						"python313-translate-toolkit": "3.14.5-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-28957"
+		}
+	]
+}
