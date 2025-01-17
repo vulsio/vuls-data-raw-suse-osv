@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2025:14655-1",
+	"modified": "2025-01-16T00:00:00Z",
+	"published": "2025-01-16T00:00:00Z",
+	"related": [
+		"CVE-2020-6923"
+	],
+	"summary": "hplip-3.24.4-4.1 on GA media",
+	"details": "These are all security issues fixed in the hplip-3.24.4-4.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "hplip",
+				"purl": "pkg:rpm/opensuse/hplip&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.24.4-4.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hplip": "3.24.4-4.1",
+						"hplip-devel": "3.24.4-4.1",
+						"hplip-hpijs": "3.24.4-4.1",
+						"hplip-sane": "3.24.4-4.1",
+						"hplip-scan-utils": "3.24.4-4.1",
+						"hplip-udev-rules": "3.24.4-4.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2020-6923"
+		}
+	]
+}
