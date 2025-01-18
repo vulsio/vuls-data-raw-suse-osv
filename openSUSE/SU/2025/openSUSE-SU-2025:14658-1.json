@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2025:14658-1",
+	"modified": "2025-01-17T00:00:00Z",
+	"published": "2025-01-17T00:00:00Z",
+	"related": [
+		"CVE-2025-21613"
+	],
+	"summary": "amazon-ssm-agent-3.3.1611.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the amazon-ssm-agent-3.3.1611.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "amazon-ssm-agent",
+				"purl": "pkg:rpm/opensuse/amazon-ssm-agent&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.3.1611.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"amazon-ssm-agent": "3.3.1611.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-21613"
+		}
+	]
+}
