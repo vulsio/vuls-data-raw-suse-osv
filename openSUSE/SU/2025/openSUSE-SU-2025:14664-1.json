@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2025:14664-1",
+	"modified": "2025-01-18T00:00:00Z",
+	"published": "2025-01-18T00:00:00Z",
+	"related": [
+		"CVE-2021-41945"
+	],
+	"summary": "python311-httpx-0.28.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the python311-httpx-0.28.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-httpx",
+				"purl": "pkg:rpm/opensuse/python-httpx&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.28.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python311-httpx": "0.28.1-2.1",
+						"python312-httpx": "0.28.1-2.1",
+						"python313-httpx": "0.28.1-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-41945"
+		}
+	]
+}
