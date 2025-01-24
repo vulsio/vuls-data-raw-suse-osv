@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2025:14692-1",
+	"modified": "2025-01-23T00:00:00Z",
+	"published": "2025-01-23T00:00:00Z",
+	"related": [
+		"CVE-2025-23050"
+	],
+	"summary": "libQt6Bluetooth6-6.8.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the libQt6Bluetooth6-6.8.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "qt6-connectivity",
+				"purl": "pkg:rpm/opensuse/qt6-connectivity&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6.8.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libQt6Bluetooth6": "6.8.1-2.1",
+						"libQt6Nfc6": "6.8.1-2.1",
+						"qt6-connectivity": "6.8.1-2.1",
+						"qt6-connectivity-devel": "6.8.1-2.1",
+						"qt6-connectivity-examples": "6.8.1-2.1",
+						"qt6-connectivity-private-devel": "6.8.1-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-23050"
+		}
+	]
+}
