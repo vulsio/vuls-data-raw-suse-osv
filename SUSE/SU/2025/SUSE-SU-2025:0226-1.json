@@ -3,7 +3,6 @@
 	"modified": "2025-01-23T13:54:16Z",
 	"published": "2025-01-23T13:54:16Z",
 	"related": [
-		"CVE-2024-2365",
 		"CVE-2024-23650",
 		"CVE-2024-23653",
 		"CVE-2024-29018",
@@ -84,10 +83,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.suse.com/1234089"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.suse.com/security/cve/CVE-2024-2365"
 		},
 		{
 			"type": "WEB",
