@@ -1,0 +1,63 @@
+{
+	"id": "openSUSE-SU-2025:14713-1",
+	"modified": "2025-01-29T00:00:00Z",
+	"published": "2025-01-29T00:00:00Z",
+	"related": [
+		"CVE-2024-3817",
+		"CVE-2024-45337",
+		"CVE-2024-45338",
+		"CVE-2025-21613"
+	],
+	"summary": "trivy-0.58.2-1.1 on GA media",
+	"details": "These are all security issues fixed in the trivy-0.58.2-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "trivy",
+				"purl": "pkg:rpm/opensuse/trivy&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.58.2-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"trivy": "0.58.2-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-3817"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45337"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45338"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-21613"
+		}
+	]
+}

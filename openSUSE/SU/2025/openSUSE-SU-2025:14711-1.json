@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2025:14711-1",
+	"modified": "2025-01-29T00:00:00Z",
+	"published": "2025-01-29T00:00:00Z",
+	"related": [
+		"CVE-2024-45338"
+	],
+	"summary": "hauler-1.1.1-2.1 on GA media",
+	"details": "These are all security issues fixed in the hauler-1.1.1-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "hauler",
+				"purl": "pkg:rpm/opensuse/hauler&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.1.1-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"hauler": "1.1.1-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-45338"
+		}
+	]
+}
