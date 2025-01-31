@@ -1,0 +1,82 @@
+{
+	"id": "openSUSE-SU-2025:0036-1",
+	"modified": "2025-01-30T12:22:26Z",
+	"published": "2025-01-30T12:22:26Z",
+	"related": [
+		"CVE-2025-0762"
+	],
+	"summary": "Security update for chromium",
+	"details": "\nChromium was update to version 132.0.6834.159 (boo#1236586):\n\n* CVE-2025-0762: Use after free in DevTools\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "SUSE:Package Hub 15 SP6",
+				"name": "chromium",
+				"purl": "pkg:rpm/suse/chromium&distro=SUSE%20Package%20Hub%2015%20SP6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "132.0.6834.159-bp156.2.75.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chromedriver": "132.0.6834.159-bp156.2.75.1",
+						"chromium": "132.0.6834.159-bp156.2.75.1"
+					}
+				]
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "openSUSE:Leap 15.6",
+				"name": "chromium",
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Leap%2015.6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "132.0.6834.159-bp156.2.75.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chromedriver": "132.0.6834.159-bp156.2.75.1",
+						"chromium": "132.0.6834.159-bp156.2.75.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/WYUKYKQRTISBXYHLOCV2YXEAS3RZ3B4H/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.suse.com/1236586"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0762"
+		}
+	]
+}
