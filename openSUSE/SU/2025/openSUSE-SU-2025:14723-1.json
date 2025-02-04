@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2025:14723-1",
+	"modified": "2025-02-03T00:00:00Z",
+	"published": "2025-02-03T00:00:00Z",
+	"related": [
+		"CVE-2024-24790"
+	],
+	"summary": "google-osconfig-agent-20250115.01-1.1 on GA media",
+	"details": "These are all security issues fixed in the google-osconfig-agent-20250115.01-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "google-osconfig-agent",
+				"purl": "pkg:rpm/opensuse/google-osconfig-agent&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20250115.01-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"google-osconfig-agent": "20250115.01-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-24790"
+		}
+	]
+}
