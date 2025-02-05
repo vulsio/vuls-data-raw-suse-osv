@@ -1,0 +1,48 @@
+{
+	"id": "openSUSE-SU-2025:14726-1",
+	"modified": "2025-02-04T00:00:00Z",
+	"published": "2025-02-04T00:00:00Z",
+	"related": [
+		"CVE-2024-52813"
+	],
+	"summary": "cargo-audit-advisory-db-20250204-1.1 on GA media",
+	"details": "These are all security issues fixed in the cargo-audit-advisory-db-20250204-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "cargo-audit-advisory-db",
+				"purl": "pkg:rpm/opensuse/cargo-audit-advisory-db&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "20250204-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"cargo-audit-advisory-db": "20250204-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2024-52813"
+		}
+	]
+}
