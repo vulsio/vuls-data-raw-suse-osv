@@ -1,0 +1,55 @@
+{
+	"id": "openSUSE-SU-2025:14740-1",
+	"modified": "2025-02-06T00:00:00Z",
+	"published": "2025-02-06T00:00:00Z",
+	"related": [
+		"CVE-2022-3602",
+		"CVE-2022-3786"
+	],
+	"summary": "python311-cryptography-vectors-44.0.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the python311-cryptography-vectors-44.0.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-cryptography-vectors",
+				"purl": "pkg:rpm/opensuse/python-cryptography-vectors&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "44.0.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python311-cryptography-vectors": "44.0.0-1.1",
+						"python312-cryptography-vectors": "44.0.0-1.1",
+						"python313-cryptography-vectors": "44.0.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3602"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2022-3786"
+		}
+	]
+}
