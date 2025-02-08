@@ -1,0 +1,59 @@
+{
+	"id": "openSUSE-SU-2025:14742-1",
+	"modified": "2025-02-07T00:00:00Z",
+	"published": "2025-02-07T00:00:00Z",
+	"related": [
+		"CVE-2025-0444",
+		"CVE-2025-0445",
+		"CVE-2025-0451"
+	],
+	"summary": "chromedriver-133.0.6943.53-1.1 on GA media",
+	"details": "These are all security issues fixed in the chromedriver-133.0.6943.53-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "chromium",
+				"purl": "pkg:rpm/opensuse/chromium&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "133.0.6943.53-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"chromedriver": "133.0.6943.53-1.1",
+						"chromium": "133.0.6943.53-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0444"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0445"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0451"
+		}
+	]
+}

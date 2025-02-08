@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2025:14743-1",
+	"modified": "2025-02-07T00:00:00Z",
+	"published": "2025-02-07T00:00:00Z",
+	"related": [
+		"CVE-2021-33430"
+	],
+	"summary": "python311-numba-0.61.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the python311-numba-0.61.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python-numba",
+				"purl": "pkg:rpm/opensuse/python-numba&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.61.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python311-numba": "0.61.0-1.1",
+						"python311-numba-devel": "0.61.0-1.1",
+						"python312-numba": "0.61.0-1.1",
+						"python312-numba-devel": "0.61.0-1.1",
+						"python313-numba": "0.61.0-1.1",
+						"python313-numba-devel": "0.61.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2021-33430"
+		}
+	]
+}
