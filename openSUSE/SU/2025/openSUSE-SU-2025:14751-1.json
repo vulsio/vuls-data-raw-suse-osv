@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2025:14751-1",
+	"modified": "2025-02-08T00:00:00Z",
+	"published": "2025-02-08T00:00:00Z",
+	"related": [
+		"CVE-2025-0938"
+	],
+	"summary": "python39-3.9.21-2.1 on GA media",
+	"details": "These are all security issues fixed in the python39-3.9.21-2.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python39",
+				"purl": "pkg:rpm/opensuse/python39&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.9.21-2.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python39": "3.9.21-2.1",
+						"python39-curses": "3.9.21-2.1",
+						"python39-dbm": "3.9.21-2.1",
+						"python39-idle": "3.9.21-2.1",
+						"python39-tk": "3.9.21-2.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/U2KVRPUQU3BIECMQXUM7JPONC6ARC23S/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0938"
+		}
+	]
+}

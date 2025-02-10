@@ -1,0 +1,53 @@
+{
+	"id": "openSUSE-SU-2025:14761-1",
+	"modified": "2025-02-09T00:00:00Z",
+	"published": "2025-02-09T00:00:00Z",
+	"related": [
+		"CVE-2025-0938"
+	],
+	"summary": "python314-3.14.0~a4-1.1 on GA media",
+	"details": "These are all security issues fixed in the python314-3.14.0~a4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "python314",
+				"purl": "pkg:rpm/opensuse/python314&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.14.0~a4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"python314": "3.14.0~a4-1.1",
+						"python314-curses": "3.14.0~a4-1.1",
+						"python314-dbm": "3.14.0~a4-1.1",
+						"python314-idle": "3.14.0~a4-1.1",
+						"python314-tk": "3.14.0~a4-1.1",
+						"python314-x86-64-v3": "3.14.0~a4-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0938"
+		}
+	]
+}

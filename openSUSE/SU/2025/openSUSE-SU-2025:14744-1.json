@@ -1,0 +1,50 @@
+{
+	"id": "openSUSE-SU-2025:14744-1",
+	"modified": "2025-02-08T00:00:00Z",
+	"published": "2025-02-08T00:00:00Z",
+	"related": [
+		"CVE-2023-45288"
+	],
+	"summary": "flannel-0.26.4-1.1 on GA media",
+	"details": "These are all security issues fixed in the flannel-0.26.4-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "flannel",
+				"purl": "pkg:rpm/opensuse/flannel&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.26.4-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"flannel": "0.26.4-1.1",
+						"flannel-k8s-yaml": "0.26.4-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/XZS7XT62LC6S42NWSITGMUS7QX5RQGAX/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2023-45288"
+		}
+	]
+}

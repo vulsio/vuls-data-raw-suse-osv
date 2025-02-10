@@ -1,0 +1,52 @@
+{
+	"id": "openSUSE-SU-2025:14746-1",
+	"modified": "2025-02-08T00:00:00Z",
+	"published": "2025-02-08T00:00:00Z",
+	"related": [
+		"CVE-2025-22866"
+	],
+	"summary": "go1.23-1.23.6-1.1 on GA media",
+	"details": "These are all security issues fixed in the go1.23-1.23.6-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "go1.23",
+				"purl": "pkg:rpm/opensuse/go1.23&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.23.6-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"go1.23": "1.23.6-1.1",
+						"go1.23-doc": "1.23.6-1.1",
+						"go1.23-libstd": "1.23.6-1.1",
+						"go1.23-race": "1.23.6-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/L7UGHSZ63TOLAKUNNNI4C3UFVJH4QNCX/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-22866"
+		}
+	]
+}
