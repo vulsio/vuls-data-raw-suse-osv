@@ -1,0 +1,56 @@
+{
+	"id": "openSUSE-SU-2025:14765-1",
+	"modified": "2025-02-11T00:00:00Z",
+	"published": "2025-02-11T00:00:00Z",
+	"related": [
+		"CVE-2025-24970",
+		"CVE-2025-25193"
+	],
+	"summary": "netty-4.1.118-1.1 on GA media",
+	"details": "These are all security issues fixed in the netty-4.1.118-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "netty",
+				"purl": "pkg:rpm/opensuse/netty&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.1.118-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"netty": "4.1.118-1.1",
+						"netty-bom": "4.1.118-1.1",
+						"netty-javadoc": "4.1.118-1.1",
+						"netty-parent": "4.1.118-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-24970"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-25193"
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"id": "openSUSE-SU-2025:14764-1",
+	"modified": "2025-02-11T00:00:00Z",
+	"published": "2025-02-11T00:00:00Z",
+	"related": [
+		"CVE-2025-0237",
+		"CVE-2025-0239",
+		"CVE-2025-0243",
+		"CVE-2025-1009",
+		"CVE-2025-1011",
+		"CVE-2025-1014"
+	],
+	"summary": "libmozjs-128-0-128.7.0-1.1 on GA media",
+	"details": "These are all security issues fixed in the libmozjs-128-0-128.7.0-1.1 package on the GA media of openSUSE Tumbleweed.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "openSUSE:Tumbleweed",
+				"name": "mozjs128",
+				"purl": "pkg:rpm/opensuse/mozjs128&distro=openSUSE%20Tumbleweed"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "128.7.0-1.1"
+						}
+					]
+				}
+			],
+			"ecosystem_specific": {
+				"binaries": [
+					{
+						"libmozjs-128-0": "128.7.0-1.1",
+						"mozjs128": "128.7.0-1.1",
+						"mozjs128-devel": "128.7.0-1.1"
+					}
+				]
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0237"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0239"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-0243"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-1009"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-1011"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.suse.com/security/cve/CVE-2025-1014"
+		}
+	]
+}
